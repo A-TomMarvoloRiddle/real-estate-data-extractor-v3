@@ -1,0 +1,92 @@
+RegionID,SizeRank,CityName,StateName,NewListings,MedianPrice,ZipCode,Metro,CountyName,ZHVI_latest
+394913,1,New York,NY,12890.0,742962.0,10014,"New York-Newark-Jersey City, NY-NJ-PA",New York County,5971368.39
+394913,1,New York,NY,12890.0,742962.0,10065,"New York-Newark-Jersey City, NY-NJ-PA",New York County,5785823.69
+394913,1,New York,NY,12890.0,742962.0,10012,"New York-Newark-Jersey City, NY-NJ-PA",New York County,4429666.83
+394913,1,New York,NY,12890.0,742962.0,10021,"New York-Newark-Jersey City, NY-NJ-PA",New York County,4223708.61
+394913,1,New York,NY,12890.0,742962.0,10011,"New York-Newark-Jersey City, NY-NJ-PA",New York County,4159056.1
+394913,1,New York,NY,12890.0,742962.0,11201,"New York-Newark-Jersey City, NY-NJ-PA",Kings County,3373290.66
+394913,1,New York,NY,12890.0,742962.0,10003,"New York-Newark-Jersey City, NY-NJ-PA",New York County,3184823.81
+394913,1,New York,NY,12890.0,742962.0,10024,"New York-Newark-Jersey City, NY-NJ-PA",New York County,3000307.98
+394913,1,New York,NY,12890.0,742962.0,11217,"New York-Newark-Jersey City, NY-NJ-PA",Kings County,2996245.34
+394913,1,New York,NY,12890.0,742962.0,10075,"New York-Newark-Jersey City, NY-NJ-PA",New York County,2927438.54
+753899,2,Los Angeles,CA,7650.0,1056333.0,90049,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,3664507.57
+753899,2,Los Angeles,CA,7650.0,1056333.0,90020,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,3615062.66
+753899,2,Los Angeles,CA,7650.0,1056333.0,90272,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,3497872.6
+753899,2,Los Angeles,CA,7650.0,1056333.0,90077,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,3042007.17
+753899,2,Los Angeles,CA,7650.0,1056333.0,90024,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,2840167.05
+753899,2,Los Angeles,CA,7650.0,1056333.0,90094,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,2333086.26
+753899,2,Los Angeles,CA,7650.0,1056333.0,91436,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,2221548.91
+753899,2,Los Angeles,CA,7650.0,1056333.0,90048,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,1989252.0
+753899,2,Los Angeles,CA,7650.0,1056333.0,91604,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,1943911.27
+753899,2,Los Angeles,CA,7650.0,1056333.0,90291,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County,1943048.71
+394463,3,Chicago,IL,9625.0,351633.0,60614,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,1256229.22
+394463,3,Chicago,IL,9625.0,351633.0,60613,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,1045780.07
+394463,3,Chicago,IL,9625.0,351633.0,60657,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,1021844.06
+394463,3,Chicago,IL,9625.0,351633.0,60654,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,987729.51
+394463,3,Chicago,IL,9625.0,351633.0,60622,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,916345.92
+394463,3,Chicago,IL,9625.0,351633.0,60640,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,838234.47
+394463,3,Chicago,IL,9625.0,351633.0,60610,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,784405.87
+394463,3,Chicago,IL,9625.0,351633.0,60647,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,732276.6
+394463,3,Chicago,IL,9625.0,351633.0,60607,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,725756.46
+394463,3,Chicago,IL,9625.0,351633.0,60642,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County,691572.05
+394514,4,Dallas,TX,9345.0,432633.0,75230,"Dallas-Fort Worth-Arlington, TX",Dallas County,1280720.29
+394514,4,Dallas,TX,9345.0,432633.0,75209,"Dallas-Fort Worth-Arlington, TX",Dallas County,1140478.94
+394514,4,Dallas,TX,9345.0,432633.0,75254,"Dallas-Fort Worth-Arlington, TX",Dallas County,890106.92
+394514,4,Dallas,TX,9345.0,432633.0,75214,"Dallas-Fort Worth-Arlington, TX",Dallas County,832008.53
+394514,4,Dallas,TX,9345.0,432633.0,75201,"Dallas-Fort Worth-Arlington, TX",Dallas County,733907.66
+394514,4,Dallas,TX,9345.0,432633.0,75244,"Dallas-Fort Worth-Arlington, TX",Dallas County,724014.15
+394514,4,Dallas,TX,9345.0,432633.0,75206,"Dallas-Fort Worth-Arlington, TX",Dallas County,709259.91
+394514,4,Dallas,TX,9345.0,432633.0,75229,"Dallas-Fort Worth-Arlington, TX",Dallas County,704052.0
+394514,4,Dallas,TX,9345.0,432633.0,75248,"Dallas-Fort Worth-Arlington, TX",Dallas County,666462.16
+394514,4,Dallas,TX,9345.0,432633.0,75231,"Dallas-Fort Worth-Arlington, TX",Dallas County,662590.45
+394692,5,Houston,TX,8413.0,363633.0,77005,"Houston-The Woodlands-Sugar Land, TX",Harris County,1657159.66
+394692,5,Houston,TX,8413.0,363633.0,77024,"Houston-The Woodlands-Sugar Land, TX",Harris County,1655701.46
+394692,5,Houston,TX,8413.0,363633.0,77027,"Houston-The Woodlands-Sugar Land, TX",Harris County,1084678.79
+394692,5,Houston,TX,8413.0,363633.0,77056,"Houston-The Woodlands-Sugar Land, TX",Harris County,1038575.53
+394692,5,Houston,TX,8413.0,363633.0,77030,"Houston-The Woodlands-Sugar Land, TX",Harris County,931652.2
+394692,5,Houston,TX,8413.0,363633.0,77019,"Houston-The Woodlands-Sugar Land, TX",Harris County,764906.35
+394692,5,Houston,TX,8413.0,363633.0,77079,"Houston-The Woodlands-Sugar Land, TX",Harris County,761458.23
+394692,5,Houston,TX,8413.0,363633.0,77098,"Houston-The Woodlands-Sugar Land, TX",Harris County,748698.72
+394692,5,Houston,TX,8413.0,363633.0,77055,"Houston-The Woodlands-Sugar Land, TX",Harris County,657394.52
+394692,5,Houston,TX,8413.0,363633.0,77006,"Houston-The Woodlands-Sugar Land, TX",Harris County,619689.53
+395209,6,Washington,VA,6270.0,583300.0,22747,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Rappahannock County,655993.68
+394974,7,Philadelphia,PA,5992.0,368000.0,19118,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,847103.18
+394974,7,Philadelphia,PA,5992.0,368000.0,19102,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,836495.96
+394974,7,Philadelphia,PA,5992.0,368000.0,19103,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,797329.12
+394974,7,Philadelphia,PA,5992.0,368000.0,19106,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,648702.85
+394974,7,Philadelphia,PA,5992.0,368000.0,19107,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,535058.84
+394974,7,Philadelphia,PA,5992.0,368000.0,19123,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,517630.11
+394974,7,Philadelphia,PA,5992.0,368000.0,19130,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,498041.38
+394974,7,Philadelphia,PA,5992.0,368000.0,19147,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,481240.82
+394974,7,Philadelphia,PA,5992.0,368000.0,19115,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,407281.52
+394974,7,Philadelphia,PA,5992.0,368000.0,19116,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia County,398119.27
+394856,8,Miami,FL,8752.0,486000.0,33143,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1616757.04
+394856,8,Miami,FL,8752.0,486000.0,33122,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1601218.11
+394856,8,Miami,FL,8752.0,486000.0,33133,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1493958.83
+394856,8,Miami,FL,8752.0,486000.0,33129,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1228209.52
+394856,8,Miami,FL,8752.0,486000.0,33137,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1208203.77
+394856,8,Miami,FL,8752.0,486000.0,33138,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,1117527.06
+394856,8,Miami,FL,8752.0,486000.0,33176,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,877201.88
+394856,8,Miami,FL,8752.0,486000.0,33145,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,815224.12
+394856,8,Miami,FL,8752.0,486000.0,33155,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,724344.18
+394856,8,Miami,FL,8752.0,486000.0,33187,"Miami-Fort Lauderdale-Pompano Beach, FL",Miami-Dade County,720397.75
+394347,9,Atlanta,GA,7929.0,399633.0,30327,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,1641861.61
+394347,9,Atlanta,GA,7929.0,399633.0,30305,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,1200340.47
+394347,9,Atlanta,GA,7929.0,399633.0,30306,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,1057463.46
+394347,9,Atlanta,GA,7929.0,399633.0,30309,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,926187.07
+394347,9,Atlanta,GA,7929.0,399633.0,30307,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,797654.27
+394347,9,Atlanta,GA,7929.0,399633.0,30324,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,683815.55
+394347,9,Atlanta,GA,7929.0,399633.0,30308,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,670614.34
+394347,9,Atlanta,GA,7929.0,399633.0,30345,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,644104.46
+394347,9,Atlanta,GA,7929.0,399633.0,30326,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,621680.24
+394347,9,Atlanta,GA,7929.0,399633.0,30329,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,578551.37
+394404,10,Boston,MA,4328.0,775965.0,2108,"Boston-Cambridge-Newton, MA-NH",Suffolk County,3702873.87
+394404,10,Boston,MA,4328.0,775965.0,2116,"Boston-Cambridge-Newton, MA-NH",Suffolk County,1532417.86
+394404,10,Boston,MA,4328.0,775965.0,2129,"Boston-Cambridge-Newton, MA-NH",Suffolk County,1342846.74
+394404,10,Boston,MA,4328.0,775965.0,2130,"Boston-Cambridge-Newton, MA-NH",Suffolk County,1130052.79
+394404,10,Boston,MA,4328.0,775965.0,2120,"Boston-Cambridge-Newton, MA-NH",Suffolk County,1049683.6
+394404,10,Boston,MA,4328.0,775965.0,2127,"Boston-Cambridge-Newton, MA-NH",Suffolk County,1040188.9
+394404,10,Boston,MA,4328.0,775965.0,2134,"Boston-Cambridge-Newton, MA-NH",Suffolk County,862013.6
+394404,10,Boston,MA,4328.0,775965.0,2132,"Boston-Cambridge-Newton, MA-NH",Suffolk County,854738.21
+394404,10,Boston,MA,4328.0,775965.0,2135,"Boston-Cambridge-Newton, MA-NH",Suffolk County,832029.53
+394404,10,Boston,MA,4328.0,775965.0,2115,"Boston-Cambridge-Newton, MA-NH",Suffolk County,816251.61
