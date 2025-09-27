@@ -31,7 +31,9 @@
         "10075",
         "11201",
         "11217"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/new-york-NY/",
+      "redfin_url": "https://www.redfin.com/city/30749/NY/New-York"
     },
     {
       "city": "Los Angeles",
@@ -47,7 +49,9 @@
         "90291",
         "91436",
         "91604"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/los-angeles-CA/",
+      "redfin_url": "https://www.redfin.com/city/11203/CA/Los-Angeles"
     },
     {
       "city": "Chicago",
@@ -63,7 +67,9 @@
         "60647",
         "60654",
         "60657"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/chicago-IL/",
+      "redfin_url": "https://www.redfin.com/city/29470/IL/Chicago"
     },
     {
       "city": "Dallas",
@@ -79,7 +85,9 @@
         "75244",
         "75248",
         "75254"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/dallas-TX/",
+      "redfin_url": "https://www.redfin.com/city/30830/TX/Dallas"
     },
     {
       "city": "Houston",
@@ -95,14 +103,18 @@
         "77056",
         "77079",
         "77098"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/houston-TX/",
+      "redfin_url": "https://www.redfin.com/city/30730/TX/Houston"
     },
     {
       "city": "Washington",
       "state": "VA",
       "zips": [
         "22747"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/washington-VA/",
+      "redfin_url": "https://www.redfin.com/zipcode/22747"
     },
     {
       "city": "Philadelphia",
@@ -118,7 +130,9 @@
         "19123",
         "19130",
         "19147"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/philadelphia-PA/",
+      "redfin_url": "https://www.redfin.com/city/30086/PA/Philadelphia"
     },
     {
       "city": "Miami",
@@ -134,7 +148,9 @@
         "33155",
         "33176",
         "33187"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/miami-FL/",
+      "redfin_url": "https://www.redfin.com/city/16438/FL/Miami"
     },
     {
       "city": "Atlanta",
@@ -150,7 +166,9 @@
         "30327",
         "30329",
         "30345"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/atlanta-GA/",
+      "redfin_url": "https://www.redfin.com/city/11585/GA/Atlanta"
     },
     {
       "city": "Boston",
@@ -166,7 +184,9 @@
         "02132",
         "02134",
         "02135"
-      ]
+      ],
+      "zillow_url": "https://www.zillow.com/boston-MA/",
+      "redfin_url": "https://www.redfin.com/city/30772/MA/Boston"
     }
   ],
   "city_stats": [
