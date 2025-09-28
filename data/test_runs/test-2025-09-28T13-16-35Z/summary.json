@@ -1,0 +1,10 @@
+{
+  "properties": 2,
+  "listings": 2,
+  "media": 10,
+  "price_history": 0,
+  "urls_tested": [
+    "https://www.zillow.com/homedetails/113-E-19th-St-New-York-NY-10003/31506434_zpid/)",
+    "https://www.zillow.com/homedetails/135-E-19th-St-New-York-NY-10003/31506443_zpid/)"
+  ]
+}

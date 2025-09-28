@@ -1,68 +1,99 @@
-# src/settings.py
-# Purpose: Centralized settings & helpers (load config, paths, headers, timestamps).
-
+# settings.py
 from __future__ import annotations
-import json
-import datetime
 import os
+import json
 from pathlib import Path
-from typing import Dict, Any, Tuple
+from datetime import datetime, timezone
+from typing import Any, Dict, Optional
 
-# ---------- config loading ----------
-def get_project_root() -> Path:
+# -------- paths --------
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data"
+CONFIG_DIR = PROJECT_ROOT / "config"
+ENV_PATH = PROJECT_ROOT / ".env"
+
+# -------- tiny .env loader (no external deps) --------
+
+def _load_dotenv(path: Path) -> None:
+    """
+    Minimal dotenv loader: reads KEY=VALUE pairs (ignores comments/empty lines).
+    Only sets keys that are not already present in os.environ.
+    """
+    if not path.exists():
+        return
     try:
-        if "get_ipython" in globals():
-            return Path(os.getcwd()).parent
-        else:
-            return Path(__file__).resolve().parent.parent
-    except NameError:
-        return Path(os.getcwd()).parent
-PROJECT_ROOT = get_project_root()
-CONFIG_PATH = PROJECT_ROOT / "config" / "listings_config.json"
-def load_config() -> Dict[str, Any]:
-    if not CONFIG_PATH.exists():
-        raise FileNotFoundError(f"Config not found at {CONFIG_PATH}")
-    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+        for line in path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if "=" not in line:
+                continue
+            key, val = line.split("=", 1)
+            key = key.strip()
+            # strip optional quotes
+            v = val.strip().strip('"').strip("'")
+            if key and key not in os.environ:
+                os.environ[key] = v
+    except Exception:
+        # fail silently; we still allow env vars coming from the OS
+        pass
 
-CFG = load_config()
+# load .env at import time
+_load_dotenv(ENV_PATH)
 
-# ---------- runtime knobs ----------
-REQUEST_TIMEOUT_SEC: int = int(CFG["run"].get("request_timeout_sec", 30))
-SLEEP_RANGE_SEC: Tuple[float, float] = tuple(CFG["run"].get("sleep_range_sec", [1.2, 2.8]))  # (min, max)
-USER_AGENT: str = CFG["run"].get("user_agent", "Mozilla/5.0")
+# -------- defaults --------
 
-# ---------- time helpers ----------
+REQUEST_TIMEOUT_SEC = int(os.getenv("REQUEST_TIMEOUT_SEC") or 30)
+# (lo, hi) jitter range in seconds
+SLEEP_RANGE_SEC = (
+    float((os.getenv("SLEEP_LO") or 1.2)),
+    float((os.getenv("SLEEP_HI") or 2.8)),
+)
+
+default_headers = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0 Safari/537.36"
+    )
+}
+
+# -------- helpers --------
+
 def now_utc_iso() -> str:
-    """Return current UTC timestamp as ISO-8601 with Z suffix."""
-    return datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def today_ymd() -> str:
-    """Return current UTC date as YYYY-MM-DD."""
-    return datetime.datetime.utcnow().strftime("%Y-%m-%d")
 
-# ---------- batch folders ----------
-def make_batch_dirs(batch_id: str) -> Dict[str, Path]:
-    """
-    Create and return batch directory paths.
-    Returns dict: {'base','raw','structured','qa'}
-    """
-    base = PROJECT_ROOT / "data" / "batches" / batch_id
-    raw = base / "raw"
-    structured = base / "structured"
-    qa = base / "qa"
-    for p in (raw, structured, qa):
-        p.mkdir(parents=True, exist_ok=True)
-    return {"base": base, "raw": raw, "structured": structured, "qa": qa}
+def make_batch_dirs(base: Path) -> None:
+    (base / "raw").mkdir(parents=True, exist_ok=True)
 
-# ---------- HTTP headers ----------
-def default_headers() -> Dict[str, str]:
+
+def load_listings_config() -> Dict[str, Any]:
+    cfg_path = CONFIG_DIR / "listings_config.json"
+    if not cfg_path.exists():
+        raise FileNotFoundError(f"Missing config file: {cfg_path}")
+    with open(cfg_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def get_firecrawl_api_key() -> Optional[str]:
     """
-    Build polite default headers for GET requests.
+    Primary source: environment (possibly loaded from .env).
+    Fallback: 'secrets.firecrawl_api_key' in config/listings_config.json if present.
     """
-    return {
-        "User-Agent": USER_AGENT,
-        "Accept-Language": "en-US,en;q=0.9",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache",
-        "DNT": "1",
-    }
+    key = os.getenv("FIRECRAWL_API_KEY")
+    if key:
+        return key
+    try:
+        cfg = load_listings_config()
+        secrets = cfg.get("secrets") or {}
+        if isinstance(secrets, dict):
+            alt = secrets.get("firecrawl_api_key")
+            if alt:
+                # also export to process env for consistency
+                os.environ["FIRECRAWL_API_KEY"] = str(alt)
+                return str(alt)
+    except Exception:
+        pass
+    return None
