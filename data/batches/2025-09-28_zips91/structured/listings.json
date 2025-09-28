@@ -1,0 +1,36 @@
+[
+  {
+    "listing_id": "497785265595b212255decad8a8a062dad155dc7",
+    "property_id": "497785265595b212255decad8a8a062dad155dc7",
+    "batch_id": "2025-09-28_zips91",
+    "source_id": "2faf8957-8bc8-43ea-b908-4550bf7c160e",
+    "source_url": "https://www.zillow.com/homedetails/20-Tarleton-Rd-West-Roxbury-MA-02132/59158767_zpid/",
+    "crawl_method": "firecrawl_v1",
+    "scraped_timestamp": "2025-09-28T15:55:02.877Z",
+    "list_date": "",
+    "days_on_market": 19,
+    "description": "This traditional Colonial-style single-family home, built in 1992, is move in ready featuring hardwood floors, granite countertops, and central AC. While it’s ready to enjoy, as is, it also offers incredible potential with a bit of TLC, can transform it into something truly special. Offering over 1,800 square feet of living space, the home features 4 spacious bedrooms and 2.5 bathrooms, an unfinished large basement that can be turned into additional living space or an ADU, all set on a generous lot with ample parking and a private backyard full of potential. Just minutes from Centre Streets stores and restaurants as well as both the Lyndon K-8 and Kilmer K-8 Schools. Commuters will love the convenience of the Needham Line at West Roxbury Station right nearby - making trips to downtown Boston a breeze. Don't miss the chance to bring your vision to life in one of West Roxbury’s most desirable neighborhoods!",
+    "listing_type": "for sale",
+    "status": "active",
+    "title": null,
+    "list_price": 699000,
+    "price_per_sqft": 375.2012882447665
+  },
+  {
+    "listing_id": "550c84d4b85be754d836a83b8ae96e18e1b13fb8",
+    "property_id": "550c84d4b85be754d836a83b8ae96e18e1b13fb8",
+    "batch_id": "2025-09-28_zips91",
+    "source_id": "804eec8a-80d1-455c-9803-a41bd97a5714",
+    "source_url": "https://www.zillow.com/homedetails/107-Stimson-St-West-Roxbury-MA-02132/59161200_zpid/",
+    "crawl_method": "firecrawl_v1",
+    "scraped_timestamp": "2025-09-28T15:55:35.924Z",
+    "list_date": "2025-09-24",
+    "days_on_market": 4,
+    "description": "Charming and move-in ready, this updated Cape in the heart of West Roxbury offers 3 bedrooms, 2 full baths, and versatile living space indoors and out. A flexible floor plan includes a first-floor bedroom and full bath—perfect for guests or convenient one-level living—while two additional bedrooms and a second bath complete the upper level. The stylish kitchen features white shaker cabinetry, granite countertops, stainless steel appliances, and a generous breakfast bar. Step outside to a fenced backyard with two levels of outdoor living, ideal for entertaining, gardening, or simply relaxing. The finished lower level adds two bonus rooms for a home office, playroom, or guest space, along with plenty of storage. Additional highlights include modern light fixtures, tasteful updates throughout, and two off-street parking spaces. Now vacant! With shops, restaurants, parks, and public transit just minutes away, this home offers the perfect blend of comfort, convenience, and classic charm.",
+    "listing_type": "for sale",
+    "status": "active",
+    "title": null,
+    "list_price": 749000,
+    "price_per_sqft": 440.5882352941176
+  }
+]

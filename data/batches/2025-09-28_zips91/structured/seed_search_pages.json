@@ -1,0 +1,1468 @@
+{
+  "batch_id": "2025-09-28_zips91",
+  "generated_at": "2025-09-28T15:54:42Z",
+  "counts": {
+    "zip_total": 91,
+    "search_pages_total": 182,
+    "detail_pages_total": 0
+  },
+  "search_pages": [
+    {
+      "source_id": "redfin",
+      "zip": "10003",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10003"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10003",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10003_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10011",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10011"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10011",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10011_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10012",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10012"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10012",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10012_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10014",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10014"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10014",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10014_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10021",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10021"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10021",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10021_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10024",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10024"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10024",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10024_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10065",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10065"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10065",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10065_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "10075",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/10075"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "10075",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/10075_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "11201",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/11201"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "11201",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/11201_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "11217",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/11217"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "11217",
+      "city": "New York",
+      "state": "NY",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/11217_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90020",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90020"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90020",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90020_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90024",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90024"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90024",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90024_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90048",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90048"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90048",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90048_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90049",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90049"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90049",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90049_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90077",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90077"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90077",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90077_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90094",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90094"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90094",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90094_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90272",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90272"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90272",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90272_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "90291",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/90291"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "90291",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/90291_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "91436",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/91436"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "91436",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/91436_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "91604",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/91604"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "91604",
+      "city": "Los Angeles",
+      "state": "CA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/91604_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60607",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60607"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60607",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60607_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60610",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60610"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60610",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60610_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60613",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60613"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60613",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60613_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60614",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60614"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60614",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60614_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60622",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60622"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60622",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60622_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60640",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60640"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60640",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60640_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60642",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60642"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60642",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60642_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60647",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60647"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60647",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60647_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60654",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60654"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60654",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60654_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "60657",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/60657"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "60657",
+      "city": "Chicago",
+      "state": "IL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/60657_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75201",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75201"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75201",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75201_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75206",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75206"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75206",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75206_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75209",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75209"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75209",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75209_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75214",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75214"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75214",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75214_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75229",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75229"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75229",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75229_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75230",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75230"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75230",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75230_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75231",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75231"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75231",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75231_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75244",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75244"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75244",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75244_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75248",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75248"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75248",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75248_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "75254",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/75254"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "75254",
+      "city": "Dallas",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/75254_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77005",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77005"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77005",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77005_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77006",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77006"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77006",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77006_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77019",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77019"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77019",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77019_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77024",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77024"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77024",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77024_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77027",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77027"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77027",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77027_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77030",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77030"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77030",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77030_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77055",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77055"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77055",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77055_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77056",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77056"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77056",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77056_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77079",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77079"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77079",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77079_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "77098",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/77098"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "77098",
+      "city": "Houston",
+      "state": "TX",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/77098_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "22747",
+      "city": "Washington",
+      "state": "VA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/22747"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "22747",
+      "city": "Washington",
+      "state": "VA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/22747_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19102",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19102"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19102",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19102_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19103",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19103"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19103",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19103_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19106",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19106"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19106",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19106_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19107",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19107"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19107",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19107_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19115",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19115"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19115",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19115_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19116",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19116"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19116",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19116_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19118",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19118"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19118",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19118_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19123",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19123"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19123",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19123_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19130",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19130"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19130",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19130_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "19147",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/19147"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "19147",
+      "city": "Philadelphia",
+      "state": "PA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/19147_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33122",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33122"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33122",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33122_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33129",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33129"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33129",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33129_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33133",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33133"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33133",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33133_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33137",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33137"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33137",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33137_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33138",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33138"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33138",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33138_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33143",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33143"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33143",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33143_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33145",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33145"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33145",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33145_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33155",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33155"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33155",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33155_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33176",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33176"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33176",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33176_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "33187",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/33187"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "33187",
+      "city": "Miami",
+      "state": "FL",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/33187_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30305",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30305"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30305",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30305_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30306",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30306"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30306",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30306_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30307",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30307"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30307",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30307_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30308",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30308"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30308",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30308_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30309",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30309"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30309",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30309_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30324",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30324"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30324",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30324_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30326",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30326"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30326",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30326_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30327",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30327"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30327",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30327_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30329",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30329"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30329",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30329_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "30345",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/30345"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "30345",
+      "city": "Atlanta",
+      "state": "GA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/30345_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02108",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02108"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02108",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02108_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02115",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02115"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02115",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02115_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02116",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02116"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02116",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02116_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02120",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02120"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02120",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02120_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02127",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02127"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02127",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02127_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02129",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02129"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02129",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02129_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02130",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02130"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02130",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02130_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02132",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02132"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02132",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02132_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02134",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02134"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02134",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02134_rb/"
+    },
+    {
+      "source_id": "redfin",
+      "zip": "02135",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.redfin.com/zip/02135"
+    },
+    {
+      "source_id": "zillow",
+      "zip": "02135",
+      "city": "Boston",
+      "state": "MA",
+      "crawl_method": "firecrawl_v1",
+      "url": "https://www.zillow.com/homes/02135_rb/"
+    }
+  ],
+  "detail_pages": []
+}

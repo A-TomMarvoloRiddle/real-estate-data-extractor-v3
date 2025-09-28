@@ -1,0 +1,23 @@
+{
+  "status": 404,
+  "final_url": "https://www.redfin.com/zip/33155",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 28 Sep 2025 15:40:53 GMT",
+    "Server": "nginx",
+    "X-Content-Type-Options": "nosniff, nosniff",
+    "X-Frame-Options": "SAMEORIGIN, sameorigin",
+    "X-Powered-By": "Express",
+    "Cache-Control": "max-age=0, no-cache, no-store, private",
+    "x-corvair-pool": "error-pages",
+    "Content-Encoding": "gzip",
+    "Set-Cookie": "RF_CORVAIR_LAST_VERSION=595.2.0; Max-Age=31536000; Path=/; Expires=Mon, 28 Sep 2026 15:40:53 GMT, RF_BROWSER_ID=PHXrZySMRHu9EbNqc8hjDQ; Max-Age=63072000; Domain=.redfin.com; Path=/; Expires=Tue, 28 Sep 2027 15:40:53 GMT; Secure; SameSite=None, RF_VISITED=false; Path=/, RF_BROWSER_ID=PHXrZySMRHu9EbNqc8hjDQ; Domain=.redfin.com; Expires=Tue, 28-Sep-2027 15:40:53 GMT; Path=/; SameSite=None; Secure, RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP=2025-09-28T08%3A40%3A53.281528; Domain=.redfin.com; Expires=Mon, 28-Sep-2026 15:40:53 GMT; Path=/; SameSite=None; Secure, RF_BID_UPDATED=1; Domain=.redfin.com; Expires=Sun, 12-Oct-2025 15:40:53 GMT; Path=/; SameSite=None; Secure",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 838638cb6a0be0c73846c274617a4122.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "FzFXZnSdHdFoezYUfyPx4lDZX0VOLjnRg5CbzoOy-dxr4kllfCF77g=="
+  }
+}

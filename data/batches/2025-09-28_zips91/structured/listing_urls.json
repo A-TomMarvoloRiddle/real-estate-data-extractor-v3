@@ -1,0 +1,151 @@
+{
+  "count": 18,
+  "batch_id": "2025-09-28_zips91",
+  "generated_at": "2025-09-28T15:41:02Z",
+  "urls": [
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/20-Tarleton-Rd-West-Roxbury-MA-02132/59158767_zpid/",
+      "external_property_id": "59158767",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/107-Stimson-St-West-Roxbury-MA-02132/59161200_zpid/",
+      "external_property_id": "59161200",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/37-Hastings-St-APT-103-West-Roxbury-MA-02132/59153378_zpid/",
+      "external_property_id": "59153378",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/72-Theodore-Parker-Rd-West-Roxbury-MA-02132/59154238_zpid/",
+      "external_property_id": "59154238",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/539-Lagrange-St-West-Roxbury-MA-02132/59157148_zpid/",
+      "external_property_id": "59157148",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/55-Cottage-Rd-Boston-MA-02132/59161316_zpid/",
+      "external_property_id": "59161316",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/141-Bellevue-St-West-Roxbury-MA-02132/59157364_zpid/",
+      "external_property_id": "59157364",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/79-Potomac-St-West-Roxbury-MA-02132/59157163_zpid/",
+      "external_property_id": "59157163",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/37-Pomfret-St-West-Roxbury-MA-02132/59155653_zpid/",
+      "external_property_id": "59155653",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/210-Locust-St-APT-29H-Philadelphia-PA-19106/456955380_zpid/",
+      "external_property_id": "456955380",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/113-N-Bread-St-APT-3D1-Philadelphia-PA-19106/449908569_zpid/",
+      "external_property_id": "449908569",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/639-Pine-St-Philadelphia-PA-19106/10196420_zpid/",
+      "external_property_id": "10196420",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/151-N-3rd-St-FLOOR-2-Philadelphia-PA-19106/456987791_zpid/",
+      "external_property_id": "456987791",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/318-S-4th-St-Philadelphia-PA-19106/10195981_zpid/",
+      "external_property_id": "10195981",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/38-N-Front-St-APT-1E-Philadelphia-PA-19106/90196434_zpid/",
+      "external_property_id": "90196434",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/50-N-Front-St-APT-101-Philadelphia-PA-19106/2078534255_zpid/",
+      "external_property_id": "2078534255",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/130-N-Bread-St-310-Philadelphia-PA-19106/2063229186_zpid/",
+      "external_property_id": "2063229186",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/333-S-6th-St-Philadelphia-PA-19106/10196070_zpid/",
+      "external_property_id": "10196070",
+      "batch_id": "2025-09-28_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-28T15:41:02Z"
+    }
+  ]
+}

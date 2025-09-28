@@ -1,0 +1,22 @@
+[
+  {
+    "location_id": "0661a77e3ae7e10d7b8e210495d3b043144de273",
+    "street_address": "20 Tarleton Rd",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "1db0545b8a3409cb5d14f68cb68bc427671abe5f",
+    "street_address": "107 Stimson St",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  }
+]

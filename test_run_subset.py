@@ -10,12 +10,12 @@ import argparse
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
-from src.firecrawl_client import Firecrawl
-from src.settings import load_config, TEST_DATA_ROOT, ensure_dir, get_api_key, new_batch_id
-from src.steps.search_links import collect_search_links_light
-from src.steps.fetch_details import fetch_and_parse_details
-from src.schemas import PropertiesFile, ListingsFile, MediaFile, PriceHistoryFile
-from src.utils import write_json
+from src7.firecrawl_client import Firecrawl
+from src7.settings import load_config, TEST_DATA_ROOT, ensure_dir, get_api_key, new_batch_id
+from src7.steps.search_links import collect_search_links_light
+from src7.steps.fetch_details import fetch_and_parse_details
+from src7.schemas import PropertiesFile, ListingsFile, MediaFile, PriceHistoryFile
+from src7.utils import write_json
 
 def main():
     ap = argparse.ArgumentParser()

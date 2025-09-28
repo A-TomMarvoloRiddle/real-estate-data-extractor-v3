@@ -1,146 +1,118 @@
-# pipeline.py
+# src/pipeline.py
+# Purpose: Orchestrate detail fetching and parsing using the existing modules.
+# Updated for new schema: source_id (not platform_id), JSON arrays instead of JSONL, include batch_id/crawl_method.
+
 from __future__ import annotations
-
+import argparse
 import json
-import logging
 from pathlib import Path
-from typing import Dict, List, Tuple
-from datetime import datetime
+from typing import List, Optional
+from collections import defaultdict
 
-from .settings import DATA_DIR, load_listings_config, now_utc_iso
-from .utils import write_json, ensure_dir, jitter_sleep
-from .firecrawl_client import Firecrawl
-from .steps.search_links import collect_detail_urls_for_config
-from .steps.fetch_details import fetch_and_parse_details
+from src.fetch import fetch_detail_pages
+from src.parse_detail import parse_all_details, to_adapted_rows
+from src.settings import now_utc_iso
+from src.settings import PROJECT_ROOT
 
-log = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
 
+def latest_batch() -> Path:
+    if not BATCHES_ROOT.exists():
+        raise RuntimeError("No batches folder found. Run: python -m src.batch")
+    candidates = [p for p in BATCHES_ROOT.iterdir() if p.is_dir()]
+    if not candidates:
+        raise RuntimeError("No batch directories found. Run: python -m src.batch")
+    return max(candidates, key=lambda p: p.stat().st_mtime)
 
-def _new_batch_root() -> Path:
-    ts = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
-    root = Path(DATA_DIR) / "batches" / f"batch-{ts}"
-    root.mkdir(parents=True, exist_ok=True)
-    (root / "raw").mkdir(parents=True, exist_ok=True)
-    return root
+def load_listing_urls(batch_dir: Path) -> List[str]:
+    lu_path = batch_dir / "structured" / "listing_urls.json"
+    if not lu_path.exists():
+        raise FileNotFoundError(
+            "structured/listing_urls.json not found. "
+            "Run: python -m src.fetch  then  python -m src.extract_search"
+        )
+    payload = json.loads(lu_path.read_text(encoding="utf-8"))
+    urls = payload.get("urls", [])
+    out: List[str] = []
+    for row in urls:
+        if isinstance(row, dict):
+            url = row.get("source_url")
+        else:
+            url = str(row)
+        if url:
+            out.append(url)
+    if not out:
+        raise RuntimeError("No detail URLs inside listing_urls.json")
+    return out
 
+def next_detail_index(raw_dir: Path) -> int:
+    """Return the next index for detail files (start at 1001)."""
+    existing = sorted(raw_dir.glob("1???_raw.html"))
+    if not existing:
+        return 1001
+    last = max(int(p.name[:4]) for p in existing)
+    return last + 1
 
-def _write_tables(
-    batch_root: Path,
-    properties: Dict[str, dict],
-    listings: List[dict],
-    media_rows: List[dict],
-    price_history: List[dict],
-) -> None:
-    # properties.json as an array of objects
-    props_arr = list(properties.values())
-    write_json(batch_root / "properties.json", props_arr)
-    write_json(batch_root / "listings.json", listings)
-    write_json(batch_root / "media.json", media_rows)
-    write_json(batch_root / "price_history.json", price_history)
+def fetch_details(n: int, batch_id: Optional[str] = None) -> None:
+    batch_dir = latest_batch() if batch_id is None else (BATCHES_ROOT / batch_id)
+    raw_dir = batch_dir / "raw"
+    urls = load_listing_urls(batch_dir)
 
+    start_idx = next_detail_index(raw_dir)
+    subset = urls[:n]
+    print(f"Batch: {batch_dir.name}")
+    print(f"Fetching {len(subset)} details starting at idx {start_idx} ...")
+    fetch_detail_pages(subset, batch_id=batch_dir.name, start_idx=start_idx)
+    print("✅ fetch-details done at", now_utc_iso())
 
-def _maybe_read_list(path: Path) -> List[dict]:
-    if not path.exists():
-        return []
-    try:
-        return json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
-        return []
+def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw") -> None:
+    batch_dir = latest_batch() if batch_id is None else (BATCHES_ROOT / batch_id)
+    print(f"Batch: {batch_dir.name}")
 
+    if mode == "raw":
+        parse_all_details(batch_id=batch_dir.name, limit=limit)
+    else:
+        struct = batch_dir / "structured"
+        buckets = defaultdict(list)
+        # مرّ على كل ملفات 1***.json التي يولدها parse_detail
+        for p in sorted(struct.glob("1???*.json")):
+            rec = json.loads(p.read_text(encoding="utf-8"))
+            rows = to_adapted_rows(rec)
+            for tbl, arr in rows.items():
+                buckets[tbl].extend(arr)
+        # اكتب JSON (array) بدل JSONL
+        for tbl, arr in buckets.items():
+            out = struct / f"{tbl}.json"
+            with out.open("w", encoding="utf-8") as f:
+                json.dump(arr, f, ensure_ascii=False, indent=2)
+        print("✅ wrote adapted JSON files in", struct)
 
-def _maybe_read_rejects_count(path: Path) -> int:
-    if not path.exists():
-        return 0
-    try:
-        obj = json.loads(path.read_text(encoding="utf-8"))
-        if isinstance(obj, dict) and "count" in obj:
-            return int(obj.get("count") or 0)
-        if isinstance(obj, list):
-            return len(obj)
-    except Exception:
-        pass
-    return 0
+    print("✅ parse-details done at", now_utc_iso())
 
+def main():
+    ap = argparse.ArgumentParser()
+    sub = ap.add_subparsers(dest="cmd", required=True)
 
-def _write_summary(
-    batch_root: Path,
-    properties: Dict[str, dict],
-    listings: List[dict],
-    media_rows: List[dict],
-    price_history: List[dict],
-) -> None:
-    # counts from in-memory
-    props_count = len(properties)
-    listings_count = len(listings)
-    media_count = len(media_rows)
-    price_hist_count = len(price_history)
+    s1 = sub.add_parser("fetch-details", help="Fetch N detail pages into the latest batch")
+    s1.add_argument("--n", type=int, default=10)
 
-    # optional tables (written by fetch_details.py if present)
-    agents = _maybe_read_list(batch_root / "agents.json")
-    monthly = _maybe_read_list(batch_root / "monthly_costs.json")
+    s2 = sub.add_parser("parse-details", help="Parse up to LIMIT detail pages in the latest batch")
+    s2.add_argument("--limit", type=int, default=10)
+    s2.add_argument("--mode", choices=["raw", "adapted"], default="raw")
 
-    # qa rejects (object with count or list)
-    rejects_count = _maybe_read_rejects_count(batch_root / "qa_rejects.json")
+    s3 = sub.add_parser("run", help="Fetch N detail pages then parse them")
+    s3.add_argument("--n", type=int, default=10)
 
-    summary = {
-        "properties": props_count,
-        "listings": listings_count,
-        "media": media_count,
-        "price_history": price_hist_count,
-        # NEW: extended counts per Debayan schema extras
-        "agents": len(agents),
-        "monthly_costs": len(monthly),
-        "qa_rejects": rejects_count,
-        "generated_at": now_utc_iso(),
-        "files": {
-            "properties": "properties.json",
-            "listings": "listings.json",
-            "media": "media.json",
-            "price_history": "price_history.json",
-            "agents": "agents.json" if agents else None,
-            "monthly_costs": "monthly_costs.json" if monthly else None,
-            "qa_rejects": "qa_rejects.json" if rejects_count else None,
-        },
-    }
-    write_json(batch_root / "summary.json", summary)
-
-
-def run_pipeline() -> Path:
-    # 1) Load config
-    cfg = load_listings_config()
-    sleep_range: Tuple[float, float] = tuple(cfg.get("run", {}).get("sleep_range_sec", [1.2, 2.8]))  # type: ignore
-    crawl_method = cfg.get("crawl_method") or "firecrawl_v1"
-
-    # 2) Prepare batch directory
-    batch_root = _new_batch_root()
-    log.info(f"[pipeline] batch dir: {batch_root}")
-
-    # 3) Collect detail URLs (search step)
-    fc = Firecrawl()
-    detail_urls = collect_detail_urls_for_config(fc, cfg, batch_root)
-    write_json(batch_root / "detail_urls.json", detail_urls)
-    log.info(f"[pipeline] collected {len(detail_urls)} detail urls")
-
-    # 4) Fetch + parse detail pages
-    properties, listings, media_rows, price_history = fetch_and_parse_details(
-        fc=fc,
-        detail_urls=detail_urls,
-        batch_root=batch_root,
-        crawl_method=crawl_method,
-        sleep_range=sleep_range,  # jitter already inside
-        start_listing_id=1000,
-    )
-
-    # 5) Write tables
-    _write_tables(batch_root, properties, listings, media_rows, price_history)
-
-    # 6) Summary (now includes agents & monthly_costs if present)
-    _write_summary(batch_root, properties, listings, media_rows, price_history)
-
-    log.info(f"[pipeline] done. batch={batch_root.name}")
-    return batch_root
-
+    args = ap.parse_args()
+    if args.cmd == "fetch-details":
+        fetch_details(args.n)
+    elif args.cmd == "parse-details":
+        parse_details(args.limit, mode=args.mode)
+    elif args.cmd == "run":
+        fetch_details(args.n)
+        parse_details(args.n)
+    else:
+        ap.print_help()
 
 if __name__ == "__main__":
-    run_pipeline()
+    main()
