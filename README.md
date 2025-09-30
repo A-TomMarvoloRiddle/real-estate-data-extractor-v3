@@ -86,16 +86,45 @@ Outputs are stored in `data/batches/{batch_id}/`:
 
 ---
 
-## 📑 Data Specification
+## 📑 Data Specification (Adapted)
 
-- **Identifiers**: listing_id, platform_id, source_url, batch_id, scraped_timestamp
-- **Address**: street, unit, city, state, postal_code
-- **Property Attributes**: beds, baths, interior_area_sqft, lot_sqft, year_built, condition
-- **Listing Info**: status, list_date, days_on_market, list_price, price_per_sqft
-- **Media**: photos, videos, floorplans
-- **Description**: textual content
-- **Market Signals**: views, saves, share_count
-- **Deduplication**: possible_duplicate, duplicate_candidates
+**Tables**
+- `listings.json`, `properties.json`, `media.json`, `agents.json`, `price_history.json`,
+  `engagement.json`, `financials.json`, `community_attributes.json`,
+  `similar_properties.json`, `locations.json`
+
+**Identifiers & Provenance**
+- `listing_id`, `property_id`, `batch_id`, `source_id` (`zillow|redfin`), `source_url`,
+  `crawl_method` (`requests|firecrawl_v1`), `scraped_timestamp`
+
+**Address / Location**
+- `street_address`, `unit_number`, `city`, `state`, `postal_code`,
+  `latitude`, `longitude`
+- (locations table) `location_id` is a stable hash of the address/coords
+
+**Property Attributes**
+- `beds`, `baths`, `interior_area_sqft`, `lot_size_sqft`, `year_built`,
+  `property_type`, `property_subtype`, `condition`, `features` (dict)
+
+**Listing Info**
+- `listing_type` (e.g., `sell`), `status`, `title`, `description`,
+  `list_date`, `days_on_market`, `list_price`, `price_per_sqft`
+
+**Media**
+- rows in `media.json`: `listing_id`, `media_url`, `media_type` (`image|video|floorplan`),
+  `display_order`, `is_primary`
+
+**Agents**
+- `agent_name`, `phone`, `brokerage`, `email`
+
+**Price History**
+- `event_date`, `event_type` (`listed|sold|price_change|…`), `price`, `notes`
+
+**Market Signals (Engagement)**
+- `views`, `saves`, `shares`
+
+**Deduplication**
+- Stable IDs via hashing; optional flags: `possible_duplicate`, `duplicate_candidates`
 
 See [`config/listings_config.json`](config/listings_config.json) for the full schema.
 
