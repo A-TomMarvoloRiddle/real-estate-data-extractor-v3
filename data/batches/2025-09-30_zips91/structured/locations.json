@@ -1,0 +1,32 @@
+[
+  {
+    "location_id": "343c5702623c3d7fd4bd10b05ff9cd6bc9937bee",
+    "street_address": "111 4th Ave",
+    "unit_number": "3I",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "a91d12eef03d175e4e18404e12d1cf76be6fb070",
+    "street_address": "88 E 3rd St",
+    "unit_number": "18",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "18347b7a89af03deef5a6063653db42389871f55",
+    "street_address": "60 E 8th St",
+    "unit_number": "31A",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  }
+]

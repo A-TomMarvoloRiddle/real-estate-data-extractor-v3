@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/141-Bellevue-St-West-Roxbury-MA-02132/59157364_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:15:26 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241c74c9be-249c-4623-820d-3be24a230593; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:15:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|33cd13ae-abec-4148-b21f-f1814c786851; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"60209-ALy5jgSFhpcUJH/+ZtI+aJwe2Ck\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "IJCgLIeRG0JwmK9I4r0mbVXzmGK0pv5-SP3KW-4uD5B6o_NvOZYBKw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

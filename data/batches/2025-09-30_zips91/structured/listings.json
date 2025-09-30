@@ -1,0 +1,50 @@
+[
+  {
+    "listing_id": "d9c47a9430c95c0df81bc6bc760c42b2",
+    "property_id": "11227af67eb526593e3408c6cd2b6739",
+    "batch_id": "2025-09-30_zips91",
+    "source_id": "redfin",
+    "source_url": "https://www.redfin.com/NY/New-York/111-4th-Ave-10003/unit-3I/home/45142411",
+    "crawl_method": "firecrawl_v1",
+    "scraped_timestamp": "2025-09-30T15:22:47Z",
+    "listing_type": "sell",
+    "status": "ok",
+    "title": "Around this home",
+    "description": null,
+    "list_price": 1550000,
+    "price_per_sqft": null,
+    "images_count": 15
+  },
+  {
+    "listing_id": "93302fb8910e7ca885eadbd9b914a1ca",
+    "property_id": "82d66e668df398fd80565992fc2c92bd",
+    "batch_id": "2025-09-30_zips91",
+    "source_id": "redfin",
+    "source_url": "https://www.redfin.com/NY/New-York/88-E-3rd-St-10003/unit-18/home/53324859",
+    "crawl_method": "firecrawl_v1",
+    "scraped_timestamp": "2025-09-30T15:22:47Z",
+    "listing_type": "sell",
+    "status": "ok",
+    "title": "Around this home",
+    "description": null,
+    "list_price": 475000,
+    "price_per_sqft": 2553.7634408602153,
+    "images_count": 13
+  },
+  {
+    "listing_id": "8ea06b4d64ffff79dfd5a5c4952faf41",
+    "property_id": "cab83dc3c9093e34d6b58f394bc48c13",
+    "batch_id": "2025-09-30_zips91",
+    "source_id": "redfin",
+    "source_url": "https://www.redfin.com/NY/New-York/60-E-8th-St-10003/unit-31A/home/148704388",
+    "crawl_method": "firecrawl_v1",
+    "scraped_timestamp": "2025-09-30T15:22:47Z",
+    "listing_type": "sell",
+    "status": "ok",
+    "title": "Around this home",
+    "description": null,
+    "list_price": 1675000,
+    "price_per_sqft": 1717.948717948718,
+    "images_count": 15
+  }
+]

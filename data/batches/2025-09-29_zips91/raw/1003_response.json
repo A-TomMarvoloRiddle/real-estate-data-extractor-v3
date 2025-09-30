@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/135-E-19th-St-New-York-NY-10003/31506443_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:18:57 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24eff1054f-ce02-4a1b-bfb1-3ab839c1a78c; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:18:57 GMT; Path=/; Domain=.zillow.com, zgsession=1|15343884-b6a6-4e87-8ed7-2824f01a11f5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56e71-T312NkPTJ5eUU0JGWEMn9QMtc68\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "202",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-G7JC_Yb3S0BN6QFdEZcjZun8k-0apQHjAQ67pSynCBJQuavKhqrgQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

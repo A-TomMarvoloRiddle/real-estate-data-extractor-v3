@@ -1,0 +1,72 @@
+[
+  {
+    "location_id": "00a1fa80b2e155024f1d554b95e729e81bf3e55a",
+    "street_address": "704 Broadway",
+    "unit_number": "PENTHOUSE",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "d2fc5a253fe4548adb19cc17790ab6aaa8ba5637",
+    "street_address": "135 E 19th St",
+    "unit_number": "",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "f7ec47bb58616dd540d141aabab634d0f8f28d9f",
+    "street_address": "226 E 12th St",
+    "unit_number": "APT 1H",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "09bb2dc405ddc46507217c4e95a42d02702dcd69",
+    "street_address": "51 Saint Marks Pl",
+    "unit_number": "APT 10",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "9c1a39ce4405a2fc2e79f4fae3af8b984946ee26",
+    "street_address": "243 E 17th St",
+    "unit_number": "",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "a393e397adf37aa03822318090e4d191bc717e3f",
+    "street_address": "54 E 1st St",
+    "unit_number": "",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "24e949503750547d0401c4646856b92cd4c6e894",
+    "street_address": "125 E 4th St",
+    "unit_number": "APT 26",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  }
+]

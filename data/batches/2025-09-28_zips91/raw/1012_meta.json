@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-09-28_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/107-Stimson-St-West-Roxbury-MA-02132/59161200_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/107-Stimson-St-West-Roxbury-MA-02132/59161200_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-09-29T09:15:15Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1012
+}

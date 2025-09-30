@@ -1,0 +1,73 @@
+{
+  "url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/",
+  "raw": {
+    "success": true,
+    "id": null,
+    "status": "completed",
+    "data": {
+      "details": {
+        "beds": 2,
+        "baths": 1,
+        "agents": [
+          {
+            "name": "Michelle Griffith",
+            "email": "",
+            "phone": "917-523-1891",
+            "brokerage": "Douglas Elliman"
+          }
+        ],
+        "images": [
+          "https://photos.zillowstatic.com/fp/11900500b1c151492a740deff5350e41-cc_ft_960.jpg",
+          "https://photos.zillowstatic.com/fp/bb033985d976483f1c9494bcb1665b1e-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/b68fe3aef0fb200213c6b329c2c5339a-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/8c6b921d1894bd17b869355a097c1a7b-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/8e25fc781ec723c1eb0ed1bb8e6ef689-cc_ft_576.jpg"
+        ],
+        "status": "Active",
+        "address": {
+          "city": "New York",
+          "unit": "APT 3D",
+          "state": "NY",
+          "street": "210 E 17th St",
+          "latitude": null,
+          "longitude": null,
+          "postal_code": "10003"
+        },
+        "hoa_fee": 1296,
+        "features": {},
+        "condition": "Good",
+        "list_date": "2025-09-29",
+        "source_id": "S1780162",
+        "list_price": 769000,
+        "source_url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/",
+        "year_built": 1903,
+        "description": "Located on a serene, tree-lined street in the heart of Gramercy, this sun-flooded 2-bedroom residence with low monthlies is located in an architecturally distinguished Beaux-Arts cooperative known as “Mon Bijou.” Residence 3D is a tranquil home with southern and eastern exposures and seven oversized windows, offering exceptional natural light throughout the day. Original details include high ceilings, detailed molding, and hardwood floors. The windowed kitchen features generous counter space, ample cabinetry, full-sized appliances, and a coveted in-unit washer and dryer. The updated, windowed bathroom includes a soaking tub, and the entire home has been soundproofed for quiet living. The inviting living room overlooks historic St. George’s Church, filling the space with warm, natural light. French doors lead to a bright primary bedroom that easily accommodates a queen-sized bed and includes two closets and two south-facing windows. The second bedroom is ideal for a guest room, nursery, or home office. This intimate prewar building is well-maintained and rich in character, with original marble stairs, tiled hallways, and plant-filled windows. Pets are welcome with board approval, and the coop permits subletting and pied-à-terres. Guarantor, gifting, and parents' involvement in purchase is allowed. Buyer pays 2% flip tax. Surrounded by red-brick townhouses and historic buildings, and just steps from Stuyvesant Square Park, this is a rare opportunity to live on one of Gramercy’s most picturesque blocks. Just one block from Irving Place and two short blocks from Union Square, this home is perfectly positioned near the city’s best shopping, dining, and transportation options. The location offers unparalleled access to the N/Q/R, 4/5/6, and L subway lines, multiple Citibike stations, Westside Market, Duane Reade, local delis, gyms, and much more.",
+        "listing_type": "sale",
+        "lot_size_sqft": null,
+        "metrics_saves": 104,
+        "metrics_views": 2043,
+        "price_history": [
+          {
+            "notes": "Price cut: $31K",
+            "price": 738000,
+            "event_date": "2025-08-18",
+            "event_type": "price cut"
+          }
+        ],
+        "property_type": "Cooperative",
+        "days_on_market": 82,
+        "metrics_shares": 0,
+        "property_subtype": "Coop",
+        "scraped_timestamp": "2025-09-29T09:30:11.343Z",
+        "interior_area_sqft": null,
+        "similar_properties": [],
+        "external_property_id": "72517943",
+        "property_taxes_annual": 0
+      }
+    },
+    "error": null,
+    "warning": null,
+    "sources": null,
+    "expires_at": null
+  }
+}

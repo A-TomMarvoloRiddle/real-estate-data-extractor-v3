@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/37-Hastings-St-APT-103-West-Roxbury-MA-02132/59153378_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 28 Sep 2025 16:32:04 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2490061833-1c35-4d5a-8dc7-dcbda6d323bd; Max-Age=315576000; Expires=Sat, 29 Sep 2035 04:32:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|c5fbbb50-0047-4f03-82e3-a06407bd47c1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5f960-p2rqHGRHHQfPgn/PSRYBlBFRWXc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "494",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "XuSSiEJKfH2BUGFpSCMcQScLP0UYOnrrBB9jkQ-WVSIE0BKV2v-fRg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

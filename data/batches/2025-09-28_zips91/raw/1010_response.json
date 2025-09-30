@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/210-Locust-St-APT-29H-Philadelphia-PA-19106/456955380_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 28 Sep 2025 16:32:21 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24cea38501-1e3f-433b-a1d2-f44d90d8cd15; Max-Age=315576000; Expires=Sat, 29 Sep 2035 04:32:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|869bd5f1-96d3-414d-9b0c-7890c518791f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"70a8f-6aMj0WmTTsZ7VqFBhxXsGJ23YBw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "385",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FNzIDjb5CsZENtVMhU5450ksueSDxumyPPr-Bpd-W4P2zvvydfSTbg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

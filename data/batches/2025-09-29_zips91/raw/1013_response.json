@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1H-New-York-NY-10003/244898726_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Tue, 30 Sep 2025 09:44:14 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b4a0e020-488f-4793-a4ec-a68eb969d9c1; Max-Age=315576000; Expires=Sun, 30 Sep 2035 21:44:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|ddbc6690-2059-4a67-93c3-897eee05b094; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4534c-b/9MwL5If3YCkQKDgeW+LpYJtmA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "327",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "LWSFKV9JHeIQp3eJzVAI7Uq3E6O9fEMdlnb9vi40FcbWLLFW5eb_sw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

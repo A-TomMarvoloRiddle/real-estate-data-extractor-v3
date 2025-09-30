@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/243-E-17th-St-New-York-NY-10003/83942583_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:19:05 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a608e3f1-cd7c-444e-85e5-0f679e2b96d1; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:19:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|557f4679-f08d-4121-a464-b59f70a70c2d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6a1e8-gceD5qLMWkgN4dJkSB/7+Cyd9xc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "248",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ICub1l-dw8vEVSdOrdFWXRhVPpIWyXzWLsazAv0jo35jTMY_2PV7Jw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

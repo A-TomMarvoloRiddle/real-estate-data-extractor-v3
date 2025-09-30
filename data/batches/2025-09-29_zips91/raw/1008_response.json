@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/54-E-1st-St-New-York-NY-10003/31496561_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:19:11 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243023a169-2a59-423e-8eac-5c867c6249a5; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:19:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|07ed0952-75a6-4419-818a-1ec64ccfae78; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"44dd7-/G/Qb9hCA0gY9fqieMkE5n3mn1k\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0rJ5ioJrKtEjWjGKwyc7uxu3pheMQtTM1b5aBS0fQCXgNABdCnkKdg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

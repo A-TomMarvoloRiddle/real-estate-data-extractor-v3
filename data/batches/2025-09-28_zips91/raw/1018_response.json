@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/79-Potomac-St-West-Roxbury-MA-02132/59157163_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:15:30 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246ae96028-57a9-471f-ae8b-811cec5d571e; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:15:30 GMT; Path=/; Domain=.zillow.com, zgsession=1|674c6e66-78cf-4ad6-afa0-2f049fcc0654; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"657de-W73NmJ0px2zysvg4BGoT88qIe4o\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "322",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-eK85kHvr5i1OWIyyMXYLoob4BkF365NcPWA_7aVo96bUACuxfkZWA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,7 +1,7 @@
 # src/fetch.py
 # Purpose: Fetch search/detail pages and persist raw HTML + minimal metadata to the batch folders.
 from __future__ import annotations
-
+import os
 import json
 import random
 import time
@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional
 from urllib.parse import urlparse
-
+from dotenv import load_dotenv
 from src.settings import (
     CFG,
     PROJECT_ROOT,
@@ -20,6 +20,58 @@ from src.settings import (
     make_batch_dirs,
     now_utc_iso,
 )
+
+load_dotenv()
+FIRECRAWL_API = "https://api.firecrawl.dev"
+FIRECRAWL_KEY = os.getenv("FIRECRAWL_API_KEY", "")
+
+UA_POOL = [
+    CFG["run"]["user_agent"],
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+]
+
+def redfin_headers() -> Dict[str, str]:
+    ua = random.choice(UA_POOL)
+    base = {
+        "User-Agent": ua,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+    }
+    # Referer مفيد لتقليل 403
+    base["Referer"] = "https://www.redfin.com/"
+    return base
+
+def choose_headers_for(url: str) -> Dict[str, str]:
+    if "redfin.com" in url:
+        h = redfin_headers()
+        # دمج أي هيدر افتراضي عندك
+        h.update({k:v for k,v in default_headers().items() if k not in h})
+        return h
+    return default_headers()
+
+def fetch_via_firecrawl(url: str, timeout: int) -> Optional[str]:
+    """جرب Firecrawl (scrape) وأرجع html أو None عند الفشل."""
+    if not FIRECRAWL_KEY or CFG.get("crawl_method") != "firecrawl_v1":
+        return None
+    try:
+        # أبسط مسار scrape فردي
+        r = requests.post(
+            f"{FIRECRAWL_API}/v1/scrape",
+            headers={"Authorization": f"Bearer {FIRECRAWL_KEY}", "Content-Type": "application/json"},
+            json={"url": url, "formats": ["html"]},
+            timeout=timeout,
+        )
+        if r.status_code != 200:
+            return None
+        data = r.json()
+        # دعم حقول محتملة
+        html = data.get("html") or data.get("data", {}).get("html") or ""
+        return html if isinstance(html, str) and html.strip() else None
+    except Exception:
+        return None
+
 
 # ============================ paths & helpers ============================
 
@@ -122,39 +174,58 @@ def fetch_and_save(
     batch_id: Optional[str] = None,
 ) -> FetchResult:
     raw_dir.mkdir(parents=True, exist_ok=True)
-    headers = headers or default_headers()
+
+    # اختَر هيدر بحسب الدومين إن ما وصلت هيدر خارجي
+    headers = headers or choose_headers_for(url)
 
     attempt = 0
     last_exc: Optional[Exception] = None
     while attempt <= max_retries:
+        html_text = None
+        final_url = url
+        status = 0
         try:
-            r = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
-            status = r.status_code
+            # 1) جرّب Firecrawl إذا مفعّل
+            html_text = fetch_via_firecrawl(url, timeout=timeout)
 
+            # 2) أو جرّب requests مباشرة
+            if not html_text:
+                r = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
+                status = r.status_code
+                final_url = r.url
+                html_text = r.text or ""
+
+            # مسارات الملفات
             html_path = raw_dir / f"{idx:04d}_raw.html"
             meta_path = raw_dir / f"{idx:04d}_meta.json"
             resp_path = raw_dir / f"{idx:04d}_response.json"
 
-            html_path.write_text(r.text or "", encoding="utf-8", errors="ignore")
+            # اكتب الـ HTML حتى لو فاضي (يساعدنا نراجع الحجب)
+            html_path.write_text(html_text, encoding="utf-8", errors="ignore")
 
-            resp = {"status": status, "final_url": r.url, "headers": dict(r.headers)}
+            # response.json: إن كان عندنا r من requests
+            resp = {
+                "status": status or (200 if html_text else 0),
+                "final_url": final_url,
+                "headers": dict(r.headers) if 'r' in locals() else {},
+            }
             resp_path.write_text(json.dumps(resp, indent=2), encoding="utf-8")
 
-            source_id = _infer_source_id(r.url or url)
+            source_id = _infer_source_id(final_url or url)
             meta = {
                 "batch_id": batch_id,
                 "requested_url": url,
-                "final_url": r.url,
-                "status": status,
+                "final_url": final_url,
+                "status": resp["status"],
                 "scraped_timestamp": now_utc_iso(),
                 "source_id": source_id,
-                "crawl_method": CFG.get("crawl_method", "firecrawl_v1"),
+                "crawl_method": CFG.get("crawl_method", "requests"),
                 "seed_kind": seed_kind,
                 "idx": idx,
             }
             meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
 
-            return FetchResult(status, r.url, str(html_path), str(meta_path), str(resp_path))
+            return FetchResult(resp["status"], final_url, str(html_path), str(meta_path), str(resp_path))
 
         except Exception as e:
             last_exc = e
@@ -163,6 +234,8 @@ def fetch_and_save(
         if attempt < max_retries and (status == 0 or _should_retry(status)):
             backoff = 1.5 ** attempt + random.uniform(0.0, 0.5)
             time.sleep(backoff)
+            # دوّر UA جديد للاحتماء من 403
+            headers = choose_headers_for(url)
             attempt += 1
             continue
         break
@@ -196,7 +269,7 @@ def fetch_first_search_page(batch_id: Optional[str] = None) -> FetchResult:
     res = fetch_and_save(1, url, raw_dir, seed_kind="search", batch_id=payload.get("batch_id"))
     return res
 
-def fetch_search_pages(batch_id: Optional[str] = None, limit: int = 10) -> List[FetchResult]:
+def fetch_search_pages(batch_id: Optional[str] = None, limit: int = 999999) -> List[FetchResult]:
     dirs = _resolve_dirs(batch_id)
     struct_dir, raw_dir = dirs["structured"], dirs["raw"]
 
@@ -209,17 +282,18 @@ def fetch_search_pages(batch_id: Optional[str] = None, limit: int = 10) -> List[
     if not search_pages:
         raise RuntimeError("No search pages in seeds. Check your config areas/zips.")
 
-    mixed = _balanced_mix(search_pages, limit)
+    # ❗️بدون balanced_mix — نجيب الكل حسب ما جاء بالملف
+    rows = search_pages[: min(limit, len(search_pages))]
 
     results: List[FetchResult] = []
-    for i, row in enumerate(mixed, start=1):
+    for i, row in enumerate(rows, start=1):
         url = row["url"]
         try:
             res = fetch_and_save(i, url, raw_dir, seed_kind="search", batch_id=payload.get("batch_id"))
             results.append(res)
-            print(f"[{i}/{limit}] {res.status} -> {url}")
+            print(f"[{i}/{len(rows)}] {res.status} -> {url}")
         except Exception as e:
-            print(f"[{i}/{limit}] ERROR {type(e).__name__}: {e}")
+            print(f"[{i}/{len(rows)}] ERROR {type(e).__name__}: {e}")
         polite_sleep()
     return results
 
@@ -242,5 +316,6 @@ def fetch_detail_pages(urls: List[str], batch_id: Optional[str] = None, start_id
 # ============================ CLI ============================
 
 if __name__ == "__main__":
-    out = fetch_first_search_page()
+    # out = fetch_first_search_page()
+    out = fetch_search_pages(limit=3)
     print("✅ Saved:", out)

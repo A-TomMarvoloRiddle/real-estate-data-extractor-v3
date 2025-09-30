@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Tue, 30 Sep 2025 09:44:22 GMT",
+    "via": "1.1 zgs, 1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a81b930e-10ed-410a-bc1d-52ed164d7061; Max-Age=315576000; Expires=Sun, 30 Sep 2035 21:44:22 GMT; Path=/; Domain=.zillow.com, zgsession=1|c1ad583f-cb2e-41a0-a693-af4037eb8fff; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ac84-EhJcU9q1EeR9Q6MBZ02PMsJFLUE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "MAoRmyP-Lo6ZPlUO5f-1uDORBtbjWprFz6x_8Fwhs8jj3SuWagpt3g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

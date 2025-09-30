@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/55-Cottage-Rd-Boston-MA-02132/59161316_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:15:24 GMT",
+    "via": "1.1 zgs, 1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c8d89399-6244-4e4b-b116-0d408ef53bb5; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:15:24 GMT; Path=/; Domain=.zillow.com, zgsession=1|a0191fe3-1bda-4c48-a816-f97868b99943; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61aac-1yadix0Wr8/1Y6wTbBfZiaCEvgs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "l2xfYs67keyxvWp8jPGirBMBwg7xu5jst3OWmI5YlEPz0-k5WgY7lQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

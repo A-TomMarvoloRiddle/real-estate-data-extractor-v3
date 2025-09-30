@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/51-Saint-Marks-Pl-APT-10-New-York-NY-10003/244697169_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:19:02 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24bc9fb049-5319-49d7-9be7-54f041e3a640; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:19:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|d053db24-80aa-4d27-a353-067180b97295; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48e4c-1CiTbDvQ3NBsM1paIJ/vrt5IXrQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "201",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xSRAne2MhX41Pdy26TrjF7AEdSnu2xKrl_hK-ccavXfjw4hhBDzwEg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

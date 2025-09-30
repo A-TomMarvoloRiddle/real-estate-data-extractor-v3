@@ -1,0 +1,79 @@
+{
+  "count": 9,
+  "batch_id": "2025-09-29_zips91",
+  "generated_at": "2025-09-29T09:18:44Z",
+  "urls": [
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/113-E-19th-St-New-York-NY-10003/31506434_zpid/",
+      "external_property_id": "31506434",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/704-Broadway-PENTHOUSE-New-York-NY-10003/442755067_zpid/",
+      "external_property_id": "442755067",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/135-E-19th-St-New-York-NY-10003/31506443_zpid/",
+      "external_property_id": "31506443",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1H-New-York-NY-10003/244898726_zpid/",
+      "external_property_id": "244898726",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/51-Saint-Marks-Pl-APT-10-New-York-NY-10003/244697169_zpid/",
+      "external_property_id": "244697169",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/243-E-17th-St-New-York-NY-10003/83942583_zpid/",
+      "external_property_id": "83942583",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/",
+      "external_property_id": "72517943",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/54-E-1st-St-New-York-NY-10003/31496561_zpid/",
+      "external_property_id": "31496561",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/125-E-4th-St-APT-26-New-York-NY-10003/244863048_zpid/",
+      "external_property_id": "244863048",
+      "batch_id": "2025-09-29_zips91",
+      "crawl_method": "firecrawl_v1",
+      "scraped_timestamp": "2025-09-29T09:18:44Z"
+    }
+  ]
+}

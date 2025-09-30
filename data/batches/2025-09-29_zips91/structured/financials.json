@@ -1,0 +1,51 @@
+[
+  {
+    "listing_id": "84cac3720233ae261178ee9160834580e94cda29",
+    "hoa_fee": 6654,
+    "property_taxes_annual": null,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "9eabc47006233d46f7b7d2badcb41931111a4baa",
+    "hoa_fee": null,
+    "property_taxes_annual": null,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "be7b76df9aaf82477e00978cb95ec8210d495dfe",
+    "hoa_fee": 1174,
+    "property_taxes_annual": 0,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "08af56c7ac2c3a8f901e6b6474d7818b28667334",
+    "hoa_fee": 782,
+    "property_taxes_annual": null,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "280eb00ff4caca47c6818a0f8f627b8d9e6f8912",
+    "hoa_fee": 0,
+    "property_taxes_annual": 10496,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "25647352b3e19c9551990b23f774ac09fdbd7281",
+    "hoa_fee": 900,
+    "property_taxes_annual": null,
+    "down_payment": null,
+    "loan_interest": null
+  },
+  {
+    "listing_id": "59dfdb62f7f1802a02ae9ecc8f66328aff4c870a",
+    "hoa_fee": 1238,
+    "property_taxes_annual": 0,
+    "down_payment": null,
+    "loan_interest": null
+  }
+]

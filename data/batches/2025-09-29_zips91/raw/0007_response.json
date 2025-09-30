@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homes/19115_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Tue, 30 Sep 2025 09:51:48 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "web-platform-data=%7B%22wp-dd-rum-session%22%3A%7B%22doNotTrack%22%3Atrue%7D%7D; Max-Age=1800; Path=/, zguid=24|%24c92fb1c2-8849-4f15-b8a6-138e26615470; Max-Age=315576000; Expires=Sun, 30 Sep 2035 21:51:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|a5ed80a4-6f66-4aa4-a91d-0dcc0b6f607b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "etag": "\"igph5xf37riwmk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "469",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "OiK0emZIodsgY3WBdQuJx84-wGn79hJ4oy6UZ8V_JKydT3T5WFtFzQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -18,5 +18,65 @@
     "postal_code": "02132",
     "latitude": null,
     "longitude": null
+  },
+  {
+    "location_id": "1f5e6986fcd91040c1c6932109214c3987c6396a",
+    "street_address": "37 Hastings St",
+    "unit_number": "APT 103",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "cf014e4a89a59d72e6e9bb01b7ba8dc6d58d5beb",
+    "street_address": "72 Theodore Parker Rd",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "32dd6432bd6799366035d2f64914794704e84b0e",
+    "street_address": "539 Lagrange St",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "0258707948a9c8f71fcffb3b363691cec8e48d67",
+    "street_address": "55 Cottage Rd",
+    "unit_number": "",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "f47e4c20d9886b060388ca2d94e88c5b66b1af0f",
+    "street_address": "141 Bellevue St",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "196260a5631462fd36ee95363101442c3f684e20",
+    "street_address": "79 Potomac St",
+    "unit_number": "",
+    "city": "West Roxbury",
+    "state": "MA",
+    "postal_code": "02132",
+    "latitude": null,
+    "longitude": null
   }
 ]

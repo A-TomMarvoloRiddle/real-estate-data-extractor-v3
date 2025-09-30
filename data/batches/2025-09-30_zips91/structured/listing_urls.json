@@ -1,0 +1,500 @@
+{
+  "urls": [
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/111-4th-Ave-10003/unit-3I/home/45142411"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/29-E-9th-St-APT-10-New-York-NY-10003/72512890_zpid/"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/88-E-3rd-St-10003/unit-18/home/53324859"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/60-E-8th-St-10003/unit-31A/home/148704388"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/201-E-15th-St-10003/unit-4H/home/198298690"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/125-E-4th-St-10003/unit-26/home/176353603"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/11-5th-Ave-10003/unit-8AB/home/45142241"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/81-Irving-Pl-10003/unit-15DE/home/45146464"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/111-4th-Ave-10003/unit-2E/home/198306258"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/23-E-10th-St-10003/unit-3C/home/45201501"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/23-Waverly-Pl-10003/unit-4R/home/45141864"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/67-E-11th-St-10003/unit-606/home/198292524"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/64-E-1st-St-10003/unit-TH1/home/169649459"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/1-5th-Ave-10003/unit-12H/home/102004310"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/44-E-12th-St-10003/unit-9A/home/45139145"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/242-E-19th-St-10003/unit-2C/home/160710566"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/45-5th-Ave-10003/unit-9D/home/144812748"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/325-Bowery-10003/Ph/home/198102501"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/51-Saint-Marks-Pl-10003/unit-10/home/144771579"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/7-E-12th-St-10003/unit-7B/home/194303803"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/113-E-19th-St-10003/home/45253619"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/217-E-5th-St-10003/unit-6F/home/197679497"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/325-Bowery-10003/unit-3/home/198101225"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/54-E-8th-St-10003/unit-3L/home/170668561"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/718-Broadway-10003/unit-6B/home/45141802"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/65-Cooper-Sq-10003/unit-3A/home/174310910"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/29-E-9th-St-10003/unit-10/home/45142483"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/232-E-6th-St-10003/unit-4AB/home/53324839"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/60-E-9th-St-10003/unit-512/home/146128485"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/48-E-13th-St-10003/unit-8B/home/147014914"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/7-E-17th-St-10003/unit-PHS/home/198139203"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/333-E-14th-St-10003/unit-15B/home/45170591"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/5054-E-8th-St-10003/unit-3S/home/197704663"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/23-Waverly-Pl-10003/unit-5U/home/172407265"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/42-E-20th-St-10003/unit-4A/home/45127488"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/54-E-1st-St-10003/unit-6C/home/45166785"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/60-E-9th-St-10003/unit-607/home/114625056"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/840-Broadway-10003/unit-10FL/home/198077489"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/45-E-7th-St-10003/unit-2D/home/172841740"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/145-E-15th-St-10003/unit-9H/home/198191408"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/350-E-18th-St-10003/unit-4D/home/198036893"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/815-Broadway-10003/unit-2/home/197939809"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1H-New-York-NY-10003/244898726_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/135-E-19th-St-New-York-NY-10003/31506443_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/125-E-4th-St-APT-26-New-York-NY-10003/244863048_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/243-E-17th-St-New-York-NY-10003/83942583_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/81-Irving-Pl-15DE-New-York-NY-10003/72516956_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/113-E-19th-St-New-York-NY-10003/31506434_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/704-Broadway-PENTHOUSE-New-York-NY-10003/442755067_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/815-Broadway-PENTHOUSE-2-New-York-NY-10003/456674433_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1B-New-York-NY-10003/244849005_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/51-Saint-Marks-Pl-APT-10-New-York-NY-10003/244697169_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/325-Bowery-UNIT-PH-New-York-NY-10003/456855734_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1F-New-York-NY-10003/95064313_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/78-Irving-Pl-PENTHOUSE-New-York-NY-10003/442912996_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/224-E-11th-St-APT-19-New-York-NY-10003/72511816_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/35-Stuyvesant-St-New-York-NY-10003/145586220_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/350-E-18th-St-4D-New-York-NY-10003/456750410_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/352-E-19th-St-New-York-NY-10003/2071152395_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/201-E-15th-St-APT-4H-New-York-NY-10003/457045457_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/22-Gramercy-Park-UNIT-PENTHOUSE-New-York-NY-10003/452675881_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/99-E-4th-St-APT-4A-New-York-NY-10003/244700381_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/48-E-13th-St-APT-8B-New-York-NY-10003/253465573_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/64-E-1st-St-TOWNHOUSE-1-New-York-NY-10003/351981038_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/200-E-20th-St-New-York-NY-10003/31507920_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/325-Bowery-APT-3-New-York-NY-10003/2086011691_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/41-5th-Ave-4DE-Manhattan-NY-10003/336480309_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/123-3rd-Ave-PENTHOUSE-18-New-York-NY-10003/450142787_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/7-E-14th-St-APT-1009-New-York-NY-10003/87801590_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/126-E-16th-St-PH4C-New-York-NY-10003/442167355_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/54-E-1st-St-New-York-NY-10003/31496561_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/220-E-20th-St-New-York-NY-10003/2107926562_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/11-5th-Ave-8AB-New-York-NY-10003/72513161_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/65-Cooper-Sq-APT-3A-New-York-NY-10003/2130600679_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/11-Waverly-Pl-APT-10E-New-York-NY-10003/2126954016_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/111-4th-Ave-APT-3I-New-York-NY-10003/72512807_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/217-E-5th-St-6F-New-York-NY-10003/456384143_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/445-Lafayette-St-110C-New-York-NY-10003/456545070_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/13-Gramercy-Park-S-FLOOR-4-Manhattan-NY-10003/123824307_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/60-E-8th-St-APT-31A-New-York-NY-10003/244850866_zpid/"
+    },
+    {
+      "source_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/1-5th-Ave-APT-2J-New-York-NY-10003/90138939_zpid/"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/244-W-23rd-St-10011/unit-5B/home/45234211"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/340-W-19th-St-10011/unit-20/home/45144126"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/525-6th-Ave-10011/unit-6G/home/198342009"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/61-W-9th-St-10011/unit-7B/home/45142671"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/400-W-23-St-10011/unit-6JK/home/198331009"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/250-W-15th-St-10011/unit-4CD/home/144829692"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/253-W-16th-St-10011/unit-5C/home/45144665"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/445-W-19th-St-10011/unit-1G/home/45248587"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/152-W-13th-St-10011/home/45245765"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/32-Washington-Sq-W-10011/unit-14E/home/53324741"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/270-W-17th-St-10011/unit-6I/home/45249386"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/160-W-12th-St-10011/unit-104/home/109654053"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/200-W-20th-St-10011/unit-416/home/198220513"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/30-W-15th-St-10011/unit-6S/home/108529611"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/155-W-18th-St-10011/unit-404/home/111244149"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/55-W-17th-St-10011/unit-901/home/144054863"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/165-W-20th-St-10011/unit-6ABC/home/194396270"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/42-W-13th-St-10011/unit-5F5G/home/198207472"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/2-5th-Ave-10011/unit-5B/home/45141938"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/124-W-23rd-St-10011/unit-4B/home/53327769"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/85-8th-Ave-10011/unit-5H/home/45174165"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/505-W-19th-St-10011/unit-2/home/108580813"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/448-W-23rd-St-10011/home/45248402"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/16-W-16th-St-10011/unit-9GS/home/45174843"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/128-W-23rd-St-10011/unit-8B/home/176504148"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/456-W-19th-St-10011/unit-6-7F/home/115480444"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/456-W-19th-St-10011/unit-45D/home/115254061"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/210-W-19th-St-10011/unit-4J/home/45249152"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/30-W-9th-St-10011/unit-5A/home/183731056"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/77-7th-Ave-10011/unit-14L/home/45144908"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/162-9th-Ave-10011/unit-2AB/home/198192839"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/520-W-23rd-St-10011/unit-3H/home/109991814"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/260-W-22nd-St-10011/unit-2/home/63690905"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/509-W-23rd-St-10011/home/45248332"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/13-W-13th-St-10011/unit-6JS/home/170062462"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/66-W-11th-St-10011/unit-PARLOR/home/115335283"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/7-W-16th-St-10011/unit-TH/home/198124532"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/155-W-20th-St-10011/unit-4F/home/198123294"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/165-W-20th-St-10011/unit-3E/home/53323494"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/7-W-17th-St-10011/unit-7AB/home/174311070"
+    },
+    {
+      "source_id": "redfin",
+      "source_url": "https://www.redfin.com/NY/New-York/85-8th-Ave-10011/unit-5L/home/173981406"
+    }
+  ],
+  "by_source": {
+    "redfin": 82,
+    "zillow": 41
+  }
+}

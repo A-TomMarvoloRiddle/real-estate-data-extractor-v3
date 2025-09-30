@@ -1,0 +1,79 @@
+{
+  "url": "https://www.zillow.com/homedetails/113-E-19th-St-New-York-NY-10003/31506434_zpid/",
+  "raw": {
+    "success": true,
+    "id": null,
+    "status": "completed",
+    "data": {
+      "details": {
+        "beds": 4,
+        "baths": 5,
+        "agents": [
+          {
+            "name": "Douglas Brown",
+            "email": "",
+            "phone": "917-573-5102",
+            "brokerage": "Corcoran"
+          }
+        ],
+        "images": [
+          "https://photos.zillowstatic.com/fp/e57cf600e7ed59a7cba2b6af721c001a-cc_ft_960.jpg",
+          "https://photos.zillowstatic.com/fp/e131359e4907a0c99a5a13dff368e903-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/fe29434b3f794a3b3e1ff8d0e58dc42a-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/a2c83e2eba76dfd45ea32ee837b01fd2-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/57bf6efd04cb60c7fcfdf13dfc3b04d5-cc_ft_576.jpg"
+        ],
+        "status": "Active",
+        "address": {
+          "city": "New York",
+          "unit": "",
+          "state": "NY",
+          "street": "113 E 19th St",
+          "latitude": 40.737526,
+          "longitude": -73.98717,
+          "postal_code": "10003"
+        },
+        "hoa_fee": 0,
+        "features": {},
+        "condition": "",
+        "list_date": "2025-09-16",
+        "source_id": "S1790448",
+        "list_price": 6500000,
+        "source_url": "https://www.zillow.com/homedetails/113-E-19th-St-New-York-NY-10003/31506434_zpid/",
+        "year_built": 1910,
+        "description": "Nestled on a picturesque, tree-lined block in the heart of Gramercy, this stunning four-story single-family townhouse offers over 5,000 square feet of elegant living space. Seamlessly blending timeless architecture with contemporary comforts, this home is designed for sophisticated everyday living and effortless entertaining. With generously proportioned rooms, multiple private outdoor spaces, and a versatile floor plan, this thoughtfully updated home perfectly suits a modern, flexible lifestyle.",
+        "listing_type": "sale",
+        "lot_size_sqft": 0,
+        "metrics_saves": 37,
+        "metrics_views": 718,
+        "price_history": [
+          {
+            "notes": "",
+            "price": 6500000,
+            "event_date": "2025-09-16",
+            "event_type": "Listed for sale"
+          },
+          {
+            "notes": "",
+            "price": 2300000,
+            "event_date": "2004-01-06",
+            "event_type": "Sold"
+          }
+        ],
+        "property_type": "Single Family Residence",
+        "days_on_market": 13,
+        "metrics_shares": 0,
+        "property_subtype": "Single Family Residence",
+        "scraped_timestamp": "2025-09-29T09:23:49.385Z",
+        "interior_area_sqft": 5005,
+        "similar_properties": [],
+        "external_property_id": "31506434",
+        "property_taxes_annual": 63948
+      }
+    },
+    "error": null,
+    "warning": null,
+    "sources": null,
+    "expires_at": null
+  }
+}

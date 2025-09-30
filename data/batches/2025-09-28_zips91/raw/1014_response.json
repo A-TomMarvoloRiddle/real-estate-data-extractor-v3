@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/72-Theodore-Parker-Rd-West-Roxbury-MA-02132/59154238_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:15:18 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24af1d395d-3486-4ef2-bb69-39f8ea1cdfc2; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:15:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|1a70939c-755b-486a-aec9-21793c774dab; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"60a4d-GINNiKcAHB7X+mGa3DDi4NVnvSk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "463",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VQXoJgUmqRrbGnB-7Yz8dEnybA8rkinBoL-e_Cs6SMc4kCN8T9JaVA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

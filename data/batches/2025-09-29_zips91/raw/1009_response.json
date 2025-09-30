@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/125-E-4th-St-APT-26-New-York-NY-10003/244863048_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 29 Sep 2025 09:19:14 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f6808e90-2d29-48bc-81ad-e570c65d9979; Max-Age=315576000; Expires=Sat, 29 Sep 2035 21:19:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|7d10cc73-9123-4cb5-b19f-a80e957e1c6c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"46f3c-zv6fWgGlDFMA98NCtC4+EzM3ssM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "312",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6HOr7W1G0zNYtYQIpv9TQUN-DjPWZXhMQfoxMgZqoSQ7S_xbwwb7ig==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

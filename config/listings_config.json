@@ -13,7 +13,7 @@
       "zip_search": "https://www.zillow.com/homes/{ZIP}_rb/"
     },
     "redfin": {
-      "zip_search": "https://www.redfin.com/zip/{ZIP}"
+      "zip_search": "https://www.redfin.com/zipcode/{ZIP}"
     }
   },
   "areas": [

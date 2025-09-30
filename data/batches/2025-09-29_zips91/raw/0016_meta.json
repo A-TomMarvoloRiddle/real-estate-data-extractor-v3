@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-09-29_zips91",
+  "requested_url": "https://www.redfin.com/zip/33133",
+  "final_url": "https://www.redfin.com/zip/33133",
+  "status": 404,
+  "scraped_timestamp": "2025-09-30T09:52:13Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "search",
+  "idx": 16
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/539-Lagrange-St-West-Roxbury-MA-02132/59157148_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 28 Sep 2025 16:32:08 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c93ffc46-193c-4469-ae2e-93b86fedb165; Max-Age=315576000; Expires=Sat, 29 Sep 2035 04:32:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|db603b62-c53d-4c49-95ac-e169b74c6ee6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"63de8-6BRXs+rzSFSEAK3YTZf/UkA95GE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "253",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "MX_G1BxpwElB0hz2XQT4HSjBypyZN_5tDe1sYmo4fw1Z5mj8B-gkFQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

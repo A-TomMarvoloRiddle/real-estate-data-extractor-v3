@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/107-Stimson-St-West-Roxbury-MA-02132/59161200_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 28 Sep 2025 16:32:01 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2478e4900a-331b-4a05-a4d1-70a3f9e0755d; Max-Age=315576000; Expires=Sat, 29 Sep 2035 04:32:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|b1c009e9-ddec-46d3-8257-18f12eee6d08; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5fd77-DBiLxOxGNpo8RqpjIQIG25qO5R0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "310",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "63cJWGDGbwEAfq0xSnH4QETKnNDk7JqfbQHR-iNBE03HIwyezE5GQg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

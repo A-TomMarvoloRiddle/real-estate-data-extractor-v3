@@ -1,0 +1,12 @@
+{
+  "total_urls": 123,
+  "pages_ok": 3,
+  "pages_empty": 0,
+  "blocked": 0,
+  "not_found": 0,
+  "by_source_pages": {
+    "redfin": 2,
+    "zillow": 1
+  },
+  "pages_meta": []
+}
