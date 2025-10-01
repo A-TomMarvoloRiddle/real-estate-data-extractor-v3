@@ -1,0 +1,59 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/160-W-12th-St-10011/unit-104/home/109654053",
+  "external_property_id": "109654053",
+  "scraped_timestamp": "2025-10-01T13:53:37Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 15000000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 904,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/251/RLS20051251_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_7_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_21_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_11_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_17_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_4_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/251/genMid.RLS20051251_14_5.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7368067%2C-74.0001163&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=Og0hhfjuw7Tl7qVs5MaIyGs7Pd4=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "The Greenwich Lane | West Village Sophistication with Iconic Views  Perched on the 10th floor of 160 West 12th Street at The Greenwich Lane, this 2,904 SF residence with a 552 SF landscaped terrace offers the ultimate blend of scale, design, and protected views . With stunning north and south exposures, three bedrooms, three-and-a-half bathrooms, a library, and interiors meticulously custom-designed by Thomas O’Brien of Aero Studios, the home is defined by its perfect layout and seamless flow - a rare combination in downtown living. The experience begins with a showstopping floorplan which provides for utmost privacy and grand-scale entertainment. The nearly 600sf great room , custom-designed kitchen , and one of the bedrooms all open to the sprawling south-facing terrace. Professionally landscaped and maintained, the terrace spans the entire length of the apartment, providing endless enjoyment of quiet conversation, beautiful dinners, social gatherings and more - all the while gazing at unobstructed views of the Freedom Tower and Lower Manhattan. Equally as impressive are the views to the north which include beautifully framed views of the Empire State Building. The protected panoramas are rare, iconic, and enduring. The windowed chef’s kitchen is just one heart of this special home. Perfectly laid out with beautiful doors to the terrace, it is a showpiece in itself. The custom kitchen features professional-grade appliances , bespoke cabinetry , lots of storage, and a pantry with wine cooler. Your culinary wish has been answered. The north-facing primary suite is grand and refined, with dual custom closets, and an elegant windowed 5-fixture en-suite marble bath with picture perfect views. The secondary bedrooms are graciously sized with en-suite baths and beautiful views. The wood-paneled library/TV room offers an intimate retreat and is easily convertible to a fourth bedroom. It's an incredibly zen room and the perfect private getaway. Thoughtful details abound throughout: coffered ceilings, bespoke millwork, and built-in art display cases. The discreet in-wall Sonos sound system enriches the living room, dining room, library, and kitchen. There is also multi-zone central air and heat as well as a home-sized laundry room. In addition, this special home also comes with a coveted parking space and private storage unit ($724.41/month). Residents of The Greenwich Lane enjoy unparalleled white-glove service with full-time concierge and doorman, a resident manager, and unmatched amenities that include a 25-meter swimming pool and hot tub, state-of-the-art fitness and wellness center with yoga and treatment rooms, golf simulator, screening room, children’s playroom, and a lush central garden. Live in one of the most coveted buildings in one of the most coveted locations of New York City. Shown by appointment only.",
+  "price_history": [
+    {
+      "event_date": "Dec 28, 2022",
+      "event_type": "listed",
+      "price": 89900,
+      "notes": null
+    },
+    {
+      "event_date": "Dec 18, 2013",
+      "event_type": "listed",
+      "price": 9978189,
+      "notes": null
+    },
+    {
+      "event_date": "Feb 19, 1994",
+      "event_type": "price_change",
+      "price": 9978189,
+      "notes": null
+    }
+  ],
+  "street_address": "160 W 12th St",
+  "postal_code": "10011",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "104",
+  "listing_id": "654e229a980e19d845cb13f9d02768c1",
+  "property_id": "57bbfa282e142742e22f74130cb5a520",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/25-Charles-St-APT-4-C-New-York-NY-10014/244706260_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:44 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246c1c4ad4-dbc8-47a5-8c3d-b6a030ecd37d; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|9eb0e52b-1165-4448-bb32-dc01b87fe594; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4bfc5-6BfsFFuk9vmWhdEFHi86Tq65JZk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "222",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Apin254MiSwtoZpTXHSOuf9K8WcgeLg1YfdtPvB2xjl4C8SqAtD57Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

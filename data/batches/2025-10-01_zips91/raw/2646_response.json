@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1203-W-Superior-St-APT-3C-Chicago-IL-60642/2081141560_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:56 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2475c5c340-2ca1-45ef-a6e0-9f61fbe51716; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:56 GMT; Path=/; Domain=.zillow.com, zgsession=1|db4fa7df-8885-4645-9099-629ca6d83872; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e37d-VPcla8nGk79EzuC5Zb0aHMyAk1Q\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Kqbm-Jsu0rqEpYZxMpFJHGBEdexL5smE0wWQkA_QivxD9FpxitxiUg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

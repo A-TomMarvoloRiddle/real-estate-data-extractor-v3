@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/224-Mulberry-St-UNIT-PENTHOUSE-New-York-NY-10012/442173506_zpid/",
+  "external_property_id": "442173506",
+  "scraped_timestamp": "2025-10-01T13:54:44Z",
+  "status": "blocked",
+  "listing_id": "c9ed46ea10b045e44afc3175bcd44f2c",
+  "property_id": "ed5a752b408776615f0cf19c65f394bc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

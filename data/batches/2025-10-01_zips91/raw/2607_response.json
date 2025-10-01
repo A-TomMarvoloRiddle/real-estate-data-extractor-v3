@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1621-W-Rascher-Ave-G-Chicago-IL-60640/87713852_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:48 GMT",
+    "via": "1.1 zgs, 1.1 c68e106b410a906e09f6600e66757242.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2470d268b2-a72d-4f14-a945-c23713fd4378; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|aec6c466-b1a8-4dd7-b403-87b00865f171; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"516fd-vR9/X4VxE0jfUzpgrDQUvZ1+whE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "209",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "eHjpOYDvFElDq29s4m97ZKimoYDLVuAqQ7kbvYVGoz9OUfaxsqq_0Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

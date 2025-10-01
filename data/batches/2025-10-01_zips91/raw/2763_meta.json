@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/3201-N-Ravenswood-Ave-60657/unit-301/home/183691068",
+  "final_url": "https://www.redfin.com/IL/Chicago/3201-N-Ravenswood-Ave-60657/unit-301/home/183691068",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:07:18Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2763
+}

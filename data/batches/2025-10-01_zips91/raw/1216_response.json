@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/64-Macdougal-St-APT-22-New-York-NY-10012/244742422_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:16 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24909bcc0c-8138-4acd-9fef-e023b6bce0d3; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|b2f1eafb-6b42-454c-9b1e-9a911640bd3d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4e89b-E6r7NTuZW8D02Eg6YAPsPLj2evc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "321",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "y3xJvj0eNyxCig73307RK0jU5ERCVXV1OBUXhs_7-r6ipP6yK7ILVw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

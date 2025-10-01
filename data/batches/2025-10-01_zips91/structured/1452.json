@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/27-W-84th-St-APT-4RE-New-York-NY-10024/456959324_zpid/",
+  "external_property_id": "456959324",
+  "scraped_timestamp": "2025-10-01T13:56:21Z",
+  "status": "blocked",
+  "listing_id": "7f183be3a3708e82a3d401b20e5e113f",
+  "property_id": "772ac570f1c5701d4287986c75fb6bc1",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

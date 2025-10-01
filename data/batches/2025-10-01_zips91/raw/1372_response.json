@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/38-E-76th-St-New-York-NY-10021/350519309_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:08 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ba198024-d31e-4509-9e1e-0963ad067694; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|85429ff2-23f9-4551-aeb2-1baf5a781ee7; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55dcb-1AaKtasSU5PbDL0UlP1uiess26M\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "245",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-70ZusIkPk6dSKA5euWWK0c6HdSmlfvGNwsl4O4wMjJiM3VSC5eOdw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

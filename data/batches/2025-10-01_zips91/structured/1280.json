@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/304-W-10th-St-10014/unit-4B/home/45210567",
+  "external_property_id": "45210567",
+  "scraped_timestamp": "2025-10-01T13:55:00Z",
+  "status": "blocked",
+  "listing_id": "92ed40f313ae9e3e5bdbcd656495e17b",
+  "property_id": "5400732234b8c6c2505d7cbaa4a64da9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

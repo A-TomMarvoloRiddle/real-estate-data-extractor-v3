@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/TX/Dallas/6222-Anita-St-75214/home/30821029",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 13:15:14 GMT",
+    "Content-Length": "2040",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 90280e12f97d57b51dfc01b999dd54d4.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "SSZkBWAlDhQGkP0N_DVe3TRqG4Of9E_hkp7Tq1wj60ggwyF037EITA=="
+  }
+}

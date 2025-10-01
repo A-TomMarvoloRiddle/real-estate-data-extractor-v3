@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/111-4th-Ave-APT-3I-New-York-NY-10003/72512807_zpid/",
+  "external_property_id": "72512807",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "02333c1e2f8c4a3c3b154961bcd830f6",
+  "property_id": "be0aa69cc40c8be933f31ef42e4cff82",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

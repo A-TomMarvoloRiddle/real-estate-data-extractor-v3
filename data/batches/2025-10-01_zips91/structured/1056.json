@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/78-Irving-Pl-PENTHOUSE-New-York-NY-10003/442912996_zpid/",
+  "external_property_id": "442912996",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "31011942e224c1be0926474f3193f157",
+  "property_id": "4b49ae5b1c12cb65f916645d7497f5fd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/323-W-11th-St-2WE-New-York-NY-10014/81776255_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:52:57 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2419f132a1-2fbb-4b8d-9a05-53f98b56e403; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:52:57 GMT; Path=/; Domain=.zillow.com, zgsession=1|bba4c008-9b16-4b1a-ade9-39977a352dd1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4c9bf-uCxfX23j30JO6pRGIrKgUB7WhZY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "233",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "wMqLg-3jsR8R5bnhlFfTo3k_fngsQp4YiOwNmGLLsvNyNhaizxLGKQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1009-N-Riverwalk-St-Chicago-IL-60610/80844286_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:42:26 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2402ed0b9f-10ef-4b7a-a310-00891e8b128c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:42:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|e13102cc-820c-4427-a4fc-0314d63f392e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"66469-7BM7Vs7db8vSIMPCb4o29/YKj80\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "262",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "x-3TWE_eEX3wjsdOIi58UOwYhz5ukwt1078QvWUBWSd_LHhpWfZhdQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

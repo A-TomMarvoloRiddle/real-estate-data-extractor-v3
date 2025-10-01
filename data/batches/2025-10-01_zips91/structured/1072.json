@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/217-2nd-Ave-PENTHOUSE-New-York-NY-10003/456549603_zpid/",
+  "external_property_id": "456549603",
+  "scraped_timestamp": "2025-10-01T13:53:31Z",
+  "status": "blocked",
+  "listing_id": "aa14ee4744af3f295cd510fa3c8f97ee",
+  "property_id": "f1fb73d30fb318632c4c8f59750742a6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

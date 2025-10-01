@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/505-W-19th-St-PENTHOUSE-2-New-York-NY-10011/219648395_zpid/",
+  "external_property_id": "219648395",
+  "scraped_timestamp": "2025-10-01T13:54:03Z",
+  "status": "blocked",
+  "listing_id": "70cc9115d139013f0ac3e5a6856209aa",
+  "property_id": "d752488b46fd3518d72c3b8218ae7f5f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

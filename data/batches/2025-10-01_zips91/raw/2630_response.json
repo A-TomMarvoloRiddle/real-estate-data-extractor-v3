@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1252-W-Carmen-Ave-Chicago-IL-60640/99346104_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:05 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24cd8d7087-3dcf-4186-a08b-98126d742754; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|790c3aba-ccd4-4bc9-a47c-3c2c45df98d3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"81236-rgrZp9h5vBXfHrx8J++ucwh41XI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "282",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "s19Sphnvp-LWdQSM-5vC7o87E4q4RGnvc-bchzfNac2WAIvEy6KX7g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

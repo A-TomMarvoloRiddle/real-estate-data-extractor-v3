@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/70-W-3rd-St-PENTHOUSE-3-New-York-NY-10012/452054416_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:03 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2434875d10-1857-400f-bb10-652ce0df5608; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|0982c73c-59e9-436c-9d4c-1e437a45a4fd; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d42c-xiI5k+3JbHyGdz+S9hrcv+lbQbs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "203",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "oUvinMcBbWMeUKrchv_we4XWvBZhsmjvlLslh0sLtT0F2ByNFl_zxA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

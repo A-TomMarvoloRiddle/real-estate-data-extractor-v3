@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1310-N-Ritchie-Ct-APT-7D-Chicago-IL-60610/3844477_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:23 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247c8a635d-dc58-4cbb-b420-28d6c5959c42; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|711e29ed-feeb-43b4-bfa0-9fafc9ba6b79; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"65024-PejTr2Vj5EdHiHxK6KU5glFFrMM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "237",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "cIB_nn5gMEj6WROWDgI3T37uGfwTzkcAjWyhNjjorrXmbcnaAw3zkA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

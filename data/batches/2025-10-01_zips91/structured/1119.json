@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/520-W-23rd-St-10011/unit-3H/home/109991814",
+  "external_property_id": "109991814",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "012ba3c6ade1b4a02e0b4a003d2010c4",
+  "property_id": "8eaba0fe4eb938a93bbde8a2ba6cb939",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

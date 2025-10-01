@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/211-W-84th-St-PENTHOUSE-New-York-NY-10024/447004155_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:26 GMT",
+    "via": "1.1 zgs, 1.1 c68e106b410a906e09f6600e66757242.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24405b2df1-a963-4a49-8a14-41abef25f8ee; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|efee59e8-7891-4910-96e4-1d64eb5092e4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"60c26-kyRI26seCGKbMiqncMSkRFKCrHA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "254",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "GAZWAZvNBBhIqjR_pfa_Z_8G7ozyMCwULEgjhz4i98eYW_WvGpeGCQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

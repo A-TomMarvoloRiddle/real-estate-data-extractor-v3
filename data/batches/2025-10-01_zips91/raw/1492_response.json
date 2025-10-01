@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/257-Central-Park-W-APT-7F-New-York-NY-10024/300200064_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:03:21 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2477a5b49d-5520-400e-a9c1-ef095b2d1046; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:03:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|5640a1b4-b47f-483f-be19-8a1c5b914a13; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53cf1-pgU7nof+eopFEWWUxZZ/vj1uInQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "289",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "p-8n8rBBvH81PLHBJsH5KzaEFxqPS8dzHdWoVfbF2eqeZqprYOkpjQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

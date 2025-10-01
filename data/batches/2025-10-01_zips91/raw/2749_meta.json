@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/500-W-Superior-St-60654/unit-2204/home/18925476",
+  "final_url": "https://www.redfin.com/IL/Chicago/500-W-Superior-St-60654/unit-2204/home/18925476",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:06:25Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2749
+}

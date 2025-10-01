@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/29-E-9th-St-APT-10-New-York-NY-10003/72512890_zpid/",
+  "external_property_id": "72512890",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "2dd66d6cfe5e96c9d5edf7cd726226fd",
+  "property_id": "832eba97e5ad1361dec1bf53a30fded2",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

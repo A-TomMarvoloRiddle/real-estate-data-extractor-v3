@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/38-E-76th-St-New-York-NY-10021/350519309_zpid/",
+  "external_property_id": "350519309",
+  "scraped_timestamp": "2025-10-01T13:55:43Z",
+  "status": "blocked",
+  "listing_id": "b7744c14c3834320e1eab7d2855acc54",
+  "property_id": "4cca560958b16d833f7dc5d5a60ae26b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

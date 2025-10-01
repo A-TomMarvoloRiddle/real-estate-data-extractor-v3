@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/325-Bowery-UNIT-PH-New-York-NY-10003/456855734_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:39:07 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2470397aa7-0432-433f-b7db-ecb2ea74d8ab; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:39:07 GMT; Path=/; Domain=.zillow.com, zgsession=1|19de5a2c-b023-423b-a7ef-ca92a3351458; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50710-n1bm0NnItEDwG7VzI9UcwF6QLMc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "209",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "J0ituKvLcTtfgkdJKxsUvKc5wg7LIxeHUx0CBwkj5U_BYjPyh1ndYg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

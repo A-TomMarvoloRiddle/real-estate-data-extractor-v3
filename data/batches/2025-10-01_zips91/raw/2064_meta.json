@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Encino/15901-High-Knoll-Rd-91436/home/4918222",
+  "final_url": "https://www.redfin.com/CA/Encino/15901-High-Knoll-Rd-91436/home/4918222",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:31:18Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2064
+}

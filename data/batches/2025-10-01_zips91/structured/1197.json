@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/110-Mercer-St-10012/unit-4/home/198078129",
+  "external_property_id": "198078129",
+  "scraped_timestamp": "2025-10-01T13:54:20Z",
+  "status": "blocked",
+  "listing_id": "20cfffc33d82f28e10714d7e40197271",
+  "property_id": "73b2f02714af22ccba7977d1a0b6fa1b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/230-W-78th-St-PENTHOUSE-19-New-York-NY-10024/89331411_zpid/",
+  "external_property_id": "89331411",
+  "scraped_timestamp": "2025-10-01T13:56:39Z",
+  "status": "blocked",
+  "listing_id": "54e8afabd813ff3390856d7ac0ad3338",
+  "property_id": "3a00a18585c9b433d810576d0f1710d4",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

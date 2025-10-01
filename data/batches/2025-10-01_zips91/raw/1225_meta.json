@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/100-Prince-St-APT-5W-New-York-NY-10012/447567920_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/100-Prince-St-APT-5W-New-York-NY-10012/447567920_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:49:46Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1225
+}

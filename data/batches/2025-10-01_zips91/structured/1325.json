@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/96-Perry-St-APT-B17B-New-York-NY-10014/244708521_zpid/",
+  "external_property_id": "244708521",
+  "scraped_timestamp": "2025-10-01T13:55:34Z",
+  "status": "blocked",
+  "listing_id": "f983fb79f5fb3a38a4576fc632b81b1e",
+  "property_id": "b269a2f94b408c5eabd153ed1c0c93f3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

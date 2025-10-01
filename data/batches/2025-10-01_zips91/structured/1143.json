@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/165-W-20th-St-6ABC-New-York-NY-10011/2066877752_zpid/",
+  "external_property_id": "2066877752",
+  "scraped_timestamp": "2025-10-01T13:53:58Z",
+  "status": "blocked",
+  "listing_id": "faa329c837298f5883921a176dd172cb",
+  "property_id": "fc3afedfee232cd443ba36400009fb86",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

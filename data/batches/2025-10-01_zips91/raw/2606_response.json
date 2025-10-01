@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/5131-N-Kenmore-Ave-3S-Chicago-IL-60640/58360302_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:44 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2462879840-4c59-4ca3-80be-c7ed698abec9; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|6e9a20ee-965e-44a6-8719-eb1ed51d642b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"508d7-OiInxWha5dAr3UiYQWsoBsheJ/0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "294",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "_y0nsxEo-vhcA7ro1FIe_teK0JNWDfRhZOPvhe1b3Y15vpjCDaNxzg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

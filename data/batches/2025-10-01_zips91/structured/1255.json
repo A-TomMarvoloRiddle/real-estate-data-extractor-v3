@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/9-Barrow-St-10014/unit-3H/home/63689971",
+  "external_property_id": "63689971",
+  "scraped_timestamp": "2025-10-01T13:54:57Z",
+  "status": "blocked",
+  "listing_id": "77f36137904b4dcc4cfd6a08bd544f00",
+  "property_id": "f4235689697b99ea00ade4aca9f07196",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

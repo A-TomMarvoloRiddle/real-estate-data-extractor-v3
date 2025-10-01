@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/508-Broadway-10012/home/45317141",
+  "external_property_id": "45317141",
+  "scraped_timestamp": "2025-10-01T13:54:20Z",
+  "status": "blocked",
+  "listing_id": "a415c74777954102daa9a0c882c47cc4",
+  "property_id": "75a4a7a3b6700bc2456829995f0ae85e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

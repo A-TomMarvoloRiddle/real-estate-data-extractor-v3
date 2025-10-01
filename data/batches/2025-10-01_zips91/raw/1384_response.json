@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/900-5th-Ave-APT-14C-New-York-NY-10021/244899390_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:53 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241cce44cb-9c92-4dcc-bf5e-3d8998d60378; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:53 GMT; Path=/; Domain=.zillow.com, zgsession=1|f578ad17-a3c6-4dde-9e03-9b0ef801f62a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4af84-Ligr7JIrSqzNb4zOsU/6RllJJxg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "350",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YGHTahN1Jj9fwhpBrNAlMZtik7vcxNESvWSPSNVplDdzP_YRRh5R9g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/129-Greene-St-FL-2-New-York-NY-10012/2092464387_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:48 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b32be5f7-8efa-4057-86d4-93940bbfec2a; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|3d925b1a-154c-4a0f-a346-71dbcf0a9207; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4a17a-A9iAfFdz2oykOBUARyxYXIFiqwQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "4F4kb9Vog4pNtRbB6OvMnKDll5Vt9wPbcfGYSLTzo6rpO2kHJVLBcw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

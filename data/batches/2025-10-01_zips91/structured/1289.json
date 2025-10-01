@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/146-Waverly-Pl-New-York-NY-10014/219635874_zpid/",
+  "external_property_id": "219635874",
+  "scraped_timestamp": "2025-10-01T13:55:02Z",
+  "status": "blocked",
+  "listing_id": "e968e8eb9f376171c42d909c4a03302d",
+  "property_id": "f17e525e911304d9b9a867cab1478de2",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

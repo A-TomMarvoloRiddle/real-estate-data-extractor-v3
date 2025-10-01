@@ -2,63 +2,47 @@
 # Robust parser for Zillow/Redfin detail pages (new schema, with strong fallbacks)
 
 from __future__ import annotations
-import hashlib, json, re, html
+import hashlib
+import json
+import re
+import html
 from pathlib import Path
 from typing import Dict, List, Optional
 from urllib.parse import urljoin, urlparse
-
 from bs4 import BeautifulSoup
-from src.settings import PROJECT_ROOT, now_utc_iso
+from src.settings import PROJECT_ROOT, now_utc_iso, to_float, to_int, s_trim, latest_batch_dir
 
 BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
 NUM_RE = re.compile(r"[^\d\.]+")
 
 # ---------------- utils ----------------
-def to_int(x):
-    if x is None: return None
-    s = re.sub(NUM_RE, "", str(x))
-    if not s: return None
-    try: return int(float(s))
-    except: return None
-
-def to_float(x):
-    if x is None: return None
-    s = re.sub(NUM_RE, "", str(x))
-    if not s: return None
-    try: return float(s)
-    except: return None
-
-def s_trim(x):
-    if x is None: return None
-    t = str(x).strip()
-    return t or None
 
 def guess_source(u: str) -> str:
     return "zillow" if "zillow.com" in u else ("redfin" if "redfin.com" in u else "unknown")
 
 def ext_id(u: str, sid: str) -> Optional[str]:
     if sid == "zillow":
-        m = re.search(r"/(\d+)_zpid", u); return m.group(1) if m else None
+        m = re.search(r"/(\d+)_zpid", u)
+        return m.group(1) if m else None
     if sid == "redfin":
-        m = re.search(r"/home/(\d+)", u); return m.group(1) if m else None
+        m = re.search(r"/home/(\d+)", u)
+        return m.group(1) if m else None
     return None
 
 def stable_id(*parts: str) -> str:
     return hashlib.sha1("|".join([p or "" for p in parts]).encode("utf-8")).hexdigest()[:32]
 
-def _latest_batch_dir() -> Path:
-    ds = [p for p in (BATCHES_ROOT).iterdir() if p.is_dir()]
-    if not ds: raise RuntimeError("No batches found. Run: python -m src.batch")
-    return max(ds, key=lambda p: p.stat().st_mtime)
 
 def _read_text(p: Path) -> str:
     return p.read_text(encoding="utf-8", errors="ignore")
 
 def _read_json(p: Path, default=None):
-    if not p.exists(): return default
+    if not p.exists(): 
+        return default
     try:
         return json.loads(_read_text(p))
-    except Exception: return default
+    except Exception: 
+        return default
 
 def _write_json(p: Path, obj):
     p.parent.mkdir(parents=True, exist_ok=True)
@@ -67,7 +51,6 @@ def _write_json(p: Path, obj):
 def _blocked(html: str) -> bool:
     t = (html or "").lower()
     bad = ("captcha", "access denied", "forbidden", "unusual traffic", "are you a human", "bot detection")
-    # صفحات حماية/خفيفة جداً
     return len(t) < 4000 or any(b in t for b in bad)
 
 # ---------------- Zillow extractors ----------------
@@ -91,13 +74,20 @@ def zillow_from_apollo(soup: BeautifulSoup) -> Dict:
                 out.setdefault("postal_code", s_trim(addr.get("zipcode")))
                 out.setdefault("latitude", to_float(addr.get("latitude")))
                 out.setdefault("longitude", to_float(addr.get("longitude")))
-            if "bedrooms" in d: out.setdefault("beds", to_float(d.get("bedrooms")))
-            if "bathrooms" in d: out.setdefault("baths", to_float(d.get("bathrooms")))
-            if "livingArea" in d: out.setdefault("interior_area_sqft", to_int(d.get("livingArea")))
-            if "lotAreaValue" in d: out.setdefault("lot_size_sqft", to_int(d.get("lotAreaValue")))
-            if "price" in d: out.setdefault("list_price", to_int(d.get("price")))
-            if "yearBuilt" in d: out.setdefault("year_built", to_int(d.get("yearBuilt")))
-            if "description" in d: out.setdefault("description", s_trim(d.get("description")))
+            if "bedrooms" in d: 
+                out.setdefault("beds", to_float(d.get("bedrooms")))
+            if "bathrooms" in d: 
+                out.setdefault("baths", to_float(d.get("bathrooms")))
+            if "livingArea" in d: 
+                out.setdefault("interior_area_sqft", to_int(d.get("livingArea")))
+            if "lotAreaValue" in d: 
+                out.setdefault("lot_size_sqft", to_int(d.get("lotAreaValue")))
+            if "price" in d: 
+                out.setdefault("list_price", to_int(d.get("price")))
+            if "yearBuilt" in d: 
+                out.setdefault("year_built", to_int(d.get("yearBuilt")))
+            if "description" in d: 
+                out.setdefault("description", s_trim(d.get("description")))
             photos = d.get("photos") or d.get("image") or d.get("images")
             if isinstance(photos, list):
                 out.setdefault("images", [])
@@ -105,7 +95,7 @@ def zillow_from_apollo(soup: BeautifulSoup) -> Dict:
                     u = ph.get("url") if isinstance(ph, dict) else ph
                     if isinstance(u, str) and len(out["images"]) < 20 and u not in out["images"]:
                         out["images"].append(u)
-            # agents (إن وجدت)
+            # agents
             for key in ("listingAgent", "agent", "agents"):
                 ag = d.get(key)
                 if ag:
@@ -126,7 +116,7 @@ def zillow_from_apollo(soup: BeautifulSoup) -> Dict:
                             "brokerage": s_trim(ag.get("brokerageName") or ag.get("brokerage")),
                             "email": s_trim(ag.get("email")),
                         })
-            # price history (إن وجدت)
+            # price history
             if isinstance(d.get("priceHistory"), list):
                 out.setdefault("price_history", [])
                 for ev in d["priceHistory"]:
@@ -137,9 +127,11 @@ def zillow_from_apollo(soup: BeautifulSoup) -> Dict:
                             "price": to_int(ev.get("price")),
                             "notes": s_trim(ev.get("description")),
                         })
-            for v in d.values(): walk(v)
+            for v in d.values(): 
+                walk(v)
         elif isinstance(d, list):
-            for v in d: walk(v)
+            for v in d:
+                walk(v)
     walk(data)
     return out
 
@@ -154,6 +146,27 @@ def redfin_from_nextdata(soup: BeautifulSoup) -> Dict:
     except Exception:
         return out
 
+    DESC_KEYS = ("marketingRemarks","homeDescription","remarks","remarksText","descriptionHtml","publicRemarks","description")
+    ENG_KEYS  = ("views","viewCount","viewsCount","totalViews","favorites","favoriteCount","favoritesCount","saves","saveCount","savesCount","shares","shareCount")
+
+    def _set_eng(key, val):
+        try:
+            ival = int(val)
+        except Exception:
+            try:
+                ival = int(str(val).replace(",",""))
+            except Exception:
+                ival = None
+        if ival is None:
+            return
+        k = key.lower()
+        if "view" in k:
+            out.setdefault("metrics_views", ival)
+        elif "save" in k or "favor" in k:
+            out.setdefault("metrics_saves", ival)
+        elif "share" in k: 
+            out.setdefault("metrics_shares", ival)
+
     def walk(d):
         if isinstance(d, dict):
             addr = d.get("address")
@@ -164,42 +177,70 @@ def redfin_from_nextdata(soup: BeautifulSoup) -> Dict:
                 out.setdefault("postal_code", s_trim(addr.get("zip")))
                 out.setdefault("latitude", to_float(addr.get("lat")))
                 out.setdefault("longitude", to_float(addr.get("lng")))
-            if "beds" in d: out.setdefault("beds", to_float(d.get("beds")))
-            if "baths" in d: out.setdefault("baths", to_float(d.get("baths")))
-            if "sqFt" in d: out.setdefault("interior_area_sqft", to_int(d.get("sqFt")))
-            if "lotSize" in d: out.setdefault("lot_size_sqft", to_int(d.get("lotSize")))
-            if "price" in d: out.setdefault("list_price", to_int(d.get("price")))
-            if "yearBuilt" in d: out.setdefault("year_built", to_int(d.get("yearBuilt")))
-            if "description" in d: out.setdefault("description", s_trim(d.get("description")))
-            # media
-            photos = d.get("photos") or d.get("media") or []
+            if "beds" in d:
+                out.setdefault("beds", to_float(d.get("beds")))
+            if "baths" in d:
+                out.setdefault("baths", to_float(d.get("baths")))
+            if "sqFt" in d: 
+                out.setdefault("interior_area_sqft", to_int(d.get("sqFt")))
+            if "lotSize" in d: 
+                out.setdefault("lot_size_sqft", to_int(d.get("lotSize")))
+            if "lotSizeAcres" in d and not out.get("lot_size_sqft"):
+                try:
+                    out["lot_size_sqft"] = int(round(float(d.get("lotSizeAcres")) * 43560))
+                except Exception:
+                    pass
+            if "price" in d: 
+                out.setdefault("list_price", to_int(d.get("price")))
+            if "yearBuilt" in d: 
+                out.setdefault("year_built", to_int(d.get("yearBuilt")))
+
+            # الوصف
+            for dk in DESC_KEYS:
+                if dk in d and not out.get("description"):
+                    txt = d.get(dk)
+                    if isinstance(txt, str):
+                        out["description"] = s_trim(BeautifulSoup(txt, "html.parser").get_text(" ", strip=True))
+
+            # الصور
+            photos = d.get("photos") or d.get("photoUrls") or d.get("media") or []
             if isinstance(photos, list):
                 out.setdefault("images", [])
                 for ph in photos:
-                    if isinstance(ph, dict):
-                        u = ph.get("url") or ph.get("src")
-                        if isinstance(u, str) and len(out["images"]) < 20 and u not in out["images"]:
-                            out["images"].append(u)
-            # agents
-            listing_agent = d.get("listingAgent") or d.get("agent")
-            if listing_agent:
+                    u = ph.get("url") if isinstance(ph, dict) else ph
+                    if isinstance(u, str) and len(out["images"]) < 20 and u not in out["images"]:
+                        out["images"].append(u)
+
+            for key in ("listingAgent","agent","agents"):
+                ag = d.get(key)
+                if not ag: 
+                    continue
                 out.setdefault("agents", [])
-                if isinstance(listing_agent, list):
-                    for a in listing_agent:
-                        if isinstance(a, dict):
-                            out["agents"].append({
-                                "name": s_trim(a.get("name")),
-                                "phone": s_trim(a.get("phone")),
-                                "brokerage": s_trim(a.get("brokerage")),
-                                "email": s_trim(a.get("email")),
-                            })
-                elif isinstance(listing_agent, dict):
+                if isinstance(ag, dict):
                     out["agents"].append({
-                        "name": s_trim(listing_agent.get("name")),
-                        "phone": s_trim(listing_agent.get("phone")),
-                        "brokerage": s_trim(listing_agent.get("brokerage")),
-                        "email": s_trim(listing_agent.get("email")),
+                        "name": s_trim(ag.get("name") or ag.get("fullName") or ag.get("agentName")),
+                        "phone": s_trim(ag.get("phone") or ag.get("phoneNumber")),
+                        "brokerage": s_trim(ag.get("brokerage")),
+                        "email": s_trim(ag.get("email")),
                     })
+                elif isinstance(ag, list):
+                    for a in ag:
+                        if not isinstance(a, dict): 
+                            continue
+                        out["agents"].append({
+                            "name": s_trim(a.get("name") or a.get("fullName") or a.get("agentName")),
+                            "phone": s_trim(a.get("phone") or a.get("phoneNumber")),
+                            "brokerage": s_trim(a.get("brokerage")),
+                            "email": s_trim(a.get("email")),
+                        })
+
+            # الإنجيجمنت من أي مفتاح متاح
+            for ek in ENG_KEYS:
+                if ek in d and out.get("metrics_views") and out.get("metrics_saves") and out.get("metrics_shares"):
+                    break
+                if ek in d:
+                    _set_eng(ek, d.get(ek))
+
             # price history
             if isinstance(d.get("priceHistory"), list):
                 out.setdefault("price_history", [])
@@ -213,7 +254,8 @@ def redfin_from_nextdata(soup: BeautifulSoup) -> Dict:
                         })
             for v in d.values(): walk(v)
         elif isinstance(d, list):
-            for v in d: walk(v)
+            for v in d: 
+                walk(v)
     walk(data)
     return out
 
@@ -223,19 +265,26 @@ def from_jsonld(soup: BeautifulSoup) -> Dict:
     blocks = []
     for tag in soup.find_all("script", {"type":"application/ld+json"}):
         txt = tag.string or tag.get_text("", strip=True)
-        if not txt: continue
+        if not txt: 
+            continue
         try:
             data = json.loads(txt)
-            if isinstance(data, dict): blocks.append(data)
-            elif isinstance(data, list): blocks.extend([x for x in data if isinstance(x, dict)])
-        except Exception: 
+            if isinstance(data, dict):
+                blocks.append(data)
+            elif isinstance(data, list):
+                blocks.extend([x for x in data if isinstance(x, dict)])
+        except Exception:
             continue
 
     def prefer(a,b):
-        if a is None: return b
-        if b is None: return a
-        if isinstance(a,(int,float)) and isinstance(b,(int,float)): return a if a>=b else b
-        if isinstance(a,str) and isinstance(b,str): return a if len(a)>=len(b) else b
+        if a is None:
+            return b
+        if b is None: 
+            return a
+        if isinstance(a,(int,float)) and isinstance(b,(int,float)): 
+            return a if a>=b else b
+        if isinstance(a,str) and isinstance(b,str): 
+            return a if len(a)>=len(b) else b
         return a or b
 
     for d in blocks:
@@ -249,6 +298,11 @@ def from_jsonld(soup: BeautifulSoup) -> Dict:
             out["city"] = prefer(out.get("city"), s_trim(addr.get("addressLocality")))
             out["state"] = prefer(out.get("state"), s_trim(addr.get("addressRegion")))
             out["postal_code"] = prefer(out.get("postal_code"), s_trim(addr.get("postalCode")))
+        # geo (إضافة مهمة لمعالجة lat/lon)
+        geo = d.get("geo")
+        if isinstance(geo, dict):
+            out["latitude"] = prefer(out.get("latitude"), to_float(geo.get("latitude")))
+            out["longitude"] = prefer(out.get("longitude"), to_float(geo.get("longitude")))
         out["beds"] = prefer(out.get("beds"), to_float(d.get("numberOfBedrooms") or d.get("numberOfRooms")))
         out["baths"] = prefer(out.get("baths"), to_float(d.get("numberOfBathroomsTotal") or d.get("numberOfBathrooms")))
         fs = d.get("floorSize")
@@ -280,7 +334,14 @@ PRICE_RE = re.compile(r'\$\s*([0-9]{1,3}(?:,[0-9]{3})+)', re.I)
 VIEWS_RE = re.compile(r'([0-9]{1,3}(?:,[0-9]{3})*)\s+views?', re.I)
 SAVES_RE = re.compile(r'([0-9]{1,3}(?:,[0-9]{3})*)\s+saves?', re.I)
 FAVS_RE  = re.compile(r'([0-9]{1,3}(?:,[0-9]{3})*)\s+(?:favorites?|favorite|favs?)', re.I)
+SHARE_RE = re.compile(r'([0-9]{1,3}(?:,[0-9]{3})*)\s+shares?', re.I)
 PHONE_RE = re.compile(r'(\(?\d{3}\)?[\s\-\.]?\d{3}[\-\.]?\d{4})')
+
+GENERIC_TITLES = {
+    "about this home", "about this house", "facts and features",
+    "around this home", "neighborhood", "neighborhood info",
+    "neighborhood details", "about this building",
+}
 
 def _text_all(soup: BeautifulSoup) -> str:
     return soup.get_text(" ", strip=True)
@@ -314,14 +375,39 @@ def extract_from_meta(soup: BeautifulSoup) -> Dict:
         out["images"] = list(dict.fromkeys(imgs))[:20]
     return out
 
+def extract_description_dom(soup: BeautifulSoup) -> Optional[str]:
+    selectors = [
+        "[data-rf-test-id='abp-MarketingRemarks']",
+        "[data-testid='marketing-remarks']",
+        "section[data-rf-test-id='home-description']",
+        "[data-rf-test-id='abp-summary']",
+        "[data-rf-test-id='abp-text-summary']",
+        ".marketing-remarks", ".remarks", "#marketing-remarks",
+        "section#marketing-remarks", "section#description"
+    ]
+    candidates = []
+    for sel in selectors:
+        for el in soup.select(sel):
+            txt = el.get_text(" ", strip=True)
+            if txt and len(txt) > 80:
+                candidates.append(txt)
+    if not candidates:
+        for p in soup.find_all(["p", "div"]):
+            txt = p.get_text(" ", strip=True)
+            if txt and len(txt) > 160 and "disclaimer" not in txt.lower():
+                candidates.append(txt)
+    if not candidates:
+        return None
+    return s_trim(max(candidates, key=len))
+
 def extract_from_dom_common(soup: BeautifulSoup, base_url: str) -> Dict:
     out = {}
     # عنوان صفحة: تجنّب العناوين العامة
     for tag in soup.find_all(["h1","h2"]):
         tt = tag.get_text(" ", strip=True)
-        if not tt: 
+        if not tt:
             continue
-        if tt.lower() in ("about this home", "about this house", "facts and features"):
+        if tt.strip().lower() in GENERIC_TITLES:
             continue
         out["title"] = tt
         break
@@ -358,18 +444,24 @@ def extract_from_dom_common(soup: BeautifulSoup, base_url: str) -> Dict:
 
     m = SQFT_RE.search(big)
     if m:
-        try: out["interior_area_sqft"] = int(m.group(1).replace(",", ""))
-        except: pass
+        try: 
+            out["interior_area_sqft"] = int(m.group(1).replace(",", ""))
+        except Exception:
+            pass
 
     # صور من <img>
     imgs = out.get("images", []) or []
     for img in soup.find_all("img"):
         u = img.get("data-src") or img.get("src")
-        if not u: continue
+        if not u:
+            continue
         u = html.unescape((u or "").strip())
-        if not u: continue
-        if u.startswith("//"): u = "https:" + u
-        if u.startswith("/"):  u = urljoin(base_url, u)
+        if not u:
+            continue
+        if u.startswith("//"):
+            u = "https:" + u
+        if u.startswith("/"): 
+            u = urljoin(base_url, u)
         if u.lower().startswith("http"):
             imgs.append(u)
         if len(imgs) >= 30:
@@ -379,38 +471,76 @@ def extract_from_dom_common(soup: BeautifulSoup, base_url: str) -> Dict:
 
     return out
 
+def extract_geo_dom(soup: BeautifulSoup) -> Dict:
+    out = {}
+    # عناصر تحمل lat/lon كـ data-*
+    for el in soup.find_all(attrs={"data-lat": True, "data-lon": True}):
+        lat = to_float(el.get("data-lat"))
+        lon = to_float(el.get("data-lon"))
+        if lat and lon:
+            out["latitude"] = lat
+            out["longitude"] = lon
+            return out
+    # سكربتات أو نصوص فيها latitude/longitude أو lat/lng
+    raw = soup.get_text(" ", strip=False)
+    for rx in (
+        re.compile(r'"latitude"\s*:\s*([-+]?\d+\.\d+).{0,40}"longitude"\s*:\s*([-+]?\d+\.\d+)', re.I|re.S),
+        re.compile(r'"lat"\s*:\s*([-+]?\d+\.\d+).{0,40}"lng"\s*:\s*([-+]?\d+\.\d+)', re.I|re.S),
+    ):
+        m = rx.search(raw)
+        if m:
+            out["latitude"] = to_float(m.group(1))
+            out["longitude"] = to_float(m.group(2))
+            break
+    return out
+
 def extract_engagement_dom(soup: BeautifulSoup) -> Dict:
     out = {}
-    text = _text_all(soup)
+    text = _text_all(soup).lower()
     mv = VIEWS_RE.search(text)
     ms = SAVES_RE.search(text) or FAVS_RE.search(text)
+    mh = SHARE_RE.search(text)
     if mv:
-        try: out["metrics_views"] = int(mv.group(1).replace(",", ""))
-        except: pass
+        try: 
+            out["metrics_views"] = int(mv.group(1).replace(",", ""))
+        except Exception:
+            pass
     if ms:
-        try: out["metrics_saves"] = int(ms.group(1).replace(",", ""))
-        except: pass
+        try:
+            out["metrics_saves"] = int(ms.group(1).replace(",", ""))
+        except Exception:
+            pass
+    if mh:
+        try:
+            out["metrics_shares"] = int(mh.group(1).replace(",", ""))
+        except Exception: 
+            pass
     return out
 
 def extract_agents_dom(soup: BeautifulSoup) -> List[Dict]:
     agents = []
-    for sel in [".agent", ".agent-card", ".listing-agent", "[data-testid='listing-agent']"]:
+    for sel in [".agent", ".agent-card", ".listing-agent", "[data-testid='listing-agent']", "[data-rf-test-id='abp-agent-name']"]:
         for block in soup.select(sel):
             txt = block.get_text(" ", strip=True)
-            if not txt or len(txt) < 3: 
+            if not txt or len(txt) < 3:
                 continue
-            name = None; brokerage = None; phone = None
+            name = None
+            brokerage = None
+            phone = None
             name = txt.split(" - ")[0].strip() if " - " in txt else txt.split(",")[0].strip()
-            pm = PHONE_RE.search(txt)
-            if pm: phone = pm.group(1)
+            pm = re.search(r'(\(?\d{3}\)?[\s\-\.]?\d{3}[\-\.]?\d{4})', txt)
+            if pm: 
+                phone = pm.group(1)
             if any(k in txt for k in ("Realty", "Broker", "Compass", "Keller", "Sotheby", "Douglas", "EXP")):
                 brokerage = "Brokerage"
             agents.append({"name": s_trim(name), "phone": s_trim(phone), "brokerage": s_trim(brokerage), "email": None})
     uniq, seen = [], set()
     for a in agents:
         key = (a.get("name"), a.get("phone"))
-        if key in seen: continue
-        seen.add(key); uniq.append(a)
+        if key in seen: 
+            continue
+        seen.add(key)
+        uniq.append(a)
     return uniq[:5]
 
 def extract_price_history_dom(soup: BeautifulSoup) -> List[Dict]:
@@ -422,15 +552,19 @@ def extract_price_history_dom(soup: BeautifulSoup) -> List[Dict]:
         price = int(m.group(2).replace(",", ""))
         chunk = text[m.start(): m.end()+40]
         et = "price_event"
-        if "Listed" in chunk: et = "listed"
-        elif "Sold" in chunk: et = "sold"
-        elif "Price" in chunk: et = "price_change"
+        if "Listed" in chunk: 
+            et = "listed"
+        elif "Sold" in chunk: 
+            et = "sold"
+        elif "Price" in chunk:
+            et = "price_change"
         events.append({"event_date": dt, "event_type": et, "price": price, "notes": None})
     return events[:20]
 
 def url_address_fallback(url: str) -> dict:
     out = {}
-    if not url: return out
+    if not url: 
+        return out
     try:
         parts = [p for p in urlparse(url).path.split("/") if p]
         # Redfin: /NY/New-York/111-4th-Ave-10003/unit-3I/home/45142411
@@ -452,8 +586,8 @@ def url_address_fallback(url: str) -> dict:
     except Exception:
         pass
     return {k:v for k,v in out.items() if v}
-
 # ---------------- main per-page ----------------
+
 def parse_one_detail_html(html: str, url: str) -> Dict:
     soup = BeautifulSoup(html or "", "html.parser")
     sid = guess_source(url)
@@ -468,8 +602,10 @@ def parse_one_detail_html(html: str, url: str) -> Dict:
         return rec
 
     # 1) Rich JSON (primary)
-    if sid == "zillow": rec.update({k:v for k,v in zillow_from_apollo(soup).items() if v not in (None,"",[],{})})
-    if sid == "redfin": rec.update({k:v for k,v in redfin_from_nextdata(soup).items() if v not in (None,"",[],{})})
+    if sid == "zillow": 
+        rec.update({k:v for k,v in zillow_from_apollo(soup).items() if v not in (None,"",[],{})})
+    if sid == "redfin":
+        rec.update({k:v for k,v in redfin_from_nextdata(soup).items() if v not in (None,"",[],{})})
 
     # 2) JSON-LD (secondary)
     jl = from_jsonld(soup)
@@ -488,7 +624,20 @@ def parse_one_detail_html(html: str, url: str) -> Dict:
         if rec.get(k) in (None, "", [], {}):
             rec[k] = v
 
-    # Engagement
+    # Description fallback من DOM إذا ظل فاضي
+    if not s_trim(rec.get("description")):
+        dd = extract_description_dom(soup)
+        if dd:
+            rec["description"] = dd
+
+    # Geo fallback من DOM/نص السكربت
+    if not rec.get("latitude") or not rec.get("longitude"):
+        geo = extract_geo_dom(soup)
+        for k, v in geo.items():
+            if rec.get(k) in (None, "", [], {}) and v is not None:
+                rec[k] = v
+
+    # Engagement (views/saves/shares)
     eng = extract_engagement_dom(soup)
     for k, v in eng.items():
         if rec.get(k) in (None, "", [], {}):
@@ -517,23 +666,27 @@ def parse_one_detail_html(html: str, url: str) -> Dict:
         uniq, seen = [], set()
         for u in imgs:
             u = s_trim(u)
-            if not u or u in seen: continue
-            uniq.append(u); seen.add(u)
-            if len(uniq) >= 30: break
+            if not u or u in seen: 
+                continue
+            uniq.append(u)
+            seen.add(u)
+            if len(uniq) >= 30: 
+                break
         rec["images"] = uniq
 
-    # تنظيف العنوان “About this home”
-    if (rec.get("title") or "").strip().lower() in ("about this home", "about this house"):
+    # تنظيف العنوان العام
+    if (rec.get("title") or "").strip().lower() in GENERIC_TITLES:
         rec["title"] = None
 
     return rec
 
 # ---------------- batch API ----------------
 def parse_all_details(batch_id: Optional[str] = None, limit: int = 50) -> None:
-    base = _latest_batch_dir() if batch_id is None else (BATCHES_ROOT / batch_id)
+    base = latest_batch_dir() if batch_id is None else (BATCHES_ROOT / batch_id)
     raw, struct = base/"raw", base/"structured"
     files = sorted(raw.glob("1???_raw.html"))[:limit]
-    if not files: raise FileNotFoundError("No raw detail files found")
+    if not files: 
+        raise FileNotFoundError("No raw detail files found")
 
     wrote=0
     for f in files:
@@ -552,7 +705,8 @@ def parse_all_details(batch_id: Optional[str] = None, limit: int = 50) -> None:
             rec["batch_id"]=base.name
 
             out=struct/f.name.replace("_raw.html",".json")
-            _write_json(out,rec); wrote+=1
+            _write_json(out,rec)
+            wrote+=1
         except Exception as e:
             _write_json(struct/f.name.replace("_raw.html","_error.json"),{"error":str(e)})
 
@@ -571,7 +725,8 @@ def to_adapted_rows(rec: Dict) -> Dict[str, List[Dict]]:
     city = s_trim(rec.get("city"))
     state = s_trim(rec.get("state"))
     postal = s_trim(rec.get("postal_code"))
-    lat = rec.get("latitude"); lon = rec.get("longitude")
+    lat = rec.get("latitude")
+    lon = rec.get("longitude")
     beds = to_float(rec.get("beds"))
     baths = to_float(rec.get("baths"))
     area = to_int(rec.get("interior_area_sqft"))
@@ -650,7 +805,7 @@ def to_adapted_rows(rec: Dict) -> Dict[str, List[Dict]]:
             "notes": s_trim(ev.get("notes")),
         })
 
-    # engagement
+    # engagement (صار يشمل shares)
     engagement = [{
         "listing_id": listing_id,
         "views": to_int(rec.get("metrics_views")),
@@ -658,7 +813,7 @@ def to_adapted_rows(rec: Dict) -> Dict[str, List[Dict]]:
         "shares": to_int(rec.get("metrics_shares")),
     }]
 
-    # locations (كان فاضي: نعبّيه الآن)
+    # locations (نكتب صف حتى لو lat/lon None)
     loc_key = "|".join([street or "", s_trim(rec.get("unit_number")) or "", city or "", state or "", postal or "", str(lat or ""), str(lon or "")])
     location_id = hashlib.sha1(loc_key.encode("utf-8")).hexdigest() if loc_key.strip("|") else stable_id(sid, "loc", property_id or surl or "")
     locations = [{

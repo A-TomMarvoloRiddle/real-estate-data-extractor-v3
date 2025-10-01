@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/145-W-12th-St-APT-4-5-New-York-NY-10011/219646463_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:48 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24aab35818-dc9f-4984-b07e-23e382534dab; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|749d2b65-073f-431e-b549-c8efbc5c1873; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4beee-ajbyQfef21dCA2CAxsp2vZuynT4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "288",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "wKeYpcUrMX16C0lFr9tTH9oFbZJeVRS36aZnB5M3P1c4ySQFq-jx7Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/1-5th-Ave-10003/unit-12H/home/102004310",
+  "external_property_id": "102004310",
+  "scraped_timestamp": "2025-10-01T13:53:21Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1950000,
+  "beds": 3.0,
+  "baths": 1.5,
+  "interior_area_sqft": 238923,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/733/RLS20050733_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_3_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_10_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_5_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_8_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_2_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/733/genMid.RLS20050733_7_4.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7319935%2C-73.9963481&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=dZLAZuaWGQiuT5-U6DfXVPL7Yms=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "A One-Bedroom Jewel at One Fifth Avenue  APARTMENT From the moment you step into this one-bedroom perfectly positioned on the 12th floor, the views steal the show. Imagine waking up high above Greenwich Village, where the morning light streams through your windows and the city unfolds before you. Facing south, the unobstructed view through your windows frame Washington Square Park , the Freedom Tower , and the endless city beyond—an ever-changing backdrop that feels almost cinematic. Sunlight pours in all day. The living room is a sun-drenched haven, where custom bookcases invite you to curl up with a favorite novel and watch the city below. The kitchen, with its glass-front cabinetry , stone counters , and black-and-white penny tile, brings charm and character to everyday rituals, whether preparing a quiet breakfast or hosting friends for dinner. In the bedroom, you wake up to the same sweeping skyline vistas, with ample closets keeping everything neatly tucked away. The bathroom is a spa-like retreat, wrapped in marble with a sleek stall shower and Waterworks fixtures. This is more than just a home—it’s a front-row seat to the Village, in one of New York’s most iconic buildings. BUILDING Located at the start to Fifth Avenue, just north of Washington Square Park, One Fifth Avenue is among the most sought-after residences in downtown Manhattan. Built in 1929 as a luxury hotel by architect Harvey Wiley Corbett, this 27-story landmark building has since been transformed into one of the Village’s most prestigious full-service cooperatives. Residents are welcomed by a magnificent two-story lobby and enjoy the convenience of 24-hour doormen, a live-in superintendent, attentive staff, central laundry, private storage, and a resident lounge overlooking the lobby. Pets are welcome, and pied-à-terres are considered on a case-by-case basis. The cooperative allows financing up to 65%, with subletting permitted after 18 months of ownership. With its distinguished architecture, white-glove services, and unrivaled Gold Coast address overlooking Washington Square Park, One Fifth Avenue offers an incomparable lifestyle surrounded by the neighborhood’s finest dining, cultural institutions, and boutiques. A truly rare opportunity to live in one of Greenwich Village’s most desirable buildings. There is an on-going assessment for this apartment of $150.02.  Please call to schedule a viewing of this lovely home.",
+  "price_history": [
+    {
+      "event_date": "Dec 31, 2014",
+      "event_type": "listed",
+      "price": 1400000,
+      "notes": null
+    }
+  ],
+  "street_address": "1 5th Ave",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "12H",
+  "listing_id": "5cbd6ba2b2d859f68571a5b52784db3c",
+  "property_id": "a29245289fc79b9a526478845c66df70",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

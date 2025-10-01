@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/24-Middagh-St-Brooklyn-NY-11201/142788961_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:22 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b2e6bc94-a472-42d2-8e92-82a8af900be9; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:22 GMT; Path=/; Domain=.zillow.com, zgsession=1|4ccfb21d-224d-4686-83f9-da6ffb69fe76; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58708-HDHEk1nWT+l16cam6DgygPyccJs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "217",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ZnT378BT4DOjEuvuVxlzsjemZWX5WDpUtMcHwzUdr7QSqA3Yi14vYA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

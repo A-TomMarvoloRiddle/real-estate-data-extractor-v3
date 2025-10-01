@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/25-Grace-Ct-Brooklyn-NY-11201/30567654_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:04 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241ea27dc7-3226-45fd-aad1-6cd22a373c06; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|5e2a5f60-7108-4f07-b458-d83f2a513d5a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"66668-D+LG9y2ycb1ajhtde4QoTaKBibA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "263",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Hd0MC8j_Xzj97mvSicHYCqR6PIPmlURWOn3ldc0HKd55vDd_ekYvtQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

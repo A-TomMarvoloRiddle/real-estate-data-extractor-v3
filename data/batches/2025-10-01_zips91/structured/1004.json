@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/205-3rd-Ave-10003/unit-4R/home/45147445",
+  "external_property_id": "45147445",
+  "scraped_timestamp": "2025-10-01T13:53:17Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 735000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 71822,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/805/RLS20051805_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_1_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_5_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_2_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_4_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_3_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/805/genMid.RLS20051805_6_3.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.735952%2C-73.9847706&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=aAqwXOV33rVmr-PSZQeuuD-Rupc=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Discover spacious living and exceptional storage in this beautifully appointed one-bedroom, one-bath residence in one of New York City's most desirable neighborhoods.    & nbsp; The expansive great room is thoughtfully designed to accommodate both living and dining areas, framed by wide north-facing windows that flood the space with natural light. The renovated kitchen is a chef's delight, offering full-size appliances-including a gas range and dishwasher, ample counter space , glass subway tile backsplash , and abundant cabinetry. The tranquil bedroom includes its own windows and flows into a dressing area with generous custom closet space. Beyond, the updated bathroom features a full bathtub. Throughout the home, hardwood floors add warmth and elegance, while additional closets at the entry provide even more storage.   All utilities are included in the maintenance fee-no monthly electric bills.   Gramercy Park Towers is a premier post-war cooperative offering a 24-hour doorman and concierge, state-of-the-art fitness center, peaceful Zen garden, on-site parking, bike storage, and an impressive roof deck with panoramic views of Manhattan. Ideally situated near Union Square and the Flatiron District, you'll have world-class dining, shopping, entertainment, and cultural venues just steps away, along with easy access to the N/Q/R, 4/5/6, and L subway lines.    & nbsp; Please note: pieds- & agrave; -terre are not permitted.   & nbsp; Pets are welcome!",
+  "price_history": [
+    {
+      "event_date": "Dec 30, 2021",
+      "event_type": "listed",
+      "price": 670000,
+      "notes": null
+    }
+  ],
+  "street_address": "205 3rd Ave",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "4R",
+  "listing_id": "1ca4aabfd80993abc009172796e6990c",
+  "property_id": "3c42d4519021bd521c4e8c5850f5bbbf",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

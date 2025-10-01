@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/520-La-Guardia-Pl-6N-New-York-NY-10012/440238902_zpid/",
+  "external_property_id": "440238902",
+  "scraped_timestamp": "2025-10-01T13:54:55Z",
+  "status": "blocked",
+  "listing_id": "650fdbcbcb99b565036c580e70664284",
+  "property_id": "e9e1effe797504513808996c5ab92351",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

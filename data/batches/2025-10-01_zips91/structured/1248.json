@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/79-Perry-St-10014/unit-1B/home/185374050",
+  "external_property_id": "185374050",
+  "scraped_timestamp": "2025-10-01T13:54:56Z",
+  "status": "blocked",
+  "listing_id": "a2b53141b58f08a610ea6aaf7a9ba345",
+  "property_id": "1f8a6dc67629a285e2253b754f8fbed6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

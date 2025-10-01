@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/140-W-10th-St-3R-New-York-NY-10014/453372339_zpid/",
+  "external_property_id": "453372339",
+  "scraped_timestamp": "2025-10-01T13:55:28Z",
+  "status": "blocked",
+  "listing_id": "1fb990aa18d2a1a2440b03a8083f2024",
+  "property_id": "c4483bc4bcf00b7cc1941190cba48591",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

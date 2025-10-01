@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/48-Bond-St-APT-4B-New-York-NY-10012/81949776_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:31 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24822d8d69-bd58-4daf-b4f8-89c985e8f6ba; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:31 GMT; Path=/; Domain=.zillow.com, zgsession=1|2ecd175e-37e9-4cad-9ba5-fa340e1dc442; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d501-aFKVflBeT4IW4zNnhYAYfiWxMTI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "225",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "qww45I8S7Ig4l8DJgqHBhgavBm3ifip9RKmvl8YzBI3L397pYrFfng==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

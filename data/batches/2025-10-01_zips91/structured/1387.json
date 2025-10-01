@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/190-E-72nd-St-34CD-Manhattan-NY-10021/325627194_zpid/",
+  "external_property_id": "325627194",
+  "scraped_timestamp": "2025-10-01T13:55:56Z",
+  "status": "blocked",
+  "listing_id": "bb8dcd7468400b36138db2d8864ebefc",
+  "property_id": "10e144a9e076441f6f5a3b003e2897f0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

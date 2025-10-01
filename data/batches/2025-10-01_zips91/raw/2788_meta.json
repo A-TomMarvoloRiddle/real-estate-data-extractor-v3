@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/820-W-Wolfram-St-60657/unit-B/home/12699355",
+  "final_url": "https://www.redfin.com/IL/Chicago/820-W-Wolfram-St-60657/unit-B/home/12699355",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:08:37Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2788
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/152-W-13th-St-New-York-NY-10011/31499900_zpid/",
+  "external_property_id": "31499900",
+  "scraped_timestamp": "2025-10-01T13:53:44Z",
+  "status": "blocked",
+  "listing_id": "00d8d1dfef798ee67032b7e2e7534788",
+  "property_id": "a139c87055345346c4cd1aea6377b679",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

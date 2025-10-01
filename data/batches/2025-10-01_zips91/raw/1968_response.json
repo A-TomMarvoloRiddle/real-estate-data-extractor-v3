@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/CA/Pacific-Palisades/601-N-Marquette-St-90272/home/6842746",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 12:26:22 GMT",
+    "Content-Length": "2040",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 6178d33f7463416ad021f955af8e68da.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "cV6FiASC3IqIFxw0LYlHKTgeOmHkRg3gibd0w17bOTHUd_Bm3yw-Cg=="
+  }
+}

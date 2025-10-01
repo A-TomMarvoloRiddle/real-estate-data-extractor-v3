@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/77-Perry-St-APT-4C-New-York-NY-10014/72514315_zpid/",
+  "external_property_id": "72514315",
+  "scraped_timestamp": "2025-10-01T13:55:36Z",
+  "status": "blocked",
+  "listing_id": "94c6010a284a4af5204590b25549764e",
+  "property_id": "adf88356d327108c9c6f0b1d0101810f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

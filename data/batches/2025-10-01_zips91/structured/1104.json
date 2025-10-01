@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/165-W-20th-St-10011/unit-6ABC/home/194396270",
+  "external_property_id": "194396270",
+  "scraped_timestamp": "2025-10-01T13:53:38Z",
+  "status": "blocked",
+  "listing_id": "e92309a61adc6332483d67123e82d6c4",
+  "property_id": "1b4830e15cd8ea38010f75f83bf01e55",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

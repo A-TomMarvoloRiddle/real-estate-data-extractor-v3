@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1000-W-Washington-Blvd-UNIT-517-Chicago-IL-60607/54537899_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:07 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24629fad73-132e-441a-ae3e-d97b176a8efa; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:07 GMT; Path=/; Domain=.zillow.com, zgsession=1|102507b7-a42f-4fb6-8a41-dba7d10a7df4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50b03-F3G0CUgAvWCRWb+4EWGuVycjgkg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "234",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "2IQxLDX8NctJJnVrqlTl947tS2_BlI0DDaCJ5w2V_0UOclPGzWjWsA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

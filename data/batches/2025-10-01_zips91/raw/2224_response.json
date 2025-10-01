@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1000-W-Washington-Blvd-UNIT-334-Chicago-IL-60607/54537637_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:44 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2431cc65d7-cd07-4294-93fe-2d624e3f16df; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|60dda043-43f7-4430-8985-63cccd586ff5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53769-urrRhWeAS1bwCeq36EqfjFt5iQQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "286",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "op3Sh8vmzMyvKSA8qykm65hr2RlL5J-WmphV8ITl1MhO0zC_S3x5ZA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

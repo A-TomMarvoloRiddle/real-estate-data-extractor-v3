@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/48-Bond-St-APT-4B-New-York-NY-10012/81949776_zpid/",
+  "external_property_id": "81949776",
+  "scraped_timestamp": "2025-10-01T13:54:51Z",
+  "status": "blocked",
+  "listing_id": "69b5520a8c0a066f64c984606f8c4a8a",
+  "property_id": "a9d2e6e499371dbbe6972393b6741516",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/212-E-70th-St-APT-4B-New-York-NY-10021/89329171_zpid/",
+  "external_property_id": "89329171",
+  "scraped_timestamp": "2025-10-01T13:55:49Z",
+  "status": "blocked",
+  "listing_id": "f5a1e0685743c6363207daaa40cfe258",
+  "property_id": "18779f156d280b896d09136bfb8a2f33",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

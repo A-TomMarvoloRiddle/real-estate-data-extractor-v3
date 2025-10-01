@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/45-5th-Ave-APT-9D-New-York-NY-10003/244549704_zpid/",
+  "external_property_id": "244549704",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "d9537f4388057f9a5d1ad406b4da0bc1",
+  "property_id": "9b40e0598e1610707af1efcca953f191",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

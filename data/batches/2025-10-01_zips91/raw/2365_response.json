@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3950-N-Lake-Shore-Dr-APT-2209-Chicago-IL-60613/3713509_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:45:46 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2470faf82c-2b20-4805-b433-81cecdd4cd37; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:45:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|246e5afb-747a-4845-abb1-f75a19bfe681; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"529a8-BGDiRPsDp9AukOvGUs37sDTuFFo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "281",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "h4xavF1wnpsnWP5j5xGQHJcg0bR88hkwEfn_TW-hjphU52s15FnTOA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

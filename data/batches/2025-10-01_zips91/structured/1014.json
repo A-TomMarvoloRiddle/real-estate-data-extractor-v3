@@ -1,0 +1,45 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/23-Waverly-Pl-10003/unit-4R/home/45141864",
+  "external_property_id": "45141864",
+  "scraped_timestamp": "2025-10-01T13:53:20Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 679000,
+  "beds": 0.0,
+  "baths": 1.0,
+  "interior_area_sqft": 550,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/356/RLS20051356_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/356/genMid.RLS20051356_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/356/genMid.RLS20051356_3_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/356/genMid.RLS20051356_2_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/356/genMid.RLS20051356_4_I.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7304336%2C-73.9946441&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=x3-ZxcYwt8D0xEHXkrarZmiOUGs=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "LOFT-LIKE STUDIO with HIGH CEILINGS at 11' and OVERSIZED WINDOWS and EXPOSED BRICK adding Charm to the Entire Apartment. & nbsp;   & nbsp; A Renovated Kitchen with Stainless Appliances & nbsp; and Granite Counters make at home meals easy to prepare. & nbsp; In addition a Built-in Murphy Bed gives you more space in your Living/Dining Area. & nbsp; A Lofted Area with 4' headroom adds either a guest sleeping area or more storage space. & nbsp; In addition an enormous Walk-in Closet offers you the extra storage for all your daily storage needs and a Newly Renovated Bathroom makes this apartment Move-In Ready. & nbsp; The Building has a Beautifully Planted Roof Deck and is completing its long awaited Courtyard Project. & nbsp; Also Washer/Dryers on every floor and & nbsp; a Helpful and Friendly Super and His Assistant for all your needs.   & nbsp; Waverly Place is in a Prime Village Location providing easy access to great shopping along University Avenue just around the corner and the newer and large Wegman's offering a great take out food section as well as a large Supermarket on the lower level. & nbsp; In addition all major subway lines are easily accessible. & nbsp; Pets are welcomed in this Building.  Email or call for immediate appointments to view this move-in ready Apartment. & nbsp; Your New Home Awaits You in this Incredible Downtown Location.",
+  "price_history": [
+    {
+      "event_date": "Oct 23, 2013",
+      "event_type": "listed",
+      "price": 535000,
+      "notes": null
+    }
+  ],
+  "street_address": "23 Waverly Pl",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "4R",
+  "listing_id": "4b0f3bc920b95de815f9bec902c707d1",
+  "property_id": "b593486153e7398f1a2b5d430fef0e16",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

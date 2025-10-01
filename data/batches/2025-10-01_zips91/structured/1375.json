@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/103-E-75th-St-1RE-New-York-NY-10021/121918831_zpid/",
+  "external_property_id": "121918831",
+  "scraped_timestamp": "2025-10-01T13:55:46Z",
+  "status": "blocked",
+  "listing_id": "f03c2e1f19d7f13f2d23882376155a12",
+  "property_id": "a4f8b7e680917c67e01d730a8731cff9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/9-Barrow-St-APT-3H-New-York-NY-10014/244869809_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:24 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b5b6c6b6-eac7-476e-a15d-4e1988c476c8; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:24 GMT; Path=/; Domain=.zillow.com, zgsession=1|e65823e0-cad7-4573-839e-294e84228192; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"46214-6PvuKrNSFhrSOcz2fckaK3Pkevs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "236",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "R-HeDhUraaqG858MSIxZK70TbDXwX358wSoVzhx8LkyGsFrtlZ9NJw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/242-Lafayette-St-APT-4S-New-York-NY-10012/113056776_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:54 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c555a2ef-270b-4a63-a273-e34d156624e8; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:54 GMT; Path=/; Domain=.zillow.com, zgsession=1|c4ffe690-c4af-4896-9869-6d5b46108839; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47a53-IpbOmetLlQqO8KeathNeRCba1tE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "197",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "CgM0S8fId_ABFfscYX78NvZweUGtt-C7GwBovgBRiSkoIzolo1gTlQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

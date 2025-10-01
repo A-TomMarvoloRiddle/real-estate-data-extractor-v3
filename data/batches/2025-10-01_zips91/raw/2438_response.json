@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1924-W-Diversey-Pkwy-3-E-Chicago-IL-60614/80844814_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:46 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247a7adcf4-5d8e-4184-86e5-aafb4087d87a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|304bec69-b463-4340-a277-13c2abf8409e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54002-kvqhRKMJoyEq806GiwLRc3qBmy8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "246",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "nOLMNivj0CeRlkSZhdZGeO9mPPkl-pA4zZGRJL6XZuP-4lFwAhOMrw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

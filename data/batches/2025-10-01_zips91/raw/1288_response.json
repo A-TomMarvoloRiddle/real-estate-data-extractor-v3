@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/235-W-11th-St-New-York-NY-10014/31500530_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:52:47 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2413e63bee-ebb2-48ed-a050-3e1263b9cfdd; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:52:47 GMT; Path=/; Domain=.zillow.com, zgsession=1|078e8645-24f5-449d-a505-5b88df5b0c83; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53618-Klartc+Yd7YaAS+Y7cDwUoMno74\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "237",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "HF-IFTAYhb66x7sSUyIv4CU8DBG9bNwWpeIJJhaRtQE0xtHD2ieTPw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

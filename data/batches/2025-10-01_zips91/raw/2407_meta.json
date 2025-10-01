@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/2754-N-Hampden-Ct-60614/unit-1706/home/13368088",
+  "final_url": "https://www.redfin.com/IL/Chicago/2754-N-Hampden-Ct-60614/unit-1706/home/13368088",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:48:08Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2407
+}

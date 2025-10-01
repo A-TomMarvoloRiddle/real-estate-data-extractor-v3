@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/456-W-19th-St-UNIT-6-7F-New-York-NY-10011/112515667_zpid/",
+  "external_property_id": "112515667",
+  "scraped_timestamp": "2025-10-01T13:54:12Z",
+  "status": "blocked",
+  "listing_id": "537f75adb3155c3360f76a24cbd51ba8",
+  "property_id": "6bf57dde2106a584a2dad8777fb08e97",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

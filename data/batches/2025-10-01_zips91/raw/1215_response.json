@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3-Minetta-St-UNIT-5B-New-York-NY-10012/442164571_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:13 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2403eb994b-bb16-47ce-85df-d44efcc0971f; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:13 GMT; Path=/; Domain=.zillow.com, zgsession=1|5f256099-be6c-4d24-ad32-d7d580690058; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"45802-cwayCMp884KxGyykctSyrY2PesU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "yOE18WyIqIojOnkq54xvX5l39pcVxoavnKlTV7-7FiN-EcxjCZMzhw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

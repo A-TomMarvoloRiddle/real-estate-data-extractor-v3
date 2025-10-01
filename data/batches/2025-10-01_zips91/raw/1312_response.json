@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/150-Barrow-St-New-York-NY-10014/2055545804_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:11 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246b645ff0-a202-498d-9fd4-681264b7fba5; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|b3b58782-0493-4484-b98e-6c3fe12cf70b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53a7a-+Ljydgxd9n5su6LIam+rBIbFspA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "255",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "iAL5kl3Gic1oUHxW5a1ABnhMKYcyP23KGnZ1DlY12WWEIgZ0RZES4A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

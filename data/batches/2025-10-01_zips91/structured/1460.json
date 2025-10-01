@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/137-W-80th-St-New-York-NY-10024/2054915981_zpid/",
+  "external_property_id": "2054915981",
+  "scraped_timestamp": "2025-10-01T13:56:28Z",
+  "status": "blocked",
+  "listing_id": "f607c5c5c06071b0e34e7e5af66ab881",
+  "property_id": "6eb59fcff51047566f2ec8e2758a76b7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/262-W-11th-St-New-York-NY-10014/143092088_zpid/",
+  "external_property_id": "143092088",
+  "scraped_timestamp": "2025-10-01T13:55:15Z",
+  "status": "blocked",
+  "listing_id": "102c05bc7e882470517edaee566a5e3e",
+  "property_id": "bcbfcecbb84e1cdffa0b919ead6c5024",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

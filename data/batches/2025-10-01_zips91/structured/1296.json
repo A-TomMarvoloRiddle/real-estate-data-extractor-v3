@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/700-Washington-St-APT-2B-New-York-NY-10014/72514580_zpid/",
+  "external_property_id": "72514580",
+  "scraped_timestamp": "2025-10-01T13:55:09Z",
+  "status": "blocked",
+  "listing_id": "1946a25016e46a0a47fda50bf8ff9335",
+  "property_id": "ea8259c63f6031d33580bab7b1d27592",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

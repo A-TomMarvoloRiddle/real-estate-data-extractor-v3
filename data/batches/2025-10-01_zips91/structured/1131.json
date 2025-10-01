@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/448-W-23rd-St-New-York-NY-10011/456940301_zpid/",
+  "external_property_id": "456940301",
+  "scraped_timestamp": "2025-10-01T13:53:47Z",
+  "status": "blocked",
+  "listing_id": "1bb805a86a8579836627350ac08108e8",
+  "property_id": "8ea919462ea1824b1b96b36e05494f4d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/459-W-18th-St-APT-1-New-York-NY-10011/97527333_zpid/",
+  "external_property_id": "97527333",
+  "scraped_timestamp": "2025-10-01T13:53:46Z",
+  "status": "blocked",
+  "listing_id": "b224ca0faf6b63f0a74c0902b5f679ac",
+  "property_id": "5e30cd7c9ab447a1a30aa313d541ac9a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

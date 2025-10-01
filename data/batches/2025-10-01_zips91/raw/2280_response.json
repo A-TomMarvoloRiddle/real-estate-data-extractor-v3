@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1317-N-Larrabee-St-305-Chicago-IL-60610/253420916_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:19 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247cb10c91-bac8-460f-8647-42685b24f7f3; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|c2bc3124-a4b9-4c98-b763-4f1d46632c3b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61f12-EVZpeP1iol9cj9ppwaAcShQL70k\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6gbYeBBfq84NiUv-EU8Ra9h6ELkxrTb3D6UMExob9L6lQhcGOSAFUw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

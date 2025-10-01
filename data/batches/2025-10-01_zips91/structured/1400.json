@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/11-E-74th-St-New-York-NY-10021/143147683_zpid/",
+  "external_property_id": "143147683",
+  "scraped_timestamp": "2025-10-01T13:56:08Z",
+  "status": "blocked",
+  "listing_id": "08d4b64f2e7713329b27ccc329ee53dc",
+  "property_id": "a8937246987c1f7e46f38b2d20f79a50",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/23-E-10th-St-10003/unit-3C/home/45201501",
+  "external_property_id": "45201501",
+  "scraped_timestamp": "2025-10-01T13:53:19Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1100000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 849,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/856/RLS20050856_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_3_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_10_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_5_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_8_61.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_2_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/856/genMid.RLS20050856_7_G.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7327463%2C-73.9934115&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=PW6i26lirAZJWi3i4lB7w6KqMac=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "This Greenwich Village 1BR loft in a pre-war doorman building checks all the boxes of a classic downtown apartment. Exposed brick and an 8 foot wall of windows frame the view onto tree-lined 11th Street. The soaring 11 foot ceilings and large rooms create a true sense of volume. This completely renovated home features an oversized kitchen with a Bosch appliance suite, in-unit Washer/Dryer, upgraded windows, spacious and customized closets, and a beautiful bathroom. The apartment is truly move-in ready. The Albert is a full service pre-war cooperative on a beautiful, tree-lined Greenwich Village block. The building has 24 hour door staff, a Resident Manager, full time handyman, porters, a renovated lobby, bike storage and a beautifully landscaped and furnished roofdeck. Reasonable board allows parental purchase, pied-a-terre, and pets. The building has recently undergone a beautiful hallway renovation, and the latest Local Law facade work is also now complete! Located halfway between Union Square and Washington Square Park, The Albert is close to multiple major subway lines, cultural attractions, shopping, NYU, the Union Square Greenmarket, and all the other conveniences which have made Greenwich Village New York City's preferred neighborhood for more than a century.",
+  "price_history": [
+    {
+      "event_date": "Sep 25, 2025",
+      "event_type": "price_change",
+      "price": 1100000,
+      "notes": null
+    }
+  ],
+  "street_address": "23 E 10th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "3C",
+  "listing_id": "04aa9340799f02a766f626ef5e1d4017",
+  "property_id": "6a21fa33e334531ddb02b72fdd1e0a52",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

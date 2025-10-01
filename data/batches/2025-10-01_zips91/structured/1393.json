@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/1420-York-Ave-APT-3G-New-York-NY-10021/31539754_zpid/",
+  "external_property_id": "31539754",
+  "scraped_timestamp": "2025-10-01T13:56:02Z",
+  "status": "blocked",
+  "listing_id": "691a330001144b3497b2007d90eb9749",
+  "property_id": "f1f06157f6820dad93172b294236313b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/701-S-Wells-St-APT-1204-Chicago-IL-60607/63702798_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:13 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24af7b4331-934a-4dc3-a18e-8c43806dfa59; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:13 GMT; Path=/; Domain=.zillow.com, zgsession=1|c77c6f0f-ffb6-46b3-ae68-bf5214614223; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56478-fRny8Dl7ee+5mfcelAgVgCbHJwg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "280",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "hdkFaGiHl3zdgHam0lcGnylSWw6GDcpnf7i3q3k4o0K1dkmncr9mxQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

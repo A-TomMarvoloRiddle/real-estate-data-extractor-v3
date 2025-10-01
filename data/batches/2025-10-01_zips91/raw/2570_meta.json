@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/5445-N-Kenmore-Ave-60640/unit-1S/home/183791446",
+  "final_url": "https://www.redfin.com/IL/Chicago/5445-N-Kenmore-Ave-60640/unit-1S/home/183791446",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:56:47Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2570
+}

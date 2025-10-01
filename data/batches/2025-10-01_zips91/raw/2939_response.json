@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/TX/Dallas/6333-Town-Hill-Ln-75214/home/30868745",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 13:16:05 GMT",
+    "Content-Length": "2040",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 6aa902d7f791c28076db0d3748ab0eba.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "D5OB9Wg3k1cVDkW9BOBxKAbyvl72bqogc-K_z0ojr5omApSLBH9Quw=="
+  }
+}

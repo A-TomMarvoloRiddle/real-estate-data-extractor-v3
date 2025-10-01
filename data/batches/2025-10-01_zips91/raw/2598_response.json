@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4920-N-Marine-Dr-S402-Chicago-IL-60640/60263109_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:17 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ee7f5ab4-c00b-41ba-a96c-2f664e5c7461; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|cc8ad8f0-a737-4939-b8f9-d8ded3d89685; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4edb8-IM4qehYwdbt4MSjxCciyyvA3iV0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "204",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "QTqyyF0MymbWKZ3WbkzYpx06bV4ehlhmQ_xchwri_-_qpN_zSF_FYA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/124-Thompson-St-10012/unit-30/home/197821706",
+  "external_property_id": "197821706",
+  "scraped_timestamp": "2025-10-01T13:54:18Z",
+  "status": "blocked",
+  "listing_id": "6503626a721b2cd1b470e1b84a8b4b43",
+  "property_id": "62ccd19d971e599b987d8e693c77fb68",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

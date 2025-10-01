@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/250-W-89th-St-APT-2N-New-York-NY-10024/244725270_zpid/",
+  "external_property_id": "244725270",
+  "scraped_timestamp": "2025-10-01T13:56:27Z",
+  "status": "blocked",
+  "listing_id": "9a2943dd9bc4b6b5f0da8ac29300c1a6",
+  "property_id": "ce5bac813d4f18c3531c524ea4bfc480",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

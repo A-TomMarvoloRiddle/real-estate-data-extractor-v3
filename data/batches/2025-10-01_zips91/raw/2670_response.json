@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/808-N-Greenview-Ave-APT-4C-Chicago-IL-60642/70465093_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:20 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ca3cb4e4-bff2-4634-b634-1e9212b6543b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:20 GMT; Path=/; Domain=.zillow.com, zgsession=1|228dd815-0cab-48e6-b1a8-015c7e84c8b8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5523d-zdF+HvlUzHn1HDaDrtzVypKWoYw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "291",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "RaN_b36-okaW9ACb4FZVeHzE2FP-wf-WgqXN3Eij8JyUCtRwiKftWg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

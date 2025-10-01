@@ -2,12 +2,16 @@
 # Purpose: Firecrawl-based extractor → JSON arrays per table (new schema)
 
 from __future__ import annotations
-import os, json, re, time, hashlib
+import os
+import json
+import re
+import time
+import hashlib
 from pathlib import Path
 from typing import List, Optional, Dict, Any
 from collections import defaultdict
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from dotenv import load_dotenv
 from firecrawl import FirecrawlApp
 
@@ -183,18 +187,26 @@ def stable_uuid(*parts: str) -> str:
     return hashlib.sha1("|".join([p for p in parts if p]).encode("utf-8")).hexdigest()
 
 def to_int(x) -> Optional[int]:
-    if x is None: return None
+    if x is None:
+        return None
     s = re.sub(r"[^\d\.]", "", str(x))
-    if not s: return None
-    try: return int(float(s))
-    except: return None
+    if not s:
+        return None
+    try:
+        return int(float(s))
+    except Exception: 
+        return None
 
 def to_float(x) -> Optional[float]:
-    if x is None: return None
+    if x is None: 
+        return None
     s = re.sub(r"[^\d\.]", "", str(x))
-    if not s: return None
-    try: return float(s)
-    except: return None
+    if not s: 
+        return None
+    try: 
+        return float(s)
+    except Exception: 
+        return None
 
 def make_location_id(addr: Dict[str, Any]) -> str:
     key = "|".join([str(addr.get(k, "") or "") for k in ("street","unit","city","state","postal_code","latitude","longitude")])
@@ -287,51 +299,67 @@ similar_properties[])
 """.strip()
 
 def _to_dict_like(x):
-    if x is None: return None
+    if x is None: 
+        return None
     md = getattr(x,"model_dump",None)
     if callable(md):
-        try: return md()
-        except: pass
+        try: 
+            return md()
+        except Exception:
+            pass
     d = getattr(x,"dict",None)
     if callable(d):
-        try: return d()
-        except: pass
+        try: 
+            return d()
+        except Exception: 
+            pass
     if hasattr(x,"__dict__"):
-        try: return dict(x.__dict__)
-        except: pass
+        try:
+            return dict(x.__dict__)
+        except Exception: 
+            pass
     if isinstance(x,(dict,list,str,int,float,bool)):
         return x
     return None
 
 def _unwrap_details(result) -> Optional[dict]:
-    if result is None: return None
+    if result is None: 
+        return None
     data_attr = getattr(result,"data",None)
     data = _to_dict_like(data_attr) if data_attr is not None else None
     if isinstance(result,dict):
-        if result.get("error"): return None
+        if result.get("error"): 
+            return None
         data = result.get("data") or result.get("results") or result.get("items") or data
     if isinstance(data,list) and data:
         first=_to_dict_like(data[0])
-        if isinstance(first,dict) and "details" in first: return first["details"]
-    if isinstance(data,dict) and "details" in data: return data["details"]
+        if isinstance(first,dict) and "details" in first:
+            return first["details"]
+    if isinstance(data,dict) and "details" in data:
+        return data["details"]
     return None
 
 def extract_one(fc: FirecrawlApp,url:str)->Optional[ExtractedDetail]:
     try:
         r=fc.extract([url],prompt=PROMPT,schema=ExtractedDetailPage.model_json_schema())
         d=_unwrap_details(r)
-        if d: return ExtractedDetail.model_validate(d)
-    except Exception: pass
+        if d:
+            return ExtractedDetail.model_validate(d)
+    except Exception:
+        pass
     try:
         r=fc.extract([url],prompt=PROMPT)
         d=_unwrap_details(r)
-        if d: return ExtractedDetail.model_validate(d)
-    except Exception: pass
+        if d: 
+            return ExtractedDetail.model_validate(d)
+    except Exception: 
+        pass
     try:
         batch_dir=latest_batch_dir()
         debug=batch_dir/"structured"/f"failed_extract_{hashlib.md5(url.encode()).hexdigest()[:10]}.json"
         debug.write_text(json.dumps({"url":url,"raw":_to_dict_like(locals().get("r"))},ensure_ascii=False,indent=2))
-    except: pass
+    except Exception:
+        pass
     return None
 
 # ---------------------------------------------------------------------
@@ -364,20 +392,25 @@ def main(batch_id: Optional[str]=None,limit:int=10,delay_sec:float=1.0,seed_limi
     if new_batch or not batch_id:
         batch_id=ensure_batch_id(batch_id)
     batch_dir=BATCHES_ROOT/batch_id
-    struct_dir=batch_dir/"structured"; struct_dir.mkdir(parents=True,exist_ok=True)
+    struct_dir=batch_dir/"structured"
+    struct_dir.mkdir(parents=True,exist_ok=True)
     urls=load_or_prepare_urls(batch_id=batch_id,limit=limit,seed_limit=seed_limit)
-    if not urls: raise RuntimeError("No URLs to extract")
+    if not urls: 
+        raise RuntimeError("No URLs to extract")
     print(f"Batch: {batch_id} | URLs: {len(urls)}")
     buckets:Dict[str,List[Dict[str,Any]]]=defaultdict(list)
     for i,url in enumerate(urls,1):
         print(f"[{i}/{len(urls)}] {url}")
         det=extract_one(fc,url)
         if not det:
-            print("   → no details extracted"); time.sleep(delay_sec); continue
+            print("   → no details extracted")
+            time.sleep(delay_sec)
+            continue
         det.source_url=det.source_url or url
         det.scraped_timestamp=det.scraped_timestamp or now_utc_iso()
         rows=normalize_detail(det,batch_id=batch_id)
-        for k,v in rows.items(): buckets[k].extend(v)
+        for k,v in rows.items():
+            buckets[k].extend(v)
         time.sleep(delay_sec)
     for tbl,arr in buckets.items():
         dump_json(struct_dir/f"{tbl}.json",arr)

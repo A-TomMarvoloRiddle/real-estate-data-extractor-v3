@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/15-E-70th-St-New-York-NY-10021/2075711635_zpid/",
+  "external_property_id": "2075711635",
+  "scraped_timestamp": "2025-10-01T13:55:56Z",
+  "status": "blocked",
+  "listing_id": "84ebf89770b7f8e7b95d8684e8d0333e",
+  "property_id": "63621ca8db85ef2c18ac8951cb4c27ce",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

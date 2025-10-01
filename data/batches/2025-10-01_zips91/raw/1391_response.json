@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/18-E-71st-St-New-York-NY-10021/31533713_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:18 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2404f059e5-507a-4539-a5f0-1ac86cfda39a; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|61b7fddc-4a4e-4f8e-a204-8b17a22d8501; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6ab76-WiLazlLHjA1H79VrWSUAN6jWILc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "297",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "hFerpCqFvFK9l7zdYlsRigfSLfcn12Q_jED8mozoQr-mpxntlWQm1w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/56-Crosby-St-APT-3A-New-York-NY-10012/55500985_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:40 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24978ae868-71f1-4941-bd38-783255b89df1; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:40 GMT; Path=/; Domain=.zillow.com, zgsession=1|f540f768-e2dd-4238-90cb-a3f19c47daac; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f0ce-x1jzxjnB4RLmHeiMycYGoTqGuRM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "204",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "u6tuMLFkTaBYsBTALItUXK1xyr4wnvdDuxwxdCTHRhNHIAODTuSKew==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

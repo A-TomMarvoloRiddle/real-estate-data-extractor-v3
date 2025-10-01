@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/30-Sullivan-St-New-York-NY-10012/2090165103_zpid/",
+  "external_property_id": "2090165103",
+  "scraped_timestamp": "2025-10-01T13:54:26Z",
+  "status": "blocked",
+  "listing_id": "8c9d54aaec249e4b182f67b046e8371f",
+  "property_id": "1d2378d19009f67d9d65223a512ce1e3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/238-Clinton-St-Brooklyn-NY-11201/442160422_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:02 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241f37441d-e05f-4fbe-9e05-6764fbe9d1f2; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|d2491cca-0cdf-4b52-ad48-ac7fb8ade620; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5116f-m1zYUcMoBodekoOdoIeeRaCmPGk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "278",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Tt_0mRsN9LXAR6d5zOqCqJ1Chd-5nnsLxD2OO5-YB9pWtysdFuP44A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

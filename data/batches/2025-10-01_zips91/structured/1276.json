@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/601-Washington-St-10014/unit-THE/home/195817944",
+  "external_property_id": "195817944",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "e5e9d47e2cade1dda9d7e4c109935ee5",
+  "property_id": "9981b9e862f2e3d986dc6e84fd161384",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

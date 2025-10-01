@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/TX/Dallas/5038-Westgrove-Dr-75248/unit-5038/home/31174127",
+  "final_url": "https://www.redfin.com/TX/Dallas/5038-Westgrove-Dr-75248/unit-5038/home/31174127",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:27:45Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 3166
+}

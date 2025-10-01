@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1122-W-Catalpa-Ave-612-Chicago-IL-60640/99356495_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:09 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2447f87ade-410a-4f18-94ca-5603a90e3a70; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:09 GMT; Path=/; Domain=.zillow.com, zgsession=1|9facda16-6172-4e18-87da-e2b9dd693c1c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f14f-iKPSb3CvzZAz+yT2grwiefAMosI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "238",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "lJu__UeeJoiLREDuWsG-r3VicKFq-GqmRiIBENxrv9GRHSr1zK5Daw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

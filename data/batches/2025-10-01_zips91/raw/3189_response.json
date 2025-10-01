@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/6018-Blue-Bay-Dr-Dallas-TX-75248/26872833_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:29:08 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24486a841e-7171-4277-980f-f75f635c1e5e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:29:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|af8cbc16-f63f-4bd4-b7a2-9808af977784; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"60a7d-5eXL60huvZ13yRKfIl5nK08vyiI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "276",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "_U3JKMTIsw8fv5DMQxUQRmOCahAsNNO_H_MUZWfLF_g0xaDqQz8Cjw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

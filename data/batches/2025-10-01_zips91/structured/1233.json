@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/421-W-Broadway-PENTHOUSE-New-York-NY-10012/456381832_zpid/",
+  "external_property_id": "456381832",
+  "scraped_timestamp": "2025-10-01T13:54:45Z",
+  "status": "blocked",
+  "listing_id": "3f24a271d1d0e816fc1d1fe575195000",
+  "property_id": "a8e02d4e8caa8e00570bfedad41f7a0d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

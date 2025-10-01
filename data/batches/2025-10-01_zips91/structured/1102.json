@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/155-W-18th-St-10011/unit-404/home/111244149",
+  "external_property_id": "111244149",
+  "scraped_timestamp": "2025-10-01T13:53:38Z",
+  "status": "blocked",
+  "listing_id": "f8115fce15ad7a374bd84953eb0e88ca",
+  "property_id": "f2a6130a7541991dd9895a9d4ef91643",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

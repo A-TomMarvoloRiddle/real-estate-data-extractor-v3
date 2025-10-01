@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/524-E-72nd-St-APT-39DE-New-York-NY-10021/456941037_zpid/",
+  "external_property_id": "456941037",
+  "scraped_timestamp": "2025-10-01T13:56:17Z",
+  "status": "blocked",
+  "listing_id": "5581d007527f08b301b3ced4b46b585b",
+  "property_id": "5287ece13cd61c979a8f524237bec3b5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

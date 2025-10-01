@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/150-W-87th-St-10024/unit-PHS/home/45203012",
+  "external_property_id": "45203012",
+  "scraped_timestamp": "2025-10-01T13:56:19Z",
+  "status": "blocked",
+  "listing_id": "115fa4f08041fe3dd1a9073b090e9956",
+  "property_id": "c94058c92476a31850cd24dabca6fe1f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1872-N-Clybourn-Ave-APT-603-Chicago-IL-60614/3736332_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:55 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24857ba9ba-0c0b-47b3-bf3e-030e40741732; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|14de58aa-ec1a-4ed5-bf34-7a160e3d0be5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5c823-KGnrOjFaupls2DSJZsnwSbS3L6Q\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "285",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FG7arzIW68I-ifbxLCeUoOxPOhoVxgF_9g7kWTIU8QrtuS53gYpo9A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

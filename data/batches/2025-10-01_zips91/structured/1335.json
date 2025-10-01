@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/910-5th-Ave-10021/unit-15A/home/144129986",
+  "external_property_id": "144129986",
+  "scraped_timestamp": "2025-10-01T13:55:37Z",
+  "status": "blocked",
+  "listing_id": "8df85b27a9e485938fbe1cad0b040796",
+  "property_id": "2d11eb60a9f0eec28ff956790adaa18d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

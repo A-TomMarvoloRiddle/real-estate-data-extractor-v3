@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/203-W-81st-St-APT-4E-New-York-NY-10024/31525321_zpid/",
+  "external_property_id": "31525321",
+  "scraped_timestamp": "2025-10-01T13:56:37Z",
+  "status": "blocked",
+  "listing_id": "7ecf87d21a66b3e45cab4c42dd28fee3",
+  "property_id": "ed4c18ad9b8721fa02027b349634040f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

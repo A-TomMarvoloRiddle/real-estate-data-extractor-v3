@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/14-Prince-St-APT-5E-New-York-NY-10012/31497180_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:12 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24e1e187c9-83d3-4e66-a1ce-32c980811723; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:12 GMT; Path=/; Domain=.zillow.com, zgsession=1|aae0b7ab-e714-4efb-bbc3-9e5e833ccefb; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4fe09-pnRzpd9PeZ5NQ+6lHgafVbzaIzs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "223",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "fj3TnsBUV7TD5YZPRVvPLdAYFuTkSHMOJaa5OtQ5eSa7qMv8AlYAXw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

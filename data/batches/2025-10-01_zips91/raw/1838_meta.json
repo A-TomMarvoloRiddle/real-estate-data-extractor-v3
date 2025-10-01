@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Los-Angeles/255-S-Barrington-Ave-90049/unit-D6/home/17240135",
+  "final_url": "https://www.redfin.com/CA/Los-Angeles/255-S-Barrington-Ave-90049/unit-D6/home/17240135",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:20:16Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1838
+}

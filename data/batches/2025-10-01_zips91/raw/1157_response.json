@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/32-W-9th-St-UNIT-5A-New-York-NY-10011/442155933_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:27 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ae3093cf-0c95-4c4d-bd77-1b81d56e69ed; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|2ca92cbf-c34b-4630-96fb-0a873fc51af9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"49b0b-UZJpeuwOzEppMuVn94kAAls1yHY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zLHrn2-cK6EZMRffRYHgO9tYibmOfl0P8G-v5YOxzzW1j8C40Vkmxw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

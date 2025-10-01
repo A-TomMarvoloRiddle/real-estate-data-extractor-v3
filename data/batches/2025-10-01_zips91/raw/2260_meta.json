@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/1503-N-Mohawk-St-60610/unit-2E/home/12715713",
+  "final_url": "https://www.redfin.com/IL/Chicago/1503-N-Mohawk-St-60610/unit-2E/home/12715713",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:40:21Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2260
+}

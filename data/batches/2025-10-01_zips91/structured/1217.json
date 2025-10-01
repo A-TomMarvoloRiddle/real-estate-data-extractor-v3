@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/152-Elizabeth-St-UNIT-PENTHOUSE-New-York-NY-10012/300200303_zpid/",
+  "external_property_id": "300200303",
+  "scraped_timestamp": "2025-10-01T13:54:31Z",
+  "status": "blocked",
+  "listing_id": "1a9826314161d265a6bb2c26173788ac",
+  "property_id": "d77bff0627c8da091baad8eff31c5d2c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

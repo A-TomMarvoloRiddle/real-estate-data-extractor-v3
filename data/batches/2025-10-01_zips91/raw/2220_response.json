@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1001-W-Madison-St-APT-710-Chicago-IL-60607/65571382_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:32 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24543c6116-9953-4df0-8ab1-3f11778232e4; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|05dfd39d-38b9-4cad-8db9-c26afc0dd4ee; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"611a8-U9UUWQBHIFudh8j1cTpH8CdULoQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "304",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "JXdbFWBURCN-nC4FW11ePGTwxEs36KFbVmn07wLAfeqLWknxcMGiuA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

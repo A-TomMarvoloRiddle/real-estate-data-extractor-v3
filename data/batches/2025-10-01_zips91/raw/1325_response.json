@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/96-Perry-St-APT-B17B-New-York-NY-10014/244708521_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:55 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248cb68a8b-f4c5-4b3a-9aa4-13d5c65a487c; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|7a614a2a-2aa5-44eb-9aa7-a6394e7f8a50; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48dca-dtKRTuYTLFNBQxX42vLQiYf5THI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "254",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "2-uqlSFkIDyQKO3vnZF9rgjs68UbiMZBcGVrLIMovdXormRSsckGBw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

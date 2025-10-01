@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/505-W-End-Ave-10024/unit-4D/home/45200951",
+  "external_property_id": "45200951",
+  "scraped_timestamp": "2025-10-01T13:56:20Z",
+  "status": "blocked",
+  "listing_id": "1292066bd6f4f0ce55a1df24e4f30708",
+  "property_id": "2069da4abd985091763c22c351ed66be",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

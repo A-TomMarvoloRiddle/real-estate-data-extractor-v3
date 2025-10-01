@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/147-Waverly-Pl-APT-PENTHOUSE-New-York-NY-10014/80004426_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:09 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2472ae6803-cb15-4e3e-8750-f71690d71ef4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:09 GMT; Path=/; Domain=.zillow.com, zgsession=1|3ffcf9af-5938-4f81-8d98-512ecd92eaa9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"514e8-i43HBJMlbQ0oBImdqfZDE55I8Xs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "271",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0LiYpeivt12iUqa52JgwbEvvF5fCzOddIdH5YZXxP6UJMGb0h8UV1w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

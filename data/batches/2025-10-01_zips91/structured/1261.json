@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/700-Washington-St-10014/unit-2B/home/45144004",
+  "external_property_id": "45144004",
+  "scraped_timestamp": "2025-10-01T13:54:58Z",
+  "status": "blocked",
+  "listing_id": "30ad811c1863e95bb4eb36806652ac2a",
+  "property_id": "42b420794ed2d3617dccc31603b7a7bf",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1036-N-Honore-St-Chicago-IL-60622/441073879_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:03 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2406eed5fe-c5ba-4d4d-a83c-a91787592dc0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|6e9410f9-5a57-4e2b-9a3d-b49bfaae68ec; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"612db-BY9BaRagYesm6fwHnmHPu56M5e4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "276",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "_saUmWWXw8y8h6W7f5H9J535iP3L8BwR6pAP136o8nv42hg1ooZHsA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

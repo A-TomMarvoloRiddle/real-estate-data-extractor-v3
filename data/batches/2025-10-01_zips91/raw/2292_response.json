@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1122-N-Clark-St-APT-1910-Chicago-IL-60610/58364617_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:58 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24e4617b7b-9b7e-4039-9612-716c1b9d8d3f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:58 GMT; Path=/; Domain=.zillow.com, zgsession=1|52da99be-39d4-485b-98b0-c8a8a4a6e7de; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4dad3-m3BN7GXrmhCazv+5oFFXzBWIKoA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "kVGtONIFHu5knF5Ui6e1yGYLgTrL9eIHDNVb0sNAqXyrrYCMklFNiA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

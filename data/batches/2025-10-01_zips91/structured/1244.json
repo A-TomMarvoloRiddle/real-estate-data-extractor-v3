@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/129-Greene-St-FL-2-New-York-NY-10012/2092464387_zpid/",
+  "external_property_id": "2092464387",
+  "scraped_timestamp": "2025-10-01T13:54:55Z",
+  "status": "blocked",
+  "listing_id": "67b0783936d04260c371fe993989f8a4",
+  "property_id": "ee0492ad8c85f0c5450617cd5b4824e3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

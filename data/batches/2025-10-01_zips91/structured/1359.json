@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/360-E-72nd-St-10021/unit-C1803/home/195478332",
+  "external_property_id": "195478332",
+  "scraped_timestamp": "2025-10-01T13:55:40Z",
+  "status": "blocked",
+  "listing_id": "1aad3eae8d48d8133cd17184b35d9ad6",
+  "property_id": "6a6876c0d392716bbcdf6066e29fb4da",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

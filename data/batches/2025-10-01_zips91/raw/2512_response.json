@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/906-N-Hermitage-Ave-2-Chicago-IL-60622/61960720_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:53:44 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2457bd8fb7-e102-40d1-8512-18a3a36a8364; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:53:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|2b309a7f-8bda-4fdf-9d73-0910d1e4e9d9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5c825-TTDnVelHHxdMW26OX/SJRX3TOJk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "248",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "GL-9xsxw-gYVAIJRxRRFdFcLrM718PuW2VrtMDiQJnwCBwoKOBYXVg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1636-N-Wells-St-APT-2501-Chicago-IL-60614/3743024_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:54 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2489192360-6773-4e19-9451-71bf73ae7fea; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:54 GMT; Path=/; Domain=.zillow.com, zgsession=1|36c05ee1-85d6-4a4e-b5c4-ef427ca63662; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5acce-z7ups5bHDXI0T7j5GoE+qcE3DDs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xftLJ_2zKfC8Nj993twgZbSshD-FPIZ1MYEYec3MudeaWXgAqZH6rw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

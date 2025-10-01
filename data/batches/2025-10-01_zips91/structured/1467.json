@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/151-W-80th-St-APT-4F-New-York-NY-10024/244856388_zpid/",
+  "external_property_id": "244856388",
+  "scraped_timestamp": "2025-10-01T13:56:34Z",
+  "status": "blocked",
+  "listing_id": "9b2725879fb6cd6d4b4891e6fb1a021e",
+  "property_id": "36c9459319c5d4315adf25dc938e4847",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

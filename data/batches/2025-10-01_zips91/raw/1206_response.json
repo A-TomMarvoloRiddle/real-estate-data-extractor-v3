@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/83-Thompson-St-PENTHOUSE-New-York-NY-10012/443978128_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:48:44 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24781a62cc-e8e6-404a-94df-e0df77a840e2; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:48:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|def4dd30-8036-4c62-9d20-d074c5004f53; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"52fbc-oRHV6LsyG9OaQ6Wz/sa2lOMKL1c\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "243",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "qfCq0l5HRTeel0dieLYZBZiZU66J5rnj_RUtbRAJlH0gm4NTuss_Eg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

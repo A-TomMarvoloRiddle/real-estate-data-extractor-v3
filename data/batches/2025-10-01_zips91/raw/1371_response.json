@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4-E-73rd-St-New-York-NY-10021/118327035_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:04 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248064eed0-74b3-48c9-90d2-7a4fb5428d27; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|f1805987-e222-44f5-a6de-89717abdf765; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e7d9-iq9+ShTzKNhaz2Ed9JPvXmXIhbw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "209",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6y26UfKCdic7wVtv0s7K92OTq4vBXti7llOlVqk82qJYsGrWBqKV0g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

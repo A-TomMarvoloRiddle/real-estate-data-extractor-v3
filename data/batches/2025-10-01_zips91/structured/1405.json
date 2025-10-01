@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/912-5th-Ave-FLOOR-10-New-York-NY-10021/456513837_zpid/",
+  "external_property_id": "456513837",
+  "scraped_timestamp": "2025-10-01T13:56:12Z",
+  "status": "blocked",
+  "listing_id": "90a90ea5b49b669a4d3924c3319139bc",
+  "property_id": "17fd3023401dd3055daacfb6748d1263",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

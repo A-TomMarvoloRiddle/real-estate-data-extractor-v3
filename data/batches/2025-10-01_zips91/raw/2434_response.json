@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2529-N-Halsted-St-APT-1S-Chicago-IL-60614/49918269_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:34 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ba688375-8760-4730-ac79-ba2011837b3c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:34 GMT; Path=/; Domain=.zillow.com, zgsession=1|5f23662e-dbcb-4461-8fed-c9b7a6df5560; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5093f-FVUqjiLSQBpJS9r0uaYn/lvRBJk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "271",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "IiVvxMwNIaSOVBdy3DsCMDZaj2rPU5ZGIrDF3py-e4pttAGSF131jw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

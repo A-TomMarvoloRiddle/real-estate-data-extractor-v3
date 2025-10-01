@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/4446-Barrow-St-10014/home/197842592",
+  "external_property_id": "197842592",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "21d399a9f5eec94dcc7869ccca3344fd",
+  "property_id": "1374862c38b4b1ffed03868dd5653258",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

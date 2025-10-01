@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/254-W-82nd-St-10024/unit-5A/home/45179193",
+  "external_property_id": "45179193",
+  "scraped_timestamp": "2025-10-01T13:56:19Z",
+  "status": "blocked",
+  "listing_id": "b428b99d7d694bfd9afa4e42a9a92150",
+  "property_id": "fdf01d8845af3105afc4082167680c64",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

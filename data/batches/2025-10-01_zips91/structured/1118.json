@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/162-9th-Ave-10011/unit-2AB/home/198192839",
+  "external_property_id": "198192839",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "72ec4b0e7461c16e2a6d44bfa22c96f8",
+  "property_id": "065aa2588aa3334e69eac3499e81c695",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

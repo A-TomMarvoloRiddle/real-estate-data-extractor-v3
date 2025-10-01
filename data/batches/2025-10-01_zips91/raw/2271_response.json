@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/661-W-Division-St-B-Chicago-IL-60610/2077583078_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:52 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24194da46f-93f2-4c9d-84ce-22764063fb30; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:52 GMT; Path=/; Domain=.zillow.com, zgsession=1|645991bf-726d-4d04-b832-8b1d4cb4704a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55df8-79vaKMI5s9PDbpZdRhgucPL61X4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "265",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "PSya0ckFIwf6ik-1cBvEIRiditQrnlPWc0RfyZVmif-oCZPalW3sFw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

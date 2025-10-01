@@ -1,0 +1,69 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/45-5th-Ave-10003/unit-9D/home/144812748",
+  "external_property_id": "144812748",
+  "scraped_timestamp": "2025-10-01T13:53:22Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 799000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 849,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/051/RLS20050051_P.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/051/genMid.RLS20050051_1_P.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/051/genMid.RLS20050051_4_P.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/051/genMid.RLS20050051_2_P.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/051/genMid.RLS20050051_3_P.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7341999%2C-73.9946285&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=2I6kSIEy0gphEQZOVNrexR4dQB8=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Residence 9D at 45 Fifth Avenue presents a rare opportunity to live along one of Manhattan’s most coveted stretches of Lower Fifth Avenue in the heart of Gold Coast Greenwich Village. With southern and eastern courtyard exposures creating natural light and serenity, this luminous home balances timeless prewar charm with stylish, modern upgrades. A gracious foyer sets the tone, leading into a generously scaled living room perfectly proportioned for both elegant entertaining and comfortable everyday living. The windowed kitchen, smartly removed from the entertaining space, has been thoughtfully renovated with custom cabinetry, sleek granite counters, a handsome mosaic backsplash, and a high-end appliance suite, including a modern under-counter refrigerator and freezer—an ideal setting for inspired culinary creations. The corner bedroom is a private sanctuary, framed by four windows that welcome sun and sky from multiple exposures. With a generous closet and ample space for a home office, it blends functionality and retreat-like tranquility. The renovated bath pays homage to the building’s period character while offering contemporary comfort, finished with classic subway tile, marble floors, and top-tier Lefroy Brooks fixtures and fittings. Built in 1925, 45 Fifth Avenue is a distinguished prewar cooperative known for its impeccable upkeep, strong financials, and low maintenance. Residents enjoy the convenience of a ButterflyMX virtual doorman system, a common laundry room, and the attentive service of a live-in superintendent. The enviable location places you moments from Washington Square Park, Union Square, and a vibrant array of neighborhood destinations—chic cafés, acclaimed restaurants, stylish boutiques, and specialty grocers such as Whole Foods and Citarella. With easy access to nearly every subway line, this is downtown living at its most refined and convenient.",
+  "price_history": [
+    {
+      "event_date": "Sep 21, 2025",
+      "event_type": "price_change",
+      "price": 799000,
+      "notes": null
+    },
+    {
+      "event_date": "Jun 10, 2025",
+      "event_type": "price_change",
+      "price": 815000,
+      "notes": null
+    },
+    {
+      "event_date": "May 5, 2025",
+      "event_type": "price_change",
+      "price": 849000,
+      "notes": null
+    },
+    {
+      "event_date": "Apr 9, 2025",
+      "event_type": "price_change",
+      "price": 875000,
+      "notes": null
+    },
+    {
+      "event_date": "Feb 26, 2025",
+      "event_type": "price_change",
+      "price": 885000,
+      "notes": null
+    }
+  ],
+  "street_address": "45 5th Ave",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "9D",
+  "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+  "property_id": "e91d56278dd4761f42737d18ef6bc9b8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

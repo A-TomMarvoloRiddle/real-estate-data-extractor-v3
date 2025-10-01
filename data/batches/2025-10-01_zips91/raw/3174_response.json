@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/7023-Hillwood-Ln-Dallas-TX-75248/26872143_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:08 GMT",
+    "via": "1.1 zgs, 1.1 3f3d9c0b78b8f74a9f019c7683a4abce.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d8514e14-be72-4d41-a3a0-0a3c30bf0ea5; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|91703745-8951-49db-a4f9-85c627c5750b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e367-H8N3Hewt/FRTYVL0MLTjfKYVUKY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "235",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "PG7oGokd-c2hh8fkyqYse0Ufe9Nscqta0yH3CrrBNTPmlVt7Yr6wFw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

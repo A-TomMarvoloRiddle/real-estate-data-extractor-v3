@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/NY/New-York/16-W-16th-St-10011/unit-9GS/home/45174843",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 11:44:05 GMT",
+    "Content-Length": "2040",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 e69e756ed4018d3f3270629072f07624.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "jzYA6D7IivYi3GDP7hTs3TfcPLyv8zNeeiylA10-jdM0rrAG3VCNdQ=="
+  }
+}

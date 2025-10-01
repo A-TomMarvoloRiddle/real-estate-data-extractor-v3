@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/217-W-20th-St-New-York-NY-10011/118328073_zpid/",
+  "external_property_id": "118328073",
+  "scraped_timestamp": "2025-10-01T13:54:01Z",
+  "status": "blocked",
+  "listing_id": "66e8148fb298c0c66d612a99a092ac91",
+  "property_id": "72c93f9207af78103df5f7261313e6e5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

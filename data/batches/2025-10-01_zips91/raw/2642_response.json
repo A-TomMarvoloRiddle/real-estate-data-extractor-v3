@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/448-N-Carpenter-St-J-Chicago-IL-60642/49911475_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:42 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2414e9a149-1482-45c3-bed0-1c2fc36dd780; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:42 GMT; Path=/; Domain=.zillow.com, zgsession=1|8d436e0d-0b36-4c36-9657-81a1f7cd80eb; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"64889-9dwN8mJsNT2Ky9a3sxghfCTufMw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "279",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6wt4ozM5RLE4M_AquajOK7pzchkobQvSa6LcWFeIs0VwjFV4kMeyMA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

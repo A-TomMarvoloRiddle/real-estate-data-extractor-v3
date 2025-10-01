@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/IL/Chicago/3161-N-Halsted-St-60657/unit-202/home/39562878",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 13:08:15 GMT",
+    "Content-Length": "2040",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 433285efffd47e9f3b2944b68fdf3500.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "rF6fyMktv7r3zPJaGM26Q7WPGY_nPcJw1-44JaEaGrgZSx_O6UPB3Q=="
+  }
+}

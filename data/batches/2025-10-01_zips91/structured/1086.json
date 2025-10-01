@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/410-W-24th-St-10011/unit-11L/home/174301917",
+  "external_property_id": "174301917",
+  "scraped_timestamp": "2025-10-01T13:53:33Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1495000,
+  "beds": 2.0,
+  "baths": 2.5,
+  "interior_area_sqft": 668258,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/847/RLS20051847_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_4_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_12_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_6_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_10_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_2_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/847/genMid.RLS20051847_8_1.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7472085%2C-74.0013378&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=4uimvXPSquTLexLTvMpFDHeO-Xc=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "CLASSIC PREWAR 2 BEDROOM WITH OPEN VIEWS IN LONDON TERRACE  APARTMENT Rarely available high floor with open north and west views and a one-of-a-kind floorplan makes 11L in the iconic London Terrace Towers a stand-out. See the Empire State Building and the midtown skyline from every room. Enjoy a peaceful outlook from the primary bedroom west down tree-lined West 24th Street with a view of the High Line and Hudson River. This gracious two-bedroom combines timeless character with modern updates, offering the perfect balance of old-world charm and contemporary lifestyle. The spacious living and dining room is ideal for both entertaining and relaxing, enhanced by a lovely pass-through kitchen outfitted with high-end appliances, new countertops, and abundant cabinetry. The coveted winged bedroom layout ensures privacy, with each bedroom separated by the main living space. Oversized closets provide remarkable storage. The renovated marble bath features glass enclosed shower, soaking tub and custom cabinetry . Throughout this home, hardwood floors, prewar details, custom display cabinetry, generous proportions, thru-the-wall air-conditioning units, corner primary suite, secondary bedroom with dressing room and welcoming foyer imbue 11L with a comfortable lifestyle. BUILDING London Terrace Towers is one of Chelsea’s most celebrated prewar cooperatives, renowned for its full suite of services and amenities. Residents enjoy 24-hour lobby attendants, a live-in superintendent, on-site parking, bike rooms, laundry facilities, and basement storage (as available). Lifestyle perks include a regulation-sized heated indoor pool, steam rooms, saunas, a fully equipped private health club, and a beautifully landscaped roof deck with sweeping city views. London Terrace Towers is composed of four corner buildings occupying both Ninth and Tenth Avenues between West 23rd and West 24th Streets in the heart of West Chelsea. Completed in 1930 and converted to cooperative ownership in 1988, London Terrace Towers allows guarantors, co-purchasing, and up to 80% financing. After one-year, unlimited subletting is permitted with board approval. Pets are more than welcome. A 1% flip tax is payable by both buyer and seller. NEIGHBORHOOD West Chelsea is one of New York City’s most dynamic neighborhoods, blending art, culture, dining, and recreation along the Hudson River. Anchored by the world-renowned High Line, the elevated park that winds through the district with gardens, public art, and sweeping city views, West Chelsea offers a uniquely vibrant lifestyle. The neighborhood is home to an extraordinary collection of contemporary art galleries and cultural institutions, making it a hub for creativity and design. Dining options are equally rich, ranging from acclaimed restaurants and trendy cafés to casual eateries and wine bars, with Chelsea Market and the nearby Meatpacking District providing endless food and shopping experiences. Fitness and recreation thrive here as well. Residents enjoy jogging, biking, or strolling along Hudson River Park, which stretches for miles and includes piers with landscaped lawns, sports fields, dog runs, and playgrounds. The waterfront also offers kayaking, tennis, and the Chelsea Piers sports complex. Conveniently located near multiple subway and bus lines, West Chelsea combines convenience with culture and community—offering a lifestyle where world-class art, dining, shopping, and outdoor  Please call today to see this beautiful home.",
+  "price_history": [
+    {
+      "event_date": "Mar 18, 2013",
+      "event_type": "listed",
+      "price": 1295000,
+      "notes": null
+    }
+  ],
+  "street_address": "410 W 24th St",
+  "postal_code": "10011",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "11L",
+  "listing_id": "98c68b2ce98121d3d8f5c36c5657fa20",
+  "property_id": "e5b77b03718c77039dde5033b88d61ba",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

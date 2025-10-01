@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/15-Evans-St-Brooklyn-NY-11201/64544944_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:31 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2494d3f74e-a43d-466c-9d39-6a5774a0ce43; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:31 GMT; Path=/; Domain=.zillow.com, zgsession=1|93f91f81-b62a-4797-a4b9-d94f5d2c08d1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d522-7kC0EeM2h6+vUXEzxcyNrgKDGpY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "277",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "QA03ihvDN8MukzAssWAlR7wor3WjTi60jtrD_rxgFrH36MIsmMtQcg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

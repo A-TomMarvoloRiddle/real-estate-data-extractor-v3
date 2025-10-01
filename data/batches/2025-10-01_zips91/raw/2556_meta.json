@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/820-W-Lakeside-Pl-60640/unit-2N/home/12613159",
+  "final_url": "https://www.redfin.com/IL/Chicago/820-W-Lakeside-Pl-60640/unit-2N/home/12613159",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:56:11Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2556
+}

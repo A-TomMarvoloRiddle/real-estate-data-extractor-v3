@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/100-Barrow-St-10014/unit-7-8A/home/197986516",
+  "external_property_id": "197986516",
+  "scraped_timestamp": "2025-10-01T13:54:58Z",
+  "status": "blocked",
+  "listing_id": "b352b186663fdd8e8e3baea0784b116f",
+  "property_id": "35009d32c948b779ed9bc51ec716ce1b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

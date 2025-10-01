@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/7212-Canongate-Dr-Dallas-TX-75248/26875508_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:05 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2485ffddb9-2787-4b9e-b8e0-b8c887fa711d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|8d41034f-a33f-43ec-bb07-b0207b390ce6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5c389-MgqqaslQCHhw0qU6HISf6xkLJhM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "308",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "obDvEgB4FOV_Q4bnKQIv5Xy5978Voj3UiOXVVVifDPXPqOQ8K9inHQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

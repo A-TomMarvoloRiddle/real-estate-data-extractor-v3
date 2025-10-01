@@ -1,0 +1,21 @@
+{
+  "status": 403,
+  "final_url": "https://www.zillow.com/homes/33122_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 11:03:38 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "5816",
+    "Connection": "keep-alive",
+    "X-Px-Blocked": "1",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "GWAYUr7v29LokKphLSi7yO5d6L1L7X192kgdHHvksEi3EQlJSiX8Xg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

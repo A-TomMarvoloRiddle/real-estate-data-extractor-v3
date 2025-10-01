@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/39-Barrow-St-New-York-NY-10014/31499234_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:03 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2413732498-7888-4a8b-afe1-912ae894657b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|9ee55756-a0cd-4edd-8e99-972bd863be71; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"64375-XUMpOtRnJzrpzFzQPC/9uyxuInI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "235",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "K0xCB5j6Xe_DDMLRE3B1F-ahQzysEtdOTGuiH5Vfrt7sNQ52GZdDVw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

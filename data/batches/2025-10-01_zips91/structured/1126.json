@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/326-W-17th-St-APT-3E-New-York-NY-10011/219649095_zpid/",
+  "external_property_id": "219649095",
+  "scraped_timestamp": "2025-10-01T13:53:43Z",
+  "status": "blocked",
+  "listing_id": "08765135cedb50654ab03cb5f1b52c64",
+  "property_id": "c23abe0bfdd013505c6bf9b3236ad272",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/448-W-23rd-St-New-York-NY-10011/456940301_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:04 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244e0afb18-998b-48e2-bc99-779a157f0963; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|e4b99f19-8580-443c-a936-376bc64abe9f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56bdd-nzghXFuVahtfNrG5lvZA14mFqdE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "218",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "kDGs11Xsb_hFjqc-7NGoiBqUAUyV5col_EIO6b_865J-8QusXXAVww==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

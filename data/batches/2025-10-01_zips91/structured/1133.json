@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/228-W-16th-St-APT-2A-New-York-NY-10011/244842667_zpid/",
+  "external_property_id": "244842667",
+  "scraped_timestamp": "2025-10-01T13:53:49Z",
+  "status": "blocked",
+  "listing_id": "716a02fd7dee47b2826faf5a8d962436",
+  "property_id": "2e657069f86c9ec6bd701f0eb671024d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

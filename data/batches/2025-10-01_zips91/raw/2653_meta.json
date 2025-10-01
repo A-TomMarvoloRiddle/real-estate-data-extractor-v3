@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/525-N-Ada-St-APT-37-Chicago-IL-60642/3861427_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/525-N-Ada-St-APT-37-Chicago-IL-60642/3861427_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T13:01:20Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2653
+}

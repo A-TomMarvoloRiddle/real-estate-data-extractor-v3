@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/445-W-19th-St-APT-1G-New-York-NY-10011/31502102_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:44:55 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ef3c81e4-adb5-4710-bed9-a9fefaf46c6b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:44:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|30879c81-2405-4b43-9c09-930f2ff52cee; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48d44-gEKKprw28c0m605nhiiR7R4EEtc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "215",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6hIs6Zfq6wqp3wU6mSikv1BRxkbnxZSmZB8xLD-cZ6vwxGnLlqLg5A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

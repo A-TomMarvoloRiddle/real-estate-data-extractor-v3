@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/15-E-70th-St-New-York-NY-10021/2075711635_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:01 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2445dece4e-ec12-4529-8ca1-8533886f840d; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|c4a73492-17a3-42db-9473-e0f734a38f4e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"49ca4-tgUSjRUA1Oa76p9ApmCBEH/lOGo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "274",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "4gULKfuUcMIYmA264AAMIS8zfLR8C-Rj4Qn-rSpCTtm9pDUoyMQHow==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

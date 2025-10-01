@@ -1,0 +1,21 @@
+{
+  "status": 403,
+  "final_url": "https://www.zillow.com/homes/30307_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 11:11:19 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "5816",
+    "Connection": "keep-alive",
+    "X-Px-Blocked": "1",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "nLbmjkCZBlvb08uthW0V9D6-I4ZAbzOQU3muApZxxh77I1ohGv6txQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

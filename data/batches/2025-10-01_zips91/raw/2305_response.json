@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1430-N-La-Salle-Dr-APT-A1-Chicago-IL-60610/456785841_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:42:49 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fc7256ed-9b49-4c98-bebb-b165c2a75b04; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:42:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|ef84bcff-c025-4e87-820b-68f64cfd3c5a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6884a-sA4rzbORp7T2KF9aXw3NOuETOOE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "273",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "XoOnYPxNgulqdAIuE0aEDEvDzqMFFX2f214xuo9puG-ZS0xTeL0wag==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

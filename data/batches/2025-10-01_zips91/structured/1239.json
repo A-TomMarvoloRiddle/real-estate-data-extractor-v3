@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/124-Thompson-St-APT-30-New-York-NY-10012/2094582713_zpid/",
+  "external_property_id": "2094582713",
+  "scraped_timestamp": "2025-10-01T13:54:50Z",
+  "status": "blocked",
+  "listing_id": "1dec1cd4c6e727833a483c4b0236f366",
+  "property_id": "e391ada88179bdb0c9980e533a338c1d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

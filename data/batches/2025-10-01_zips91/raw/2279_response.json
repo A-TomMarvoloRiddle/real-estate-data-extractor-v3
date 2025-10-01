@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/70-W-Burton-Pl-APT-2701F-Chicago-IL-60610/3854451_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:16 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240c231e04-1b5a-4afb-9df7-a0025525e668; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|5ce7d6e6-1190-4384-9e8a-df185034c6b4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53adf-xjOj9FBn1DVK70wec7oB3k3m9Gg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ZIZhJykeMo2etXNifS47YZGSZx009YuA4mhpCC-BUZIs8HEhIKbAHg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/343-E-74th-St-UNIT-PH-3-4D-New-York-NY-10021/442462646_zpid/",
+  "external_property_id": "442462646",
+  "scraped_timestamp": "2025-10-01T13:55:57Z",
+  "status": "blocked",
+  "listing_id": "367a6128e9bb8045a23b839b01c943eb",
+  "property_id": "c393d71cd5d41f7a785720860dabf344",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

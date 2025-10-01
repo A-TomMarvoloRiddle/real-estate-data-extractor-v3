@@ -1,0 +1,65 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/242-E-19th-St-10003/unit-2C/home/160710566",
+  "external_property_id": "160710566",
+  "scraped_timestamp": "2025-10-01T13:53:22Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1395000,
+  "beds": 0.0,
+  "baths": 1.0,
+  "interior_area_sqft": 112641,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/769/RLS20050769_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_2_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_6_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_3_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_5_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/769/genMid.RLS20050769_4_1.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7355097%2C-73.9831513&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=I5zdgxjYX2jlAxHk48_up27-lg8=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "& nbsp;  Welcome to this beautifully renovated prewar 1-bedroom residence at 242 East 19th Street, a full-service Art Deco co-op in the heart of Gramercy Park. This rare Gramercy offering combines prewar charm with modern updates, all within a well-run, full-service building.  This north-facing apartment overlooks tree-lined East 19th Street and features:  Large entry foyer  Expansive living room with wood-burning fireplace King-size bedroom with two closets, including a walk-in Oversized kitchen with stainless steel appliances , Caesarstone countertops, porcelain tile floors and backsplash, and glossy white cabinetry  Adjacent large dining area Renovated bathroom with new sink, vanity, toilet, bathtub, and modern tile finishes Hardwood floors throughout  New Friedrich remote-controlled A/C units in both living room and bedroom Building Amenities:  24-hour doorman  Live-in superintendent Landscaped rooftop garden Laundry room  Bike storage and common storage  Monthly maintenance includes gas and electric  Pet-friendly (with board approval)  Co-purchasing, parental purchasing, and guarantors permitted Please note there is a current assessment of $177.25  & nbsp;",
+  "price_history": [
+    {
+      "event_date": "Jan 9, 2023",
+      "event_type": "price_change",
+      "price": 499000,
+      "notes": null
+    },
+    {
+      "event_date": "Apr 12, 2019",
+      "event_type": "price_change",
+      "price": 1019568,
+      "notes": null
+    },
+    {
+      "event_date": "Apr 12, 2019",
+      "event_type": "listed",
+      "price": 1019568,
+      "notes": null
+    },
+    {
+      "event_date": "Mar 20, 2019",
+      "event_type": "listed",
+      "price": 975000,
+      "notes": null
+    }
+  ],
+  "street_address": "242 E 19th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "2C",
+  "listing_id": "faec9aed6e42b2762893ecf1a04fea63",
+  "property_id": "ecbf5fbfb1f0c1e358ac33aa6bbaa296",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

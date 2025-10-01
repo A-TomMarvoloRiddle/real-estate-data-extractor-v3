@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/27-W-84th-St-APT-4RE-New-York-NY-10024/456959324_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:07 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24737d9188-8734-4632-9633-c722fc96aa2c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:07 GMT; Path=/; Domain=.zillow.com, zgsession=1|65333c76-d3e9-4c91-97e1-c7a10dd4b753; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47efa-xZHNcz0nNRWViIDTYWlv+siiBQw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Q8kUcpI2VIdnEmbRGOgjtfmKkiGQ2Q35Zf5wMoMs1HYmngrkSfYYLA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

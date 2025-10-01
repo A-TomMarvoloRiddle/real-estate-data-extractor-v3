@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1224-W-Van-Buren-St-APT-809-Chicago-IL-60607/121066554_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:23 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fda02915-b143-4a63-ac2c-ed8f9ff5b50e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|92a443d3-c5f8-4362-ac47-0d101057d374; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"59c79-2hwICKkyCUx2vWZjBFOEK6DkBSY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "284",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VScJBUFFLTHPTYBoKeWGuCzBQXGy3zk6VS5ASit3qJoEv6x4-zpiBA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

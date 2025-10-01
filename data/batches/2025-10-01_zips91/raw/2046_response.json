@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2705-Ocean-Front-Walk-Venice-CA-90291/20443725_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:25 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244d78ca12-76bb-4263-afa2-78da076e962e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|e8044870-7e1a-443a-ac06-09ade4946bc8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"13727e-9BYeceXAuaN4/d7w3JGiJ2mqEH0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "278",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zGYU2rtlfJ6voW4wT4Z-vZQ-xHT86tKiUAcC8aHStghscbqyorWPhg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

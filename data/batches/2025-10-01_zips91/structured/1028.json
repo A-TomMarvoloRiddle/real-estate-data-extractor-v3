@@ -1,0 +1,53 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/718-Broadway-10003/unit-6B/home/45141802",
+  "external_property_id": "45141802",
+  "scraped_timestamp": "2025-10-01T13:53:24Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1595000,
+  "beds": 1.0,
+  "baths": 2.0,
+  "interior_area_sqft": 165,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/864/RLS20048864_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_2_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_7_8.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_4_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_6_8.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_1_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/864/genMid.RLS20048864_5_8.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7289755%2C-73.9934249&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=MoRUIN-iNZ1f0cIx2a5wrdydtGE=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PriceDropHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "NEW TO MARKET!  Two-bedroom loft in the heart of NoHo. This residence spans over 1,300 sqft with 12’ ceilings. Oversized east-facing windows, soak the home with an abundance of natural light. Both king- and queen-sized bedrooms offer large closets and space for additional furniture. The five-piece bathroom’s vaulted ceilings and layout give the feeling of an at-home spa. A full-sized chef’s kitchen equipped with stainless appliances, ample storage and a breakfast bar , leads into a full dining area suitable for up to 10 people, embellished by quintessential exposed brick. The grand living area looks out - though a breathtaking 25' of continuous windows - onto Lafayette Ave. The height of the space provides the classic loft feel and allows for a spacious living room and home-office space. There is no shortage of storage throughout the home including a coat closet, WIC/pantry and a full additional floor-to-ceiling storage closet. 718 Broadway has several amenities including central laundry, elevator, full-time super, virtual doorman and a stunning roof deck. The building is located in a prime area offering access to N, R, 4,5  &  6 trains as well as shops, bars and restaurants.",
+  "price_history": [
+    {
+      "event_date": "Sep 30, 2025",
+      "event_type": "listed",
+      "price": 1595000,
+      "notes": null
+    },
+    {
+      "event_date": "Sep 27, 2019",
+      "event_type": "listed",
+      "price": 1695000,
+      "notes": null
+    }
+  ],
+  "street_address": "718 Broadway",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "6B",
+  "listing_id": "5bcb975a78c83f1feb11c2b23516042d",
+  "property_id": "4f3606e78b3e68af3c331a3c79d17a76",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

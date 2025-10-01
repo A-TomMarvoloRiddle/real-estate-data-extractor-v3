@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/64-E-1st-St-10003/unit-TH1/home/169649459",
+  "external_property_id": "169649459",
+  "scraped_timestamp": "2025-10-01T13:53:21Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 3350000,
+  "beds": 2.0,
+  "baths": 2.0,
+  "interior_area_sqft": 950,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/249/RLS20051249_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_3_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_9_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_4_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_7_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_1_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/249/genMid.RLS20051249_6_4.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7238034%2C-73.9889486&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=ItX3pnLcdVd59dGg_dTBLUoY6lg=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "A true private and secluded home in prime downtown Manhattan. The townhouse at 64 East 1st sits on a quaint East Village block offering over 3,300 sqft of seamless indoor/ outdoor living . The home is comprised of two bedrooms, two full bathrooms, a powder room, private terrace and garden. Upon walking into this space you are welcomed by bespoke finishes , sizable bedrooms and floor to ceiling windows leading to the stunning garden space . Thanks to the current owner's tasteful and recent renovation, this home now offers custom millwork in all closets, automated shades, Nest thermostats, sub-zero wine fridge and a stunning natural stone fireplace with inset TV. The beautifully landscaped back yard offers mature plantings, irrigation system, mahogany wall panels and dramatic custom lighting. The great room encompasses just over 23' x 23' of living space and is set apart by floor-to-ceiling casement windows which elevate and showcase the true quality of these lofts. The entire space has smart home integration and additional storage throughout. The vast open layout and large windows allow for abundant natural light to pour in, and ceiling heights maximized by revealing the structural beams. This home is defined by its polished materials, expansiveness and natural light. The kitchen offers sleek design and features such as Stevali European-style cabinetry, a Pental quartz countertop accented by an Artistic Tile backslash, Wolf Dual-Fuel Range, Sub-Zero bottom mount refrigerator, microwave drawer and Bosch dishwasher. The master suite is an inviting haven for clean simplicity and offers sizable dimensions, with an en-suite bathroom comprised of classic design elements like subway tiles, floating cabinetry, all-nickel plumbing hardware with cross handles and escutcheon plates from Waterworks' distinctive Ludlow collection. Resident amenities include in-residence vented washer and dryer, a Virtual Doorman by ButterflyMX – offering secure smartphone-based video technology that allows residents to monitor guests and deliveries from their own handheld device – and an on-site fitness center with an entertainment system and equipment by Gym Source.",
+  "price_history": [
+    {
+      "event_date": "Sep 10, 2024",
+      "event_type": "price_change",
+      "price": 3350000,
+      "notes": null
+    }
+  ],
+  "street_address": "64 E 1st St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "TH1",
+  "listing_id": "1f1a1434460de2e8aa850e2672f81595",
+  "property_id": "ac83976e39599b6a96bc1be11430fa5a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

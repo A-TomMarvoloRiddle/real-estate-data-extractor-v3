@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/20-Charles-St-New-York-NY-10014/31500309_zpid/",
+  "external_property_id": "31500309",
+  "scraped_timestamp": "2025-10-01T13:55:16Z",
+  "status": "blocked",
+  "listing_id": "c8918e8709b4b4c1e71f775bdc61b022",
+  "property_id": "326ce6cd29250b35981843cdd08ff69c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/260-W-22nd-St-APT-2-Manhattan-NY-10011/122976735_zpid/",
+  "external_property_id": "122976735",
+  "scraped_timestamp": "2025-10-01T13:54:08Z",
+  "status": "blocked",
+  "listing_id": "1ea6e9fd26c6af37be85f5f195eab9a9",
+  "property_id": "0476309e844495a3529fb7a4a047ef17",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

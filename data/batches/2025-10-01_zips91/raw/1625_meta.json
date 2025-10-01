@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/299-Hicks-St-THA-Brooklyn-NY-11201/443843302_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/299-Hicks-St-THA-Brooklyn-NY-11201/443843302_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:09:30Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1625
+}

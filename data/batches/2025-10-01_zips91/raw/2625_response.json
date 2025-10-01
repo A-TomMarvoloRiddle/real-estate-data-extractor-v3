@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1705-W-Leland-Ave-Chicago-IL-60640/2102103802_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:43 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2492647564-1999-4631-ac21-69ec68ef7fa6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:43 GMT; Path=/; Domain=.zillow.com, zgsession=1|50490c65-e6a5-4e26-bce8-a43f1b7554e4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6a4c3-B6Q9vS4iKpABEFGaVCTW6T+0/3s\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "219",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "QQ4wmKMgw6TR6-ifD3n6cUshXT2DLvZE2sAVPKM792pqNN6YMH2Z_w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

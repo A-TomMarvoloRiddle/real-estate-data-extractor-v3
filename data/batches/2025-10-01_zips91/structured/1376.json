@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/134-E-71st-St-New-York-NY-10021/31535190_zpid/",
+  "external_property_id": "31535190",
+  "scraped_timestamp": "2025-10-01T13:55:47Z",
+  "status": "blocked",
+  "listing_id": "125066f9b93dc0037d1a83f62bc5535d",
+  "property_id": "9fa65d4ff400c5ba742501ae1a885a42",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1012-Superba-Ave-Venice-CA-90291/20452747_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:30 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ef6d0d7b-8ddc-462d-af73-7983c3d2020c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:30 GMT; Path=/; Domain=.zillow.com, zgsession=1|14b1719d-2087-4e09-b760-d2169be61e10; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7157c-gquB3TLj06Rkui1pVxeGM3U/Qns\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "213",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "bvGlS0X2aKVD6-lKjeNH7W5CvAoiN93XFSi07UjgD_qkymAaNHc0UA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

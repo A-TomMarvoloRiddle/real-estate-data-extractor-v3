@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1440-N-Lake-Shore-Dr-Chicago-IL-60610/3843769_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:42:04 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244eb966b8-6374-4212-9f0d-357bdbdf91fc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:42:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|6eff1f0f-6f65-4168-bb69-03e020852629; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5ebc8-omgPZs6huKcuT+kXIN8DdxMRy8A\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "332",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "RsjbkQgVlQmDz1UnXOdInmvhEzjsnGJR2TbLxs_X_RIsI106Mu_kjw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

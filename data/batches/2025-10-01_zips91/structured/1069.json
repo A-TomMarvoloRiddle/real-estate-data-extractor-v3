@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/302-E-19th-St-APT-3B-New-York-NY-10003/31508865_zpid/",
+  "external_property_id": "31508865",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "be50aa27d01f6dbf8bf9e6bf97b3e266",
+  "property_id": "ae586b443ff9354ba95ac368836b0318",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

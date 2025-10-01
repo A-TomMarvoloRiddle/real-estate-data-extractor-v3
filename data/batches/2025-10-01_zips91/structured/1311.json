@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/227-W-11th-St-APT-53-New-York-NY-10014/244812817_zpid/",
+  "external_property_id": "244812817",
+  "scraped_timestamp": "2025-10-01T13:55:21Z",
+  "status": "blocked",
+  "listing_id": "06f46e9d5540f60adbb694174fa996c2",
+  "property_id": "9aaf4948c3a3237687bf1b85a6a831a7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

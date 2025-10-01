@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/729-Marco-Pl-Venice-CA-90291/20452274_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:38 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24705d4925-c26f-4339-b5c4-29401925c434; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:38 GMT; Path=/; Domain=.zillow.com, zgsession=1|ff9c66c1-a67c-4efc-80ec-76a77e7bcf88; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e573-9MeY+ugjL15X3Dv8qx/8qSbjTU4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "249",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "qWBoSvioy0wxJkHyaEuq_XCAfGoKGiAid0I1gYDI7mPNbvV-yKvcLg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

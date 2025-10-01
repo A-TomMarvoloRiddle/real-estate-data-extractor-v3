@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/36-Bleecker-St-3DC-New-York-NY-10012/455788050_zpid/",
+  "external_property_id": "455788050",
+  "scraped_timestamp": "2025-10-01T13:54:33Z",
+  "status": "blocked",
+  "listing_id": "4c0e7eb265476917b4f4ffd328fceade",
+  "property_id": "ef123ea1aa7e3547e1405eade45457a6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

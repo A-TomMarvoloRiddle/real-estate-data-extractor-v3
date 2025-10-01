@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/16-Christopher-St-10014/home/45245164",
+  "external_property_id": "45245164",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "8a5006092244046d626365dfbfd2ac38",
+  "property_id": "d2ac077e6b8ad6b0865a06b94d236580",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

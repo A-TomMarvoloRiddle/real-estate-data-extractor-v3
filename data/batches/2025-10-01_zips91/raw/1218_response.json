@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/159-Bleecker-St-1-New-York-NY-10012/447521271_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:23 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2424ab5cff-5167-4c29-a16b-9317bba19496; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|55181693-2aa2-4cae-87fe-06271936151e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"484cf-d3smVHVhSu22faKEWzWGy9lhgno\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "218",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "yoLn0vq0VYzsW96nariSsKm6YIl_06d45vs7pdIlfsQSqhdhwSoC6A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

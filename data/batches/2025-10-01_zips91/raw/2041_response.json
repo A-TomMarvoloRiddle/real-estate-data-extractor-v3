@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/836-California-Ave-Venice-CA-90291/20451840_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:05 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241e6e7e47-221b-43dd-a012-d5564f99725f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|76774c8b-f927-42af-b7d7-925b2a6f9949; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6eb22-THCLzgQPXdkoacDPU7NKpUgnxc8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "282",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "5vOiq60QgakYYqYnDHFBpQ0BP33aLA15X_PhxI68vmKV__zIW9O1cg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

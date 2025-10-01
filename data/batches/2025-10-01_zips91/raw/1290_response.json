@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/78-Morton-St-New-York-NY-10014/143090515_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:52:54 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2477e4f987-71fa-42ac-b565-9628c5ef4a6f; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:52:54 GMT; Path=/; Domain=.zillow.com, zgsession=1|4f025c1e-fdd2-44bb-9028-a5949e06499e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"581ce-p5GbqIG4h0EF5kECZ0zyidzi2i8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "236",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FvGQLczoLjGxraKKGY2LnO-oIRYYVyNLIV0NJ5o6i10kzzkp8aRqTQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

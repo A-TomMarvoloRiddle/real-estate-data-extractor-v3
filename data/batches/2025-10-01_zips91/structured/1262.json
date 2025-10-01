@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/49-King-St-10014/unit-5/home/63689813",
+  "external_property_id": "63689813",
+  "scraped_timestamp": "2025-10-01T13:54:58Z",
+  "status": "blocked",
+  "listing_id": "e95f60224ddfc5d4fff2b418aa9607db",
+  "property_id": "5f3efe77dc875befdb21f9899da94280",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/453-Sherman-Canal-Venice-CA-90291/95604885_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:35 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2445f69a0c-0ba2-4199-b8a5-fa198472542b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:35 GMT; Path=/; Domain=.zillow.com, zgsession=1|411ebe4e-6d43-42cc-a233-1fe9a162f4b7; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"77dd3-GhEYTtqWeTnCu16hyPfzyYP3i2A\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "267",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "a_lKa1UpSY-MRtM_ayHGiprJU5VjiVfKGkbHRC4se7hFNhnWijoqwA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

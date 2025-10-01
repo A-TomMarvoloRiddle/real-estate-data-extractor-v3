@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/704-Broadway-PENTHOUSE-New-York-NY-10003/442755067_zpid/",
+  "external_property_id": "442755067",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "70b495f56c685e338ca627dedb82364e",
+  "property_id": "5d8c8041ae7407643ce4979f122c130d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

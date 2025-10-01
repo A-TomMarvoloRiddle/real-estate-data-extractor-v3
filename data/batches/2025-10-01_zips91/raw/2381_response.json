@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3641-N-Ashland-Ave-APT-4N-Chicago-IL-60613/2135592716_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:50 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f1b37737-7fa8-4c4d-b537-b5a200c11979; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:50 GMT; Path=/; Domain=.zillow.com, zgsession=1|04e20942-b875-474e-966c-1c731b20c8ab; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"585c8-fkRpPN+G/YrQO5rP5n3dFslQops\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "286",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "3cBkZxlyUdAFxCLmkQgGKCHsO6mVM2lBQE6iHD6C0X4yP7tOraTrcg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

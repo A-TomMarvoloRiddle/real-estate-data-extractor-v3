@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1233-Palms-Blvd-Venice-CA-90291/20454567_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:03 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24730801fd-e78e-4e84-a49c-e31918211e81; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|247bd2f2-079f-49c1-8d67-522471f2a324; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e23f-HujPR3Nmi6I83USlp/JNv/ziz14\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "307",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "NgJ8lQRrEyXJwLYJKDq6Bv7XySA1eJMzosU797aUTBOXNFcI_rQO2g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

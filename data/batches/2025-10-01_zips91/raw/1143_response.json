@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/165-W-20th-St-6ABC-New-York-NY-10011/2066877752_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:42 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246192b66d-d249-4198-8c17-3d56230ea5d7; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:42 GMT; Path=/; Domain=.zillow.com, zgsession=1|0161e009-56c7-40ce-9769-6b30623b71e9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d276-CYO0wYYIRYuwc9j2OPAuTEV6KH4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "264",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "bwYNkR0VDuGIOvNOmCKRfKgzIejHhFfv3fkG7qeO5bzw_oSCHKsWfQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

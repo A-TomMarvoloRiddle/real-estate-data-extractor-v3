@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/48-Bond-St-10012/unit-4B/home/45201544",
+  "external_property_id": "45201544",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "0a8bd35483e738fc01a6f96fd743fd39",
+  "property_id": "7457b453d074ddf646d5c5d5f7dae70f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

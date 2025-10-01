@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/490-W-End-Ave-10024/unit-1D/home/114031263",
+  "external_property_id": "114031263",
+  "scraped_timestamp": "2025-10-01T13:56:18Z",
+  "status": "blocked",
+  "listing_id": "efd1e9874466e4aa1495b0935e414f2f",
+  "property_id": "22f3fae68e0cbb4edaee88e66f93c0bd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,26 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/81-Irving-Pl-15DE-New-York-NY-10003/72516956_zpid/",
+  "external_property_id": "72516956",
+  "scraped_timestamp": "2025-10-01T13:53:28Z",
+  "status": "ok",
+  "title": "81 Irving Pl #15DE, New York, NY 10003",
+  "list_price": 1650000,
+  "beds": 2.0,
+  "baths": 2.0,
+  "images": [
+    "https://photos.zillowstatic.com/fp/ea367414174b2bd5f0b546ceb3c1a2dc-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/4841effa65a83e92ae2f3ad5b1fae4da-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/ea4a5b175f4b9e882e2f4c41d32c61b2-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/26bd13af49e9aabad9eab39676bd090b-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/30be3a8c067fc2d0c710486ccfded233-cc_ft_576.jpg"
+  ],
+  "description": "Active See all 18 photos $1,650,000 81 Irving Pl #15DE, New York, NY 10003 2 beds 2 baths -- sqft Loading Coop Built in 1930 -- sqft lot $1,697,700 Zestimate ® $--/sqft $4,415/mo HOA What's special Restored period detail Dual exposures Majestic views Large guest bedroom suite Bright views Integrated workspace High beamed ceilings THORTON WILDER (OUR TOWN) LIVED IN THIS HOME & WROTE THIS ABOUT IT:  \n\n\"My new apartment is 81 Irving Place... I've lived five days in my New York home and am already flooded with a new overwhelming feeling about New York.\" Thornton Wilder referencing Residence 15DE, in a letter to Gertrude Stein and Alice Toklas, November 18, 1939.\n\nLUMINOUS & LITERARY, TRIPLE CORNER CLASSIC w/STUNNING VIEWS IN THREE DIRECTIONS BY GRAMERCY PARK\n\nBIG BEAUTIFUL ROOMS, CASEMENT WINDOWS, SOARING CEILINGS, RESTORED PERIOD DETAIL AT PRIZED PRE-WAR ADDRESS\n\nHigh atop Irving Place is perched a Manhattan treasure.  This magical home, with majestic views in three directions, and cheerful sunshine spilling through its handsome casement windows, floats above it all.  With a prized vantage point to its coveted building's famous gargoyles and gorgeous architecture, a rare, soulful home unfolds.  Above you soar high beamed ceilings and arches, underfoot are hardwood floors, and everywhere you look, there is classic, timeless beauty.  \n\nThe grand living room is an impressive, stretch-out entertaining space.  A corner room with supreme, open city skyline views to the East and South, the living room lives largely.  Offering a dining area under its signature arched ceiling, and an endearing, corner, period built-in (ideal for collectibles and books), this great room certainly earns the name.  Served by a sweet windowed kitchen, the living/dining room brings all day sunshine and all night moonbeams.  \n\nBoth bedrooms are large and lovely, offer dual exposures and bright views, and are gracefully on opposite ends of this winsome home.  The primary bedroom is king-sized, offers peeks of Gramercy Park to the South and dramatic city views East.  With an immense wall of closets, an integrated workspace, and an en suite windowed bath, this space is masterful.  On the other side of this standout residence is the large guest bedroom suite.  With two bright exposures, more architectural views of the building's prized gargoyles, and its own full, en suite guest bath, this versatile bedroom is made for an expansive life.  \n\nIdeally situated in the heart of the Gramercy Park neighborhood, 81 Irving Place is an architecturally distinguished and incredibly well-run full-service prewar cooperative building with a live-in Superintendent, attended lobby, laundry room, and a bicycle storage room. The location grants residents enviable proximity to Union Square Park, its farmer's market, and the culinary epicenter of New York City. The building permits dogs, sublets, parental co-purchases, and pied a terre owners.\n\nSupremely situated in perhaps the most treasured part of 81 Irving, this rare, one-of-a-kind home gleams proudly.  Part of the Gramercy Park Historic District, this rare, resplendent residence enjoys all of the supreme assets and benefits of its well-served, well-run building.  With a seasoned staff, and a world-class location along one of Manhattan's most idyllic and sought-after tree-lined blocks, here is a 1929 beauty in a location that comes with bragging rights.  Nearby is every downtown trophy destination:  A multitude of cultural, shopping, dining, educational, entertainment, and fitness destinations are at your doorstep -- not to mention Gramercy Park, Union Square Park (and green market), Park Avenue South, Whole Foods, Trader Joe's, and a plethora of easy transportation options.  \n\nThorton Wilder apparently loved his life in this home.  It's easy to understand why.  Come discover this residential stand-out, and be \"flooded with a new overwhelming feeling about New York.\"\n\nFlip Tax: 3% of Purchase Price to be Paid by Purchaser. Show more 3 days on Zillow | 582 views | 39 saves | Likely to sell faster than 91 % nearby Loading Request a tour as early as today at 11:00 am Loading Loading Contact an agent Loading",
+  "metrics_views": 582,
+  "metrics_saves": 39,
+  "price_history": [],
+  "listing_id": "29768a5b632d8fbd8ba2bac523d2455c",
+  "property_id": "e2eb98921ad6af43ff6304693c04ce39",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

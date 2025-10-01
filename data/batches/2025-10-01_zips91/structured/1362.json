@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/233-E-69th-St-10021/unit-2A/home/45182378",
+  "external_property_id": "45182378",
+  "scraped_timestamp": "2025-10-01T13:55:40Z",
+  "status": "blocked",
+  "listing_id": "d7286d9e76abf51dc964141d60048462",
+  "property_id": "58d7333bb7bb581bb2f4e27736fa2574",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

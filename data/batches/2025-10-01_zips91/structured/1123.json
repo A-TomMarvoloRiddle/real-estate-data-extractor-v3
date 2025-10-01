@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/66-W-11th-St-10011/unit-PARLOR/home/115335283",
+  "external_property_id": "115335283",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "1c11ee0e8c4caa2c6188a84e48be7605",
+  "property_id": "24a7cfe59b420bab5f946ad21ee749f4",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

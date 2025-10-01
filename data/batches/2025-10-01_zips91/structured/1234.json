@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/14-Prince-St-APT-5E-New-York-NY-10012/31497180_zpid/",
+  "external_property_id": "31497180",
+  "scraped_timestamp": "2025-10-01T13:54:46Z",
+  "status": "blocked",
+  "listing_id": "32403bf11e2c465bf64a73c336bfeeeb",
+  "property_id": "0e34fa36d7fd6ad7b6f750f472d5c318",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

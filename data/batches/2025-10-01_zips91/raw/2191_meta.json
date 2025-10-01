@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/1355-W-Washington-Blvd-APT-4D-Chicago-IL-60607/63698569_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/1355-W-Washington-Blvd-APT-4D-Chicago-IL-60607/63698569_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:37:02Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2191
+}

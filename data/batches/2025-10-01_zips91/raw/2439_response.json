@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2106-N-Seminary-Ave-APT-3-Chicago-IL-60614/3735452_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:49 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d072e594-decf-4168-8225-2ceb4dc4959a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|119f7cb8-360d-4422-be20-7490fa840040; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ec69-uLfw24pSp2+ypdAuO4XSa86FHxQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "272",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "OrZkX-OecA2su_T2EebWPc9CiW3uSkh2pQUK6ZERVhMD9UCrksUwxw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

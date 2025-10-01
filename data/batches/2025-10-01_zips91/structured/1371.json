@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/4-E-73rd-St-New-York-NY-10021/118327035_zpid/",
+  "external_property_id": "118327035",
+  "scraped_timestamp": "2025-10-01T13:55:42Z",
+  "status": "blocked",
+  "listing_id": "7936803ae9b1885fd6c0527ec91e015e",
+  "property_id": "740cf53e1a17a97bea84506d38710e15",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

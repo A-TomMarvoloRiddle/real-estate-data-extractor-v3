@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1448-W-Chestnut-St-3-Chicago-IL-60642/332930923_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:31 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a46c0eb1-ce84-4f82-9276-c9d5778b15e3; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:31 GMT; Path=/; Domain=.zillow.com, zgsession=1|ca86aeb4-f988-4612-bb82-26de2a4e8837; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5c017-GZtOjPiOzo14U7dLnCoXKyB4dZo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "216",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "uSwG3aqzFeGlhjAt-7iDtC-wJ-AOg4pXFcF8d6KsDyMg6sU00dtyXA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

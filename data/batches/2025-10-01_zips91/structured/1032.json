@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/232-E-6th-St-10003/unit-4AB/home/53324839",
+  "external_property_id": "53324839",
+  "scraped_timestamp": "2025-10-01T13:53:25Z",
+  "status": "blocked",
+  "listing_id": "3bb97cf3a143461f4ff2961cd27d1f85",
+  "property_id": "ffb6408ff27f352700958d3e28542ffd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

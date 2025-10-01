@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/215-N-Aberdeen-St-UNIT-302B-Chicago-IL-60607/2080022842_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:06 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a4ca3f82-1786-4787-88c5-3fe5ea7768ac; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:06 GMT; Path=/; Domain=.zillow.com, zgsession=1|e025490c-1502-404e-9c69-519a95f95774; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5539d-lchzqh3SePw8Zb1+kiMtzWEJ8UM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "242",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Jfyl5J18OE4kWHsgAjc9aHxGrlsi3dDvHyDZyaLlPM0dieC_U68csw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

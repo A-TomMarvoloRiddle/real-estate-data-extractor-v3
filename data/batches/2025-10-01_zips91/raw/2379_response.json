@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3900-N-Pine-Grove-Ave-APT-409-Chicago-IL-60613/80835002_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:43 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2426662a3e-51a8-43ca-af4e-b77102483c7f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:43 GMT; Path=/; Domain=.zillow.com, zgsession=1|70abdb6d-3203-4a64-b75b-1eff0b269bc8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56144-MEtVMTjWx7vT0FSqGbMHr5oiBYI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "264",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "BrCqiG_Zis3PPrEGQ1GOYpU6d64YB0gJqNBacQyKNKrksgEiydG7Gg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

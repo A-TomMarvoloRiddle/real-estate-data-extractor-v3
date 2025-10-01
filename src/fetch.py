@@ -19,6 +19,7 @@ from src.settings import (
     default_headers,
     make_batch_dirs,
     now_utc_iso,
+    latest_batch_dir
 )
 
 load_dotenv()
@@ -52,11 +53,10 @@ def choose_headers_for(url: str) -> Dict[str, str]:
     return default_headers()
 
 def fetch_via_firecrawl(url: str, timeout: int) -> Optional[str]:
-    """جرب Firecrawl (scrape) وأرجع html أو None عند الفشل."""
+    """fetch HTML via Firecrawl API if API key is set and crawl_method is 'firecrawl_v1'."""
     if not FIRECRAWL_KEY or CFG.get("crawl_method") != "firecrawl_v1":
         return None
     try:
-        # أبسط مسار scrape فردي
         r = requests.post(
             f"{FIRECRAWL_API}/v1/scrape",
             headers={"Authorization": f"Bearer {FIRECRAWL_KEY}", "Content-Type": "application/json"},
@@ -66,7 +66,6 @@ def fetch_via_firecrawl(url: str, timeout: int) -> Optional[str]:
         if r.status_code != 200:
             return None
         data = r.json()
-        # دعم حقول محتملة
         html = data.get("html") or data.get("data", {}).get("html") or ""
         return html if isinstance(html, str) and html.strip() else None
     except Exception:
@@ -82,10 +81,7 @@ def _find_latest_batch_id() -> Optional[str]:
     root = _batches_root()
     if not root.exists():
         return None
-    dirs = [p for p in root.iterdir() if p.is_dir()]
-    if not dirs:
-        return None
-    latest = max(dirs, key=lambda p: p.stat().st_mtime)
+    latest = latest_batch_dir()
     return latest.name
 
 def _resolve_dirs(batch_id: Optional[str]) -> Dict[str, Path]:
@@ -175,7 +171,6 @@ def fetch_and_save(
 ) -> FetchResult:
     raw_dir.mkdir(parents=True, exist_ok=True)
 
-    # اختَر هيدر بحسب الدومين إن ما وصلت هيدر خارجي
     headers = headers or choose_headers_for(url)
 
     attempt = 0
@@ -185,25 +180,23 @@ def fetch_and_save(
         final_url = url
         status = 0
         try:
-            # 1) جرّب Firecrawl إذا مفعّل
+            #try Firecrawl if configured
             html_text = fetch_via_firecrawl(url, timeout=timeout)
 
-            # 2) أو جرّب requests مباشرة
+            # fallback to requests if Firecrawl not used or failed
             if not html_text:
                 r = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
                 status = r.status_code
                 final_url = r.url
                 html_text = r.text or ""
 
-            # مسارات الملفات
             html_path = raw_dir / f"{idx:04d}_raw.html"
             meta_path = raw_dir / f"{idx:04d}_meta.json"
             resp_path = raw_dir / f"{idx:04d}_response.json"
 
-            # اكتب الـ HTML حتى لو فاضي (يساعدنا نراجع الحجب)
+            #save HTML with utf-8 and ignore errors
             html_path.write_text(html_text, encoding="utf-8", errors="ignore")
 
-            # response.json: إن كان عندنا r من requests
             resp = {
                 "status": status or (200 if html_text else 0),
                 "final_url": final_url,
@@ -234,7 +227,6 @@ def fetch_and_save(
         if attempt < max_retries and (status == 0 or _should_retry(status)):
             backoff = 1.5 ** attempt + random.uniform(0.0, 0.5)
             time.sleep(backoff)
-            # دوّر UA جديد للاحتماء من 403
             headers = choose_headers_for(url)
             attempt += 1
             continue
@@ -317,5 +309,5 @@ def fetch_detail_pages(urls: List[str], batch_id: Optional[str] = None, start_id
 
 if __name__ == "__main__":
     # out = fetch_first_search_page()
-    out = fetch_search_pages(limit=3)
+    out = fetch_search_pages(limit=99999)
     print("✅ Saved:", out)

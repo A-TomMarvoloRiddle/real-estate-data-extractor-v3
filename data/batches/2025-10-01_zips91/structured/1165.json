@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/129-Greene-St-10012/unit-2NDFLR/home/198365270",
+  "external_property_id": "198365270",
+  "scraped_timestamp": "2025-10-01T13:54:16Z",
+  "status": "blocked",
+  "listing_id": "3fdb9f1cd146a616ee7b15e3711914b1",
+  "property_id": "dfab4dd8dbe696c1940c8af946775f1c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

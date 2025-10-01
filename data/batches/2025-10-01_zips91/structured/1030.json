@@ -1,0 +1,51 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/65-Cooper-Sq-10003/unit-3A/home/174310910",
+  "external_property_id": "174310910",
+  "scraped_timestamp": "2025-10-01T13:53:25Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1250000,
+  "beds": 1.0,
+  "baths": 4.0,
+  "interior_area_sqft": 668,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/137/RLS20048137_R.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/137/genMid.RLS20048137_1_R.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/137/genMid.RLS20048137_4_R.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/137/genMid.RLS20048137_2_R.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/137/genMid.RLS20048137_3_R.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7290692%2C-73.9898668&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=4wTZ3v4foFl2KDMMaB1h7obVtv8=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Tucked between the vibrant East Village and charming Noho, this renovated 1 bedroom loft offers a rare blend of modern upgrades and chic urban living. With its dramatically 17-foot hight ceilings and expansive windows , the space feels bright, expansive and inviting—perfect for anyone looking to experience city living with style. The flooring throughout has been recently redone ensuring that your new home will be in mint condition. The spacious, open-concept living area features a modern island kitchen complete stainless steel appliances including a dishwasher, and microwave—perfect for home chefs and entertainers alike. One of the standout features is the balcony —your outdoor escape with amazing views of the city skyline. Whether you're sipping morning coffee or watching the skyline light up at night, it’s a view you’ll never get tired of. Additional comforts include central heating and air conditioning, ensuring year-round climate control, as well as access to building amenities like an elevator and a laundry room. Perfectly positioned in the East Village, right next to NoHo, this apartment offers unbeatable access to two of Manhattan’s most sought-after neighborhoods. Enjoy being surrounded by an array of acclaimed restaurants, cozy coffee spots, and lively bars. Nearby parks like Tompkins Square, Union Square, and Washington Square provide a refreshing escape from the urban buzz. Convenient access to multiple subway lines ensures seamless travel throughout the city.",
+  "price_history": [
+    {
+      "event_date": "Sep 11, 2021",
+      "event_type": "price_change",
+      "price": 1015000,
+      "notes": null
+    },
+    {
+      "event_date": "Sep 8, 2021",
+      "event_type": "listed",
+      "price": 1030000,
+      "notes": null
+    }
+  ],
+  "street_address": "65 Cooper Sq",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "3A",
+  "listing_id": "e4eee91245f464ba324e25a983e8d442",
+  "property_id": "f6326002da88ac8a524b73761191d582",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

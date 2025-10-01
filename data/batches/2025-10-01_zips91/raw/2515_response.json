@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1103-N-Paulina-St-2-Chicago-IL-60622/54537230_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:53:56 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241241aaf2-7b80-4918-9cb3-88f6743c2231; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:53:56 GMT; Path=/; Domain=.zillow.com, zgsession=1|bfe4f6dc-ef94-42d6-aef4-ac21d2c1d80f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4eee5-BqPWfMgb7+t4dA+pr74Gw5hla2I\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "269",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "OPatGGk-sWLw3RHFs8UszvYWNxRpUw0OUQ8jnL9ASITJwOOZGwjrVA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

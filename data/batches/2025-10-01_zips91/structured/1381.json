@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/16-E-76th-St-New-York-NY-10021/31534012_zpid/",
+  "external_property_id": "31534012",
+  "scraped_timestamp": "2025-10-01T13:55:51Z",
+  "status": "blocked",
+  "listing_id": "af6f45da1a24b2a7c589dac6cb361933",
+  "property_id": "1d769ccc9e53acc94f19ba9e98590d6b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

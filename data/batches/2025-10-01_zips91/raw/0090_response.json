@@ -1,0 +1,21 @@
+{
+  "status": 403,
+  "final_url": "https://www.zillow.com/homes/77027_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 10:52:38 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "5816",
+    "Connection": "keep-alive",
+    "X-Px-Blocked": "1",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FDs2X9A1lrT07JErZwmnJpHiwWkZHlhbJ2xhfyzH68dFnEwWrR9DZw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/823-Park-Ave-UNIT-PENTHOUSE-New-York-NY-10021/444371563_zpid/",
+  "external_property_id": "444371563",
+  "scraped_timestamp": "2025-10-01T13:56:02Z",
+  "status": "blocked",
+  "listing_id": "9c48ea6bd296b8fd511f5bbfcfcf3654",
+  "property_id": "fec10b8fea630b68f3d5dfe4878595ed",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

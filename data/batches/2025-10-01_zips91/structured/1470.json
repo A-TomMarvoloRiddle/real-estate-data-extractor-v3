@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/66-W-84th-St-APT-3F-New-York-NY-10024/89825779_zpid/",
+  "external_property_id": "89825779",
+  "scraped_timestamp": "2025-10-01T13:56:36Z",
+  "status": "blocked",
+  "listing_id": "bf143320e8c428148299216d2833b5ec",
+  "property_id": "934aed1c17409a2703d117d65fe90dc0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

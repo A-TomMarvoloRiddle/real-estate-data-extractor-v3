@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/13-Downing-St-10014/unit-9/home/115076191",
+  "external_property_id": "115076191",
+  "scraped_timestamp": "2025-10-01T13:54:57Z",
+  "status": "blocked",
+  "listing_id": "4d8583381295778b97d405b3894be464",
+  "property_id": "0921444a8bb99d54370bf5bec874b2f3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

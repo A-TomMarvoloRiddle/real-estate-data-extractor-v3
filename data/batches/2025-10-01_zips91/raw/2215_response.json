@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/106-N-Aberdeen-St-UNIT-5G-Chicago-IL-60607/89929709_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:17 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248adfa6ef-3bad-4f23-b074-8507b7a938f0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|a755536a-fb2b-4257-8300-354b1cd448d8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5428b-/4pg6OVoJt9AMrKlxtEbZuJkntQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "247",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VzvFaMCV7ZEm4PRaMah444Hpne8O2Mx73N7GHiAxn8O37cwc1DNhoQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

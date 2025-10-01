@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/78-Morton-St-New-York-NY-10014/143090515_zpid/",
+  "external_property_id": "143090515",
+  "scraped_timestamp": "2025-10-01T13:55:03Z",
+  "status": "blocked",
+  "listing_id": "3d2af4d31d49eee426631b956c4c9554",
+  "property_id": "281900b52a96ba9e8ec74ff2887b4759",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

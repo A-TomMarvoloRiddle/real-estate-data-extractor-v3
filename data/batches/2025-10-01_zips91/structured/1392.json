@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/125-E-69th-St-New-York-NY-10021/450525672_zpid/",
+  "external_property_id": "450525672",
+  "scraped_timestamp": "2025-10-01T13:56:01Z",
+  "status": "blocked",
+  "listing_id": "6c77170619b1cfe03cec05193a6924ed",
+  "property_id": "b04472a728cba3c02f33ea5aaf87760b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

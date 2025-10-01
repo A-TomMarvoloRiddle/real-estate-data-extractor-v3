@@ -1,0 +1,27 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/70-E-10th-St-APT-20C-New-York-NY-10003/457056914_zpid/",
+  "external_property_id": "457056914",
+  "scraped_timestamp": "2025-10-01T13:53:32Z",
+  "status": "ok",
+  "title": "70 E 10th St APT 20C, New York, NY 10003",
+  "list_price": 1495000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 108,
+  "images": [
+    "https://photos.zillowstatic.com/fp/afdf5145cf60c4f021b389d3a1aaab35-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/4c30cef34a86ba6b6f0f05db2f8ff543-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/ac58302fd360db06c73d4368de734348-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/4378b02fb128c65c4a1fc8dfc7f91372-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/04118e76de4747efddc93901e96fc0cb-cc_ft_576.jpg"
+  ],
+  "description": "Active See all 16 photos $1,495,000 70 E 10th St APT 20C, New York, NY 10003 1 beds 1 baths 1,108 sqft Loading Coop Built in 1960 -- sqft lot $-- Zestimate ® $1,349/sqft $2,209/mo HOA What's special Bright eastern exposures Oversized bedroom suite Stainless steel appliances Four walk-in closets Expansive entry foyer Bespoke cabinetry Custom vanity RARELY AVAILABLE OVERSIZED 1-BEDROOM, 1-BATHROOM WITH SWEEPING VIEWS\n \nPerched on the 20th floor of the legendary Stewart House, this 1,108 SF residence offers abundant natural light, open city views, and generous proportions rarely found in Greenwich Village.\n \nAn expansive entry foyer doubles as a versatile home office, flowing into an incredible 33-foot great room with a large dining alcove. The windowed chef’s kitchen features stainless steel appliances, bespoke cabinetry, and quartz countertops.\n \nThe oversized bedroom suite easily accommodates a king-sized bed and additional furniture, with bright eastern exposures. The bathroom is pristine, with a custom vanity and shower/tub combination. Four walk-in closets provide exceptional storage throughout.\n \nRESIDENCE HIGHLIGHTS\n -  1,108 SF of interior living space\n- Expansive living room with a separate dining alcove\n- Windowed chef’s kitchen\n- Open city views that overlook Astor Place to the Williamsburg Bridge\n- Spacious entry foyer/home office\n- 4 walk-in closets\n- Hardwood flooring\n- Central heating/cooling via PTAC systems\n \nThe Stewart House is a white-glove, full-service cooperative with a reputation for exceptional service and financial stability. Residents enjoy:\n- 24-hour doorman, live-in superintendent, on-site resident manager\n- Landscaped circular driveway and entry garden\n- Fitness center\n- Children’s playroom\n- Resident-only garden with comfortable seating and table areas\n- Bike room\n- Two laundry facilities\n- Package room\n- Additional storage units available for rent\n- On-site garage with direct building access\n \nTrust ownership and guarantors are permitted, with gifting permitted on a case-by-case basis.\n\nPrudent financial management has allowed the co-op to maintain low maintenance fees while investing millions to enhance both residents’ quality of life and shareholder value.\n \nSituated at the crossroads of Greenwich Village, Union Square, and Washington Square Park, The Stewart House offers immediate access to the city’s best dining, shopping, and cultural destinations, as well as multiple subway lines. Wegmans, Trader Joe’s, and Whole Foods are all within minutes.\n \nResidence 20C presents a rare opportunity to own a spacious, light-filled home in one of Greenwich Village’s most sought-after cooperatives. Show more 1 day on Zillow | 77 views | 3 saves | Loading Request a tour as early as today at 11:00 am Loading Loading Contact an agent Loading",
+  "metrics_views": 77,
+  "metrics_saves": 3,
+  "price_history": [],
+  "listing_id": "2c2c5b666465c6a2ed61f93e855a6645",
+  "property_id": "a3c98fa27b42f7dd86272ab8626f6648",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

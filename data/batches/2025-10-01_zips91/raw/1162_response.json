@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/515-W-23rd-St-PENTHOUSE-New-York-NY-10011/2077017053_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:43 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d4a6eb6b-6ae4-4cf6-97f8-f0c94f842f58; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:43 GMT; Path=/; Domain=.zillow.com, zgsession=1|5e81da3a-663c-4969-822c-b1e4ecffa30a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"593ef-x+t9al8rnDAJAIPGZCiWbI7Fda0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "215",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zoifViklEilHUqMj0oLa3O-PPXv5NqN6uzUl7elfq0M073qGU1ghyA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

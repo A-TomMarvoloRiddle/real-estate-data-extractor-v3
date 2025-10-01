@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/366-W-11th-St-6EF-New-York-NY-10014/452681611_zpid/",
+  "external_property_id": "452681611",
+  "scraped_timestamp": "2025-10-01T13:55:33Z",
+  "status": "blocked",
+  "listing_id": "afef6d80fd380c20cd6a79bd7174d86c",
+  "property_id": "b61b73ecf890c0e11a4a2305ea6e1827",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

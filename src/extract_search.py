@@ -10,15 +10,14 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
-from typing import Dict, List, Tuple, Any, Optional
+from typing import Dict, List, Any, Optional
 from collections import defaultdict
-
 from src.settings import PROJECT_ROOT
 from src.pipeline import latest_batch_dir
 
 BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
 
-# -------- Helpers
+# -------- Helpers -------- 
 
 def read_text(p: Path) -> str:
     try:
@@ -40,7 +39,8 @@ def is_redfin_not_found(html: str) -> bool:
     return 'NotFoundPage route-NotFoundPage' in html or "Oops… lost that one." in html
 
 def strip_ws(s: Optional[str]) -> Optional[str]:
-    if s is None: return None
+    if s is None: 
+        return None
     s2 = s.strip()
     return s2 if s2 else None
 
@@ -57,7 +57,7 @@ def to_abs(url: str, base: str) -> str:
             return "https://www.redfin.com" + url
     return url
 
-# -------- Zillow parsing
+# -------- Zillow parsing -------- 
 
 NEXT_DATA_RE = re.compile(
     r'<script[^>]+id="__NEXT_DATA__"[^>]*>(?P<json>[\s\S]+?)</script>',
@@ -116,9 +116,7 @@ def parse_zillow_listings_from_next_data(html: str) -> List[str]:
             out.append(u)
     return out
 
-# -------- Redfin parsing
-
-# -------- Redfin parsing
+# -------- Redfin parsing -------- 
 
 STATE_PATTERNS = [
     re.compile(r'window\.__REDUX_STATE__\s*=\s*(\{[\s\S]+?\});', re.IGNORECASE),
@@ -126,7 +124,7 @@ STATE_PATTERNS = [
     re.compile(r'<script[^>]+id="__REDUX_STATE__"[^>]*>([\s\S]+?)</script>', re.IGNORECASE),
 ]
 
-# أي href يحتوي /home/{id}
+#any href with /home/{id}
 HREF_ANY_HOME_RE = re.compile(r'href="(?P<href>[^"]*/home/\d+[^"]*?)"', re.IGNORECASE)
 
 def parse_redfin_listings(html: str) -> List[str]:

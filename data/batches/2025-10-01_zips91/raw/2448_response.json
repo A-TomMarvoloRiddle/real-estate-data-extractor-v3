@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/900-W-Fullerton-Ave-APT-2J-Chicago-IL-60614/60264988_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:23 GMT",
+    "via": "1.1 zgs, 1.1 3f3d9c0b78b8f74a9f019c7683a4abce.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ec401a36-e665-4893-9ca7-94656049bed9; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|d7788b82-f634-46f0-a89b-486f4c3247ce; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"57290-y1DrnkjB75Ex4D+aVdaMQF7E0ao\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "343",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "uE98VP8wM6p1KvLC33a8PKyDFGOyGgJVs-aUX5TYyJg7ozHZiWZruw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

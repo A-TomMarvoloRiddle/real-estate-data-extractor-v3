@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/4831-N-Hermitage-Ave-60640/unit-3B/home/12795548",
+  "final_url": "https://www.redfin.com/IL/Chicago/4831-N-Hermitage-Ave-60640/unit-3B/home/12795548",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:57:59Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2592
+}

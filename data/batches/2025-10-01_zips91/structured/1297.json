@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/160-Leroy-St-UNIT-SOUTH-9B-New-York-NY-10014/447094729_zpid/",
+  "external_property_id": "447094729",
+  "scraped_timestamp": "2025-10-01T13:55:09Z",
+  "status": "blocked",
+  "listing_id": "ce977af56d6fce09821fe17620a62b92",
+  "property_id": "89209ded044c258194056bce50e72e61",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/100-Barrow-St-7-8A-New-York-NY-10014/456699473_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:39 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240b80f10a-4711-4145-9475-28b2c80642d8; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:39 GMT; Path=/; Domain=.zillow.com, zgsession=1|46e9bff7-9cf8-4365-869f-3b4c2f54af89; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"559ae-PeIOcITfoYYZ4BdY4/5Y6rmUN6o\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "230",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "noWjbqyMLUnRLS5oxDviDaaIVP_fv16CVnZHon5T7L6617H52Cnjyw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

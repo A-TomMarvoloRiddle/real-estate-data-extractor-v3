@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1862-N-Halsted-St-APT-3N-Chicago-IL-60614/3736801_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:46 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b09b336a-9968-474d-a196-009d154a1d08; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|d8c1b7ac-ffed-4aa5-9a47-a4b297b8155d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"59269-B6170lN/eej3zBIezCdc6eC/6r8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "258",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "bDk-lBikaGNf_PIoOD2aSumpYVe7Ag2FdEAa6LOUDsBHgr1GcbPICA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

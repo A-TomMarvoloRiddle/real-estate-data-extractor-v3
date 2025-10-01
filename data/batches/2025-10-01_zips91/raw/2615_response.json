@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4606-N-Malden-St-APT-GS-Chicago-IL-60640/2082250121_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:11 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a4634e4b-5bea-4905-aa88-9d5765372d69; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|e4bf3210-b835-41e2-802d-53ba855ccca6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ea39-J4aYpOc4UmrCj2LY/0HTrUC8EIo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "243",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VF4gvm5Wai5sFD9_iGOVnT3LCc-VFfKS0xuiTnQZXWOxqAqyg-8NaQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

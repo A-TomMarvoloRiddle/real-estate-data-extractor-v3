@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/150-Charles-St-APT-1BN-New-York-NY-10014/219647804_zpid/",
+  "external_property_id": "219647804",
+  "scraped_timestamp": "2025-10-01T13:55:27Z",
+  "status": "blocked",
+  "listing_id": "9ff0c2ae6e2bb336b3574361bcb10967",
+  "property_id": "c1c9af930d130c422562e5788717d445",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

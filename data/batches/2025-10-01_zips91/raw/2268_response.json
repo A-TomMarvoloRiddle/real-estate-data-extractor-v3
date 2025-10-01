@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/915-N-Dearborn-St-Chicago-IL-60610/2142522474_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:41 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b61dcf16-4853-4304-ac17-d5d0335712f2; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:41 GMT; Path=/; Domain=.zillow.com, zgsession=1|27091976-53df-4742-8cda-19c998c48810; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7ddec-OSUWz23/+g2Xiqw7DwAjVSCmGaE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "392",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Vtoy0UGb-EICqDTsSq-dhij_e1ilBg33jCBK4GDZKtjlZSLd9UblaA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/10-Sullivan-St-APT-12A-New-York-NY-10012/219641112_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:10 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249b18a767-aec8-4c46-a247-398e2458236a; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:10 GMT; Path=/; Domain=.zillow.com, zgsession=1|de2c3bd7-39e1-4c5e-b400-4f9f31d99e53; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"60d63-G3wP0y0+UzNVOy/1bMS7n8tyzMk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "220",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "P4KmdmDcn92bvh2vEB-faTn9pxDaAyDjOEDbBjgRNKm1IlzphXjLLA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

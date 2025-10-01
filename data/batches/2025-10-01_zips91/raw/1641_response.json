@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/251-Pacific-St-APT-17-Brooklyn-NY-11201/245008087_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:18 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2453357ae4-fb50-4387-9f56-6885ece88872; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|c773d618-516b-4d08-a701-1db39bad525e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"471fd-PdfzADzU3lOLY3xasY9Hi2HRWls\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "283",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "O2rQO1Tso3WwAoCtx-VEblTu_n9tqjo55r_K3pBEQZhgfpIYxmvPZQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

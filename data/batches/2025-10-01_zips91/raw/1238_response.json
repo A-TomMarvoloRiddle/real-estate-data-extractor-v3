@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/63-Greene-St-New-York-NY-10012/442155438_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:25 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2413e7854f-3589-4335-8366-c5adf5e0a3fc; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|02155403-b4ab-46eb-b16f-3d94ff9a8c7b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"52acd-pBscHBfCjzzoNfQj/pGARBKHUf8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "t9UMGEXvspnNcmrpXRQJY4TIfFB9UEEZg4ibYfvmxm8Y_jLLopcEZw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

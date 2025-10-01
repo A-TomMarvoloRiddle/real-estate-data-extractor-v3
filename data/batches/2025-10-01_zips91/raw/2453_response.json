@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/953-W-Montana-St-APT-1-Chicago-IL-60614/2132037940_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:43 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248b11ab08-519b-4824-b4db-c1ebc4a01fca; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:43 GMT; Path=/; Domain=.zillow.com, zgsession=1|fa679c94-958f-4e1f-9fa3-f26cc4bc53b0; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"502fd-OdYP91bpbYZvvFhAk6+OtLbCCVg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "284",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "1Zdvxmok2QmXBDiLBW_TtvLiPK2WmuiYso6fnqWG2LrRZjDY8qbRJQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/34-W-12th-St-New-York-NY-10011/2070296330_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:44:46 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2450df4c94-c30e-4671-9393-41109782945e; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:44:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|c6e0199e-d82b-4724-95af-8ddadf6f4435; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"737c2-NpoxbLxFULxuecvSTwIYn88EXIo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "265",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Fi0AoWFNDDQC9o1eqpb8zCllCWwOzC_9_voCwlIPWL3fjsnVeIdg1w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/34-Dudley-Ave-Venice-CA-90291/250332975_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:35 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24583ec61d-8dd7-46d3-99df-fb7e2069022d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:35 GMT; Path=/; Domain=.zillow.com, zgsession=1|4bfda615-4bdf-4522-a0f1-7a708f15cbcd; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"41d67-pntZVNb/z2jgQ6k0MgUhHPaCOqU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "187",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xdSzIVKd5fPzN3ZQWEmvkc5YjcPjLFtvP3vyeWNlF_cHqUdptEC0iA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

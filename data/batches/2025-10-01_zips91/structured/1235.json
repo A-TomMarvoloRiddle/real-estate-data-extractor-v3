@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/92-Greene-St-4-New-York-NY-10012/450218437_zpid/",
+  "external_property_id": "450218437",
+  "scraped_timestamp": "2025-10-01T13:54:46Z",
+  "status": "blocked",
+  "listing_id": "28b27350c6ee20bd2169d6e57b07421b",
+  "property_id": "50cf0303e8f91c92f3d67459ea4fefe8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

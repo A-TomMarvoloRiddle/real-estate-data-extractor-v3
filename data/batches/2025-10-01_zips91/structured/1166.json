@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/160-Bleecker-St-10012/unit-1FE/home/198199504",
+  "external_property_id": "198199504",
+  "scraped_timestamp": "2025-10-01T13:54:16Z",
+  "status": "blocked",
+  "listing_id": "edbd30f618b49a33bc58e880aeea6b12",
+  "property_id": "d43c5c557eb49c1373104cdee1b1ed7d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

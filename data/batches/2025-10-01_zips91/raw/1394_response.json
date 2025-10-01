@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/823-Park-Ave-UNIT-PENTHOUSE-New-York-NY-10021/444371563_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:27 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246dd640b6-dfa3-4efe-8da4-d7f5bc6a6caa; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|e671ace7-5642-4c86-ab6d-ccac3a2883c8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"64f20-SJ3yLMdUcSIP5dL5yAJ8WAclkwU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "355",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "uyx6RmCpey53sBd0aBn1lLoI9RuWhJxDshs2MbwDhA2m9BZLLkmldw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

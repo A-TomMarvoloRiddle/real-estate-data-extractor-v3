@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/153-W-12th-St-New-York-NY-10011/456642911_zpid/",
+  "external_property_id": "456642911",
+  "scraped_timestamp": "2025-10-01T13:54:00Z",
+  "status": "blocked",
+  "listing_id": "06c4dce54479ba1b8f4bd17396b89b41",
+  "property_id": "027ec85f05b53150f008713f165dcd22",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

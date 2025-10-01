@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/204-W-10th-St-UNIT-7A-New-York-NY-10014/456329036_zpid/",
+  "external_property_id": "456329036",
+  "scraped_timestamp": "2025-10-01T13:55:17Z",
+  "status": "blocked",
+  "listing_id": "2235940a9e3de1f2b62f76a809816fa3",
+  "property_id": "8b6768614689a7b1a372e9f98df90989",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

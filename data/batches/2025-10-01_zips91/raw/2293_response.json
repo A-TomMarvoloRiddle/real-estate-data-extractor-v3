@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1555-N-Dearborn-Pkwy-10E-D-Chicago-IL-60610/456057451_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:42:01 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24058ad780-f905-4d3b-bed6-da02d67ef50a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:42:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|947f6e44-a6a4-497b-a307-248df5e1e012; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54f32-ZFuuPnlrkYTE7+2Rycy8tfrvzlg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "315",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zcR1bgqOwRrA7c4Mu5ezC1C0XhlhZxG3QyXQAfOSC7AfWJroSxLUUA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

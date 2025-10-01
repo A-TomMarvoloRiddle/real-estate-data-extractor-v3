@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/210-W-90th-St-10024/unit-8L/home/45330093",
+  "external_property_id": "45330093",
+  "scraped_timestamp": "2025-10-01T13:56:18Z",
+  "status": "blocked",
+  "listing_id": "f0ddfa237430077f90f3868ddd5a74c6",
+  "property_id": "e0d367f7fc65b8cff6c7833a607bd447",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

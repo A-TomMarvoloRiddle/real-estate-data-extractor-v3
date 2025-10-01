@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/900-5th-Ave-APT-14C-New-York-NY-10021/244899390_zpid/",
+  "external_property_id": "244899390",
+  "scraped_timestamp": "2025-10-01T13:55:54Z",
+  "status": "blocked",
+  "listing_id": "9f5e88d544d37fe7886fc7000889da72",
+  "property_id": "c8bf5755710048892bb66c17670870f5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

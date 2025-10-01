@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/311-E-71st-St-APT-10A-New-York-NY-10021/244870755_zpid/",
+  "external_property_id": "244870755",
+  "scraped_timestamp": "2025-10-01T13:55:44Z",
+  "status": "blocked",
+  "listing_id": "13a7b28253f30466d6640080bd6e2e5f",
+  "property_id": "5eea8877c5dbcb86cdc1e81c79a2b8bd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

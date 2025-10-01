@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/34-E-70th-St-New-York-NY-10021/442156659_zpid/",
+  "external_property_id": "442156659",
+  "scraped_timestamp": "2025-10-01T13:56:10Z",
+  "status": "blocked",
+  "listing_id": "ff96d664ea2c9ac56d17d66c18f56163",
+  "property_id": "bea5aff6658be440c69e124a83b1841e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

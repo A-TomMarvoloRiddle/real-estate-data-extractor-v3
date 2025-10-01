@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/20-W-84th-St-APT-5A-New-York-NY-10024/31523723_zpid/",
+  "external_property_id": "31523723",
+  "scraped_timestamp": "2025-10-01T13:56:42Z",
+  "status": "blocked",
+  "listing_id": "f427724bd37a19325fe84e688b811a7b",
+  "property_id": "3a20709c8583edd63d9c801151a9aefc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

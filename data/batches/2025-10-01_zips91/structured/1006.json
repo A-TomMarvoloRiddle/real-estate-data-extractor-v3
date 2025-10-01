@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/111-4th-Ave-10003/unit-3I/home/45142411",
+  "external_property_id": "45142411",
+  "scraped_timestamp": "2025-10-01T13:53:18Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1550000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 0,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/747/RLS20051747_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_3_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_9_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_4_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_7_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/747/genMid.RLS20051747_6_1.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7324218%2C-73.9898448&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=wOsKLg1lbTTqJRSkM30bb16Yw4o=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Greenwich Village  Corner 2-Bed, 1-Bath Loft  This bright corner loft offers soaring 13+ foot concrete ceilings, 9 oversized 10' casement windows facing North, East, West, and sweeping views of Union Square Park, Grace Church, classic water towers, and surrounding architectural landmarks.   The open chef's kitchen features a black granite breakfast bar , stainless steel appliances , granite countertops , oak cabinetry , and a sleek stainless steel backsplash. The spa-like bath includes a soaking tub, Roman bath tiles, Italian limestone, and Kohler fixtures.   Both bedrooms are well-proportioned with excellent storage, complemented by abundant wall space for art. Additional highlights include Brazilian teak floors, custom window treatments, dual-zone central heating and air conditioning, and Quantum Thermal windows for superior insulation and soundproofing.   With low monthly maintenance, this residence blends comfort, style, and value in one of Manhattan's most desirable neighborhoods.   The International Tailoring Loft Building Amenities -Full-service building with 24-hour doorman and live-in super -Charming north- and south-facing roof decks -Updated Central AC/Heat -Laundry on every floor -Private Storage -Bike Storage -Private Parking Lot Neighborhood Convenience Grocery: Whole Foods, Trader Joe's, Union Square Farmers Market Transportation: 4/5/6, N/Q/W/ R, and L trains Fitness: Equinox, Crunch, F45, Barry's Bootcamp, Soul Cycle, Reformers Pilates",
+  "price_history": [
+    {
+      "event_date": "Mar 29, 2016",
+      "event_type": "listed",
+      "price": 1637500,
+      "notes": null
+    }
+  ],
+  "street_address": "111 4th Ave",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "3I",
+  "listing_id": "d9c47a9430c95c0df81bc6bc760c42b2",
+  "property_id": "11227af67eb526593e3408c6cd2b6739",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

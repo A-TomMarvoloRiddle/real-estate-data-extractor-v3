@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1532-N-Greenview-Ave-Chicago-IL-60642/2064093194_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:14 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24932e16b6-b715-4351-9968-9dadaf5e888b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|14e8ef23-4018-4c86-80ca-63fd559dfeed; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5051b-YoxD/P9YY8wJX1dWB6Blq7DG1W4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "242",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "k8e539pY5WbEsuGDmBWskZ3HAOFolmIZOekbe_6qf0M-vIyyhZKR7w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

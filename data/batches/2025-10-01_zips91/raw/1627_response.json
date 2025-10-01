@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/260-Hicks-St-Brooklyn-NY-11201/2054252491_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:34 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b3149e1d-a50c-43f0-b9b0-5e8acf19da62; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:34 GMT; Path=/; Domain=.zillow.com, zgsession=1|e12e7194-99e7-4c37-a5e8-d3c2a304b678; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48844-bTdXtaGIAxZH1xdKIX5wuVKoV40\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "254",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "oX-h4a8CYOtIeIXUHrpi-cDtHxAvoORCxO5ZsmPjY5xVXPnMhukr4A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

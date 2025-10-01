@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/210-E-17th-St-APT-3D-New-York-NY-10003/72517943_zpid/",
+  "external_property_id": "72517943",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "fdc294697536e9b0953b3e56859e0679",
+  "property_id": "403714e91d5a488ad4c563807fffbb60",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

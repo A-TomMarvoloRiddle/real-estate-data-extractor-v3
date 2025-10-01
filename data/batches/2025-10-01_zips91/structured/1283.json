@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/165-Charles-St-10014/unit-1/home/115212353",
+  "external_property_id": "115212353",
+  "scraped_timestamp": "2025-10-01T13:55:00Z",
+  "status": "blocked",
+  "listing_id": "17ce400e4b87bc152fdf4e2953c38ccb",
+  "property_id": "a734a764d2babeea91b74fb5303bd181",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

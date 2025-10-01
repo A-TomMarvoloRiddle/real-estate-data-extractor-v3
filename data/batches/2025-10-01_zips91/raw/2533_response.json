@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1021-N-Hoyne-Ave-2A-Chicago-IL-60622/3860360_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:56 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24bef1b373-315b-49b6-a790-0da57c602e5f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:56 GMT; Path=/; Domain=.zillow.com, zgsession=1|fdda0659-69f4-4a10-a2f7-aebb2eb11ab5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5518a-3iYX/UEViLG90drhP5AIFRItmHg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "296",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "avBF9FU8sj45npLO82uMo8W81kvuXgzsddLn01FFGxU9VSYyS2Ghkg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

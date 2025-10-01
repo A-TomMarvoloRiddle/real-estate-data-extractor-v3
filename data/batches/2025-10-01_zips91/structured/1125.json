@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/34-W-12th-St-New-York-NY-10011/2070296330_zpid/",
+  "external_property_id": "2070296330",
+  "scraped_timestamp": "2025-10-01T13:53:42Z",
+  "status": "blocked",
+  "listing_id": "e994d83d04d429d08c376f9b37d4a73d",
+  "property_id": "04c734a0315950851b31083ae62b933c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

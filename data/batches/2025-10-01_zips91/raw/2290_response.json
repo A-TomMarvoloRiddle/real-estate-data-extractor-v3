@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/511-W-Division-St-APT-607-Chicago-IL-60610/99356958_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:51 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d7e2733a-045e-43ab-92b4-50dabd32264d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:51 GMT; Path=/; Domain=.zillow.com, zgsession=1|2e3f6022-720c-4d4e-8d03-26cb33db532f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58d87-AQdXyLzDspnQqZlHqbsUVeank9A\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "246",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "KzBC9ZLqQ2T4DmFuBiqGRG8vwOaRIejXIYMpVKdB0KHVCTWUhYtruw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

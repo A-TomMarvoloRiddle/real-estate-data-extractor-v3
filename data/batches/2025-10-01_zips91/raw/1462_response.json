@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/110-W-80th-St-4FR-New-York-NY-10024/450783887_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:43 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2423554d18-f1dd-43ac-a277-3f84cf70a1d5; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:43 GMT; Path=/; Domain=.zillow.com, zgsession=1|25cd58df-2d2b-4489-afee-be7036aa1201; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56a11-Y2PrQ8Fm4V/LPQeHbBLD6Atl3SA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "298",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "25f5pa74PE6UEJ1f4WcTaJk9ua-4kqm3jUxiZwMiDLl_GB1L4qGzzg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

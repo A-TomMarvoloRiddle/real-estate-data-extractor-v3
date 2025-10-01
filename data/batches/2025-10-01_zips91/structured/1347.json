@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/360-E-72nd-St-10021/unit-B811/home/45158651",
+  "external_property_id": "45158651",
+  "scraped_timestamp": "2025-10-01T13:55:38Z",
+  "status": "blocked",
+  "listing_id": "326fe5a6c147bf36e8351c4251838cc8",
+  "property_id": "56feee845eabe0e099f818bd152a9e78",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/77-7th-Ave-10011/unit-14L/home/45144908",
+  "external_property_id": "45144908",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "524db3f63fa4682f3e6bdc0f281eedbe",
+  "property_id": "b6c50aa65a3830d6e35ae02793e046e6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

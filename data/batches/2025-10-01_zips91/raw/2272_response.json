@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1333-N-Burling-St-B-Chicago-IL-60610/63697128_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:55 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248c778e89-3ee7-48d4-b774-87ced05bab9e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|8438d40c-693d-48ab-9abc-e01b2250ab01; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5d36f-xxYT/MzYInbBvRX8/jma4bZw5mc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "263",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "PwWAe2Q_2SLUTqLsJ7iIhZ6Mx5OACmxV0wjeT8xRpf3XRpygIjCe6A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

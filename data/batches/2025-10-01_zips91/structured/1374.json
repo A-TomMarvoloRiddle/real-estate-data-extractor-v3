@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/1065-Lexington-Ave-11E-New-York-NY-10021/244698771_zpid/",
+  "external_property_id": "244698771",
+  "scraped_timestamp": "2025-10-01T13:55:45Z",
+  "status": "blocked",
+  "listing_id": "7bf58a7675b02f7485694d9adbc6f64c",
+  "property_id": "125a7fe8a1284cb82c9f3adfa5cd0072",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

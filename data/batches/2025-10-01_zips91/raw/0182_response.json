@@ -1,0 +1,21 @@
+{
+  "status": 403,
+  "final_url": "https://www.zillow.com/homes/02135_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 11:22:19 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "5816",
+    "Connection": "keep-alive",
+    "X-Px-Blocked": "1",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "72tUteURZwJVAe8gYzRNzwZ_X4i7IM29jPr4DTWcziqrK5ldIQApLQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

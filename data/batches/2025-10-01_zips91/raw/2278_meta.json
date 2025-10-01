@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/210-W-Scott-St-APT-I-Chicago-IL-60610/58364187_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/210-W-Scott-St-APT-I-Chicago-IL-60610/58364187_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:41:14Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2278
+}

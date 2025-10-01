@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/344-W-84th-St-PENTHOUSE-New-York-NY-10024/440977389_zpid/",
+  "external_property_id": "440977389",
+  "scraped_timestamp": "2025-10-01T13:56:41Z",
+  "status": "blocked",
+  "listing_id": "13391dca11754d94697ecf8e094bccfa",
+  "property_id": "6659ca0445896341363e5d18ad2f60ab",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/2101-W-Rice-St-60622/unit-402/home/12714817",
+  "final_url": "https://www.redfin.com/IL/Chicago/2101-W-Rice-St-60622/unit-402/home/12714817",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:52:53Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2491
+}

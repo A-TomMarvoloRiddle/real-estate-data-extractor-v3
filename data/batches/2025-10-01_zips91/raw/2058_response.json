@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/829-Flower-Ave-Venice-CA-90291/20453535_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:31:01 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24506b5e8b-beb5-4c35-b5d0-1603b8bb57ce; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:31:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|700a9726-6ce7-4846-afb9-e1db70b78d3c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"88c02-hgO6+E9Z2TDj+WBzCKdUSVrSI0M\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "562",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YPx8D0viOUk_V4ycsuI_aa7RMBW5Pwhxhj9ByU9hWyc45rs-1azK3w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

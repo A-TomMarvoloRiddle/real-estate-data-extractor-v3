@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/46-E-71st-St-New-York-NY-10021/31533709_zpid/",
+  "external_property_id": "31533709",
+  "scraped_timestamp": "2025-10-01T13:56:16Z",
+  "status": "blocked",
+  "listing_id": "d9dd4ec9eae99638e8bee67a197dbcd5",
+  "property_id": "61252322a3caaf45e824eedd08bf3691",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

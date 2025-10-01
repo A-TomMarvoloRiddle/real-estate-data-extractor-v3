@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/79-Perry-St-1B-Manhattan-NY-10014/339010159_zpid/",
+  "external_property_id": "339010159",
+  "scraped_timestamp": "2025-10-01T13:55:10Z",
+  "status": "blocked",
+  "listing_id": "3cbb5c748368c93e7dce3b348c74cfe7",
+  "property_id": "9684f8244d76a8abb309f7f346396f70",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

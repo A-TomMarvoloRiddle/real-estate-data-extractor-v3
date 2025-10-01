@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/164-State-St-APT-2-Brooklyn-NY-11201/216112598_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:55 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2420674f36-68cb-4dc4-8c82-a3e2c40eb87b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|3013aa8f-4dc7-447f-8e30-17d49e4c2971; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"491ab-1ZWE6UiLs7ev9P0NSLIOd50Of/A\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "410",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "SGNHpPC9-DaM7zEtO8qyBVOEvpxrm4F5UoOgmRwHCYX16AZe-8rIkg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

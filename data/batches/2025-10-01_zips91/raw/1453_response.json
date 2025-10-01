@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/609-Columbus-Ave-APT-2C-New-York-NY-10024/244826161_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:10 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244ec32928-18ef-436c-9416-a29508f00f00; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:10 GMT; Path=/; Domain=.zillow.com, zgsession=1|ecb41963-d4af-4c81-b867-688c5235c01a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"456a5-qNXmBepu9AMmwyqLTiqGrtw5Ty4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "224",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "9l_clppCYM1xlLb2Rc5aNPPlGmWpRK4foqFvuoCqIqAfcl5tGkFajg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

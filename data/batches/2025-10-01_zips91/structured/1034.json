@@ -1,0 +1,59 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/48-E-13th-St-10003/unit-8B/home/147014914",
+  "external_property_id": "147014914",
+  "scraped_timestamp": "2025-10-01T13:53:26Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 4495000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 300,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/088/RLS20050088_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_3_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_9_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_5_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_7_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_1_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/088/genMid.RLS20050088_6_F.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7341722%2C-73.9919389&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=_fo6ToasHbH8b6x3pdINzCPiWzc=",
+    "https://ssl.cdn-redfin.com/v595.4.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Welcome to your dream home at 48 East 13th Street, a stunningly gut-renovated loft just a block from Union Square. This 3-bedroom, 3-bathroom residence spans an impressive 2,300 square feet, seamlessly blending classic city charm with modern elegance. Step inside to discover exquisite herringbone hardwood floors and soaring 11-foot ceilings that enhance the sense of space. With fourteen oversized sash windows offering northern, eastern, and southern exposures, the apartment is drenched in natural light and showcases breathtaking views of the Empire State Building and the vibrant city skyline. The expansive foyer , complete with abundant storage, leads into a bright living and dining area perfect for entertaining. The living room features a floor to ceiling custom-built bookcase for additional storage, adding Village charm. Adjacent to this space, is the cozy third bedroom. The windowed kitchen , designed for both functionality and style, features an eat-in waterfall island, custom cabinetry, a spacious walk-in pantry, sleek countertops, a chic subway tile backsplash, and a suite of high-end, fully integrated stainless steel appliances. The apartment has central AC throughout. Retreat to the primary bedroom, a serene sanctuary with dual exposures, custom couples’ walk-in closets, and a luxurious en-suite bathroom adorned with marble walls and floors. Indulge in the spa-like experience with double vessel sinks, a walk-in rain shower, and a free-standing soaking tub. The second bedroom also offers comfort and privacy, complete with reach-in closets and an en-suite bathroom boasting elegant fixtures and finishes. Nestled in a beautifully maintained prewar building with a striking limestone façade, 48 East 13th Street provides modern conveniences, including a virtual doorman, a key-locked elevator, private storage, and a rooftop deck with breathtaking city views. Enjoy the vibrant lifestyle of Greenwich Village, just steps from a plethora of trendy restaurants, cafes, bars, and shops, with easy access to the 4/5/6/L/N/Q/R/W subway lines. Pets and pieds-à-terre are warmly welcomed. Experience the best of New York City living in this exceptional residence—schedule your private showing today!",
+  "price_history": [
+    {
+      "event_date": "Feb 22, 2019",
+      "event_type": "price_change",
+      "price": 2250000,
+      "notes": null
+    },
+    {
+      "event_date": "Oct 19, 2018",
+      "event_type": "price_change",
+      "price": 2400000,
+      "notes": null
+    },
+    {
+      "event_date": "Sep 26, 2018",
+      "event_type": "listed",
+      "price": 2495000,
+      "notes": null
+    }
+  ],
+  "street_address": "48 E 13th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "8B",
+  "listing_id": "997f9aa12fcc1f6a6f55bee609bc0431",
+  "property_id": "d33590ac00f40e4d31dd43e1fa1a5700",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/420-E-72nd-St-10021/unit-17F/home/45159519",
+  "external_property_id": "45159519",
+  "scraped_timestamp": "2025-10-01T13:55:37Z",
+  "status": "blocked",
+  "listing_id": "9307e41909cb038f4b5ddf7fa97cf6fc",
+  "property_id": "4d06c17707b5ae725247fc1ed54f6758",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

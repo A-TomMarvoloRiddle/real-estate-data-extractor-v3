@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1252-N-State-Pkwy-Chicago-IL-60610/3857854_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:09 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2425ecac47-eb46-426c-8cd6-0680b79fc88a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:09 GMT; Path=/; Domain=.zillow.com, zgsession=1|bc48a7c1-5ac7-4760-a50b-1bab91e8a121; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7bc7c-UIU/4E5lIL0bclSxm+jdvzNfGJ4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "344",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "qZmulv_711-bZ5UDvPK-9vvN_OSX0ZEdTLE5SNL-Q3CmGE7d8ntN5Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4545-N-Wolcott-Ave-APT-1S-Chicago-IL-60640/456790875_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:19 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24dde4d8ce-b950-4bf5-bd28-098070386b3f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|1a5d0a5b-8021-402e-bafd-72b9f78ba836; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5670f-dukrogG1N+ShuduuamkInoVZJnQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "288",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "KlkDwXGzVr1sEMBW58681d2TQQq6I5Kf-8XyZW8WtY_96KKHJOCAjQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

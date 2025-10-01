@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/159-Bleecker-St-1-New-York-NY-10012/447521271_zpid/",
+  "external_property_id": "447521271",
+  "scraped_timestamp": "2025-10-01T13:54:32Z",
+  "status": "blocked",
+  "listing_id": "2a717c3d0f813936fee9c99128e9121f",
+  "property_id": "557e2f359b20f1795265747adaff529d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/324-W-85th-St-10024/home/45275719",
+  "external_property_id": "45275719",
+  "scraped_timestamp": "2025-10-01T13:56:20Z",
+  "status": "blocked",
+  "listing_id": "c486ea64393d56142b36b68eaf33096c",
+  "property_id": "6e80b3f09b0eecc14ae8014ff5482dae",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/900-W-Washington-Blvd-PENTHOUSE-W-Chicago-IL-60607/443621630_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:27 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24765d79d7-6530-4fb8-9a6f-d04fedf03b15; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|3eaeff00-a4f3-4a6c-a4d4-652fb554adba; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7e8c2-61G9x9yMdpCsVRvhU0osXMf76d0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "270",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "GwCB1Odeu1IPdAxk87YXNoqd5856pRlqXHIsRsuf12Cun5CgOL4ZoA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

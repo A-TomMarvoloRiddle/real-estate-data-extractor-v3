@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/207-E-74th-St-10021/unit-PHG/home/45197297",
+  "external_property_id": "45197297",
+  "scraped_timestamp": "2025-10-01T13:55:38Z",
+  "status": "blocked",
+  "listing_id": "71ee98479aa8af50259aec6a112faee0",
+  "property_id": "bb5dde485784292bbeb54dff4411ede2",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

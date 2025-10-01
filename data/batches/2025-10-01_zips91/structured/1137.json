@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/447-W-18th-St-GAL2-New-York-NY-10011/442660404_zpid/",
+  "external_property_id": "442660404",
+  "scraped_timestamp": "2025-10-01T13:53:53Z",
+  "status": "blocked",
+  "listing_id": "8fad45bb5ee1d587acc8114d89d35991",
+  "property_id": "9251f4d47f4a7d39eba5936067054561",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

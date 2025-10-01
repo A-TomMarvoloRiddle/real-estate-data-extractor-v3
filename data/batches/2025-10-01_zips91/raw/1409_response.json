@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/46-E-71st-St-New-York-NY-10021/31533709_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:59:15 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24cc6c7fc2-c99c-4b51-b5f4-52ffd884e3ad; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:59:15 GMT; Path=/; Domain=.zillow.com, zgsession=1|1d70a9b6-8356-40a0-9537-5e5999c65ea5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5796f-mu8i2qjksAI9IHD7KCAI3jr5Tls\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "219",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ulY5qHZrmt-uQJQ0py100l75kTAGNZE1gMA8VE0xXpytbPWvUNDU7Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/142-Baltic-St-APT-3F-Brooklyn-NY-11201/79491187_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:25 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24e20af47d-d4b7-4769-86df-6dd223d2e296; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|841c5765-df03-4aa4-a4a6-76a2f6da1294; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"45894-P5xSunJ+EWxmKGujcHhdw2qutW8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "255",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ZfUPdkvq3CNcPad4FV6w6imFxYKe8sPwm9PXHeVasLo_Xll-Nlcx5A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

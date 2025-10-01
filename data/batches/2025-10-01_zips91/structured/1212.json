@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/70-W-3rd-St-PENTHOUSE-3-New-York-NY-10012/452054416_zpid/",
+  "external_property_id": "452054416",
+  "scraped_timestamp": "2025-10-01T13:54:26Z",
+  "status": "blocked",
+  "listing_id": "0c73f7a3954288f8235798615d6f3878",
+  "property_id": "9844c4dd12e7f2de25bb321740bcea27",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

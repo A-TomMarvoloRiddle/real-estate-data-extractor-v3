@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/100-Prince-St-APT-5W-New-York-NY-10012/447567920_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:44 GMT",
+    "via": "1.1 zgs, 1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2479692861-feeb-4963-8afc-db6928a1a50b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|98f21fae-5ba5-4ef5-9a22-23b106926921; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6918e-eZpBK+u6Lpu1JebQXPoz4gv+TVI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Bd5BAM7Z8XJMauTJN0yDtJN8ZzemaRsDVz7_b9ECH_fE1YFGVGpgcQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

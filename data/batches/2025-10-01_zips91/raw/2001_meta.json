@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Venice/2336-Boone-Ave-90291/home/6735121",
+  "final_url": "https://www.redfin.com/CA/Venice/2336-Boone-Ave-90291/home/6735121",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:27:58Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2001
+}

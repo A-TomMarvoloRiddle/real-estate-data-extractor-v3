@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/131-E-66th-St-10065/unit-8EF-9EF/home/178555419",
+  "final_url": "https://www.redfin.com/NY/New-York/131-E-66th-St-10065/unit-8EF-9EF/home/178555419",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:03:26Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1493
+}

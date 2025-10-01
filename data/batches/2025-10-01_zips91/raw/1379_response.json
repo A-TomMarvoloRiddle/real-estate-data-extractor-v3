@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/212-E-70th-St-APT-4B-New-York-NY-10021/89329171_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:33 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2462a75ef7-9e69-4673-bbc7-4e9ee1408c78; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:33 GMT; Path=/; Domain=.zillow.com, zgsession=1|280b2f32-ad6f-473f-af29-4e7b5d5d3082; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"495dc-exGMH9IXMcTQtkysNlipYneb2Tk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "216",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "BCkboBvUSONco_OEqg6l4KYA5NKAuo1_BJD_2WzR9yVLKfSEjNfSQA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

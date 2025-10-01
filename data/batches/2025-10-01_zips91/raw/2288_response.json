@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/818-N-Dearborn-St-APT-1R-Chicago-IL-60610/3859348_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:44 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2421a0706e-188d-4598-974a-bb62214fdb5d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|b1dd41e5-fc0c-4e67-a22b-18af43910adc; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"52835-X5WSEM4KC1nqyeVefOA8DAIcGxo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "386",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "B1ViiduVQrejyLxtTQ6CYhQ_7igHJR_9twC0sHo_8C-gSbUfDbDiEw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

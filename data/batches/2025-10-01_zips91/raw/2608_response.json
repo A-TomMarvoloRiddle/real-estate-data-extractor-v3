@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4422-N-Ashland-Ave-G-Chicago-IL-60640/2073891853_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:51 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%245ec365dc-6ae8-49c1-afcd-ba820f793ca0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:51 GMT; Path=/; Domain=.zillow.com, zgsession=1|91a252a5-070b-4997-a437-4d56da58f3d6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55268-D1Nh/NGKclqTKCtttF2/+UwZrhk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "244",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Yr6uLPCb3mpDuGWgfnDMJ0t9kMmo9PbEIf_gPgGr0XNgQ4Ckha6c6A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

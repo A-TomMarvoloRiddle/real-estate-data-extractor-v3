@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/55-E-76th-St-9-New-York-NY-10021/244750273_zpid/",
+  "external_property_id": "244750273",
+  "scraped_timestamp": "2025-10-01T13:55:59Z",
+  "status": "blocked",
+  "listing_id": "ce2527dedd530a8f720df6c021773a55",
+  "property_id": "4493264c956638f77be46ba1df6b969f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

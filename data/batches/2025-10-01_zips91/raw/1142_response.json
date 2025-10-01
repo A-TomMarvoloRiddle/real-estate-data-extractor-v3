@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/127-W-11th-St-New-York-NY-10011/121184335_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:38 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248d02b13b-4376-42e5-925a-c45ab632ee5c; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:38 GMT; Path=/; Domain=.zillow.com, zgsession=1|9701628a-9098-400c-9318-d2ba4ce680eb; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54ae7-kozellhvKzC3+4pV6T0fuXfYhe8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "244",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "MimQuKjQxJEpIgexvE0jX0R3qui0RCD5-PhsVRdp7M0Na_rCdtrR-A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

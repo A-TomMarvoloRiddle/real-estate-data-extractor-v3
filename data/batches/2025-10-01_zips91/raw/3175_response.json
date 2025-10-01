@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/6029-Spring-Flower-Trl-Dallas-TX-75248/2112579356_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:11 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246d394a74-a5e0-4c1e-9ef6-1a54e606a816; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|c276c3e8-5f56-4068-a9f9-d10fa4a39fa0; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"65ef4-i3JgDfRRXN0w70sMOEEisWMyco0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Frv9mnyDeHvk75pmfFVe0Cgzyn4XQvn7rZTFriDOPORFvp_T1jForA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

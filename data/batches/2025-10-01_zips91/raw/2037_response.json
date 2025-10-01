@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/563-Westminster-Ave-Venice-CA-90291/20451057_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:53 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a2033591-4b78-4e54-89da-d225b1bb1078; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:53 GMT; Path=/; Domain=.zillow.com, zgsession=1|aded0c85-d7f3-4569-81cf-08cf3d4d26e2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61ed2-WTM0UtR9u4PB0LYShTYOGMKVP10\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "229",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "wYrMIVjYI5yR8LRIdJUgC2QVd_xfpuslZHgGkDq0A8uJjgZ91c3TFw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

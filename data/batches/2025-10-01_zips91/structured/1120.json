@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/260-W-22nd-St-10011/unit-2/home/63690905",
+  "external_property_id": "63690905",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "cc7c820d3764f10730d692f2fb7af55c",
+  "property_id": "9bbdf933103110e227e597880109d036",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

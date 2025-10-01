@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/280-W-12th-St-APT-1W-New-York-NY-10014/219646783_zpid/",
+  "external_property_id": "219646783",
+  "scraped_timestamp": "2025-10-01T13:55:25Z",
+  "status": "blocked",
+  "listing_id": "14217b0b2152e1f178b6c6f1e684e556",
+  "property_id": "74864939310524c33bfbc28915f36650",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

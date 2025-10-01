@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1019-N-Wolcott-Ave-Chicago-IL-60622/3860515_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:24 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249c9c2de9-7784-4462-8d96-680ec421d15b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:24 GMT; Path=/; Domain=.zillow.com, zgsession=1|c11c9459-d337-4c61-91d6-1b40a3a0e313; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7a041-z+jYdQPS+I9v+N/4e5RkB7ZwZz4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "268",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "fdUrgmv_PqlLGBTwDr23lsQGb3eCi56CwqXyGRWIxBRg157QlxqZAg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

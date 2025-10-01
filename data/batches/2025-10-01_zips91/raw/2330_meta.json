@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/3733-N-Damen-Ave-60618/unit-1/home/26808018",
+  "final_url": "https://www.redfin.com/IL/Chicago/3733-N-Damen-Ave-60618/unit-1/home/26808018",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:44:00Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2330
+}

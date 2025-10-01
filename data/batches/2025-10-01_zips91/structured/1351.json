@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/530-E-76th-St-10021/unit-6J/home/45289684",
+  "external_property_id": "45289684",
+  "scraped_timestamp": "2025-10-01T13:55:39Z",
+  "status": "blocked",
+  "listing_id": "40e5551f7d338b4e5b6cfccaeff84943",
+  "property_id": "1944ec141da138a8a110e19bd556f271",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

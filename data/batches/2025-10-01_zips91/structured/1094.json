@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/253-W-16th-St-10011/unit-5C/home/45144665",
+  "external_property_id": "45144665",
+  "scraped_timestamp": "2025-10-01T13:53:35Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1160000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 0,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/533/RLS20051533_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_2_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_8_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_4_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_6_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_1_9.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/533/genMid.RLS20051533_5_9.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7409109%2C-74.0007791&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=n6vnZ4LGYYORBP-_5xKPJXHPaT4=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Designer-renovated, spacious one-bedroom apartment located on a tree-lined street at 253 West 16th Street, Unit 5C, in Chelsea. Features a gallery-style entry hall perfect for art lovers, south-facing sundrenched exposures, hardwood floors, high ceilings, and moldings throughout. The custom kitchen is outfitted with high-end appliances , including a Bertazzoni cooktop and oven, Bosch dishwasher, Liebherr refrigerator/freezer with ice maker, and Miele hood. The king-sized bedroom includes custom closets, and the windowed bathroom boasts classic finishes. Google Nest–controlled central air conditioning and an in-unit LG washer/dryer complement the pre-war charm of this exceptional one bedroom with wainscoting and crown mouldings. The apartment can also be offered furnished with custom designer and vintage pieces. The building offers a live-in superintendent, elevator, bike room, common laundry, and additional storage for a fee. A C E L trains are located at the corner, with close proximity to Chelsea Market, Hudson River Park, the High Line, Chelsea’s world-class galleries, and Google’s NYC campus. Pets are permitted with board approval.",
+  "price_history": [
+    {
+      "event_date": "May 9, 2016",
+      "event_type": "listed",
+      "price": 935000,
+      "notes": null
+    }
+  ],
+  "street_address": "253 W 16th St",
+  "postal_code": "10011",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "5C",
+  "listing_id": "46ea70dee7e8a73c17a978180d15260c",
+  "property_id": "bb1d16cdf8f59110eb0892fcf8ff6949",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

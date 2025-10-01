@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2215-W-Augusta-Blvd-APT-1W-Chicago-IL-60622/62012307_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:47 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243c53f69e-a12e-4cd4-9a11-340913557bab; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:47 GMT; Path=/; Domain=.zillow.com, zgsession=1|2effadba-ecaf-4ea0-9954-aa701452d77c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"541ce-gyMReC8vpJ+PsZkBAAtIScsj0Xg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "262",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "cY0Jk21e4LDybsmJTqntpT13FYFAftHG6ezcBGy7L-XdryhwLfFs8w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

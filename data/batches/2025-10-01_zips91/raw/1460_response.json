@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/137-W-80th-St-New-York-NY-10024/2054915981_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:36 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c57d3aef-dc55-4ef3-8dea-d172bc82df1f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:36 GMT; Path=/; Domain=.zillow.com, zgsession=1|7448e290-2757-46ba-a7dc-21a48258ead6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4aef5-6cYzFoTAdYANT9XhLnM8PaL56BI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "216",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zSjx5yZ-tLST2pbWCfp1EfEUP-7RsRvKTjuBNDC3fAOQKk5tgcoPFw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

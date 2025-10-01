@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/230-E-73rd-St-8DEF-New-York-NY-10021/452280293_zpid/",
+  "external_property_id": "452280293",
+  "scraped_timestamp": "2025-10-01T13:56:15Z",
+  "status": "blocked",
+  "listing_id": "b37c5420bc27a0b2cec39cbee305bb29",
+  "property_id": "126a6904fa65cda01b5fabdbd2a1c1a0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/1456-N-Artesian-Ave-APT-3R-Chicago-IL-60622/70448732_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/1456-N-Artesian-Ave-APT-3R-Chicago-IL-60622/70448732_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:54:14Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2520
+}

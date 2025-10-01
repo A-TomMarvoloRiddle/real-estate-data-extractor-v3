@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/135-Amity-St-APT-1A-Brooklyn-NY-11201/245048446_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:58 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24324765dc-1dfd-4fdc-b6a6-29d09c449b29; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:58 GMT; Path=/; Domain=.zillow.com, zgsession=1|4e1aaf7d-7341-4eb9-96d6-5389297914e4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47104-1cRYzYQaxhGZPD5CdEILhuFt54U\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "252",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "eovwAJE-YxOYUB0jDDkAEstYEV9G9ly1NCtdClC3ZZe7A4acLdLbpQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

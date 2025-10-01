@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/524-E-72nd-St-APT-39DE-New-York-NY-10021/456941037_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:59:18 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ef012b83-a0fd-4296-8a7b-f85453e2e440; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:59:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|cb43b1f6-302c-4be4-8014-4f78241045b6; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54726-AUs70PNrHvKtk5NbpOPUkMLAY48\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "363",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "WFSCmYOVouQjIEepujovrb2OFjlAUGKS412wkOl9PTVcFmAnYXvICw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

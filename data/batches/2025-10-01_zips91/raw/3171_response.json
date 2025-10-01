@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/6415-Copper-Creek-Dr-Dallas-TX-75248/26889454_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:27:59 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2428c8edd0-b6f5-4210-ae99-0d8f90244455; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:27:59 GMT; Path=/; Domain=.zillow.com, zgsession=1|779ea99a-49b1-451d-b8fd-6e1033e90605; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"414d7-cEdwwmeXtx2hCxC5b0OHue3hsCA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "250",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YqfIupDtUhNS7K655yXA6cJqtheYkW7SMAayTkhPfYjaoZCZzz_AZA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

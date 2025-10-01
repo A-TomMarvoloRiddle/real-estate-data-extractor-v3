@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1315-N-Bosworth-Ave-UNIT-7-Chicago-IL-60642/456658189_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:36 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242b832ee5-f22d-425b-a0c5-325615f8075a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:36 GMT; Path=/; Domain=.zillow.com, zgsession=1|36fe04f6-cd87-471a-8cef-fd53c2c3318f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"527a6-2UEO4mO4OQc2O0/yq+6ROa7D23c\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "JmKTiRtQwCcjqCjwvlcYZLVeOBpMfIfD8OoevxqQTvwDiHamrOGcfg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

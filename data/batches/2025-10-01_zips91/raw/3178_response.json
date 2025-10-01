@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/7422-Foxworth-Dr-Dallas-TX-75248/26873433_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:21 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2407599200-ef0e-401b-a926-eb07ba321846; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|9172ce70-3d93-4954-a5c0-d5aee905f82a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a139-8O3fJfNR8tk1DxBXaMsKVPf9+c4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "250",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "XtOe2_ar_tBAx_ViZj7zNGhPxTtusWXMNn0E5KAYc7OHT_v4VP6hpQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

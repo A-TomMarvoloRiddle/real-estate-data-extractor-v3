@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/464-Columbus-Ave-APT-3B-New-York-NY-10024/244880906_zpid/",
+  "external_property_id": "244880906",
+  "scraped_timestamp": "2025-10-01T13:56:26Z",
+  "status": "blocked",
+  "listing_id": "969fdd04bb1d7d91e0ecf5fc7a0e6104",
+  "property_id": "10cbb25622a4601e7564d7b49258cfbd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

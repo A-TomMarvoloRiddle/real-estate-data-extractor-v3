@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/197-W-Houston-St-TOWNHOUSE-1-New-York-NY-10014/452717175_zpid/",
+  "external_property_id": "452717175",
+  "scraped_timestamp": "2025-10-01T13:55:07Z",
+  "status": "blocked",
+  "listing_id": "bbd977d24265b72a1d35911966ab6a94",
+  "property_id": "9f983916d107fe0a3cb5c25e7d7a01b3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

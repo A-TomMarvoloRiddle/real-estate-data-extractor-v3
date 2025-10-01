@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/754-N-Bishop-404-Chicago-IL-60642/457054460_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:04 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c0242ae5-625c-4335-93f4-3c8fadd9c9e7; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|7cde6a03-7161-47bb-be8a-c063da01ff76; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"1aa5fa-h2rrtZNrpxLzpVDWz2zyCVjrdLM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "432",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "8u-NM66PJF_c7zekyRaClcJV5z4VxlhrlFop7u-uPEeOCIeQxZi5Xg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

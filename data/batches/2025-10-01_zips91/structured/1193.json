@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/10-Sullivan-St-10012/unit-12A/home/109653976",
+  "external_property_id": "109653976",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "5e4a5648d7cdae378ce8a956a59cb614",
+  "property_id": "e56d897a1b9c83de30d1ca7decdb33b5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

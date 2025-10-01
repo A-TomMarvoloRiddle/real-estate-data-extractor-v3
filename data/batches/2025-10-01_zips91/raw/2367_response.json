@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3760-N-Wayne-Ave-Chicago-IL-60613/2097456010_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:45:57 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242ce1cdb0-029c-4ae7-892b-bedb60acfb8f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:45:57 GMT; Path=/; Domain=.zillow.com, zgsession=1|71ca39ba-98d8-4ba8-b077-fc03ddd6c94e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"79608-ZDMva8O/rZicwxgGudYEyryQlTc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "314",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "lx3Q937NeuoZMgQAqHBg3StV6XYCLxy_Rw0YRI5Z3gpIA7dKewZIoQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

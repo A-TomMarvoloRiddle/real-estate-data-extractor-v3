@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/77-Bleecker-St-APT-813-New-York-NY-10012/88060685_zpid/",
+  "external_property_id": "88060685",
+  "scraped_timestamp": "2025-10-01T13:54:47Z",
+  "status": "blocked",
+  "listing_id": "023d581f9976e01e1a267e6d12764ef9",
+  "property_id": "3b89eaafd9d2cc8bc0ca2e0fdaf4a449",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

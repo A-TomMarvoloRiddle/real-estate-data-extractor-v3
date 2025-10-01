@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/811-S-Lytle-St-APT-207-Chicago-IL-60607/54539563_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/811-S-Lytle-St-APT-207-Chicago-IL-60607/54539563_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:37:11Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2194
+}

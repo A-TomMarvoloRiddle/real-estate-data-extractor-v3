@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/345-W-88th-St-APT-5H-New-York-NY-10024/244700478_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:03:12 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2471808842-aa2a-4f71-87fd-0f1c296d723b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:03:12 GMT; Path=/; Domain=.zillow.com, zgsession=1|b2677226-0c01-47b9-92ee-7854d841b035; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"421f0-+i8ntyCE7IP/QVAKTpF/j+EsooE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "234",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ZP7CF2l6Seu75sLii45AwFBV-Ila7v_ER5m6bnEs-mpg590bKFCk8w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

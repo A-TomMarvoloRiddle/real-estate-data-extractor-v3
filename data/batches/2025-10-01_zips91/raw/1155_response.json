@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/260-W-22nd-St-APT-2-Manhattan-NY-10011/122976735_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:21 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243b7a08b5-3f26-49c7-8290-d701dbbabca1; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|59bb8689-52ef-4bd1-86ac-d2bba16f11b7; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4805c-DBAsl8DLb4mtXCyqAbuqVKJJ6wY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "928",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ouXIMp9UD9bsLcQsOC-_TLRe-bU3Sa3a74_0eSk3e_RM3rfSdlHyVA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/160-W-12th-St-APT-104-New-York-NY-10011/219646189_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:17 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247e198b5c-f3cb-4e76-b91b-23e14044155b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|17aa9898-25b4-4cb6-a244-6c3d1f944069; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f96c-qywQb1q3o5nj/ASme78Azmx7sxg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "276",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-Dub3v_M86ZSnNr1T34L8KYTRPT_BpLP9Vqco0CHi4XEznARif5P2Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

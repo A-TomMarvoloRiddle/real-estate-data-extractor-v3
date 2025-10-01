@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1414-N-Mohawk-St-Chicago-IL-60610/158753808_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:25 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244e218c62-91b0-4f1d-994c-74fac2e20852; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|00e55276-31c9-46ca-bf5e-cf5d9a86558f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"72d58-K0V4LB3bASf7CI039rues8UWXf4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "298",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "UtJwrHsDV4th8OFGzFS0yd4wnz2qipVbCHh8JHbI5GJoUsH8qyqpBw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

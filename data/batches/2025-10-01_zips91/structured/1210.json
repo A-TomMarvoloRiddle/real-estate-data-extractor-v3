@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/203-Prince-St-New-York-NY-10012/31497624_zpid/",
+  "external_property_id": "31497624",
+  "scraped_timestamp": "2025-10-01T13:54:25Z",
+  "status": "blocked",
+  "listing_id": "18ecc3a68377fc85c46bcd15b0d32cc2",
+  "property_id": "a1bad7fc4b1877b0b480bbdfd544f55a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

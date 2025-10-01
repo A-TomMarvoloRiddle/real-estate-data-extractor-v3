@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/311-W-78th-St-New-York-NY-10024/440844191_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:23 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a0d96d52-886b-4342-8ec6-06918ed1cf4e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|217aa33c-64ee-4668-a1f8-bd632370d526; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d9d9-nmvWstTWuJJQ+oKAa89KWvRWXCE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "220",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "4o9Iklapc41DVE8u0Jvrq0Dci3QLtbRbuu40NtHBI3kb2k5RsYB0Qg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

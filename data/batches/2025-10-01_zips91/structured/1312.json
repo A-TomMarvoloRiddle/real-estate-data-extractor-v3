@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/150-Barrow-St-New-York-NY-10014/2055545804_zpid/",
+  "external_property_id": "2055545804",
+  "scraped_timestamp": "2025-10-01T13:55:22Z",
+  "status": "blocked",
+  "listing_id": "fcf5950b04ef24fcf36c434ab652182e",
+  "property_id": "e21c2f0f7dd4c922d3d7ada8c5d658c7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

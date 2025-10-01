@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/520-La-Guardia-Pl-6N-New-York-NY-10012/440238902_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:51 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2433ba7199-5b05-4495-be61-eac0dbcb0cfc; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:51 GMT; Path=/; Domain=.zillow.com, zgsession=1|5e96c650-7eaa-454a-912e-3316cec392c2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"49067-mKmZDvZf1E3qAl/l1OCtUT1/qR8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "203",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "dqDSrHauvgfuRYJQtnDdGbsFKB2VxImU1vEAvDB2uQc0gvVtR4USsA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/700-Park-Ave-APT-2B-New-York-NY-10021/244735224_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:11 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a648e1b8-1d1e-4d0f-8648-9d7acc5c76c4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|652a1146-15ce-4ffa-9c26-654be65cbffe; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58c66-9UQKx+47vOFASdQN6slesp9EJPM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Ubn52EV_PYgkpazZ4lh_yX8E6Al-MMn_2W0lwHwslLtIc4j9oTE2tw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/217-W-20th-St-New-York-NY-10011/118328073_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:55 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f4beabba-3273-47a7-8526-7901a4f3ef0e; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|a012250f-04d9-4459-962a-1adcdf7a343a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"52e35-9ojvVEtdz4JXsSQgJR4ssrE+Nwc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "nBT7QgBMTgT1VIEB9_WRAIdj3QEujS6buIMB2HA4OFHqhFpd-WFd9g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

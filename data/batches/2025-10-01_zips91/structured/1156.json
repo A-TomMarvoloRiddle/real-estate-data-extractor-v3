@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/439-W-21st-St-12345-New-York-NY-10011/2060363808_zpid/",
+  "external_property_id": "2060363808",
+  "scraped_timestamp": "2025-10-01T13:54:09Z",
+  "status": "blocked",
+  "listing_id": "b430db6b63d27a93791288c5442f84c1",
+  "property_id": "65fce212a7ff3bb7d97b65f40a56be23",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

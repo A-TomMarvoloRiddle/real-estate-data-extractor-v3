@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/711-N-Milwaukee-Ave-2-Chicago-IL-60642/3861523_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:49 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24121a6225-c107-4d3a-a250-6d65dc0dbe10; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|75e20236-3e04-4c07-afd6-470a8f3ae842; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a58c-lTm1kzid527uuUodAm6F2shsp4k\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "273",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Ts5MtKtjBnfQgPaGETmNvzLFoMqgNStbvxnjLaa6dOj7pl0YujWOKA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

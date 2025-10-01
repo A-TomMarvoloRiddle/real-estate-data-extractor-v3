@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1156-W-Ohio-St-2E-Chicago-IL-60642/2083530294_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:37 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24018fe477-6b5d-4df4-85d7-e445f7bdf203; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:37 GMT; Path=/; Domain=.zillow.com, zgsession=1|4707029e-34cf-4714-83f0-5c721bd9723b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5d0ec-bqMTdHAf5+PI+eIxHP/xeg0FPQA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "TInBcqaXkXwITyrCAB06LOAEC5qAONB5wHysYsP94zBkCpGb7_S_Xw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

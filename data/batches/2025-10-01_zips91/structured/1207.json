@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/160-Bleecker-St-APT-1FE-New-York-NY-10012/2098627543_zpid/",
+  "external_property_id": "2098627543",
+  "scraped_timestamp": "2025-10-01T13:54:22Z",
+  "status": "blocked",
+  "listing_id": "1f95112e6597c9cd9519e68beedf47ac",
+  "property_id": "cadee4a3559da45c01208bf455974dc4",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/456-W-19th-St-UNIT-6-7F-New-York-NY-10011/112515667_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:37 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2452b6f3a1-b84c-4c9c-b5ce-7a6a89fe8a43; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:37 GMT; Path=/; Domain=.zillow.com, zgsession=1|b527c721-3a7d-44ab-b3de-17065d2b3e43; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4b93d-WQGYfxnH4YMHcwEdlWxTTOyBFAU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "216",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "BmNAY4NyNNZycOC0OgdfIAnw4dShHpacZ8yiB7I3iX5AgerYUzZT1g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/29-E-9th-St-10003/unit-10/home/45142483",
+  "external_property_id": "45142483",
+  "scraped_timestamp": "2025-10-01T13:53:25Z",
+  "status": "blocked",
+  "listing_id": "4aa5c491a7325b8f458e4660bec9100b",
+  "property_id": "0ed297f0fdec709fc8514203b7602c84",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

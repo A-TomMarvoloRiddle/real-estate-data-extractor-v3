@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/325-E-72nd-St-10021/unit-C12/home/115720896",
+  "external_property_id": "115720896",
+  "scraped_timestamp": "2025-10-01T13:55:39Z",
+  "status": "blocked",
+  "listing_id": "069a8e55672f2656976b5bca3c77f8f8",
+  "property_id": "9a72c04541c53019fb3a840a1db10d80",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

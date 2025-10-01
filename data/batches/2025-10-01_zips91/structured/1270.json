@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/323-W-11th-St-10014/unit-2WE/home/45202322",
+  "external_property_id": "45202322",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "cb38cfb4ab44403304ec2e0dd527180f",
+  "property_id": "44fbf0f11bde15b148202a2bdc741e85",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

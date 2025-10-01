@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/203-W-87th-St-APT-53-New-York-NY-10024/72523163_zpid/",
+  "external_property_id": "72523163",
+  "scraped_timestamp": "2025-10-01T13:56:44Z",
+  "status": "blocked",
+  "listing_id": "7fe4d94e99a20fdeb94d4a7965a1775f",
+  "property_id": "7f41c8e4713c5e2c2def78c741059585",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/234-W-Polk-St-60607/unit-3210/home/198201535",
+  "final_url": "https://www.redfin.com/IL/Chicago/234-W-Polk-St-60607/unit-3210/home/198201535",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:35:08Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2153
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/90-Prince-St-New-York-NY-10012/63864409_zpid/",
+  "external_property_id": "63864409",
+  "scraped_timestamp": "2025-10-01T13:54:53Z",
+  "status": "blocked",
+  "listing_id": "fd50ea0e77cbfd783fc8a8d4eb15efdf",
+  "property_id": "9519a2199e8aa7139c9bb53b22a9ae73",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

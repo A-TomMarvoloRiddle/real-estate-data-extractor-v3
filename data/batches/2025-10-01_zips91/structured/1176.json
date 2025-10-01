@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/160-Bleecker-St-10012/unit-8GW/home/53324667",
+  "external_property_id": "53324667",
+  "scraped_timestamp": "2025-10-01T13:54:17Z",
+  "status": "blocked",
+  "listing_id": "d4a78e3944f558dfb7066323cbfe4d36",
+  "property_id": "e395c6fea27b7f950c0f8d862818c868",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

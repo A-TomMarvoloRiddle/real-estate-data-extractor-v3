@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/170-W-85th-St-APT-5NW-New-York-NY-10024/125985018_zpid/",
+  "external_property_id": "125985018",
+  "scraped_timestamp": "2025-10-01T13:56:23Z",
+  "status": "blocked",
+  "listing_id": "68501fc64370cb22c2a0349aea448d57",
+  "property_id": "d019156cf933f8eb3d7fff58d8083f62",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

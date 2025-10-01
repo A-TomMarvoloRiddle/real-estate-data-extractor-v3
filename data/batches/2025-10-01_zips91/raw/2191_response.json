@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1355-W-Washington-Blvd-APT-4D-Chicago-IL-60607/63698569_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:00 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a0663d8f-1197-4f8a-95dc-a7753644fd3f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|57ead53b-4b1d-4570-9b29-864d6db3a431; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6eabf-3AGWzvJnkh5Va8J6gcCZxmAh0Mw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "245",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "UvOxo64l4DU0RUxQS6C_NZage-OOcHq2kM-4KlWYatTk4VDjpnGaGg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

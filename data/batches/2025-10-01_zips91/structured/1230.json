@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/83-Thompson-St-4-New-York-NY-10012/450427335_zpid/",
+  "external_property_id": "450427335",
+  "scraped_timestamp": "2025-10-01T13:54:42Z",
+  "status": "blocked",
+  "listing_id": "ba63c711de5b456f200bd0f6bcbbb314",
+  "property_id": "452ae2b565abbd3c18f2c42ddc6ccc42",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

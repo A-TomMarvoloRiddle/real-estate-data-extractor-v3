@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/311-W-78th-St-New-York-NY-10024/440844191_zpid/",
+  "external_property_id": "440844191",
+  "scraped_timestamp": "2025-10-01T13:56:40Z",
+  "status": "blocked",
+  "listing_id": "8f8a4b316f4e6f8c3a5e4ea46285cb20",
+  "property_id": "e1ac79ae9fde42b2641eaa385b2be407",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

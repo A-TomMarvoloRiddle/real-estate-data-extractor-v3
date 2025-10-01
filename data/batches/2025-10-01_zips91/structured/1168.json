@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/83-Spring-St-10012/unit-2-3/home/114712971",
+  "external_property_id": "114712971",
+  "scraped_timestamp": "2025-10-01T13:54:17Z",
+  "status": "blocked",
+  "listing_id": "54797b68759938831eee52128241415c",
+  "property_id": "84c1c970200dfed7b89132c587245080",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/515-W-23rd-St-PENTHOUSE-New-York-NY-10011/2077017053_zpid/",
+  "external_property_id": "2077017053",
+  "scraped_timestamp": "2025-10-01T13:54:14Z",
+  "status": "blocked",
+  "listing_id": "33550b9ea9660b29e5bc5aa4cb7d2a57",
+  "property_id": "afc643077d02fa69033637864df53469",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

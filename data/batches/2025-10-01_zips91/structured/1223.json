@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/44-Mac-Dougal-St-New-York-NY-10012/31497616_zpid/",
+  "external_property_id": "31497616",
+  "scraped_timestamp": "2025-10-01T13:54:36Z",
+  "status": "blocked",
+  "listing_id": "bcfd29fe199e6aa697d67aa318865a04",
+  "property_id": "a9d1d703c95ab059383842f2c1ed5b96",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

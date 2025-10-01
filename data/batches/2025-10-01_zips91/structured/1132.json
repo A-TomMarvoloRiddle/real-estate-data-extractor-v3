@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/122-Waverly-Pl-New-York-NY-10011/143087924_zpid/",
+  "external_property_id": "143087924",
+  "scraped_timestamp": "2025-10-01T13:53:48Z",
+  "status": "blocked",
+  "listing_id": "5fc7e8dffdc727d24393dc594bfd5f2e",
+  "property_id": "7f6919c4f1acf7a91f8aeb5bd57ddbf7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

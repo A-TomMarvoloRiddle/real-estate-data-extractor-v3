@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/131-Thompson-St-APT-6F-New-York-NY-10012/244725435_zpid/",
+  "external_property_id": "244725435",
+  "scraped_timestamp": "2025-10-01T13:54:24Z",
+  "status": "blocked",
+  "listing_id": "733494211f60a5edc363a9170b2d747e",
+  "property_id": "1acf8c0401640d10fc1252056374389d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

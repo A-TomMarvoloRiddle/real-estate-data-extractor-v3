@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/22-Cornelia-St-10014/unit-7/home/197643103",
+  "external_property_id": "197643103",
+  "scraped_timestamp": "2025-10-01T13:54:57Z",
+  "status": "blocked",
+  "listing_id": "1b6d19713105e3c5eb5846732e617834",
+  "property_id": "0daddc102254c3b63c78902f0a23f65a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/201-E-15th-St-APT-4H-New-York-NY-10003/457045457_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/201-E-15th-St-APT-4H-New-York-NY-10003/457045457_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:34:33Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1052
+}

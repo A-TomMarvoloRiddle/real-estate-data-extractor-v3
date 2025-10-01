@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/100-Prince-St-APT-5W-New-York-NY-10012/447567920_zpid/",
+  "external_property_id": "447567920",
+  "scraped_timestamp": "2025-10-01T13:54:38Z",
+  "status": "blocked",
+  "listing_id": "f1e329d083a597b75e9425e14ef912b2",
+  "property_id": "223bf4c718bf4a42033318001873d307",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

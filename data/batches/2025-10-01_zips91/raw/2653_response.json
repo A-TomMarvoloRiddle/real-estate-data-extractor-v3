@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/525-N-Ada-St-APT-37-Chicago-IL-60642/3861427_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:19 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241ddfc26d-727c-4c1b-baed-d7739a188533; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|ee47afa7-0f48-4eb3-b385-d5a9f5f0a7a8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f32e-Y+hBmuGHzPCWNjNMtEJXT5ilgJ0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "596",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "__dbyVGWLrmlVReik98PqNuh2W1W4Pdtjguje28uPJtbsY5cAzGfIA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

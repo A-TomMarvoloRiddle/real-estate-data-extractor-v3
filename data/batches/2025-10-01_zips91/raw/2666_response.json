@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/824-W-Superior-St-UNIT-303-Chicago-IL-60642/80855857_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:07 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248eb9c2f7-0dcd-4304-abfc-6601a09cd02a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:07 GMT; Path=/; Domain=.zillow.com, zgsession=1|8db5f5be-d76c-4a20-910d-843f885117e3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4a42a-YubQlKdrf6cPdfGbLH2k5ibM9zw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "220",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "HgcEZ4S8Paqj3yy74vojdytjbQgTvC-1nzQ4q9JzjFFsDQjkx6jhCA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

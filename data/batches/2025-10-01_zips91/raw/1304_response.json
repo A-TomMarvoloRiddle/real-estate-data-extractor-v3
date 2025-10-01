@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/262-W-11th-St-New-York-NY-10014/143092088_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:41 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d422e74a-76ec-43a7-8b82-a87c957060b5; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:41 GMT; Path=/; Domain=.zillow.com, zgsession=1|5abeaa87-3d23-463b-9103-aa523e5a7cca; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50fbd-PWMXHj2Vk5iON1O8bOfRoiS5eMQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "230",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "JojFDame4Oe9hSodXEH67R8wi8r8ilHouDS65soPuESJuNlZon7Ugw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

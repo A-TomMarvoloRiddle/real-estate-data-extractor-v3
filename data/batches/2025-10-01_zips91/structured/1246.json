@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/242-Lafayette-St-APT-4S-New-York-NY-10012/113056776_zpid/",
+  "external_property_id": "113056776",
+  "scraped_timestamp": "2025-10-01T13:54:56Z",
+  "status": "blocked",
+  "listing_id": "2bd5de9e36c20b0d5c898fa466245753",
+  "property_id": "8b8050480a261632842aea1493c69bee",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

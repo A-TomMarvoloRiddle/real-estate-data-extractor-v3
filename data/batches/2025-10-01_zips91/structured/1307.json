@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/555-Hudson-St-New-York-NY-10014/31501608_zpid/",
+  "external_property_id": "31501608",
+  "scraped_timestamp": "2025-10-01T13:55:18Z",
+  "status": "blocked",
+  "listing_id": "f839f136e8b7d9969a9b59e063b4f95d",
+  "property_id": "67878624c2967221da5b2e2544b871e0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

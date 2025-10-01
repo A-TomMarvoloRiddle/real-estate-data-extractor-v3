@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/230-W-78th-St-PENTHOUSE-19-New-York-NY-10024/89331411_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:19 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2414ae43db-30db-40da-a301-d338112a3d7b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|f4c61587-48be-4865-9871-3bce74f2e821; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50049-1KPOj7z0BwI3yBSYTrt09rA6SZ8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "210",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "JolzNWGC6_o3R2dBpH8S_i_bkE1SiqzH5mj8a1UtqcLKoiDc3B50Rw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/399-W-Fullerton-Pkwy-16E-Chicago-IL-60614/353723832_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/399-W-Fullerton-Pkwy-16E-Chicago-IL-60614/353723832_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:50:06Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2444
+}

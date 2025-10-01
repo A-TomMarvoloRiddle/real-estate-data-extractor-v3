@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/601-Washington-St-10014/unit-THE/home/195817944",
+  "final_url": "https://www.redfin.com/NY/New-York/601-Washington-St-10014/unit-THE/home/195817944",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T11:52:17Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1276
+}

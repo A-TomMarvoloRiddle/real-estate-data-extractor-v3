@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/164-W-83rd-St-APT-4R-New-York-NY-10024/80008220_zpid/",
+  "external_property_id": "80008220",
+  "scraped_timestamp": "2025-10-01T13:56:31Z",
+  "status": "blocked",
+  "listing_id": "722fc86776b0c2341d08adcd819c487f",
+  "property_id": "b6ac3772b4543d753c0532093fde259f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

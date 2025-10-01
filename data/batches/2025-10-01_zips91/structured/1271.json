@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/59-Barrow-St-10014/unit-1/home/144130309",
+  "external_property_id": "144130309",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "f7c341fc194d48e9a3fe34e7f2e9c4aa",
+  "property_id": "4eb6454e9bb9fb1cd8d3b330afdd3ed9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

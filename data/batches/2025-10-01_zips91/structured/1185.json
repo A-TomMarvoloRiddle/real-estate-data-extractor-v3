@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/520-Laguardia-Pl-10012/unit-6N/home/45141753",
+  "external_property_id": "45141753",
+  "scraped_timestamp": "2025-10-01T13:54:18Z",
+  "status": "blocked",
+  "listing_id": "54066825db24de6ac53adb0c5ed2a89d",
+  "property_id": "12c3f39d58f9167eb61fc4d2ceb158d0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

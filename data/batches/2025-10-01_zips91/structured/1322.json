@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/25-Charles-St-APT-4-C-New-York-NY-10014/244706260_zpid/",
+  "external_property_id": "244706260",
+  "scraped_timestamp": "2025-10-01T13:55:31Z",
+  "status": "blocked",
+  "listing_id": "e1b6c23a29e3fac81ad5e87907723560",
+  "property_id": "7305d95322a0b411294ecf72a4eefb81",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

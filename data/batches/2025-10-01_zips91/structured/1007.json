@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/125-E-4th-St-10003/unit-26/home/176353603",
+  "external_property_id": "176353603",
+  "scraped_timestamp": "2025-10-01T13:53:18Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 649000,
+  "beds": 2.0,
+  "baths": 2.0,
+  "interior_area_sqft": 115,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/348/RLS20051348_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_2_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_6_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_3_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_5_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_1_4.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/348/genMid.RLS20051348_4_4.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7256288%2C-73.9875689&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=vtaXIcUjkBgVyOzqCwWwjsjhwxQ=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "& nbsp;   & nbsp;  Discover this beautifully renovated           2-bedroom, 1-bathroom apartment located in the heart of           Manhattan's East Village. Situated on the           top floor of a classic prewar walk-up building, this sun-filled home combines timeless architectural charm with modern upgrades-making it a rare find in one of NYC's most vibrant neighborhoods.  Step inside to find original prewar details throughout, including           restored moldings, hardwood floors, high ceilings (9'8\"), and           transom windows that reflect the character of historic New York City. The windowed kitchen has been tastefully updated with           full-size stainless steel appliances, including a           dishwasher, and offers ample counter and cabinet space-ideal for home cooks.  The           primary bedroom is generously sized and features a stunning           view of the Empire State Building. The second bedroom offers flexibility-it fits a full-sized bed and includes a spacious closet , Giving flexabilty of use for guest bed, home office or nursery. & nbsp;  Additional highlights include a windowed bathroom , excellent light throughout, and a quiet interior location within the building. The apartment is located on the           6th floor (walk-up), providing privacy, quiet, and light-well worth the climb.  This boutique           East Village co-op building offers a           live-in porter, central laundry room, and           bike storage. It's           pet-friendly and allows for           subletting after a specified period (please inquire for details).  Located near           Astor Place, St. Mark's Place, and           NYU, this home is just moments from multiple subway lines (          F/M, 6, N/R/W) and close to           Whole Foods, Trader Joe's, Tompkins Square Park, and some of the best dining, shopping, and nightlife in downtown Manhattan.   & nbsp;",
+  "price_history": [
+    {
+      "event_date": "Oct 29, 2021",
+      "event_type": "listed",
+      "price": 626000,
+      "notes": null
+    }
+  ],
+  "street_address": "125 E 4th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "26",
+  "listing_id": "aa9184c36831dcaa336242b72fc7fdbc",
+  "property_id": "3c0b995accebe9e43c5f338d5f55afc9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

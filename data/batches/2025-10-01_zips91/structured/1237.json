@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/1-Great-Jones-St-10-New-York-NY-10012/2096696039_zpid/",
+  "external_property_id": "2096696039",
+  "scraped_timestamp": "2025-10-01T13:54:48Z",
+  "status": "blocked",
+  "listing_id": "ae982e16b57da78d471432fd7947659d",
+  "property_id": "82b3c69959985ac7cd3484fc5d392193",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

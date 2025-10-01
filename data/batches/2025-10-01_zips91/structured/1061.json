@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/325-Bowery-APT-3-New-York-NY-10003/2086011691_zpid/",
+  "external_property_id": "2086011691",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "ac24c8fcc62310b099d56f1efd756fe3",
+  "property_id": "82331b4283de0ed4bc88e4145e74a04c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

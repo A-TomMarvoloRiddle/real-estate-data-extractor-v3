@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/50-W-Schiller-St-2G-Chicago-IL-60610/456528008_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:48 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241bd81c3c-98b8-45f6-91a0-cf97693c34bc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|f518960c-0130-49ad-94dc-06350c30d018; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61cfb-dnhSYmsLy8KOQ9ke79bclm8vsu8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "536",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "LAhYYCab6Lw3PcSEneSsPwx3n_s5V_4NlrEhAW8SrHHVrBZOE0fI4Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

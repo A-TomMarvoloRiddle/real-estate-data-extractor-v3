@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/1440-N-Lake-Shore-Dr-60610/unit-28D/home/14124982",
+  "final_url": "https://www.redfin.com/IL/Chicago/1440-N-Lake-Shore-Dr-60610/unit-28D/home/14124982",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:39:37Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2244
+}

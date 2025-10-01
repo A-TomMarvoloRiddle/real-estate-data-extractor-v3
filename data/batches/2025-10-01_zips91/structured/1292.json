@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/10-Bedford-St-New-York-NY-10014/2082691512_zpid/",
+  "external_property_id": "2082691512",
+  "scraped_timestamp": "2025-10-01T13:55:05Z",
+  "status": "blocked",
+  "listing_id": "32a6369649d761a32b086bb6db741431",
+  "property_id": "19df9fdb7f72e094ee9b608c354937fa",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/35-Stuyvesant-St-New-York-NY-10003/145586220_zpid/",
+  "external_property_id": "145586220",
+  "scraped_timestamp": "2025-10-01T13:53:32Z",
+  "status": "blocked",
+  "listing_id": "055c95a404a656464765ad48c8e9b203",
+  "property_id": "20ee0d7973fc6a956f7c2b0e82ed7ef5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

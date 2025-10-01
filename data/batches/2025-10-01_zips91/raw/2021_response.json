@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/714-California-Ave-Venice-CA-90291/20451807_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:00 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2499ed37a7-df33-4250-b2c4-3f2e62d0419a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|294cc15d-283f-4e63-838f-9a3d16b1f8c1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"10e514-7Vw7xEFVEw/oZr1qXHxGORGimx8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "368",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YtfRES15tMpxGMh6i0Mwagf-K6_NrLVziXO3kNmtqAkcwn3j8FWuJg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

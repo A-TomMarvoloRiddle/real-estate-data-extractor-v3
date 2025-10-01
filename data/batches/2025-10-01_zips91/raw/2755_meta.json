@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/400-W-Ontario-St-60654/unit-1203/home/12765956",
+  "final_url": "https://www.redfin.com/IL/Chicago/400-W-Ontario-St-60654/unit-1203/home/12765956",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:06:49Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2755
+}

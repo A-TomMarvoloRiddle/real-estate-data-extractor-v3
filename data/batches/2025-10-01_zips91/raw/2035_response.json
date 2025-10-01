@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/717-Coeur-D-Alene-Ave-Venice-CA-90291/20449884_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:47 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2402ad7ae7-8cef-4794-b57a-c97ad7df22b8; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:47 GMT; Path=/; Domain=.zillow.com, zgsession=1|292f51d8-76e7-48fd-a277-b49a3066e35b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53de1-3wJYIpc3Esw5ye7JqEYEPXPxTpI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "DQXpvhHPQ1xFA6x6oG86oczSl6mzB2tBOmQaEMZSulZo05KKrDmuCg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

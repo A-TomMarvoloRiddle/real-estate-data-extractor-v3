@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/463-N-Green-St-UNIT-2S-Chicago-IL-60642/306333770_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:02 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a974f912-bde3-4377-9ead-6169f96365bf; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|a1ce7dca-8295-4beb-93b8-78b5c8eb2b81; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50aac-1d4cmUcCZgLLIB5niuv1AWNamZw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "549",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xBcb-PGItDD-dST32mUBcjZOuze6uhqnCvdN5C6bs_PCJJepS26UFA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

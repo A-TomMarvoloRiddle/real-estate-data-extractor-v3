@@ -1,0 +1,53 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/60-E-9th-St-10003/unit-607/home/114625056",
+  "external_property_id": "114625056",
+  "scraped_timestamp": "2025-10-01T13:53:28Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 2395000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 204426,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/222/RLS20044222_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_6_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_20_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_10_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_16_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_4_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/222/genMid.RLS20044222_13_3.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7311816%2C-73.9926597&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=kkw2ohi6X9YNRs43Wdmhe-JEWqU=",
+    "https://ssl.cdn-redfin.com/v595.4.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "GREENWICH VILLAGE GEM!  Beautifully combined apartments 606 and 607.  As you step into this stunning Greenwich Village home, you are immediately greeted by an open floor plan and an expansive living space bathed in natural light. The seamless flow between the living, dining, and kitchen areas creates an airy and inviting atmosphere, perfect for both daily living and entertaining. South-facing windows, wide-plank hardwood floors, recessed lighting, and elegant finishes add to the homes sophisticated charm, while thoughtfully designed storage solutions enhance functionality. Every south-facing window offers an unobstructed view across East 8th Street and straight down Broadway, immersing you in the vibrant heart of this iconic New York City neighborhood. At the heart of the residence lies a chefs dream kitchen, meticulously designed for both style and performance. Outfitted with top-of-the-line stainless steel appliances, including a Thermador stovetop, Bosch oven, convection oven/microwave, and dishwasher, as well as a GE refrigerator, this kitchen is as high-tech as it is beautiful. The expansive Caesarstone island provides ample prep space and doubles as a breakfast bar, making it the ideal gathering spot. Gorgeous custom cabinetry extends throughout, offering abundant storage, while a spacious pantry ensures effortless organization. Sleek under-cabinet lighting and a sophisticated tile backsplash complete the space, elevating both form and function. The primary suite is a luxurious retreat, complete with both south and north facing views. Enjoy your en suite bathroom featuring marble tiling throughout, electric heated floor, a walk-in glass-enclosed shower and high-end fixtures. Two additional bedrooms offer plenty of optionality. The second bathroom is equally well-appointed with contemporary finishes, marble tiling, heated floor, and a deep soaking Toto tub. Ample closet space throughout, including custom-designed storage solutions, ensures effortless organization and convenience. Each bedroom is equipped with CitiQuiet windows making this home super quiet. Best of all, enjoy your own stacked Bosch washer/dryer. The Hamilton is a pet-friendly, full-service co-op featuring a 24-hour doorman, an exceptional live-in superintendent, and a dedicated staff. Residents enjoy a beautifully landscaped garden, a central laundry room, a bike room, and additional storage. Ideally situated in prime Greenwich Village on a vibrant, tree-lined street, the building offers easy access to multiple subway lines (N/R/W/ Q, L, 4/5/6), the PATH train, and is just moments from Union Square, Washington Square Park, the Farmers Market, Wegmans, Trader Joes, Whole Foods, and some of the best dining and nightlife in NYC. With no flip tax, gifting is permitted, and subleasing is allowed after two years of ownership. However, pied-a-terres, guarantors, and co-purchasing are not permitted. This residence epitomizes the best of Greenwich Village living! Viewings with 24-hour notice please.",
+  "price_history": [
+    {
+      "event_date": "Aug 25, 2025",
+      "event_type": "price_change",
+      "price": 2395000,
+      "notes": null
+    },
+    {
+      "event_date": "Apr 21, 2025",
+      "event_type": "price_change",
+      "price": 2395000,
+      "notes": null
+    }
+  ],
+  "street_address": "60 E 9th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "607",
+  "listing_id": "4291f8838b5c4b22db16589f339054ef",
+  "property_id": "b07e62ca287252c9fa19d0d52ee65f2f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

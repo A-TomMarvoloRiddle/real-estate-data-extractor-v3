@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/175-E-79th-St-10075/unit-2C/home/53322379",
+  "final_url": "https://www.redfin.com/NY/New-York/175-E-79th-St-10075/unit-2C/home/53322379",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:05:28Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1537
+}

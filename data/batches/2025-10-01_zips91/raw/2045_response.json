@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/813-Crestmoore-Pl-Venice-CA-90291/20449678_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:21 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24733fa6ef-c1c1-4f92-a221-4c443636dc18; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|33336944-dee8-4c07-8e1a-1a311cf1bad3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6d986-NM3rtta9wBoXdBa/dT7sM+RDGtk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "350",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "SI1ZZe-0gIdg42C-nF1QCpHcwvsaqLvweE2ARDDpIpltfRvC6W5sTQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

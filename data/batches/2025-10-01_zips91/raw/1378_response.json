@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/317-E-73rd-St-APT-4RE-New-York-NY-10021/123979553_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:31 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241238a2df-a6d8-4c48-af03-e3b7be12271f; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:31 GMT; Path=/; Domain=.zillow.com, zgsession=1|5f99f7d7-0cdf-4676-b304-a08c8053e48c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4646b-acfooZlwONU2Lg7r5VunZ/Jwxtk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "285",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "CIdbjTO-c_PwCy1zt6x4opOjq6oAno7s6Esldj6V37d2JBDTjkc2Uw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

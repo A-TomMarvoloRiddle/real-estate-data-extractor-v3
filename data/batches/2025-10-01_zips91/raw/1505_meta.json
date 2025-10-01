@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/200-E-66th-St-10065/unit-C502/home/178595985",
+  "final_url": "https://www.redfin.com/NY/New-York/200-E-66th-St-10065/unit-C502/home/178595985",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:03:57Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1505
+}

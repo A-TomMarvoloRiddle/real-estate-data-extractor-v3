@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/340-W-19th-St-10011/unit-20/home/45144126",
+  "external_property_id": "45144126",
+  "scraped_timestamp": "2025-10-01T13:53:34Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 899000,
+  "beds": 2.0,
+  "baths": 2.5,
+  "interior_area_sqft": 800,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/749/RLS20051749_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_2_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_6_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_3_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_4_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/749/genMid.RLS20051749_5_1.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7434688%2C-74.0020817&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=SwYVRpJUPjs2W4YNehxz49lW_38=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Welcome to your urban sanctuary 4 flights up at 340 West 19th Street. This charming 2-bedroom, 1-bathroom home offers a perfect blend of prewar detail and modern convenience. Step inside this lovely home to find high ceilings, with an entry hallway with offshoots to each room. Pin drop quiet, this home is complimented by windows offering multiple exposures with light throughout the day. There's a newly renovated bathroom complete with a Toto toilet and stall shower. In the kitchen, all new stainless appliances , including your very own washer dryer. The living areas accommodate easily a separate dining area and a large living room, perfect for social gatherings or just spreading out after a long day. Constructed in 1920, this pre-war, boutique walk up cooperative is beautifully maintained and is located in the heart of Chelsea. Amenities include fitness center , bicycle room , storage room , and laundry room . Close to transportation, shopping, and some of the best dining in NYC.",
+  "price_history": [
+    {
+      "event_date": "Apr 23, 2025",
+      "event_type": "price_change",
+      "price": 899000,
+      "notes": null
+    }
+  ],
+  "street_address": "340 W 19th St",
+  "postal_code": "10011",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "20",
+  "listing_id": "9c0552f67628f0226b5716594501aa42",
+  "property_id": "a379bce01d7a6f0c35d5ebc14d31004a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

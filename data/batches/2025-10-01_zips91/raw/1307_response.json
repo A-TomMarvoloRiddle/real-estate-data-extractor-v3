@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/555-Hudson-St-New-York-NY-10014/31501608_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:50 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24364b02b2-0aae-4c80-abd0-a51824aad7d6; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:50 GMT; Path=/; Domain=.zillow.com, zgsession=1|05bf399a-cf9f-4a5b-9764-3a67c5431af3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4c887-fXBEHy1LLKpNeUe00347pNevPN4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "270",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0iuspO94iMXFd82GH4fxZFHduqnCHHWa9AsBBem5uNSVh1vKvH02ng==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

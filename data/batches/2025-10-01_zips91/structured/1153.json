@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/166-W-18th-St-New-York-NY-10011/112517574_zpid/",
+  "external_property_id": "112517574",
+  "scraped_timestamp": "2025-10-01T13:54:06Z",
+  "status": "blocked",
+  "listing_id": "4b06c4b1ab664a02fe9fb2b208bb776a",
+  "property_id": "d84ec59ca6da73b01b57ff9925124869",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

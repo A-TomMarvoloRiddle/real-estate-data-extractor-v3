@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3621-N-Ravenswood-Ave-Chicago-IL-60613/2139483591_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:08 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248feeef80-b4ef-4a3c-addc-dccd1423da7e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|c0e57c04-3c86-415e-9e33-dee8c4ad79e7; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55214-TTlkXfMgspJlciRDMYFfcoqDoLk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "294",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "LeDiZJXepgSL-pGA82JgGoflCRs4-PZTLjYbQj_yz1iO1lN7MXrJzA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

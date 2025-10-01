@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/20-W-12th-St-New-York-NY-10011/441752315_zpid/",
+  "external_property_id": "441752315",
+  "scraped_timestamp": "2025-10-01T13:54:11Z",
+  "status": "blocked",
+  "listing_id": "835329f1c5a5981554fe6ce61fc745e4",
+  "property_id": "fd4c0023ba37a572164c7c7470588099",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/44-E-12th-St-10003/unit-9A/home/45139145",
+  "external_property_id": "45139145",
+  "scraped_timestamp": "2025-10-01T13:53:22Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1495000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 984,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/814/RLS20050814_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_4_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_12_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_6_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_9_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_2_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/814/genMid.RLS20050814_8_5.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7333191%2C-73.9918733&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=hJhOufh5arXRTMtGA2cCFNPYgR4=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "& nbsp;   Welcome to this spacious and stylish one-bedroom, one-and-a-half-bathroom residence in the heart of Greenwich Village. Thoughtfully designed with a modern aesthetic, this home blends crisp architectural details with contemporary finishes for both comfort and elegance.   The open living and dining area is filled with natural light, featuring dark-stained floors and clean lines that create a sleek, modern backdrop. The renovated kitchen boasts striking black marble counters , a mirrored backsplash , and a suite of premium appliances ; including a Bosch oven and stove and a Liebherr refrigerator; discreetly concealed behind custom cabinetry. A large peninsula anchors the space, offering abundant prep room and serving as the perfect centerpiece for entertaining.   The primary bedroom is generously proportioned, large enough to accommodate a separate seating area or home office. Adjacent to the bedroom is a vast dressing room , ideal for storage and organization. With northeast exposures, the space is flooded with natural light. The spa-like en-suite bathroom showcases marble tiling, a glass-enclosed rainfall shower, and a wide vanity with ample storage. An additional powder room with in-unit washer/dryer adds convenience.   This boutique building offers residents access to a furnished roof deck with sweeping city views; an ideal setting for relaxing or hosting friends.   Just five minutes from Union Square, the location offers the best of downtown living. Spend Saturday mornings browsing the city's largest farmer's market or take a leisurely stroll on a sunny afternoon. In the winter, the square transforms into a festive holiday market. Union Square also serves as a major transit hub, with the 4, 5, 6, N, Q, R, W, and L trains providing unmatched access across the city. Everyday conveniences are moments away with Target, Trader Joe's, Whole Foods, and Wegmans all nearby, while the neighborhood's charming caf & eacute; s, lively bars, and premier shopping along Fifth Avenue and Broadway complete the picture of vibrant city living.   & nbsp;",
+  "price_history": [
+    {
+      "event_date": "Jul 23, 2025",
+      "event_type": "price_change",
+      "price": 1595000,
+      "notes": null
+    },
+    {
+      "event_date": "Jun 17, 2025",
+      "event_type": "price_change",
+      "price": 1675000,
+      "notes": null
+    },
+    {
+      "event_date": "Apr 4, 2025",
+      "event_type": "price_change",
+      "price": 1730000,
+      "notes": null
+    }
+  ],
+  "street_address": "44 E 12th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "9A",
+  "listing_id": "817383130ba8f19a44ef5f8c0c2acc04",
+  "property_id": "723dc5d45245134abe03f5594ea5beaf",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

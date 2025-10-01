@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/170-W-85th-St-APT-5NW-New-York-NY-10024/125985018_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:13 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24713faa5b-8bd2-4983-acd6-4463fbf5111b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:13 GMT; Path=/; Domain=.zillow.com, zgsession=1|5833a694-00f6-4bed-af98-189bb621e429; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ac10-MV8VS7EidN0DHjbIA0CZbAixD88\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "267",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "1WPW8Wsz6cKBmwSuT47glIyCMl95i4HX0jgq5aMPIpOPA-I6H6qOsA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

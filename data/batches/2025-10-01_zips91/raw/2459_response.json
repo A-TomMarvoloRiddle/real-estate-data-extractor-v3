@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2626-N-Lakeview-Ave-APT-2106-Chicago-IL-60614/3725731_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:02 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2465381dcd-99d3-4fed-81cd-dc6837f7b98e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|3c54384f-34b2-4cbd-80d9-33b9ad1177e8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55231-+hRlRz011+OunkulkWwIdnQuDzI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "297",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "4rFHjlMANryyEMue5rhGm_aM0Be5EJV6rkgDLk4IOt-BO4TEXS37YA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

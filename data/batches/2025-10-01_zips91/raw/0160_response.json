@@ -1,0 +1,21 @@
+{
+  "status": 403,
+  "final_url": "https://www.zillow.com/homes/30329_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Wed, 01 Oct 2025 11:15:05 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "5816",
+    "Connection": "keep-alive",
+    "X-Px-Blocked": "1",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0yYOBB3rfeMcuW3vf1mB8J9s5ETBgPWp1gBtv8jRkDtzLXKJrFn2Fw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

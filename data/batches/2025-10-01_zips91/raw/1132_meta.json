@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/122-Waverly-Pl-New-York-NY-10011/143087924_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/122-Waverly-Pl-New-York-NY-10011/143087924_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:45:10Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1132
+}

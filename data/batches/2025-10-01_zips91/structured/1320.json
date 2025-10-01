@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/165-Charles-St-APT-1-New-York-NY-10014/2114582204_zpid/",
+  "external_property_id": "2114582204",
+  "scraped_timestamp": "2025-10-01T13:55:29Z",
+  "status": "blocked",
+  "listing_id": "9ebbc271685b8b10f2217588a81e4b96",
+  "property_id": "4479d745bfc062073dbd503ec84f8129",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

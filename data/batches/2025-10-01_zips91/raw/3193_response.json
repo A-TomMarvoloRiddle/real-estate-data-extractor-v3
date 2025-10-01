@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/5407-Westgrove-Dr-Dallas-TX-75248/26876626_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:29:20 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c7441a39-af4a-4c3b-adb4-e838e297a4f3; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:29:20 GMT; Path=/; Domain=.zillow.com, zgsession=1|3cc2a270-7449-4cd4-b1db-27c977530d0e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6860f-rnUR+M+g/mdjqMZd2iuTD/ZM4gc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "269",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "53aeeab10DxnKvWjM2ZD2H0mlJwU3SCaLdojQnwVNK97bh4K5QoT9g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

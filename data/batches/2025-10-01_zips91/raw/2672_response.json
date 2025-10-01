@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1402-W-Grand-Ave-UNIT-2-Chicago-IL-60642/89931423_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:02:28 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24298b0570-de4b-4052-8924-0c0b5b8f2aed; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:02:28 GMT; Path=/; Domain=.zillow.com, zgsession=1|0cd1fcdf-b74f-4b55-95b8-62630f888e39; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53556-ZvXh7XCaJo2hkWsD01nrwbb18hs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "226",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "tBrfvG4XpTY2S0kAQW8sAAOxhO5vVR-DYK5Nzdxsh-E0Z0ZKZSdsdQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

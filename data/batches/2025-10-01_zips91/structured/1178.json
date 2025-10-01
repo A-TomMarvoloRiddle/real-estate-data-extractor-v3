@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/211-Thompson-St-10012/unit-5C/home/115281345",
+  "external_property_id": "115281345",
+  "scraped_timestamp": "2025-10-01T13:54:18Z",
+  "status": "blocked",
+  "listing_id": "cb90842cf77ba8d3ee6727bdd639386e",
+  "property_id": "1e4ef7b8b3eddc9ca0fb980a8b5b9a05",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

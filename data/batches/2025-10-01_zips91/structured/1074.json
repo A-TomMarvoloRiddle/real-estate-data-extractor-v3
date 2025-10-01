@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/445-Lafayette-St-110C-New-York-NY-10003/456545070_zpid/",
+  "external_property_id": "456545070",
+  "scraped_timestamp": "2025-10-01T13:53:31Z",
+  "status": "blocked",
+  "listing_id": "aa195c7fda91951bab16a19122bdd56b",
+  "property_id": "5e76b49987af0ac417680990f6503881",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

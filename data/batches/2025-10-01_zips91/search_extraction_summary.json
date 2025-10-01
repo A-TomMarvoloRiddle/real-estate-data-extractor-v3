@@ -1,0 +1,368 @@
+{
+  "total_urls": 4411,
+  "pages_ok": 111,
+  "pages_empty": 4,
+  "blocked": 67,
+  "not_found": 0,
+  "by_source_pages": {
+    "redfin": 88,
+    "zillow": 23
+  },
+  "pages_meta": [
+    {
+      "idx": "0014",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0016",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0020",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0022",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0024",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0026",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0028",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0030",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0032",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0034",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0038",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0040",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0053",
+      "status": "empty",
+      "seed_url": null
+    },
+    {
+      "idx": "0056",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0058",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0060",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0062",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0064",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0066",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0068",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0070",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0072",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0074",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0076",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0079",
+      "status": "empty",
+      "seed_url": null
+    },
+    {
+      "idx": "0080",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0082",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0084",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0086",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0088",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0090",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0092",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0094",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0096",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0098",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0100",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0102",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0104",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0106",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0108",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0110",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0112",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0114",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0116",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0118",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0120",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0122",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0124",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0126",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0128",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0130",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0132",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0134",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0136",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0138",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0140",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0142",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0144",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0146",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0148",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0150",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0154",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0156",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0158",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0160",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0162",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0164",
+      "status": "empty",
+      "seed_url": null
+    },
+    {
+      "idx": "0166",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0168",
+      "status": "blocked",
+      "seed_url": null
+    },
+    {
+      "idx": "0181",
+      "status": "empty",
+      "seed_url": null
+    },
+    {
+      "idx": "0182",
+      "status": "blocked",
+      "seed_url": null
+    }
+  ]
+}

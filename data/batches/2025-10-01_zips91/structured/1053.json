@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/815-Broadway-PENTHOUSE-2-New-York-NY-10003/456674433_zpid/",
+  "external_property_id": "456674433",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "1b96ecadb2e078b9b96de05823f1ca28",
+  "property_id": "f371a311d85d8bd1995c9bde14eb0d79",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

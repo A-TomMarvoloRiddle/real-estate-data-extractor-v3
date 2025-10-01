@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Playa-Vista/6010-Celedon-Crk-90094/unit-4/home/8180949",
+  "final_url": "https://www.redfin.com/CA/Playa-Vista/6010-Celedon-Crk-90094/unit-4/home/8180949",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:23:30Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1904
+}

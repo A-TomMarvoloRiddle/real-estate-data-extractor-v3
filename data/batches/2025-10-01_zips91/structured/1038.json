@@ -1,0 +1,51 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/54-E-1st-St-10003/unit-6C/home/45166785",
+  "external_property_id": "45166785",
+  "scraped_timestamp": "2025-10-01T13:53:27Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 525000,
+  "beds": 2.0,
+  "baths": 2.0,
+  "interior_area_sqft": 731,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/922/RLS20045922_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/922/genMid.RLS20045922_1_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/922/genMid.RLS20045922_4_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/922/genMid.RLS20045922_2_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/922/genMid.RLS20045922_3_7.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.723906%2C-73.9893944&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=Px_6neRrei9VZ5Ib9LY9SMmWbrk=",
+    "https://ssl.cdn-redfin.com/v595.4.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "& nbsp;  Charming 1-Bedroom Apartment in the Heart of the East Village! Welcome to this move-in ready 1-bedroom apartment, nestled in one of New York City's most vibrant and eclectic neighborhoods-East Village. Located on a tree lined street, this apartment boasts a perfect blend of classic charm and modern comfort.  Set on the top floor of a well maintained building, this 1-bedroom home receives an abundance of light throughout. The spacious living area features high ceilings , large windows , hardwood floors , and an exposed brick wall , giving off that iconic New York vibe. The open-concept layout flows seamlessly, providing plenty of room for both relaxation and entertaining! The kitchen is thoughtfully equipped with sleek countertops, a breakfast bar, dishwasher, and washer/dryer. There is ample cabinet space, making it an ideal space for home cooking and creativity. The bedroom is cozy yet allows for a full-sized bed and dresser.  Located in the heart of the East Village, you'll be surrounded by trendy cafes, bustling restaurants, unique boutiques, and lively nightlife. Enjoy quick access to public transportation, giving you easy access to the entire city, while also enjoying the charm and character of this iconic neighborhood.  The well-run, financially sound building has extremely low maintenance, a favorable sublet policy, easy access to subways, and allows pets with board approval. Co-purchasing, gifting, guarantors and pied-a-terres are considered on a case-by-case basis. Please note there is a monthly assessment of $846 until February 2026.  & nbsp;",
+  "price_history": [
+    {
+      "event_date": "Jul 7, 2025",
+      "event_type": "price_change",
+      "price": 545000,
+      "notes": null
+    },
+    {
+      "event_date": "Jun 25, 2025",
+      "event_type": "price_change",
+      "price": 575000,
+      "notes": null
+    }
+  ],
+  "street_address": "54 E 1st St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "6C",
+  "listing_id": "4d2304e75769e72c860822c08b9d5309",
+  "property_id": "3392adabfdb82b24688cbd463ea4f5ae",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

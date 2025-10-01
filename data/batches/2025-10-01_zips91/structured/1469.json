@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/40-W-83rd-St-T-New-York-NY-10024/449327912_zpid/",
+  "external_property_id": "449327912",
+  "scraped_timestamp": "2025-10-01T13:56:35Z",
+  "status": "blocked",
+  "listing_id": "aba83ceec7a29e12a87403cdab357200",
+  "property_id": "c0a5245c1d5d1aac10f34d7ecbcf264a",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

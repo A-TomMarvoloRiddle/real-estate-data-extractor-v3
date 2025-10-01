@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/181-Thompson-St-APT-3-New-York-NY-10012/80379313_zpid/",
+  "external_property_id": "80379313",
+  "scraped_timestamp": "2025-10-01T13:54:34Z",
+  "status": "blocked",
+  "listing_id": "15fe2850bb7dd8eed6c1c11a911367de",
+  "property_id": "4d3f6d407e6c301a02e840ec2ab869e3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1-Great-Jones-St-10-New-York-NY-10012/2096696039_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:22 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b60cf12a-64ed-4657-8f09-20afb8aca6a5; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:22 GMT; Path=/; Domain=.zillow.com, zgsession=1|c0ebb242-e504-4384-8dca-14e7940acb1d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"66aa6-3NSY1pGtpjmzzzXU8t9dfgx7OSc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "j60fgy52M3Rj6hOkr2T9FQGPqtInbZEsQjPlu_j938BL3XXntQHVoA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

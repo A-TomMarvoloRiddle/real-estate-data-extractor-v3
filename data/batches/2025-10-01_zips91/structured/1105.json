@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/42-W-13th-St-10011/unit-5F5G/home/198207472",
+  "external_property_id": "198207472",
+  "scraped_timestamp": "2025-10-01T13:53:38Z",
+  "status": "blocked",
+  "listing_id": "077686f04b673c4663af7adc213ef74a",
+  "property_id": "55eacf59ffa6140098a1b0cb3eb2b85f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

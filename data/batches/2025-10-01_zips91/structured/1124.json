@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/525-6th-Ave-7G-New-York-NY-10011/456693894_zpid/",
+  "external_property_id": "456693894",
+  "scraped_timestamp": "2025-10-01T13:53:41Z",
+  "status": "blocked",
+  "listing_id": "fd775282dbee79f4b60aa6ee9bca0e38",
+  "property_id": "27bd6adb82785ed7bbbc87e901792047",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

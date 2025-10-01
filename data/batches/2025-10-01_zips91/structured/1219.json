@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/214-Mulberry-St-3E-New-York-NY-10012/79493977_zpid/",
+  "external_property_id": "79493977",
+  "scraped_timestamp": "2025-10-01T13:54:33Z",
+  "status": "blocked",
+  "listing_id": "d754b54da3c81aff3024822b2cd011d6",
+  "property_id": "b1b32d2d0bef6b3d1002650cc07da8e1",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

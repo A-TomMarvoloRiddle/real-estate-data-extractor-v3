@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/145-W-86th-St-10024/unit-11C/home/105881296",
+  "external_property_id": "105881296",
+  "scraped_timestamp": "2025-10-01T13:56:18Z",
+  "status": "blocked",
+  "listing_id": "06beb2fa342c93161f5a25337298a5e5",
+  "property_id": "b751de8a86ef8bdbb2eeb94b0aff5ac7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/314-W-Menomonee-St-Chicago-IL-60614/3741811_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:07 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248fc41ea0-f150-4368-a3f3-dfa67d1634e2; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:07 GMT; Path=/; Domain=.zillow.com, zgsession=1|59a67a2e-7261-4147-ab68-5c507bf91864; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6fa84-9kV90wtnkLfwjc+nen8YEtYhOFI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "255",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "HGyzzDGxecZx0VJFT9oUbGZxA66YxkhgPG3x-T7lGQBnedS3or9k7g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

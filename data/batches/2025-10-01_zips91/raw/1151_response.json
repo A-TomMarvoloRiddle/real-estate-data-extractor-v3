@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/520-W-23rd-St-APT-3H-New-York-NY-10011/219648482_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:08 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240d8c17eb-d58f-478a-90e0-5766cc5221c4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|d4fd0003-a44e-4dec-9633-b641a943304a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"452ea-Fq6RsR2A2yLTwFDHg4Wp3da4Svw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "242",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "uZp8nugMlo2pviS2Dpq2AuqYbZ0nHyad8EMb2NkysrpX2lWxX8i4ow==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

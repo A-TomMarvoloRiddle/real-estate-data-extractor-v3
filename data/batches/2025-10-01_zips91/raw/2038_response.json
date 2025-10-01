@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/967-Vernon-Ave-Venice-CA-90291/20453767_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:55 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24edd99593-cd65-42a8-9b34-b9e4e11ba9ee; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|abdcf108-2742-452e-808e-0142c5be6232; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"563df-Ntu/hQDI+gdQ4gTbTAU0Q50XyJ8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "232",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "pDjbYxrBv31QHyCBgXS8QiYHwt8W-9X_nf7zwX2tTx4FScJmlck--Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/707-W-Bittersweet-Pl-APT-K2-Chicago-IL-60613/3705092_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:45:19 GMT",
+    "via": "1.1 zgs, 1.1 c68e106b410a906e09f6600e66757242.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2408420522-d6cb-4b35-8a1d-84f09a2666fe; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:45:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|cc32facd-809b-406b-81e5-5c3655ec2d8c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5336a-4PSM0eW7Zn4pxk0HN9lxERWBSq0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "238",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zGjo4JECOTaZob4t7Phl5OqV0XJoX8Su3jCDNcfjFHv5noUDg3wGDw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

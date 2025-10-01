@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1385-Palms-Blvd-Venice-CA-90291/20454600_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:42 GMT",
+    "via": "1.1 zgs, 1.1 c68e106b410a906e09f6600e66757242.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24be3db757-5910-4332-a823-070581cd6568; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:42 GMT; Path=/; Domain=.zillow.com, zgsession=1|50d7ec43-8ec1-49d5-8b7a-2967af78eaf3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a6d3-4PwgeZQFTueYpJRNQkQt62O7vLk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "lL8odAXyfBFIddfGr9g4PVf8bumXYZrVcW4mrFI0y9tl_Cg5O4fW1w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/30-W-15th-St-APT-6S-New-York-NY-10011/244873826_zpid/",
+  "external_property_id": "244873826",
+  "scraped_timestamp": "2025-10-01T13:54:13Z",
+  "status": "blocked",
+  "listing_id": "e2c0eedf53706a98df294e9b95c1a30e",
+  "property_id": "a712d2132069a7ca07d20bf8ffb465c8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

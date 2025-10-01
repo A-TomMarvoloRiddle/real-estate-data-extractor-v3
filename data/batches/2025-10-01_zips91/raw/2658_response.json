@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/860-W-Blackhawk-St-UNIT-204-Chicago-IL-60642/119094349_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:35 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2436062b2c-ba72-44ea-b85f-bf9d0aeacae2; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:35 GMT; Path=/; Domain=.zillow.com, zgsession=1|904850bc-e957-4f1c-a7c4-e63b69fd3dda; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"52515-jphG4k4TwzYGiEXmKBc+ESQTDmw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "258",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "TY43BkcHgPzUocksTtIpxJXhGHnpmYKSC_B2UzQA6Q_AfUOC3K2S5g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

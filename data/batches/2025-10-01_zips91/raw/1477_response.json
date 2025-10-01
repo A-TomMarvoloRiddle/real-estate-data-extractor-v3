@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/20-W-84th-St-APT-5A-New-York-NY-10024/31523723_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:32 GMT",
+    "via": "1.1 zgs, 1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247828daa4-e08f-4e96-a153-9eb21f0d888a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|71c91bf0-f131-44b6-bbb7-af8db3b40061; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"45bef-CxSojk8YjoOI+pnJLG5+2ywYNLs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "yWBNe_4weXpBG9NdnCrATtZC8_n7Gzm-d1U49aDr6DJ9DsJVVncHTA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

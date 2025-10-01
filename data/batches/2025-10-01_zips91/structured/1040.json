@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/42-E-20th-St-10003/unit-4A/home/45127488",
+  "external_property_id": "45127488",
+  "scraped_timestamp": "2025-10-01T13:53:27Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 3950000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 219,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/294/RLS20050294_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_3_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_10_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_5_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_8_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_2_H.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/294/genMid.RLS20050294_7_H.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7384635%2C-73.9885105&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=I42-BS9u4FBMfj1gmnSkyUmp0DY=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "This 2,200-square-foot property features well-proportioned bedrooms and 11-foot ceilings. Oversized 8.5 x 5 ft windows provide 60 linear feet of frontage overlooking treetops and historic facades along landmarked East 20th Street . 4A offers a layout that is rarely found in this downtown neighborhood. Upon entering the loft, the sense of light and space is immediate. The living room spans approximately 19 x 23 feet, providing ample space for large-scale entertaining and dining. The great room features an open kitchen with Poggen Pohl cabinets, a Sub-Zero refrigerator, and a Miele 6-burner range. The generously sized primary suite can accommodate an additional sitting area and home office. The 5-fixture ensuite bathroom includes double vanities, a stall shower, and a deep soaking tub. Two secondary bedrooms offer excellent storage and can accommodate queen beds with desks. A second full bath and powder room are located across the hall. The home includes a side-by-side washer/ dryer, large storage closets, a pantry, HVAC, and is delivered in turnkey condition . The Bullmoose Condominium is one of the Flatiron's pre-eminent midblock prewar condominiums. The building features 22 loft-style apartments, a rooftop deck , an on-site super, video intercom with remote access, and low common charges. Located between Park Avenue and Broadway, 42 East 20th Street is moments from Madison Square Park and some of New York City's most notable restaurants and retail. The location offers beautiful architecture and convenient access to every major subway line and amenity.",
+  "price_history": [
+    {
+      "event_date": "Jan 22, 2024",
+      "event_type": "listed",
+      "price": 17500,
+      "notes": null
+    }
+  ],
+  "street_address": "42 E 20th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "4A",
+  "listing_id": "28bfd4fa10956d471b9d827ae8e2cb1e",
+  "property_id": "6f5e719aa20d3c931f77aff4db470e5c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

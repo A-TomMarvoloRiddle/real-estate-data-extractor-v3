@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/323-W-11th-St-2WE-New-York-NY-10014/81776255_zpid/",
+  "external_property_id": "81776255",
+  "scraped_timestamp": "2025-10-01T13:55:04Z",
+  "status": "blocked",
+  "listing_id": "09d59faf6532c2cb739249d8713e6722",
+  "property_id": "f686249c359b4188cc46dd3dc087e971",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/445-W-19th-St-APT-1G-New-York-NY-10011/31502102_zpid/",
+  "external_property_id": "31502102",
+  "scraped_timestamp": "2025-10-01T13:53:45Z",
+  "status": "blocked",
+  "listing_id": "658eb3cd73a6ab75cfc2f4e7bd7bb6f0",
+  "property_id": "e2dff834afc01ee7af7526474d8cd9da",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

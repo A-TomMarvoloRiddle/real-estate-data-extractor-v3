@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/210-W-21st-St-APT-2RE-New-York-NY-10011/244877726_zpid/",
+  "external_property_id": "244877726",
+  "scraped_timestamp": "2025-10-01T13:54:05Z",
+  "status": "blocked",
+  "listing_id": "a9a13e5a1b6ef28896a4738a2fc80d3d",
+  "property_id": "5009e13b8d0a03a77905775365e4dae6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

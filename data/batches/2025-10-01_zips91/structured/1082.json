@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/1-5th-Ave-APT-2J-New-York-NY-10003/90138939_zpid/",
+  "external_property_id": "90138939",
+  "scraped_timestamp": "2025-10-01T13:53:32Z",
+  "status": "blocked",
+  "listing_id": "b456b367335730022a9b8cd952f179fb",
+  "property_id": "73e14eebe97d0bf7dc3dee4ba10a623c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

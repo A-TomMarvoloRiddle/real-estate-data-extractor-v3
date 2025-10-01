@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/655-W-Irving-Park-Rd-APT-1301-Chicago-IL-60613/65560058_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:45:34 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24298e3b55-1fdf-4498-ab72-67f5139f4847; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:45:34 GMT; Path=/; Domain=.zillow.com, zgsession=1|683561ed-4ac1-4439-891c-d6802d6cbafa; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56417-B/ai4Kyn2n0b6QWmLCTQcOng+ag\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "264",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "g_ZpO6vVl1ek54Z2BoTVhL_G_2UXGZXTa8GtR3Wvb1-mjadBoVzS_g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

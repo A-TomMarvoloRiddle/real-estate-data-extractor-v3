@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/529-N-Racine-Ave-APT-3-Chicago-IL-60642/80836817_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:32 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2483293c79-e4cd-4cf7-b871-dae1abcf3ed6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|d0a251f7-51c6-4450-b37c-e2e755105c78; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47c0a-8/P9G204VQ9NG/I/qn3SiFVZ8f4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "268",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "49yr4hCzdP5JqzLRZaLN_UIMv9tpIWxZV0nfHcTsm_8BeZfOVo4Y8Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

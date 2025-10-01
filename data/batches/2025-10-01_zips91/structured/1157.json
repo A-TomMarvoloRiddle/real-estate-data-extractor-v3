@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/32-W-9th-St-UNIT-5A-New-York-NY-10011/442155933_zpid/",
+  "external_property_id": "442155933",
+  "scraped_timestamp": "2025-10-01T13:54:10Z",
+  "status": "blocked",
+  "listing_id": "c603c59f467dade04e50adec0b3b2f1c",
+  "property_id": "dc84f91f16ea4486b7978b9f14899cb7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

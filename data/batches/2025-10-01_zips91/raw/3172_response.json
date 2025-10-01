@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/7326-La-Cosa-Dr-Dallas-TX-75248/26872307_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:02 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a8cb9d98-a0d1-4e28-9bfe-54be48e1bc8a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|a1d164a6-1723-4a1d-9746-48a9a514b4cf; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"117619-KY2iSSWJujw5TyTTJo3lQGUx2WY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "318",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "GOGaIoetXekNt30hE3G3rgxEn6tTb9mxzPhfJ7U78louwaKdyEOSjg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

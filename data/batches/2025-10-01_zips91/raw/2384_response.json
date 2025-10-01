@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3700-N-Bosworth-Ave-Chicago-IL-60613/2109010635_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:47:01 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a1f60322-ceca-4a59-972e-8f8d9975d98b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:47:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|4c2ce31c-06b3-4655-a883-fef43fdd8a4f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4738c-tQLB8il10qFFnGUKaiFyQ7koNo4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xWpNQ7FgILpGnQsmMOcwA0LQZL4E8NogZHcGPyHrmKvrajl9uZ2Ekg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

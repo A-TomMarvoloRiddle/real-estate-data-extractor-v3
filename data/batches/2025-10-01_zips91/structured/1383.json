@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/157-E-75th-St-APT-1E-New-York-NY-10021/244715886_zpid/",
+  "external_property_id": "244715886",
+  "scraped_timestamp": "2025-10-01T13:55:53Z",
+  "status": "blocked",
+  "listing_id": "8e7ed60db3b8f8c482e9e1e366a8cccb",
+  "property_id": "af64a6d03e0ea1413202820eb5dfeaaf",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

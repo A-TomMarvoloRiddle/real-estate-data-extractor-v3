@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/7-E-12th-St-10003/unit-7B/home/194303803",
+  "external_property_id": "194303803",
+  "scraped_timestamp": "2025-10-01T13:53:23Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1350000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "interior_area_sqft": 602,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/759/RLS20049759_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_2_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_6_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_3_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_5_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_1_6.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/759/genMid.RLS20049759_4_6.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7345775%2C-73.9935856&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=W3FyvXF3kvbuDGz6qoURYGcSMPY=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Envisioned by award-winning architects Bluarch, Residence 7B at The Avant showcases timeless modern finishes, refined craftsmanship, an oversized south-facing terrace, protected park views , and abundant natural light—making this one-bedroom a true standout in the vibrant East Village. An outdoor lover’s dream, this remarkable home boasts 166+/- SF of private outdoor space with unobstructed views of Joseph C. Sauer Park and the Freedom Tower—perfect both for entertaining and as a quiet retreat. The expansive living and dining area is bathed in natural light from six oversized south and east facing windows, and opens directly onto the terrace. The bedroom accommodates a queen bed and features a deep closet, while every room benefits from year-round warmth and light across multiple exposures. Refined interiors include solid white oak floors and an open chef’s kitchen with sleek Italian cabinetry, detailed brass hardware, travertine marble, and white quartz countertops. A full suite of integrated Bosch appliances completes the polished aesthetic. The spa-like bathroom features floor-to-ceiling porcelain tile, a custom vanity, mirrored wall cabinet, ribbed-glass shower enclosure, bronze fixtures, and slate-gray herringbone tile. A Bosch washer/dryer provides the convenience of in-home laundry. The Avant embodies timeless contemporary design, pairing thoughtful architecture with fine craftsmanship. Amenities include ButterflyMX video intercom with mobile access, fitness center, rooftop lounge with panoramic midtown and downtown Manhattan skyline views, community and package room, storage rooms for additional fee, and bicycle storage. Perfectly positioned on East 12th Street in the heart of the East Village, The Avant is surrounded by eclectic dining, shopping, cafes and markets including Trader Joe’s, Whole Foods, and Westside Market. Union Square, Stuyvesant Square, and Tompkins Square Park are all nearby. The L, 6, F, N, Q, and R subway lines provide effortless connectivity across the city. Moments from Gramercy, Union Square, Flatiron, Greenwich Village and NoHo—among downtown Manhattan’s most coveted neighborhoods. The projected real estate tax reflects an assumed 17.5% reduction under the Cooperative/Condominium Abatement (Real Property Tax Law §467-a). Purchasers should consult a tax professional regarding eligibility. Seller makes no representation as to the availability of the abatement.",
+  "price_history": [
+    {
+      "event_date": "Aug 10, 2021",
+      "event_type": "listed",
+      "price": 1255000,
+      "notes": null
+    }
+  ],
+  "street_address": "7 E 12th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "7B",
+  "listing_id": "00c51942e44d96d007a815342463194a",
+  "property_id": "ec00db7d5a08b34cc4ffe240c8f15a59",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

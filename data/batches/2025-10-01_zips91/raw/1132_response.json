@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/122-Waverly-Pl-New-York-NY-10011/143087924_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:08 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24310ef4f9-32dd-4e68-ae5b-37e95b8bae55; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|b4b55b17-319e-4616-b658-a3d164d95911; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6ede3-hBp+fGSZ4NUUVYWd8lEjvRwor6o\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "259",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YOfijxmRPO1G0Q_HB57e_FgIMSJJSKr-Wj4hVIjfnAjC4ZNusPYANQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

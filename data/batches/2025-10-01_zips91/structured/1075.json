@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/305-2nd-Ave-APT-542-New-York-NY-10003/63866698_zpid/",
+  "external_property_id": "63866698",
+  "scraped_timestamp": "2025-10-01T13:53:31Z",
+  "status": "blocked",
+  "listing_id": "e32187e64b7e1df46177b75b7cd009be",
+  "property_id": "cbfd4eaef4968db57c5765424364331e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

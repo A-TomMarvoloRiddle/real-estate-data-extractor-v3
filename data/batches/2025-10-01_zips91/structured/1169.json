@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/250-Mercer-St-10012/unit-C415/home/45328205",
+  "external_property_id": "45328205",
+  "scraped_timestamp": "2025-10-01T13:54:17Z",
+  "status": "blocked",
+  "listing_id": "95c134cfc1c7143f708da352135d7683",
+  "property_id": "f459318d5e74645df742ab2f32c16921",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

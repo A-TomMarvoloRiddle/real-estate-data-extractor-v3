@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/817-W-Washington-Blvd-UNIT-503-Chicago-IL-60607/89952505_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:29 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ca1d29d3-e649-4dd7-a501-a6ec7baff87d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:29 GMT; Path=/; Domain=.zillow.com, zgsession=1|04a0cbae-d46c-4bca-af6e-35a110d86ad5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"514d3-dW7h8+rO73DjBlLom9i3WPzsScE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "384",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "T4gfK126yesN6EHtqSdJD49f8tvL5b7UVQQU7ZAX-nm5ZApiKj4edA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

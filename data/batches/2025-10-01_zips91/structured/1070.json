@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/325-Bowery-UNIT-PH-New-York-NY-10003/456855734_zpid/",
+  "external_property_id": "456855734",
+  "scraped_timestamp": "2025-10-01T13:53:31Z",
+  "status": "blocked",
+  "listing_id": "7556de77d0a131120e150037230b91f5",
+  "property_id": "701a8e309b8a3fe4a31fa16fd0665079",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1715-N-Larrabee-St-1S-Chicago-IL-60614/63696316_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:32 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24225b794a-9f8c-4e1c-8938-12d29d45c0ba; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|61150b19-2f73-4dc1-a27b-a9f172844ead; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"665b9-dMOO5QxeB5jopK/Qw1kbRyuXgZE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "252",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "s6ITKZPHz99UZ56p2FJ5itxaNEutXDsJUiA2S1nGLOsQBWTV6ggc4w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

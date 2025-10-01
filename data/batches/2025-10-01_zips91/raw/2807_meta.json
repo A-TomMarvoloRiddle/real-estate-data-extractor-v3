@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/TX/Dallas/2300-Wolf-St-75201/unit-19A/home/32396173",
+  "final_url": "https://www.redfin.com/TX/Dallas/2300-Wolf-St-75201/unit-19A/home/32396173",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:09:36Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2807
+}

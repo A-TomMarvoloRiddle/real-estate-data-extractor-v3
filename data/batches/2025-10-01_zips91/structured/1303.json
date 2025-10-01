@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/100-Barrow-St-7-8A-New-York-NY-10014/456699473_zpid/",
+  "external_property_id": "456699473",
+  "scraped_timestamp": "2025-10-01T13:55:14Z",
+  "status": "blocked",
+  "listing_id": "463de312fc922be35679a46e95cacc38",
+  "property_id": "a328bdf7270323c37bdcd703b1b31b2e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

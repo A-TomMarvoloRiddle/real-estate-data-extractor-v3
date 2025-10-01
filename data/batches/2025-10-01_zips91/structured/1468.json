@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/161-W-86th-St-APT-2A-New-York-NY-10024/244896127_zpid/",
+  "external_property_id": "244896127",
+  "scraped_timestamp": "2025-10-01T13:56:35Z",
+  "status": "blocked",
+  "listing_id": "2b49cf1835ee55684f250e96b3c47b76",
+  "property_id": "d86712b1a211243b772c989d5330059f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

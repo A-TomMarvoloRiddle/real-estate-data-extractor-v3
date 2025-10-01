@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/54-Bond-St-PENTHOUSE-New-York-NY-10012/401899171_zpid/",
+  "external_property_id": "401899171",
+  "scraped_timestamp": "2025-10-01T13:54:39Z",
+  "status": "blocked",
+  "listing_id": "bb456d17ee08d86d09d60a25cad30c3b",
+  "property_id": "9ab1fff057bdd285df1108f0ffdf76cc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

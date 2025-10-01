@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/399-W-Fullerton-Pkwy-16E-Chicago-IL-60614/353723832_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:04 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2465a76a44-9d3a-4ba1-8801-4601690a406f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|6d01e8ad-fc9b-4ad9-9863-fb320377a57d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"660a0-3AwMsD/PpIQ2VN4Xx3rcV9maZWw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "278",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "HkoRG3B1wL2wwW7CyV1AyaaNWcroB8n9R7sv_EzU2kfTxIIkt_mn6Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

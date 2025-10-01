@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1353-W-Wilson-Ave-APT-2-Chicago-IL-60640/70460121_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:14 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d56d8c04-d3f3-4209-a012-f6ae5bf4c97e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|36f30f8c-96b9-443a-8120-c7cbec575b64; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56477-zE8F+/Utc037OuIPC7Tvs/s3Kzs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "234",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "EqMA7A1yV3KpUoZfc3dEJulInKTi9Lf3EVBD2kWa7RDNdDuKN0tDOw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

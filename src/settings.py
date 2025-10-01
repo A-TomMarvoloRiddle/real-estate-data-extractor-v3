@@ -2,11 +2,13 @@
 # Purpose: Centralized settings & helpers (load config, paths, headers, timestamps).
 
 from __future__ import annotations
-import json
 import datetime
 import os
+import re
+import json
 from pathlib import Path
 from typing import Dict, Any, Tuple
+NUM_RE = re.compile(r"[^\d\.]+")
 
 # ---------- config loading ----------
 def get_project_root() -> Path:
@@ -20,7 +22,14 @@ def get_project_root() -> Path:
 
 PROJECT_ROOT = get_project_root()
 CONFIG_PATH = PROJECT_ROOT / "config" / "listings_config.json"
-SCHEMA_PATH = PROJECT_ROOT / "config" / "schema.json"  
+# SCHEMA_PATH = PROJECT_ROOT / "config" / "schema.json"  
+
+BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
+def latest_batch_dir() -> Path:
+    ds = [p for p in BATCHES_ROOT.iterdir() if p.is_dir()]
+    if not ds: 
+        raise RuntimeError("No batches found. Run: python -m src.batch")
+    return max(ds, key=lambda p: p.stat().st_mtime)
 
 def load_config() -> Dict[str, Any]:
     if not CONFIG_PATH.exists():
@@ -69,3 +78,47 @@ def default_headers() -> Dict[str, str]:
         "Pragma": "no-cache",
         "DNT": "1",
     }
+
+# ---------- helpers ----------
+
+def to_int(x): 
+    if x is None: 
+        return None
+    s = re.sub(NUM_RE, "", str(x))
+    if not s:
+        return None
+    try:
+        return int(float(s))
+    except Exception:
+        return None
+
+def to_float(x):
+    if x is None: 
+        return None
+    s = re.sub(NUM_RE, "", str(x))
+    if not s: 
+        return None
+    try: 
+        return float(s)
+    except Exception:
+        return None
+
+def s_trim(x):
+    if x is None: 
+        return None
+    t = str(x).strip()
+    return t or None
+
+# ---------- JSON Files Helpers ----------
+
+def read_json(p: Path, default=None):
+    if not p.exists(): 
+        return default
+    try: 
+        return json.loads(p.read_text(encoding="utf-8"))
+    except Exception: 
+        return default
+        
+def write_json(p: Path, obj):
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/30-W-9th-St-10011/unit-5A/home/183731056",
+  "external_property_id": "183731056",
+  "scraped_timestamp": "2025-10-01T13:53:39Z",
+  "status": "blocked",
+  "listing_id": "17d4ccc1a538ec68944491c72d6a6e0d",
+  "property_id": "64671b98485d9e031761aa9de853523f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

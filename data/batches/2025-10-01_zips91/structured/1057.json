@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/224-E-11th-St-APT-19-New-York-NY-10003/72511816_zpid/",
+  "external_property_id": "72511816",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "ed87b468fc590bbd83e0d8e96374e213",
+  "property_id": "19f28408baf5ce0a69fe8ff9f2b7bc67",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

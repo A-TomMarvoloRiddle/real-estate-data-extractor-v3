@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4250-N-Marine-Dr-APT-2803-Chicago-IL-60613/3703337_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:53 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ba3004b1-55bf-40c2-8438-4f8a55c9703c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:53 GMT; Path=/; Domain=.zillow.com, zgsession=1|0453d21a-85f6-4a43-b012-b321978c2230; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"59d1f-PjPsHchz0uH7FRdAb17M0k9zGB8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "272",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0ykZO6QBPgw0HIKz4KZ6Exh6mP3Zq4TUTF6_sI7KcfMhL6Iq_Ip7fA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

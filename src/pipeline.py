@@ -2,23 +2,19 @@
 # Orchestrate: fetch → parse (per-page) → aggregate (adapted tables) → cleaning/QA
 
 from __future__ import annotations
-import argparse, json, re
+import argparse
+import re
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, Optional
 from collections import defaultdict
 
 from src.fetch import fetch_detail_pages
 from src.parse_detail import parse_all_details, to_adapted_rows
-from src.settings import now_utc_iso, PROJECT_ROOT, make_batch_dirs
+from src.settings import make_batch_dirs, to_float, to_int, s_trim, latest_batch_dir, read_json, write_json
 
-BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
 NUM_RE = re.compile(r"[^\d\.]+")
 
 # ---------------- helpers ----------------
-def latest_batch_dir() -> Path:
-    ds = [p for p in BATCHES_ROOT.iterdir() if p.is_dir()]
-    if not ds: raise RuntimeError("No batches found. Run: python -m src.batch")
-    return max(ds, key=lambda p: p.stat().st_mtime)
 
 def ensure_dirs(batch_id: Optional[str]) -> Dict[str, Path]:
     if batch_id:
@@ -26,40 +22,14 @@ def ensure_dirs(batch_id: Optional[str]) -> Dict[str, Path]:
     latest = latest_batch_dir()
     return {"base": latest, "raw": latest / "raw", "structured": latest / "structured", "qa": latest / "qa"}
 
-def read_json(p: Path, default=None):
-    if not p.exists(): return default
-    return json.loads(p.read_text(encoding="utf-8"))
-
-def write_json(p: Path, obj):
-    p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
-
-def to_int(x): 
-    if x is None: return None
-    s = re.sub(NUM_RE, "", str(x))
-    if not s: return None
-    try: return int(float(s))
-    except: return None
-
-def to_float(x):
-    if x is None: return None
-    s = re.sub(NUM_RE, "", str(x))
-    if not s: return None
-    try: return float(s)
-    except: return None
-
-def s_trim(x):
-    if x is None: return None
-    t = str(x).strip()
-    return t or None
-
 # ---------------- core steps ----------------
 def fetch_details(n: int, batch_id: Optional[str] = None):
     dirs = ensure_dirs(batch_id)
     raw_dir = dirs["raw"]
     urls = read_json(dirs["base"]/ "structured"/ "listing_urls.json", {}).get("urls", [])
     urls = [r["source_url"] if isinstance(r, dict) else str(r) for r in urls]
-    if not urls: raise RuntimeError("No detail URLs in listing_urls.json")
+    if not urls: 
+        raise RuntimeError("No detail URLs in listing_urls.json")
     start_idx = max([int(p.name[:4]) for p in raw_dir.glob("1???_raw.html")] or [1000]) + 1
     subset = urls[:n]
     print(f"Batch {dirs['base'].name}: fetching {len(subset)} details …")
@@ -77,7 +47,8 @@ def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw")
     # adapted: aggregate rows
     buckets = defaultdict(list)
     detail_files = sorted(struct.glob("1???*.json"))[:limit]
-    if not detail_files: raise FileNotFoundError("No detail JSON files. Run parse-details --mode raw first.")
+    if not detail_files: 
+        raise FileNotFoundError("No detail JSON files. Run parse-details --mode raw first.")
 
     for f in detail_files:
         rec = read_json(f, {})
@@ -100,12 +71,12 @@ def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw")
     similar_properties = buckets.get("similar_properties", [])
 
     # normalize strings & numbers
-    for l in listings:
-        l["title"] = s_trim(l.get("title"))
-        if l.get("title") and l["title"].lower() in ("about this home", "about this house"):
-            l["title"] = None
-        l["description"] = s_trim(l.get("description"))
-        l["list_price"] = to_int(l.get("list_price"))
+    for li in listings:
+        li["title"] = s_trim(li.get("title"))
+        if li.get("title") and li["title"].lower() in ("about this home", "about this house"):
+            li["title"] = None
+        li["description"] = s_trim(li.get("description"))
+        li["list_price"] = to_int(li.get("list_price"))
 
     for p in properties:
         p["street_address"]   = s_trim(p.get("street_address"))
@@ -121,9 +92,9 @@ def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw")
 
     # recompute price_per_sqft from properties map
     area_by_prop = {p["property_id"]: p.get("interior_area_sqft") for p in properties}
-    for l in listings:
-        lp, a = l.get("list_price"), area_by_prop.get(l["property_id"])
-        l["price_per_sqft"] = (float(lp)/float(a)) if (lp and a) else None
+    for lis in listings:
+        lp, a = lis.get("list_price"), area_by_prop.get(lis["property_id"])
+        lis["price_per_sqft"] = (float(lp)/float(a)) if (lp and a) else None
 
     # media: dedup per listing + cap per listing (e.g., 20)
     per_listing = defaultdict(list)
@@ -136,8 +107,10 @@ def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw")
     deduped_media = []
     seen_per_listing = defaultdict(set)
     for m in media:
-        lid = m.get("listing_id"); u = s_trim(m.get("media_url"))
-        if not lid or not u: continue
+        lid = m.get("listing_id")
+        u = s_trim(m.get("media_url"))
+        if not lid or not u: 
+            continue
         if u in seen_per_listing[lid]: 
             continue
         if len(seen_per_listing[lid]) >= 20:
@@ -164,7 +137,8 @@ def parse_details(limit: int, batch_id: Optional[str] = None, mode: str = "raw")
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
-    s1 = sub.add_parser("fetch-details"); s1.add_argument("--n", type=int, default=10)
+    s1 = sub.add_parser("fetch-details")
+    s1.add_argument("--n", type=int, default=10)
     s2 = sub.add_parser("parse-details")
     s2.add_argument("--limit", type=int, default=50)
     s2.add_argument("--mode", choices=["raw","adapted"], default="raw")
@@ -172,8 +146,10 @@ def main():
     s3.add_argument("--n", type=int, default=20)
     s3.add_argument("--limit", type=int, default=50)
     args = ap.parse_args()
-    if args.cmd=="fetch-details": fetch_details(args.n)
-    elif args.cmd=="parse-details": parse_details(args.limit, mode=args.mode)
+    if args.cmd=="fetch-details": 
+        fetch_details(args.n)
+    elif args.cmd=="parse-details": 
+        parse_details(args.limit, mode=args.mode)
     elif args.cmd=="run":
         fetch_details(args.n)
         parse_all_details(limit=args.limit)

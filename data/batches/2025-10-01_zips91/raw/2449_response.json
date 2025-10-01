@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2608-N-Lakeview-Ave-APT-7A-Chicago-IL-60614/3726621_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:26 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240cc8da34-d5a3-4be5-aa0a-8ee658179c41; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|c5ec2699-fa60-4771-a065-4c797ec0e7a2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"70d51-cNlm+CIoCTFAUXkUJguBDvtHt5U\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "261",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "9JinuUiVGqMDSXUdGZnd038dSPBgVe1n4Zx-M8oWDvp143WuhntDSw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

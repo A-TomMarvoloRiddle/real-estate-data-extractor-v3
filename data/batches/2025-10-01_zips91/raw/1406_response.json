@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/120-E-75th-St-1C-New-York-NY-10021/244788479_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:59:05 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24aa1bd926-5a63-4ec6-a863-757c77dcb972; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:59:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|7a434016-a5d6-446b-b059-696bf53adc09; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"595c4-5pKvYvaEIXdkwT61Qk7ceDJoWAc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "236",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "zHiM8aBWhpmnbXfHtTFwM84xVL1h5ZFUUrVneRPXiwvqqtKdZqoRnw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/57-E-74th-St-New-York-NY-10021/31533983_zpid/",
+  "external_property_id": "31533983",
+  "scraped_timestamp": "2025-10-01T13:56:04Z",
+  "status": "blocked",
+  "listing_id": "e123c735eba64a00bf17456e83602ce9",
+  "property_id": "081f4f8392a23d9a814b4c32f47d6955",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

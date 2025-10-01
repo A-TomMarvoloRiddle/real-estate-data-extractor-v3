@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/135-W-89th-St-APT-2-New-York-NY-10024/250407992_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:59 GMT",
+    "via": "1.1 zgs, 1.1 0dd974bda3e9bd0d10856519ef087072.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24002d418a-0b92-4721-88f9-5d8ca34ec559; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:59 GMT; Path=/; Domain=.zillow.com, zgsession=1|86e072df-bec6-4dda-adc4-68ebe1a909d7; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55f76-5kAOa3LRbO04+BNlqy03HWj5+Nk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "260",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "p0dN17ftETd3kR9ceq9tKRRlQjrEXu5oHYfOgTSozyRA0GjQIEER4A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

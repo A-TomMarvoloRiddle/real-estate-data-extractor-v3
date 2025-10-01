@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/39-Barrow-St-New-York-NY-10014/31499234_zpid/",
+  "external_property_id": "31499234",
+  "scraped_timestamp": "2025-10-01T13:55:06Z",
+  "status": "blocked",
+  "listing_id": "299f473aac7378e9b279d8ffb29d8539",
+  "property_id": "cb324599bc134b4561dd82ba88e2c05b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4745-N-Ravenswood-Ave-APT-210-Chicago-IL-60640/3707495_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:06 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2439644a54-67e0-4d16-a4df-5364ac747756; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:06 GMT; Path=/; Domain=.zillow.com, zgsession=1|b407e8ab-c557-4095-a099-506256b9b1a9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"57d26-k2m0hDU3G5saaIYYtqc4kVZrke4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "277",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "E3BWglhKFRrTCSUEJmNhj-gpI6M0cf7FyWtfzlP519l40d0HBlSpFA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

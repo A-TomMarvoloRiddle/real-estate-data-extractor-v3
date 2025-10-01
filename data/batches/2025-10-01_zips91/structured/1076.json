@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/99-E-4th-St-APT-4A-New-York-NY-10003/244700381_zpid/",
+  "external_property_id": "244700381",
+  "scraped_timestamp": "2025-10-01T13:53:32Z",
+  "status": "blocked",
+  "listing_id": "136b243534e26d8a4f4d5d8fb1fdd67a",
+  "property_id": "e97512df4c19dc5e90d5059e77d93075",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

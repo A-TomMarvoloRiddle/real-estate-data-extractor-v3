@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/308-Mott-St-New-York-NY-10012/112330704_zpid/",
+  "external_property_id": "112330704",
+  "scraped_timestamp": "2025-10-01T13:54:35Z",
+  "status": "blocked",
+  "listing_id": "005f40ec0d3a1cd2e6c7809cbd0f856c",
+  "property_id": "aea71fc0d86d069a09b369c873fbb9c9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

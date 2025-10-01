@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/60-E-9th-St-10003/unit-512/home/146128485",
+  "external_property_id": "146128485",
+  "scraped_timestamp": "2025-10-01T13:53:26Z",
+  "status": "blocked",
+  "listing_id": "97b33131a3d3312ef5fe20494a361a99",
+  "property_id": "c7a6e6192b6525d4b9723c21615b0576",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

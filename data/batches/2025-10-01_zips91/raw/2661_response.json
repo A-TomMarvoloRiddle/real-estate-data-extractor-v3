@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/401-N-Aberdeen-St-UNIT-2N-Chicago-IL-60642/58365716_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:49 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249dc8c44b-4906-4725-910c-349ee539031c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|3d0a7cd4-c0b2-49ef-8f74-2b9f48356a8a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"64529-qnYo2a+brOctA1rcwyjw2pcBpFg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "276",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ne7YIe4mRrboq29Rx5hNyyR0hDgbzCP-GlvbV1wAKiv6QWsEK272xg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

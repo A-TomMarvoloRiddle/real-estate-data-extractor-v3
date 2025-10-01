@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1740-W-Foster-Ave-APT-3R-Chicago-IL-60640/87698725_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:58:11 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249b17b809-4ba6-4930-b02a-0c50dd825035; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:58:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|8bc421ab-ee15-48e6-aaa6-ce6a7f1768d1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48e10-5UeAgH6eHBH4E/lcwwhsGe/SK8A\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "216",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YaHtpIC0BWjFdbIgqxkAoxDjDv6kPkMEE3N5_kzLxE2AILISZuRdBA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

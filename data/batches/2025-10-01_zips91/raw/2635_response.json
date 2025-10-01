@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1243-N-Cleaver-St-1-Chicago-IL-60642/332930490_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:19 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b32091ac-6b2e-4775-8bd5-86eb6b9f864d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|d210791c-50b8-49e1-8a3e-21882a4b31e9; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"14e09d-wpDV8oydQZf9msCMRp4NtqMSFeE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "354",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xrtta3RTitnonj_CBkFNg8gbMZtOGWvo39DetYKHmo5z4eRuBT-YFw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

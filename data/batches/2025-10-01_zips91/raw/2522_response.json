@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2452-W-Iowa-St-APT-2-Chicago-IL-60622/65562702_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:19 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2498d540cf-246f-454e-b95f-3d8337b76754; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|15608ef3-f10d-4bbe-9a03-4d453976c5db; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f526-49oDhF5puwYF0l/rCj3LJFJ/p4k\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "228",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "aMCAQnSY4YaVk8ZnXJBOUqG97zh4NuM1f8117Ec9oYMf_0FqTFWUBg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/235-W-11th-St-New-York-NY-10014/31500530_zpid/",
+  "external_property_id": "31500530",
+  "scraped_timestamp": "2025-10-01T13:55:01Z",
+  "status": "blocked",
+  "listing_id": "fa3f3706ff96f6fa97b0262316247567",
+  "property_id": "9c05467e728a47342f9a5fb42c81b8d3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

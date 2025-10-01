@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/22-Cornelia-St-APT-7-New-York-NY-10014/2116582933_zpid/",
+  "external_property_id": "2116582933",
+  "scraped_timestamp": "2025-10-01T13:55:20Z",
+  "status": "blocked",
+  "listing_id": "33b68fb0f74f35c0386cd77f5768be77",
+  "property_id": "4b007ce70e74ebc607c0b4353fc9c980",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

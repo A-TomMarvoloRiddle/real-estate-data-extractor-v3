@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/42-Downing-St-New-York-NY-10014/456377215_zpid/",
+  "external_property_id": "456377215",
+  "scraped_timestamp": "2025-10-01T13:55:23Z",
+  "status": "blocked",
+  "listing_id": "75673e9d672586de5c827fb69a67cfee",
+  "property_id": "bd32cf75682538e510d929918b5663e7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/419-W-Broadway-4S-New-York-NY-10012/456641007_zpid/",
+  "external_property_id": "456641007",
+  "scraped_timestamp": "2025-10-01T13:54:39Z",
+  "status": "blocked",
+  "listing_id": "ff545de28fc2926d64d2bb5b0ca7f0a2",
+  "property_id": "f5d2241ee1d74452e70698dfc0264ac8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/224-Mulberry-St-UNIT-PENTHOUSE-New-York-NY-10012/442173506_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/224-Mulberry-St-UNIT-PENTHOUSE-New-York-NY-10012/442173506_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:50:07Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1232
+}

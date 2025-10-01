@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/241-E-76th-St-APT-1C-New-York-NY-10021/79504043_zpid/",
+  "external_property_id": "79504043",
+  "scraped_timestamp": "2025-10-01T13:56:06Z",
+  "status": "blocked",
+  "listing_id": "85986d5d293887bc825c1c3139a72604",
+  "property_id": "ea97f09b49ef071cdc6614a6d5705bed",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

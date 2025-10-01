@@ -1,0 +1,415 @@
+[
+  {
+    "listing_id": "74dea7505c6c2e2a31ef16b8ef689e87",
+    "event_date": "Apr 2, 2025",
+    "event_type": "listed",
+    "price": 8000,
+    "notes": null
+  },
+  {
+    "listing_id": "74dea7505c6c2e2a31ef16b8ef689e87",
+    "event_date": "Mar 27, 2025",
+    "event_type": "listed",
+    "price": 8000,
+    "notes": null
+  },
+  {
+    "listing_id": "1ca4aabfd80993abc009172796e6990c",
+    "event_date": "Dec 30, 2021",
+    "event_type": "listed",
+    "price": 670000,
+    "notes": null
+  },
+  {
+    "listing_id": "d9c47a9430c95c0df81bc6bc760c42b2",
+    "event_date": "Mar 29, 2016",
+    "event_type": "listed",
+    "price": 1637500,
+    "notes": null
+  },
+  {
+    "listing_id": "aa9184c36831dcaa336242b72fc7fdbc",
+    "event_date": "Oct 29, 2021",
+    "event_type": "listed",
+    "price": 626000,
+    "notes": null
+  },
+  {
+    "listing_id": "8ff993e028ff740c54d2c1dd1d8be612",
+    "event_date": "Sep 28, 2025",
+    "event_type": "price_change",
+    "price": 1650000,
+    "notes": null
+  },
+  {
+    "listing_id": "04aa9340799f02a766f626ef5e1d4017",
+    "event_date": "Sep 25, 2025",
+    "event_type": "price_change",
+    "price": 1100000,
+    "notes": null
+  },
+  {
+    "listing_id": "4b0f3bc920b95de815f9bec902c707d1",
+    "event_date": "Oct 23, 2013",
+    "event_type": "listed",
+    "price": 535000,
+    "notes": null
+  },
+  {
+    "listing_id": "5a0b3ed7a9923a411ae6c03e6709b2a7",
+    "event_date": "May 15, 2025",
+    "event_type": "price_change",
+    "price": 2950000,
+    "notes": null
+  },
+  {
+    "listing_id": "1f1a1434460de2e8aa850e2672f81595",
+    "event_date": "Sep 10, 2024",
+    "event_type": "price_change",
+    "price": 3350000,
+    "notes": null
+  },
+  {
+    "listing_id": "5cbd6ba2b2d859f68571a5b52784db3c",
+    "event_date": "Dec 31, 2014",
+    "event_type": "listed",
+    "price": 1400000,
+    "notes": null
+  },
+  {
+    "listing_id": "817383130ba8f19a44ef5f8c0c2acc04",
+    "event_date": "Jul 23, 2025",
+    "event_type": "price_change",
+    "price": 1595000,
+    "notes": null
+  },
+  {
+    "listing_id": "817383130ba8f19a44ef5f8c0c2acc04",
+    "event_date": "Jun 17, 2025",
+    "event_type": "price_change",
+    "price": 1675000,
+    "notes": null
+  },
+  {
+    "listing_id": "817383130ba8f19a44ef5f8c0c2acc04",
+    "event_date": "Apr 4, 2025",
+    "event_type": "price_change",
+    "price": 1730000,
+    "notes": null
+  },
+  {
+    "listing_id": "faec9aed6e42b2762893ecf1a04fea63",
+    "event_date": "Jan 9, 2023",
+    "event_type": "price_change",
+    "price": 499000,
+    "notes": null
+  },
+  {
+    "listing_id": "faec9aed6e42b2762893ecf1a04fea63",
+    "event_date": "Apr 12, 2019",
+    "event_type": "price_change",
+    "price": 1019568,
+    "notes": null
+  },
+  {
+    "listing_id": "faec9aed6e42b2762893ecf1a04fea63",
+    "event_date": "Apr 12, 2019",
+    "event_type": "listed",
+    "price": 1019568,
+    "notes": null
+  },
+  {
+    "listing_id": "faec9aed6e42b2762893ecf1a04fea63",
+    "event_date": "Mar 20, 2019",
+    "event_type": "listed",
+    "price": 975000,
+    "notes": null
+  },
+  {
+    "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+    "event_date": "Sep 21, 2025",
+    "event_type": "price_change",
+    "price": 799000,
+    "notes": null
+  },
+  {
+    "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+    "event_date": "Jun 10, 2025",
+    "event_type": "price_change",
+    "price": 815000,
+    "notes": null
+  },
+  {
+    "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+    "event_date": "May 5, 2025",
+    "event_type": "price_change",
+    "price": 849000,
+    "notes": null
+  },
+  {
+    "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+    "event_date": "Apr 9, 2025",
+    "event_type": "price_change",
+    "price": 875000,
+    "notes": null
+  },
+  {
+    "listing_id": "e7ea1c9f4fe48ac725f7ad80cd57a742",
+    "event_date": "Feb 26, 2025",
+    "event_type": "price_change",
+    "price": 885000,
+    "notes": null
+  },
+  {
+    "listing_id": "00c51942e44d96d007a815342463194a",
+    "event_date": "Aug 10, 2021",
+    "event_type": "listed",
+    "price": 1255000,
+    "notes": null
+  },
+  {
+    "listing_id": "829e2e241d063b725ebc78be22e44de9",
+    "event_date": "Sep 27, 2025",
+    "event_type": "price_change",
+    "price": 625000,
+    "notes": null
+  },
+  {
+    "listing_id": "829e2e241d063b725ebc78be22e44de9",
+    "event_date": "Sep 26, 2025",
+    "event_type": "listed",
+    "price": 600000,
+    "notes": null
+  },
+  {
+    "listing_id": "5bcb975a78c83f1feb11c2b23516042d",
+    "event_date": "Sep 30, 2025",
+    "event_type": "listed",
+    "price": 1595000,
+    "notes": null
+  },
+  {
+    "listing_id": "5bcb975a78c83f1feb11c2b23516042d",
+    "event_date": "Sep 27, 2019",
+    "event_type": "listed",
+    "price": 1695000,
+    "notes": null
+  },
+  {
+    "listing_id": "2d4f4bb79069b4b724ab4cd5b99676e3",
+    "event_date": "Sep 25, 2023",
+    "event_type": "price_change",
+    "price": 439000,
+    "notes": null
+  },
+  {
+    "listing_id": "2d4f4bb79069b4b724ab4cd5b99676e3",
+    "event_date": "Jul 7, 2023",
+    "event_type": "price_change",
+    "price": 459000,
+    "notes": null
+  },
+  {
+    "listing_id": "e4eee91245f464ba324e25a983e8d442",
+    "event_date": "Sep 11, 2021",
+    "event_type": "price_change",
+    "price": 1015000,
+    "notes": null
+  },
+  {
+    "listing_id": "e4eee91245f464ba324e25a983e8d442",
+    "event_date": "Sep 8, 2021",
+    "event_type": "listed",
+    "price": 1030000,
+    "notes": null
+  },
+  {
+    "listing_id": "997f9aa12fcc1f6a6f55bee609bc0431",
+    "event_date": "Feb 22, 2019",
+    "event_type": "price_change",
+    "price": 2250000,
+    "notes": null
+  },
+  {
+    "listing_id": "997f9aa12fcc1f6a6f55bee609bc0431",
+    "event_date": "Oct 19, 2018",
+    "event_type": "price_change",
+    "price": 2400000,
+    "notes": null
+  },
+  {
+    "listing_id": "997f9aa12fcc1f6a6f55bee609bc0431",
+    "event_date": "Sep 26, 2018",
+    "event_type": "listed",
+    "price": 2495000,
+    "notes": null
+  },
+  {
+    "listing_id": "4d2304e75769e72c860822c08b9d5309",
+    "event_date": "Jul 7, 2025",
+    "event_type": "price_change",
+    "price": 545000,
+    "notes": null
+  },
+  {
+    "listing_id": "4d2304e75769e72c860822c08b9d5309",
+    "event_date": "Jun 25, 2025",
+    "event_type": "price_change",
+    "price": 575000,
+    "notes": null
+  },
+  {
+    "listing_id": "28bfd4fa10956d471b9d827ae8e2cb1e",
+    "event_date": "Jan 22, 2024",
+    "event_type": "listed",
+    "price": 17500,
+    "notes": null
+  },
+  {
+    "listing_id": "4291f8838b5c4b22db16589f339054ef",
+    "event_date": "Aug 25, 2025",
+    "event_type": "price_change",
+    "price": 2395000,
+    "notes": null
+  },
+  {
+    "listing_id": "4291f8838b5c4b22db16589f339054ef",
+    "event_date": "Apr 21, 2025",
+    "event_type": "price_change",
+    "price": 2395000,
+    "notes": null
+  },
+  {
+    "listing_id": "98c68b2ce98121d3d8f5c36c5657fa20",
+    "event_date": "Mar 18, 2013",
+    "event_type": "listed",
+    "price": 1295000,
+    "notes": null
+  },
+  {
+    "listing_id": "a4dd7689d4332c79060ae9d5452e7c70",
+    "event_date": "Feb 25, 2019",
+    "event_type": "listed",
+    "price": 4800000,
+    "notes": null
+  },
+  {
+    "listing_id": "40c3c8e356784ad31a17ca01e3e4bf6c",
+    "event_date": "Jun 29, 2018",
+    "event_type": "listed",
+    "price": 2245000,
+    "notes": null
+  },
+  {
+    "listing_id": "40c3c8e356784ad31a17ca01e3e4bf6c",
+    "event_date": "Apr 5, 2018",
+    "event_type": "listed",
+    "price": 2345000,
+    "notes": null
+  },
+  {
+    "listing_id": "9c0552f67628f0226b5716594501aa42",
+    "event_date": "Apr 23, 2025",
+    "event_type": "price_change",
+    "price": 899000,
+    "notes": null
+  },
+  {
+    "listing_id": "fef0655f94e36dff4efbb9a454f0c625",
+    "event_date": "Sep 30, 2015",
+    "event_type": "listed",
+    "price": 1125000,
+    "notes": null
+  },
+  {
+    "listing_id": "fef0655f94e36dff4efbb9a454f0c625",
+    "event_date": "Apr 1, 2014",
+    "event_type": "listed",
+    "price": 1075000,
+    "notes": null
+  },
+  {
+    "listing_id": "1406846c9ed485fed718b6b6c868de44",
+    "event_date": "Sep 29, 2025",
+    "event_type": "price_change",
+    "price": 2395000,
+    "notes": null
+  },
+  {
+    "listing_id": "1406846c9ed485fed718b6b6c868de44",
+    "event_date": "Aug 24, 2018",
+    "event_type": "listed",
+    "price": 2200000,
+    "notes": null
+  },
+  {
+    "listing_id": "46ea70dee7e8a73c17a978180d15260c",
+    "event_date": "May 9, 2016",
+    "event_type": "listed",
+    "price": 935000,
+    "notes": null
+  },
+  {
+    "listing_id": "ae7a3598b8486cc1f48eb51a1db8ecdf",
+    "event_date": "Sep 26, 2025",
+    "event_type": "price_change",
+    "price": 19995000,
+    "notes": null
+  },
+  {
+    "listing_id": "ae7a3598b8486cc1f48eb51a1db8ecdf",
+    "event_date": "May 7, 2024",
+    "event_type": "listed",
+    "price": 55000,
+    "notes": null
+  },
+  {
+    "listing_id": "ae7a3598b8486cc1f48eb51a1db8ecdf",
+    "event_date": "Mar 11, 2024",
+    "event_type": "listed",
+    "price": 55000,
+    "notes": null
+  },
+  {
+    "listing_id": "654e229a980e19d845cb13f9d02768c1",
+    "event_date": "Dec 28, 2022",
+    "event_type": "listed",
+    "price": 89900,
+    "notes": null
+  },
+  {
+    "listing_id": "654e229a980e19d845cb13f9d02768c1",
+    "event_date": "Dec 18, 2013",
+    "event_type": "listed",
+    "price": 9978189,
+    "notes": null
+  },
+  {
+    "listing_id": "654e229a980e19d845cb13f9d02768c1",
+    "event_date": "Feb 19, 1994",
+    "event_type": "price_change",
+    "price": 9978189,
+    "notes": null
+  },
+  {
+    "listing_id": "89bd3c56e8e0505fa79154df6b543101",
+    "event_date": "Dec 10, 2022",
+    "event_type": "price_change",
+    "price": 275000,
+    "notes": null
+  },
+  {
+    "listing_id": "89bd3c56e8e0505fa79154df6b543101",
+    "event_date": "Mar 21, 2018",
+    "event_type": "listed",
+    "price": 2750000,
+    "notes": null
+  },
+  {
+    "listing_id": "89bd3c56e8e0505fa79154df6b543101",
+    "event_date": "Oct 13, 2017",
+    "event_type": "listed",
+    "price": 2750000,
+    "notes": null
+  }
+]

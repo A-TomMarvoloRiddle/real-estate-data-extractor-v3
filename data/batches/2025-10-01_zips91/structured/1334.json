@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/880-5th-Ave-10021/unit-7C/home/45156570",
+  "external_property_id": "45156570",
+  "scraped_timestamp": "2025-10-01T13:55:37Z",
+  "status": "blocked",
+  "listing_id": "c87488b6c6596f2fe5630472a4631975",
+  "property_id": "bfa998488f743b3139497c639fd67295",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

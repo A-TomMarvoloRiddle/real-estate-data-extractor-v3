@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/67-Bedford-St-New-York-NY-10014/31499139_zpid/",
+  "external_property_id": "31499139",
+  "scraped_timestamp": "2025-10-01T13:55:27Z",
+  "status": "blocked",
+  "listing_id": "9c84c70f9db2c3a3629eb6991890498b",
+  "property_id": "53b085c4e7cfc76ad18286c783ec57ac",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

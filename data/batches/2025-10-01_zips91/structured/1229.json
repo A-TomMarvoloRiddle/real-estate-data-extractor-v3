@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/175-Bleecker-St-APT-18-New-York-NY-10012/2102679940_zpid/",
+  "external_property_id": "2102679940",
+  "scraped_timestamp": "2025-10-01T13:54:41Z",
+  "status": "blocked",
+  "listing_id": "4bb9604e39a50292998b2985d254bc68",
+  "property_id": "52155a6f41bdb3ee6a5f65a5112a6303",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

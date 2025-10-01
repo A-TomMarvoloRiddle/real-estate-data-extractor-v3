@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/609-Columbus-Ave-APT-14E-New-York-NY-10024/244704514_zpid/",
+  "external_property_id": "244704514",
+  "scraped_timestamp": "2025-10-01T13:56:43Z",
+  "status": "blocked",
+  "listing_id": "727b313cb0cf8357cd659d5a722c886b",
+  "property_id": "305ee3a6c8f4f7d732c35cf399d3521f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

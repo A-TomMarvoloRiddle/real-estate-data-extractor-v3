@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/345-E-69th-St-10021/unit-2F/home/45326170",
+  "external_property_id": "45326170",
+  "scraped_timestamp": "2025-10-01T13:55:37Z",
+  "status": "blocked",
+  "listing_id": "c28aea97730f41ad3f5cfd7391f3576b",
+  "property_id": "3754d130a414ba460af3e039c565d18b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

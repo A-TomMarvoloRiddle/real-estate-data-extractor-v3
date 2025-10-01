@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4170-N-Marine-Dr-APT-9F-Chicago-IL-60613/3704690_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:11 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2466c4d230-692e-4df4-b8ef-ddb6678490e7; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|721dd55b-3950-4413-b1ad-918a2592ddb2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a4cf-qYtZ+i9NhnNMezc2EYSisaZQZVE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "256",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "wa7YSZyn1F8BSxu5pAcQyGuo31o_2znY6m5YRgABwDnAMniR3-dXKQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

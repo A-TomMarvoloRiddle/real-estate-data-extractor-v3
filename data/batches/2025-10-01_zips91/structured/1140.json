@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/16-5th-Ave-6-New-York-NY-10011/455156140_zpid/",
+  "external_property_id": "455156140",
+  "scraped_timestamp": "2025-10-01T13:53:55Z",
+  "status": "blocked",
+  "listing_id": "9efde0cd5dbd8ffdfc9d713e11b3732f",
+  "property_id": "e3c191586462faa3e8c76b9b6bcadb6b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

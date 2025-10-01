@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2847-W-Division-St-Chicago-IL-60622/101328621_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:23 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242b0ebab4-0373-4c43-8d6d-6b76f4bdf845; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:23 GMT; Path=/; Domain=.zillow.com, zgsession=1|73a42af5-cfb7-47bb-8d4a-71b5b1b86719; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"79f09-3IW0SYPgAf1J9g76UJAdbkmoYbs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "550",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "lOWXn3E8tbx3ubPKXa8UpPAc1G-3XOn8FLEkkf3H1lAHG4wciKdR5A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

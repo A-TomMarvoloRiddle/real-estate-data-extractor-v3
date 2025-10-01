@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1312-N-Astor-St-Chicago-IL-60610/3844137_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:41 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24858ae476-c3a6-4c8c-9662-e9a6cbfe057c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:41 GMT; Path=/; Domain=.zillow.com, zgsession=1|a5561804-2845-4af8-9aef-ecf05e15a6d5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"64658-bwzPzJ/RbriPStxIbN/P3q+rGkg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "290",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "XH-Vujhy0wE_sJ4ZEiNLUZEqHbzO8WuxlJKezr0TO6jHgalaJc6RdQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

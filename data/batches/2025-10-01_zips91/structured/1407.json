@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/880-5th-Ave-APT-12L-New-York-NY-10021/244902814_zpid/",
+  "external_property_id": "244902814",
+  "scraped_timestamp": "2025-10-01T13:56:14Z",
+  "status": "blocked",
+  "listing_id": "ee6adaec71932d0e84a39894399c15ea",
+  "property_id": "8e4d74d875febf809d741788a697aa20",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

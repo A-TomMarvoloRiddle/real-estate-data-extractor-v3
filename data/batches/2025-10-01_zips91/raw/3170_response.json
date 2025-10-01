@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/15909-Archwood-Ln-1026-Dallas-TX-75248/26876847_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:27:55 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24409216d2-c138-416a-8cf4-7ffd5f80ca20; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:27:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|a98a14e7-3575-4263-8974-ff132fe250ec; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55344-XJzh5AJCdAsRTccWwAnm//tI2+0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "587",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "yc6Yr5uilZEShpdvE7wHplR2Ow_1YeHWeMovhPRniYLvNJ7fo5OcfA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

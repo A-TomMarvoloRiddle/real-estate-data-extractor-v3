@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/801-S-Wells-St-APT-710-Chicago-IL-60607/49910678_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:37 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ae3bd16a-125e-408c-86b1-9fb0f6f08307; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:37 GMT; Path=/; Domain=.zillow.com, zgsession=1|5f231ce7-f210-44aa-abd1-d7628b3998f2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58d1f-VMI7gJ/mRWOFXZdZ+IHZpxLLLGA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "242",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "MF3oSESIUmUb-gnimV89uZ2005j_9hbp_MO6VnsYgxhk9HFrwEsWNg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

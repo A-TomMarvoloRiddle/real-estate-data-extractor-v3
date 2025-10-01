@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/40-E-73rd-St-New-York-NY-10021/143147518_zpid/",
+  "external_property_id": "143147518",
+  "scraped_timestamp": "2025-10-01T13:56:09Z",
+  "status": "blocked",
+  "listing_id": "63026cf9c743f8cc117e67f7183ab5cd",
+  "property_id": "5bcda2cd4c185727c0294f60e2cb059e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

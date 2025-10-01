@@ -1,0 +1,26 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/32-E-2nd-St-15-Manhattan-NY-10003/337601680_zpid/",
+  "external_property_id": "337601680",
+  "scraped_timestamp": "2025-10-01T13:53:31Z",
+  "status": "ok",
+  "title": "32 E 2nd St #15, Manhattan, NY 10003",
+  "list_price": 649000,
+  "beds": 1.0,
+  "baths": 1.0,
+  "images": [
+    "https://photos.zillowstatic.com/fp/d5c9c7ec5a3556492548683829789976-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/798274afbbeb5224b9476811553ef963-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/5245c007b1961a188fb299ce1b5a00e0-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/62e08118aa29404ed9cac10f8dba0eab-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/a2abd01dc1e5a6986d4d4f7f83e1e16f-cc_ft_576.jpg"
+  ],
+  "description": "Active See all 10 photos Price cut: $50K (7/31) $649,000 32 E 2nd St #15, Manhattan, NY 10003 1 beds 1 baths -- sqft Loading Coop Built in 1900 -- sqft lot $-- Zestimate ® $--/sqft $400/mo HOA What's special Oversized windows Soaring ceilings Granite countertops High end appliances Bright, Renovated Pre-War Gem in the Heart of the East Village\n\nNestled on East 2nd Street between Second Avenue and the Bowery, this beautifully renovated one-bedroom cooperative blends timeless pre-war charm with modern comfort in one of Manhattan’s most dynamic neighborhoods.\n\nBathed in light through oversized windows, the apartment boasts soaring ceilings that enhance its sense of space and airiness. Carefully updated, the home retains a classic New York aesthetic while offering contemporary convenience — all with an incredibly low monthly maintenance of just $400.82. Granite countertops, high end appliances (refrigerator, microwave, dishwasher, stove and air conditioner) are all included. A Turn Key sale including all furnishings can be arranged.\n\nLocated in the East Village/Lower East Side Historic District, 32 East 2nd Street is a well-maintained, intimate walk-up cooperative. The building welcomes pets, allows gifting and co-purchasing, and encourages engaged ownership.  Some apartments in the building feature washer/dryers. \n\nOutside your door, discover an unbeatable downtown lifestyle. Surrounded by some of the best restaurants, nightlife, and cultural institutions in the city, you’re just moments from Whole Foods, SoHo, Bond Street, and beloved local favorites like The Wren, Gemma, and The Bowery Hotel. The F and 6 trains are just two blocks away, offering quick access to the rest of the city.\n\nDon’t miss this opportunity to own a rare, light-filled slice of historic New York in a truly unbeatable location. Present all offers! Show more 103 days on Zillow | 849 views | 33 saves | Loading Request a tour as early as today at 11:00 am Loading Loading Contact an agent Loading",
+  "metrics_views": 849,
+  "metrics_saves": 33,
+  "price_history": [],
+  "listing_id": "5f42b69c99d44af9621464ab1263025f",
+  "property_id": "c401e34f60390d6d4c80605faefa41dc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

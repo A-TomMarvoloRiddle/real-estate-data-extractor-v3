@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/63-Greene-St-New-York-NY-10012/442155438_zpid/",
+  "external_property_id": "442155438",
+  "scraped_timestamp": "2025-10-01T13:54:49Z",
+  "status": "blocked",
+  "listing_id": "f4a3f487a26311aebaf5ae473034066e",
+  "property_id": "c78ab0b071ed0fc9caec92fb25f168fd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

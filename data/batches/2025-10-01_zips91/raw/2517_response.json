@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1407-N-Hoyne-Ave-Chicago-IL-60622/158771983_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:02 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2465097ded-720c-4e34-a0c3-b8383b209bb3; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:02 GMT; Path=/; Domain=.zillow.com, zgsession=1|b671ad9a-80ae-4113-82d7-c7c47478b71a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"b232a-0SKaHWtALULKifRU7YB9lY/ZhUA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "316",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "MILmnzt3kO4LZTDaMD4KX2ACn6LQTXFXFWigz0ZQNgFnYDTzDR5dHg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

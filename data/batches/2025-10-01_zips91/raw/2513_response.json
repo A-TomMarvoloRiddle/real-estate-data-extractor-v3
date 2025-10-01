@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1644-W-Blackhawk-St-APT-2E-Chicago-IL-60622/89909929_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:53:48 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24052cd289-90dc-4564-b77a-b1d5091cd4b8; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:53:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|ea460413-c8d1-41a6-9779-baebecc926be; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"55454-jBh4cibIFpBvTyDhWvWMxb2jNxs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "NJSfRXUBiiVirRsTtlHrXda8u5eX_tPrqZRcRGv-14EhxbmZZ8RgLg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

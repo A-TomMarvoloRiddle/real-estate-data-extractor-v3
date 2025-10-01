@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/120-E-75th-St-1C-New-York-NY-10021/244788479_zpid/",
+  "external_property_id": "244788479",
+  "scraped_timestamp": "2025-10-01T13:56:13Z",
+  "status": "blocked",
+  "listing_id": "efe87456ee478abe139708a6b51d11a8",
+  "property_id": "9e0283a13145ec211a9cff76bd43c60c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

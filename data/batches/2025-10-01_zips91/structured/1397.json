@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/6-E-69th-St-New-York-NY-10021/31533675_zpid/",
+  "external_property_id": "31533675",
+  "scraped_timestamp": "2025-10-01T13:56:05Z",
+  "status": "blocked",
+  "listing_id": "095b05cef6c424058644a60b880ba1c8",
+  "property_id": "699e26dd8d86c3a8de9e61cdeef70bae",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

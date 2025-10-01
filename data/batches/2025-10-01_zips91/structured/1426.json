@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/555-W-End-Ave-10024/unit-The-Library/home/167452795",
+  "external_property_id": "167452795",
+  "scraped_timestamp": "2025-10-01T13:56:18Z",
+  "status": "blocked",
+  "listing_id": "1cf78bacfc6fa5afeb4b83774b17932f",
+  "property_id": "ccb67782b28316b7ecd5372513cecf43",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

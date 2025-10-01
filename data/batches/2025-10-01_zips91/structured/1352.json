@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/28-E-70th-St-10021/unit-11-12/home/198195193",
+  "external_property_id": "198195193",
+  "scraped_timestamp": "2025-10-01T13:55:39Z",
+  "status": "blocked",
+  "listing_id": "d6b2b34eb55fe9b00a41057c8e01d4a1",
+  "property_id": "cb7a6aea64a5932a4d26e60ac84ceabe",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

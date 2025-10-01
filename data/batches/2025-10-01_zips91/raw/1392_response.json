@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/125-E-69th-St-New-York-NY-10021/450525672_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:22 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fe59fb41-d597-4657-9b53-687482e074fc; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:22 GMT; Path=/; Domain=.zillow.com, zgsession=1|8470dd4e-9cd0-4867-8030-aff546ac7d54; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4e1e8-9NbxPjX/HJgKMbHdYWJ2/FTbsos\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "SYJu5E2MsrzcOt57jQ4D24nAs035q7Hzicb1SvAmZlhEZxvHZFTwRg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

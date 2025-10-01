@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/400-W-End-Ave-10024/unit-13A/home/195143416",
+  "external_property_id": "195143416",
+  "scraped_timestamp": "2025-10-01T13:56:17Z",
+  "status": "blocked",
+  "listing_id": "b60f51bd0fb6127aec8aace93a3a6664",
+  "property_id": "216ac52e6dac1f04358d2a3b45f36d91",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

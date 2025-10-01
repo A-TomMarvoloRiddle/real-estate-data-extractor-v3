@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/200-Mercer-St-UNIT-PH4C-New-York-NY-10012/453353589_zpid/",
+  "external_property_id": "453353589",
+  "scraped_timestamp": "2025-10-01T13:54:54Z",
+  "status": "blocked",
+  "listing_id": "a003768b54e3373fae5f1d940bc047a2",
+  "property_id": "4c9bc61d775a7ba0cb230e25058968b8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

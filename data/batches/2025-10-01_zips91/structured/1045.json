@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/51-Saint-Marks-Pl-APT-10-New-York-NY-10003/244697169_zpid/",
+  "external_property_id": "244697169",
+  "scraped_timestamp": "2025-10-01T13:53:28Z",
+  "status": "blocked",
+  "listing_id": "a51667ea28cc278a83ee32ffaa59d11c",
+  "property_id": "4c8e960992159cc4396368469cc84595",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

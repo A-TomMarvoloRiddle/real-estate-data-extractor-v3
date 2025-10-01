@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1526-Penmar-Ave-Venice-CA-90291/20454331_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:17 GMT",
+    "via": "1.1 zgs, 1.1 ac7540cffc11ca6e9b91e18747cc5eca.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2495f78e63-8e18-49d2-8d10-6e12ca35c8f1; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|e5ae166b-8e22-4259-9b77-b1c369d79ddb; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4f53d-VBNLvT5lJodtHVfLMiNZdw2vVGI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "QocokGUHlG8EgRUL-mOd2UMV8xoHvuEJ12HKQz33OisVwopoop2xow==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

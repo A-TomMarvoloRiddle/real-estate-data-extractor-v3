@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1634-N-Cleveland-Ave-Chicago-IL-60614/2138169887_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:04 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24dcafb144-f2bb-4b52-9f78-e4490322b6de; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|a929326b-96ac-4569-9363-ba72b1d7115e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"57f00-TaMztqjIwfHTs91NSvnvqThQK4Y\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "262",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "d7TxwxXv89P2yMMuhUMGyzHenopABkZdKMsBen8cjJd3uBtzYcsJSQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

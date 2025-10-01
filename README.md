@@ -55,27 +55,27 @@ Run from the project root:
 python -m src.batch
 #generates a new batch folder in the data folder, containing qa, raw, structured folders, and structured/seed_search_pages.json file
 
-# Step 1: Fetch search pages 
+# Step 2: Fetch search pages 
 python -m src.fetch
 # generates raw html and meta data files for search pages saved in data/batches/<BATCH ID>/raw
 
-# Step 2: Fetch detail pages
+# Step 3: Fetch detail pages
 python -m src.extract_search --n 10
 #extracts listing urls "details pages" from search pages, save results in data/batches/<BATCH ID>/structured/listing_urls.json
 
-#Step 3: Fetch details of n urls "detail pages"
+#Step 4: Fetch details of n urls "detail pages"
 -m src.pipeline fetch-details --n 50 
 #fetchs details of listin urls, save raw HTML and meta data json files in data/batches/<batch_id>/raw/ 
 
-#Step 4: Parse details of fetched urls
+#Step 5: Parse details of fetched urls
 python -m src.pipeline parse-details --limit 50 --mode raw
 #extract data from urls and generates json files for each listing
 
-#Step 5: Creates JSON files for each table
+#Step 6: Creates JSON files for each table
 python -m src.pipeline parse-details --limit 50 --mode adapted
 # results in JSON files{listings, agents, properities..} "each represent a table to be in the DB" saved in data/batches/<batch_id>/structured/
 
-#Step 3: (Step 3, 4, and 5 can be executed in one line: )
+#Step 4b: (Step 4, 5, and 6 can be executed in one line: )
 python -m src.pipeline run --n 50 --limit 80
 ```
 

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1224-W-Ohio-St-3W-Chicago-IL-60642/306333722_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:25 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2483a16bb1-c34a-414b-8224-ae9303ec354a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|7b4a8091-6c5a-44b6-94e4-b01af06eab15; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"57444-kBNRnhlB2qVWwpGDYyi6Z87mjtM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "seT_E1REGzx6tJBrqBzvKbLPg8cRz-mp6NAmYpiL_O89GGvE3mUEsg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

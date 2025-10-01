@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/3-Minetta-St-UNIT-5B-New-York-NY-10012/442164571_zpid/",
+  "external_property_id": "442164571",
+  "scraped_timestamp": "2025-10-01T13:54:29Z",
+  "status": "blocked",
+  "listing_id": "0f1bc609ecd48db7d13e22fa74fb4086",
+  "property_id": "0b4e36bd3eecc860d45e2c846cf3b0e6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

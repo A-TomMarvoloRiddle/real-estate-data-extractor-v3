@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4652-N-Magnolia-Ave-Chicago-IL-60640/453500424_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:16 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2408b3dfaa-599c-4ea5-851f-2437d41a595a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|ce645bb5-8663-4462-8a8e-b6fcd5bceb99; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5787a-3A3YMAV6NwqV/IbGhSBV387ppvY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "251",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "H8IFvLeUn_JX08GulBoEct_yl2uAb6lbh_02pqmrdQ8v63LkLLlthg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

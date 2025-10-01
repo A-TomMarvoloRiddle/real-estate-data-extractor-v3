@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/152-W-13th-St-New-York-NY-10011/31499900_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:44:52 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240c56eeea-53a2-42a4-82a7-c09c89b0fbcf; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:44:52 GMT; Path=/; Domain=.zillow.com, zgsession=1|6edad9e9-6480-400d-9726-04edb33faef0; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a854-G16Jp/JVxDScqDDZtsLDg1V++k4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "225",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "bDuu_qHuMMXrZozaFr-JddBu3f1lU1VwqUuaIdAiQzAZCAqydaT6ZA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

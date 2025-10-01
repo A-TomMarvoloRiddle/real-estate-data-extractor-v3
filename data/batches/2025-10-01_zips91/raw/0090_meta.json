@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homes/77027_rb/",
+  "final_url": "https://www.zillow.com/homes/77027_rb/",
+  "status": 403,
+  "scraped_timestamp": "2025-10-01T10:52:40Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "search",
+  "idx": 90
+}

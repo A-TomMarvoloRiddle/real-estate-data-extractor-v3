@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/TX/Dallas/12810-Midway-Rd-75244/unit-2046/home/31097045",
+  "final_url": "https://www.redfin.com/TX/Dallas/12810-Midway-Rd-75244/unit-2046/home/31097045",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:25:26Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 3119
+}

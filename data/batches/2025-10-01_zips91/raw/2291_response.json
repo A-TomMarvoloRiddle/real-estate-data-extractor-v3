@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1444-N-Orleans-St-APT-6E-Chicago-IL-60610/70464003_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:54 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ddb523c1-ea91-4e0b-b11d-7b3c88636747; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:54 GMT; Path=/; Domain=.zillow.com, zgsession=1|04b18f24-5e44-4e4d-97bc-3f6c2d47389f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50d38-e/7g64Nv697QgAWdhGOvx72/OIo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "255",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "W0ddtA8_mrTsicSxn1OBOoS6duoyxEgftsPoeZqAgBYdSVzzeUhJDQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

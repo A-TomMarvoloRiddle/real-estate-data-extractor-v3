@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/134-E-71st-St-10021/home/45285046",
+  "external_property_id": "45285046",
+  "scraped_timestamp": "2025-10-01T13:55:40Z",
+  "status": "blocked",
+  "listing_id": "220a6121d4e20b06b6a9d4d3a3325f9d",
+  "property_id": "4d8713720abd84238b69b69528c3d955",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

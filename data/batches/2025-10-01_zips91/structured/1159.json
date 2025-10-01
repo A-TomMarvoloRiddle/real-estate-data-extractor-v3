@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/61-W-9th-St-APT-7B-New-York-NY-10011/72513417_zpid/",
+  "external_property_id": "72513417",
+  "scraped_timestamp": "2025-10-01T13:54:12Z",
+  "status": "blocked",
+  "listing_id": "c9f2b53cfeaa390f8c306251a2a850ce",
+  "property_id": "95c0c631c0a87682943622490fdf95ce",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

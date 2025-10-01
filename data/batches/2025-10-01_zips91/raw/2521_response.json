@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1433-N-Oakley-Blvd-Chicago-IL-60622/441072605_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:16 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246687c397-3d13-4157-9a59-67d1f311c4d1; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|4c099d5e-4354-482d-88e4-f1de8e987193; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5f639-YiThlERfSOnd9k6afHRxXXxSiH0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "301",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xBFk9-4zSHJUXbYI1r3XhZrtTq3wIkhA3lffnmIuQTg-UtD5tPtodg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

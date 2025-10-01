@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/16-W-16th-St-10011/unit-9GS/home/45174843",
+  "external_property_id": "45174843",
+  "scraped_timestamp": "2025-10-01T13:53:39Z",
+  "status": "blocked",
+  "listing_id": "2ef578576d23a59cdb85493eae7547a5",
+  "property_id": "99fdd17be18650f1bbac14edad49a058",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

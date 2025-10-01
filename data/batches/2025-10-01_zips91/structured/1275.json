@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/56-Jane-St-10014/unit-4B/home/45143725",
+  "external_property_id": "45143725",
+  "scraped_timestamp": "2025-10-01T13:54:59Z",
+  "status": "blocked",
+  "listing_id": "32a20b0b979afc0ac65226c69e3225f4",
+  "property_id": "17eb042176914f43de83984d4abfd8d0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

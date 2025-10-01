@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/29-Vandam-St-10013/home/45243037",
+  "external_property_id": "45243037",
+  "scraped_timestamp": "2025-10-01T13:55:00Z",
+  "status": "blocked",
+  "listing_id": "bac53765d148e4b4e49236e5a282928a",
+  "property_id": "efaf393eca8794a3dcf67f839ce98dff",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

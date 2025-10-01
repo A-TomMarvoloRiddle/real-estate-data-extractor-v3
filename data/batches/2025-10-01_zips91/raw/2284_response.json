@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1448-N-Lake-Shore-Dr-APT-9A-Chicago-IL-60610/2075726885_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:32 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2405c5340d-a50c-42bc-bca1-b3e74dc16408; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|a46c1737-1faf-41a9-b25a-80943ef30793; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a170-LFW6t+fuQEQzgMOkjvgr0TvIS8I\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "283",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "pGdvznq_pXjXlrstc2EVjQXxNLSjg_v43zC-4bUSfHlIryP9IKYu_w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

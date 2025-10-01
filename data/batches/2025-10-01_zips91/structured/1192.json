@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/200-Avenue-of-the-Americas-10013/home/45243003",
+  "external_property_id": "45243003",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "8be26cc7d9241646bd9a872987df80f2",
+  "property_id": "6d3f69a91245fd1ebcbb1fbbac6236ae",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

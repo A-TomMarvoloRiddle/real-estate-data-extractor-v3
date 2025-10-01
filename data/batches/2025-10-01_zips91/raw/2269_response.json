@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1400-N-La-Salle-Dr-APT-3N-Chicago-IL-60610/3853123_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:45 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244b578f37-5cc7-4737-baec-d7ab1d9610cf; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:45 GMT; Path=/; Domain=.zillow.com, zgsession=1|ed62001a-f0ef-4c8a-ae57-961d2b87390f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54cd1-2CqYvnig9R+1EDvubvnxwP/djXM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "273",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "a6qc8u-gft9GY4zd1lj82xOxnVhuOSlMB5WmqhbGQkA9uPWLTwlatA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

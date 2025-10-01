@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/5200-Keller-Springs-Rd-APT-110-Dallas-TX-75248/26900278_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:29:05 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2469fd2286-8501-493e-aabc-8f420642a6cc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:29:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|7df0ceb2-b2cd-4804-9c3b-af4dbf86b038; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5baea-lrntKS+kCAwh0tJNfH2LBk8merg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "236",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "3gwryvgrBRpCxY5ovCJ8S9JsWDHuahfmZ_OD-YbjggUqLklzQ8IyWw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

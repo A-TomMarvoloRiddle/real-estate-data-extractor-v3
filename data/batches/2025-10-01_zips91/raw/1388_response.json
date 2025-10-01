@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/343-E-74th-St-UNIT-PH-3-4D-New-York-NY-10021/442462646_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:08 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a58b30af-1798-4243-b525-8ada3175789b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|f8df64a7-5cba-4fcc-82ae-af14505eb7e4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5181b-Lxn8NtYalC5BaKfFxPhXHlcdVqU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "249",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "QjiDiGaEjbQcZ1PVZHVM8Esa_ZbH3p5PFs32HqWSq8RUD3k0TuZxsg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

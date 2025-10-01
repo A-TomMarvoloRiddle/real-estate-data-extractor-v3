@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/125-E-4th-St-APT-26-New-York-NY-10003/244863048_zpid/",
+  "external_property_id": "244863048",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "cd2ade64631afab439c9d6d0c0eca47f",
+  "property_id": "845c06ee9b4459e469208e864635d5cd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

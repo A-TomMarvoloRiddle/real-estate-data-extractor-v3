@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/11-E-73rd-St-New-York-NY-10021/349759369_zpid/",
+  "external_property_id": "349759369",
+  "scraped_timestamp": "2025-10-01T13:56:07Z",
+  "status": "blocked",
+  "listing_id": "621d883823ce78d3de1eac164c5ad301",
+  "property_id": "614c373a1cf42e2125e4196899aa563b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

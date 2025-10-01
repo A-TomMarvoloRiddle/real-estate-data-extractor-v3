@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/63-Greene-St-10012/unit-2d/home/184609620",
+  "external_property_id": "184609620",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "6c7fce421c805335228cfb304bdfd204",
+  "property_id": "ce0a1df38b1a8c2cf81c1b85eb552557",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

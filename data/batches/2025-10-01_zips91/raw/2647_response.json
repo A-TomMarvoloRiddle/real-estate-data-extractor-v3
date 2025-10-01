@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1409-W-Superior-St-APT-2F-Chicago-IL-60642/63698396_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:59 GMT",
+    "via": "1.1 zgs, 1.1 fdb565ce2398d835192bc4fdf3aa6b04.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24e8863858-3990-4130-af62-97048629a890; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:59 GMT; Path=/; Domain=.zillow.com, zgsession=1|078670bf-5f36-4a5d-8df3-3c6b4a8428fe; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ce2f-vhr0DWUJmyWOjK6/Kf6BfD/tQzE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Z9PzL8uAUA-pQI4TKoZZHk--KIkgAsy0cQAL9sIwQp0pqZt4xSyRXA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

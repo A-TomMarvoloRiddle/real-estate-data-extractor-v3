@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/552-Laguardia-Pl-APT-6-New-York-NY-10012/2128672071_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:03 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24758569d4-dabe-4475-9929-7f36a1032aa4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|78d18669-9116-4037-b2aa-777b556029a2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4a74a-XpzBSPUgePQYT4QQwh9xzkichFQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "IZ_1-8tZ9EjCKLMM_uvRNRBnpqFju_K0mYEHBk3iNOR6_Rn_244yaw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

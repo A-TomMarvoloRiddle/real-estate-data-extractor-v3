@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1048-W-Fulton-St-4-Chicago-IL-60607/2062219428_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:03 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2457a5207f-6ca2-4185-8a7e-e2b22d56cc88; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|51499936-c50e-4799-bb32-a73cf30216ee; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"578d2-6AXWhB2xIKwJ2KsYRocH5ES+h7Q\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "275",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "D95X4vDsxP770AOOG9c86yj7jW-S4J-_999L6R4PaHtvo93LNvPgxw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

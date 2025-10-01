@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/400-E-70th-St-10021/unit-2701/home/45288833",
+  "external_property_id": "45288833",
+  "scraped_timestamp": "2025-10-01T13:55:40Z",
+  "status": "blocked",
+  "listing_id": "a65afc9e6c3157d1cb76ffb9eec37dbd",
+  "property_id": "b5d340b9daa11a59e39790dfac6368e1",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

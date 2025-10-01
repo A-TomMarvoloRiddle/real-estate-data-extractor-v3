@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/5415-N-Sheridan-Rd-APT-2203-Chicago-IL-60640/3700300_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:11 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243762c34a-86f2-402c-94f8-1be8a0b41940; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|66b0d356-6a65-4d59-8538-34b9f0d6a719; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"56457-Z1AnZbN+ix8UGdE+j7YcDfeCzow\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "238",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "V4Ne76jmBVpZYdAM-4VsStU739N7yS-w2Ue7wuqkmZ-f7mOtrX2ozw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

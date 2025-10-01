@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/401-N-Aberdeen-St-UNIT-2N-Chicago-IL-60642/58365716_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/401-N-Aberdeen-St-UNIT-2N-Chicago-IL-60642/58365716_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T13:01:51Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2661
+}

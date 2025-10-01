@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/46-Barrow-St-New-York-NY-10014/456665853_zpid/",
+  "external_property_id": "456665853",
+  "scraped_timestamp": "2025-10-01T13:55:24Z",
+  "status": "blocked",
+  "listing_id": "57432099ca09edb1f9d49c8ed155991b",
+  "property_id": "aa35a192f38553e4b60ca31def40f2d3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

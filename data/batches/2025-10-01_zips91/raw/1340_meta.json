@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/29-E-72nd-St-10021/unit-2/home/198211509",
+  "final_url": "https://www.redfin.com/NY/New-York/29-E-72nd-St-10021/unit-2/home/198211509",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T11:55:47Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1340
+}

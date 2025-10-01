@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/277-W-12th-St-PENTHOUSE-New-York-NY-10014/447005558_zpid/",
+  "external_property_id": "447005558",
+  "scraped_timestamp": "2025-10-01T13:55:32Z",
+  "status": "blocked",
+  "listing_id": "4a44fccd184ae6057337afa98415752d",
+  "property_id": "09f852b92328212b0e7053eb68414ac2",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

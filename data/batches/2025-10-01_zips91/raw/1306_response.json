@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/204-W-10th-St-UNIT-7A-New-York-NY-10014/456329036_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:47 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242d3c8a0a-f745-4c80-8ffd-296e502c9abb; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:47 GMT; Path=/; Domain=.zillow.com, zgsession=1|d0e92a85-e96b-4ef7-b45a-9bcadef7a1bd; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4dd92-78cX367LMpyfByG/6+fTRdFmaCk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "vycUqn4vw_0XhM7883IgW5GcW4oEXjqzN09Ad8xAFns_EdOnH3WkCA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

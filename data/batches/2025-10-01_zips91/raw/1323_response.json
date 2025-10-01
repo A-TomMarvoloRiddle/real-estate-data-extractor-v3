@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/277-W-12th-St-PENTHOUSE-New-York-NY-10014/447005558_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:48 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249f5d1899-17d0-413f-b372-5794b4679704; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|c55a030c-b706-4834-9a53-209827b898a5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5d430-YyBw3U/cCrS5bRS+RluxQbee498\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "220",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "BK4zDpCtHRKIyyStN-19-1OhdC0QB3_D8ek7al8AS9Z0MnwCXwHsbg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

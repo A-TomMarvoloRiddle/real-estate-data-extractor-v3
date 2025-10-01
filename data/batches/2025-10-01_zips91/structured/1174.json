@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/552-LaGuardia-Pl-10012/unit-6/home/198075772",
+  "external_property_id": "198075772",
+  "scraped_timestamp": "2025-10-01T13:54:17Z",
+  "status": "blocked",
+  "listing_id": "27b3bc88d44ea8f5008a70b156c285c6",
+  "property_id": "2bab8ba821c88b2b77fda81fef61cce6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

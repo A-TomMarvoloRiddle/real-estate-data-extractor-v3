@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/505-W-19th-St-10011/unit-2/home/108580813",
+  "external_property_id": "108580813",
+  "scraped_timestamp": "2025-10-01T13:53:39Z",
+  "status": "blocked",
+  "listing_id": "9bce8cf54ddaab15e1bd0a627e9ec44d",
+  "property_id": "dceb670316584b07c0068eae400f3da8",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

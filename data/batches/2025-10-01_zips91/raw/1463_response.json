@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/269-87th-St-9B-New-York-NY-10024/343593303_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:46 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243f1d2e2d-b5b6-4b19-ae1c-f2f770d71071; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|05aed490-223e-4da5-b627-257eb173e603; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a27f-bTSs7dCZeyQXt4EJg+UMbuE/Dh4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "235",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "nKmH-h31bcL1PafQSyWzxueYaBhkvp5gxZGs1UxDbF6e554BrwNlgA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

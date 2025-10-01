@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/250-W-15th-St-4CD-New-York-NY-10011/249785211_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:17 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24e7128ea3-b2de-4e8d-9983-0678349acca8; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|89adf236-77d6-41e5-a4d2-e7afe6fc4460; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4b577-Eq9Zqr0fqTeeZnLoP/a4JLcgqv0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "298",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "KQaadlgN4Xt0iEG_SUjeM_Gk21T0YIOM2epnSsatrs3vXg6L6FJuBw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/152-W-13th-St-10011/home/45245765",
+  "external_property_id": "45245765",
+  "scraped_timestamp": "2025-10-01T13:53:36Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 19995000,
+  "beds": 2.0,
+  "baths": 2.5,
+  "interior_area_sqft": 650,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/211/RLS20051211_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_6_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_20_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_10_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_16_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_4_A.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/211/genMid.RLS20051211_13_A.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.737427%2C-73.9996012&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=ZMVgIJ_rDpWDZazbK8Ai3jvMTgg=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "TRIPLE MINT 20FT TOWNHOUSE WITH ELEVATOR  Located in the heart of Greenwich Village on a charming tree-lined street, moments from the best retail, restaurants and easy transportation, this 20-foot wide, red brick facade 1899-built house has been entirely renovated with every modern convenience and amenity while retaining its pre-war charm. To the north are the hottest spots in Chelsea, to the West the Meat-Packing District, Highline, Hudson River Parks and the Whitney Museum, on your East is Union Square and to the South all the magic of the Village beckons. CELLAR: The house boasts a fully finished cellar accessed by both stairway and elevator. While currently set up as a kid’s playroom, it can just as easily function as an office/media room/gym. There is a full bathroom and large laundry room with double full-sized washers and dryers as well as two large Subzero wine refrigerators. GARDEN FLOOR: Enter the garden floor under a superbly restored stoop through a set-back fenced in garden. This floor contains an additional bedroom, full bath and an impressively scaled custom crafted kitchen with Sie-matic cabinetry, Wolf, Miele and Sub-Zero appliances, stone counters and marble back splashes as well as an inviting counter seating area. The kitchen adjoins the wonderful great room with its soaring double-height ceilings and dramatic wall of windows overlooking the south-facing landscaped garden shaded by Greenwich Village’s most prized Magnolia tree and a mature evergreen which provide year-round privacy in addition to their beautiful greenery. This floor opens onto a large south-facing garden in this highly desirable landscaped townhouse block. PARLOR FLOOR: The gracious parlor floor is accessed by ascending the stoop stairway and entering through the beautifully preserved double doors. A large, loft-like space and fireplace frame stunning vistas to the North and South overlooking the garden. There is also a powder room on this level and a second stairway that connects the parlor to the Garden floor below. PRIMARY SUITE/3rd FLOOR: This entire floor is dedicated to the Primary bedroom suite. The enormous south-facing bedroom reveals huge double French doors that open up to overlook the garden. A large custom walk-through closet leads you to a spacious and elegant bathroom, beautifully outfitted with custom wood floors, exquisite tilework, dramatically scaled double shower and twin sinks. Its two windows flood the space with natural light. An additional home office completes the picture. FOURTH FLOOR: A lovely south-facing bedroom suite with private bathroom and enormous terrace overlooking the neighborhood gardens is just one of three bedrooms located on this floor, which share an additional bathroom. There is also a full-sized washer/dryer on this floor. PENTHOUSE/5th FLOOR: This light-filled room is accessible via elevator making it a convenient and wonderful addition, with a small terrace to the south and a larger terrace to the north. This floor is currently set up as an office/den. Skylights on this floor transport light all the way down through the stairway to the Parlor floor. Please inquire for additional details and to schedule a private showing!",
+  "price_history": [
+    {
+      "event_date": "Sep 26, 2025",
+      "event_type": "price_change",
+      "price": 19995000,
+      "notes": null
+    },
+    {
+      "event_date": "May 7, 2024",
+      "event_type": "listed",
+      "price": 55000,
+      "notes": null
+    },
+    {
+      "event_date": "Mar 11, 2024",
+      "event_type": "listed",
+      "price": 55000,
+      "notes": null
+    }
+  ],
+  "street_address": "152 W 13th St",
+  "postal_code": "10011",
+  "city": "New York",
+  "state": "NY",
+  "listing_id": "ae7a3598b8486cc1f48eb51a1db8ecdf",
+  "property_id": "85cf76484172545587677f407bceb917",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

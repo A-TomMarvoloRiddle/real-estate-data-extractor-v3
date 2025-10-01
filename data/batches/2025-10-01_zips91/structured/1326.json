@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/822-Greenwich-St-APT-1C-New-York-NY-10014/244887303_zpid/",
+  "external_property_id": "244887303",
+  "scraped_timestamp": "2025-10-01T13:55:35Z",
+  "status": "blocked",
+  "listing_id": "75f45da794f23a0298608c40fe540aeb",
+  "property_id": "12b4faaa80a03a7f377551958ed7d08e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

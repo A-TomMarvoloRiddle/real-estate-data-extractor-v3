@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/55-Hicks-St-APT-1-Brooklyn-NY-11201/112336062_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:44 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%249584b6cc-c1b7-443e-9fd4-910a7e9e99ca; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:44 GMT; Path=/; Domain=.zillow.com, zgsession=1|d91ee27e-51e4-4834-9c3e-195293e40257; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4803d-tYJwsMWOx31by0cERxR+MEILQl4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "291",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "vz-zsAvO5NrW3GLJoulY2sttM83Frdg-dSQy32jC6piyqgFwb9RSxw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

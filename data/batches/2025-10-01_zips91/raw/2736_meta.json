@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/300-N-State-St-60654/unit-5503/home/14100131",
+  "final_url": "https://www.redfin.com/IL/Chicago/300-N-State-St-60654/unit-5503/home/14100131",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:05:39Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2736
+}

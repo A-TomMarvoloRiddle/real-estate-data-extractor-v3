@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/200-E-20th-St-New-York-NY-10003/31507920_zpid/",
+  "external_property_id": "31507920",
+  "scraped_timestamp": "2025-10-01T13:53:30Z",
+  "status": "blocked",
+  "listing_id": "1c7faf524796fdf3ce583596319d1344",
+  "property_id": "0daa0d5109e09ecccf862e29398b19ec",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

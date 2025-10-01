@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1437-W-Augusta-Blvd-Chicago-IL-60642/441072342_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:56 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b15d634f-062d-4b7e-9f9e-d4f02e413b60; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:56 GMT; Path=/; Domain=.zillow.com, zgsession=1|9cf33ac3-c9f5-4a18-9946-89e451b6f48f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a903-TwYuX4gwrZFtJRmLcslDDKcuQ/Y\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "262",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "NrClO1tfa2fbMqhWz4npfz4n7ea32AE_PYidUmXGiwTDbt8d0Q29AA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

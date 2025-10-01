@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/11-5th-Ave-10003/unit-8AB/home/45142241",
+  "external_property_id": "45142241",
+  "scraped_timestamp": "2025-10-01T13:53:21Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 2895000,
+  "beds": 3.0,
+  "baths": 2.0,
+  "interior_area_sqft": 849,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/552/RLS20051552_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_3_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_11_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_6_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_9_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_2_7.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/552/genMid.RLS20051552_7_7.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7324679%2C-73.9958511&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=Yfuz9F5PxY1pp19ia0f0UKXlNYY=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Contemporary Gold Coast elegance awaits in this beautifully gut-renovated two-bedroom, two-bathroom co-op, featuring a concealed home office , laundry room, oversized bonus room , central air-conditioning and two storage units . Meticulously designed with thoughtful details, this impressive Greenwich Village residence is situated in an esteemed full-service building just one block from Washington Square Park. Inside this seamlessly combined showplace, ceilings with recessed and designer light fixtures rise above engineered French white oak flooring and custom millwork . A gracious foyer, lined with rows of closets with picture-frame molding, sets the tone for the designer style and abundant storage found throughout. To the right, a hidden home office offers two large built-in desks, granite counters, and custom cabinetry, providing an ideal workspace. The expansive great room stretches nearly 24 feet long, offering generous space for seating and dining areas. North-facing windows overlook the quiet interior courtyard, creating a serene ambiance. The open gourmet kitchen is a chef’s dream, featuring floor-to-ceiling pantries, full-featured custom cabinetry, quartzite countertops, and Thassos-honed marble tile. State-of-the-art stainless steel appliances include a four-burner gas cooktop and dual convection smart oven by Wolf, a custom range hood, a 48-inch Sub-Zero refrigerator, a Miele dishwasher, and a concealed microwave, with space to add a wine refrigerator. The primary suite boasts king-size proportions, corner windows, and a wall of built-in wardrobes with Restoration Hardware pulls. The en-suite bathroom showcases striking Akdo Origami Burokku Zebra floor tiles, a wide double vanity with zebra marble counters and Newport Brass fixtures, and a Kohler tub/shower. A spacious second bedroom, located in this wing, offers comfort and flexibility. Adjacent is an oversized bonus room with a closet and shelving, perfect for use as a large den, gym, or guest room. The sizable utility room is well-equipped with a full-sized Whirlpool washer and vented dryer, cabinetry, hanging rods, and a Franke sink, making laundry day effortless. A well-appointed guest bathroom features a frameless glass shower, Toto washlet, custom vanity, and a Robern medicine cabinet. Extensive smart-home upgrades throughout the unit provide intuitive control of temperature, lighting, and security. Enjoy soft-close pocket doors, Marvel cabinetry in the kitchen and baths, Lutron motorized shades, dimmable overhead and cabinet lighting, Nest thermostats, a Schlage smart entry door lock, multiple cable and Ethernet ports, and optimized Wi-Fi. This home also conveys with two deeded storage units. The Brevoort is a highly regarded postwar cooperative with attentive staff, including a 24-hour doorman/concierge and a resident manager. Residents enjoy a grand lobby with gardens, a gym, on-site parking, laundry, storage, a bike room, and updated common areas. The building prioritizes sustainability with upgraded windows, a co-generation electrical system, natural gas, and planted rooftops. Maintenance includes basic cable. Pets, pieds-à-terre, gifting, parents buying for working children, in-unit washer/dryers, and up to 60% financing are permitted with board approval. Set in the heart of the Greenwich Village Historic District, this location offers unparalleled access to world-class shopping, dining, and entertainment. Explore the lush landscapes and farmers’ markets at Union Square and Washington Square Park, or enjoy award-winning restaurants like Blue Hill and Carbone. With NYU, jazz and comedy clubs, and multiple subway lines—including the A/C/E, B/D/F/M, 1/2/3, 4/5/6, N/Q/R/W, and L—plus PATH trains, excellent bus service, and CitiBike stations nearby, transportation is effortless in this central downtown location.",
+  "price_history": [
+    {
+      "event_date": "May 15, 2025",
+      "event_type": "price_change",
+      "price": 2950000,
+      "notes": null
+    }
+  ],
+  "street_address": "11 5th Ave",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "8AB",
+  "listing_id": "5a0b3ed7a9923a411ae6c03e6709b2a7",
+  "property_id": "b801abdf88049104ecae03c1e25bcd1d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

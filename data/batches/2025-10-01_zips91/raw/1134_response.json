@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/60-W-20th-St-PENTHOUSE-1-New-York-NY-10011/456741561_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:14 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%247cfc3bda-e07f-487a-8cb5-3ba365bd7172; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|5ca34ac5-5ef9-4da4-addf-3eeb92f2365a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"54404-nwoAbFAcMnarfpSrno4rCzs2JFw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "320",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "k1feiOhUTRQKwN53mqzjZ5z0o5sBEi9YA2TJIyj8oZlCNBd3EaXgrg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

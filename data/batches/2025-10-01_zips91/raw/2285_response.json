@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/910-N-Lake-Shore-Dr-816-Chicago-IL-60610/3849452_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:41:36 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244d64d8ce-fc2a-4c10-9ea8-3e755d2f0820; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:41:36 GMT; Path=/; Domain=.zillow.com, zgsession=1|5a6e94dc-c4ea-45da-893c-8e1873bb4a78; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d76c-ie9eNnf4Fdse4GMvFPftTQMAOAU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "333",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "W7TL8snvoLsy4vOwGHkjnw-00Yj0OEmnE88RKoZ8t_zSfdrUrU_7Gg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/228-W-17th-St-2B-New-York-NY-10011/2063323548_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:45:36 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b03be1df-5527-4f75-a9c7-fe315e37c352; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:45:36 GMT; Path=/; Domain=.zillow.com, zgsession=1|52ada64f-0100-473e-a692-f7873869dfc5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"45a89-+OMvuSWfed+Top1E1krrr+p+3dA\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "222",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "_jwUneLvJpj22OfcnuZZRf7Jz4WYbKzKuMljB0rNb-w-5q_tKrhF3w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

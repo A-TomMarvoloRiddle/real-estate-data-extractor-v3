@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/345-W-13th-St-APT-2E-New-York-NY-10014/31501412_zpid/",
+  "external_property_id": "31501412",
+  "scraped_timestamp": "2025-10-01T13:55:12Z",
+  "status": "blocked",
+  "listing_id": "be9028a5dfe71c0facf9873e348794d7",
+  "property_id": "24a96eefcfbe43cfa09576f05985f8f0",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

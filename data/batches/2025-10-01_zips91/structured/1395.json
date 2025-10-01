@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/39-E-75th-St-APT-1E-New-York-NY-10021/72527489_zpid/",
+  "external_property_id": "72527489",
+  "scraped_timestamp": "2025-10-01T13:56:03Z",
+  "status": "blocked",
+  "listing_id": "f9f54f7b3514a005b996c0d4dce181f5",
+  "property_id": "3c6f00f0cff09c712a5c7511f3e692de",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

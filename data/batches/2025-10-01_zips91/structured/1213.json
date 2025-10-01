@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/250-Mercer-St-APT-C415-New-York-NY-10012/110541307_zpid/",
+  "external_property_id": "110541307",
+  "scraped_timestamp": "2025-10-01T13:54:27Z",
+  "status": "blocked",
+  "listing_id": "7ac6340f7b11299edc493474988a951f",
+  "property_id": "b5060a998f156b1de4b515a23d4fbc33",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

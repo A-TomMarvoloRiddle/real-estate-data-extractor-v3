@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/20-W-12th-St-New-York-NY-10011/441752315_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/20-W-12th-St-New-York-NY-10011/441752315_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:46:32Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1158
+}

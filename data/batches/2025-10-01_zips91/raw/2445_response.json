@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2743-N-Wayne-Ave-APT-C-Chicago-IL-60614/3729245_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:08 GMT",
+    "via": "1.1 zgs, 1.1 6d3f0112369c770bd0b96a2c6ccd04b4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24cbe86cff-0491-441f-9071-26403f7b60ae; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|98494eb4-0666-4103-9c46-56160a3c8bbe; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"540b5-bLOCQFq6AvZsMC41805/hCg5iac\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "234",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "IfpaWqIiZsj07afwhmPLDei0Rv-wmGX4pNBNHO6jI1ankB58HC4jAw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

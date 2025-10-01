@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Pacific-Palisades/501-Palisades-Dr-90272/unit-124/home/6843351",
+  "final_url": "https://www.redfin.com/CA/Pacific-Palisades/501-Palisades-Dr-90272/unit-124/home/6843351",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:25:10Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1943
+}

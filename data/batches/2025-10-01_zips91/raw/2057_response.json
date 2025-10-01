@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3001-Grand-Canal-Venice-CA-90291/20444277_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:58 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242072e4c7-b254-450d-ace6-3cd2889c8e8e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:58 GMT; Path=/; Domain=.zillow.com, zgsession=1|70a6fd7a-97c7-488e-ab3f-1cbf9a5f9bb4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"8a129-zncyu5i/hRz2Xy/j63R7YIo53Gs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "282",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YefMFlksJ_de1wKI6x0LjltoZF3UpXUVsh8RYioTgtfa22DNvdVhCQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

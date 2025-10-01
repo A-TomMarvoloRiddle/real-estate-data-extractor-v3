@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/180-Thompson-St-10012/unit-5F/home/45166715",
+  "external_property_id": "45166715",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "5286b7005500a12bd540fafed8e42010",
+  "property_id": "72c72d379c62884245e020d4afecbfe5",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

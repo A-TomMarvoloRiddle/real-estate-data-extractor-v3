@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/151-W-80th-St-APT-4F-New-York-NY-10024/244856388_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:00 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244e3c88e9-20c4-46a8-af52-0c7ecde0d4f7; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|d5b79029-f77a-4b18-b43d-76ab8899b331; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"452a6-JZvbSqgF4UY+vVSuR8V/rzvNwpM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "335",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "o1gxz90fHdu4dEshx9G2tcm7N9ewztljPo2LZ7PH7mUWhoFbkevZMg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

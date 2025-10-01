@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/845-W-Altgeld-St-APT-3A-Chicago-IL-60614/60264977_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:27 GMT",
+    "via": "1.1 zgs, 1.1 cea1e01bd63de45834a65225240f79be.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2471449330-4e7d-4899-b9c5-6ce7e9ee1bc3; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|d5f81aa9-1c60-4856-b6e1-5d8f4e11e851; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58383-O2dh/UTCTyauKgxG7S3NhuzAwew\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "239",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "k4dQGlzGbrKfy17maBYJa8ng1tq-uPsVVDrCU8BQowqFipyEezx6mQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/145-W-86th-St-APT-11C-Manhattan-NY-10024/121421939_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:03:01 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24824f9bd1-93ce-4943-8777-da78d8987441; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:03:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|12c338f6-61b7-43fb-abfc-2033da6f41ec; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"43f02-+hPG/FYQqOyMv0EanZFWqQ+FBNI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "229",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-Bu8FFak_1sOMB5fAVvPBBsxC8EMj80xiYZx8LfLOnOqFy-X6b59Mg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

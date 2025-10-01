@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1718-N-Clybourn-Ave-1-Chicago-IL-60614/99356784_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:35 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2469341c1a-b1cd-4922-91f4-7fd24ccd6e93; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:35 GMT; Path=/; Domain=.zillow.com, zgsession=1|1bd708e5-f541-4013-9a02-cc0bb3f6f565; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5cd56-SWro0xhExohha3otv4vbmQHTRlY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "267",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "jUfHaNLzh04BV8BRJ9ZEW-j-F1OF2OL9SOXdnG-nlZ7l5RCCnRymiA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

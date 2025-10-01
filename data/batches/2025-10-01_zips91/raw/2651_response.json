@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/602-N-May-St-UNIT-3-Chicago-IL-60642/306333755_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:11 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b9b42508-08b3-4a00-b3a5-53454f360325; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:11 GMT; Path=/; Domain=.zillow.com, zgsession=1|5b00332d-50c7-400e-8ee7-b74afafd301f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5e737-I7MlQc4fOenMi75lUAgw2Me7j4g\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "225",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "YHh4xgApQshVeMzFnEJmL0kQCb-iXJSYfODDcIVm-NzN7G6oVG3yeQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

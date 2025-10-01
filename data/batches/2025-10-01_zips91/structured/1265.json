@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/25-Charles-St-10014/unit-3D/home/113072292",
+  "external_property_id": "113072292",
+  "scraped_timestamp": "2025-10-01T13:54:58Z",
+  "status": "blocked",
+  "listing_id": "583f4b0d914bc9599a3a49548b3e3303",
+  "property_id": "26e356df67033b143b8590c434474eec",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

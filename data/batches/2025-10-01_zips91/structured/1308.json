@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/41-Perry-St-6AB-New-York-NY-10014/83122127_zpid/",
+  "external_property_id": "83122127",
+  "scraped_timestamp": "2025-10-01T13:55:19Z",
+  "status": "blocked",
+  "listing_id": "461195419527b26202628ac6fd17a597",
+  "property_id": "49a4305c3b8b4d115cf418bc3b91253b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

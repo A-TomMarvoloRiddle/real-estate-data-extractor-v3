@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/530-N-Wood-St-APT-D-Chicago-IL-60622/54537423_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:26 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241c7c1a78-429e-46be-a75b-7f5d79a8e115; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|59798ce2-1128-4960-b6f5-4c3597fbe6d5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"65bb7-KwyaKTQkdJ1c5xPD/QOc3hsYPNs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "253",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "uS0itrP91hH8bluUjudVIzInNYXFX1VUUea_IAT3Lz8JOKrPSJuU7Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

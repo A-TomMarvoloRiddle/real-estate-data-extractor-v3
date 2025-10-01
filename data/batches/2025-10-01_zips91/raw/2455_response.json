@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/401-W-Dickens-Ave-Chicago-IL-60614/3738134_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:48 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fb9fcd9e-5e73-46cc-b839-e5c8119b6a6a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|953169bb-1806-409d-b42f-24a494a042d1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"8d2ac-YdIYVyauxN9zt5YATg2zUzgQjKo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "285",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "NUSsXNjsX-rv1NUOh2hHof6jQsfEjNIc306quhRl2KIAs4pU6n4j-Q==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

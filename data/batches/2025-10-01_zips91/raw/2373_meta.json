@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/630-W-Waveland-Ave-APT-4A-Chicago-IL-60613/3714905_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/630-W-Waveland-Ave-APT-4A-Chicago-IL-60613/3714905_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T12:46:20Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2373
+}

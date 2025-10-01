@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1F-New-York-NY-10003/95064313_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/226-E-12th-St-APT-1F-New-York-NY-10003/95064313_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T11:36:14Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1059
+}

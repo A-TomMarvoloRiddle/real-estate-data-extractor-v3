@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2601-W-Haddon-Ave-APT-2E-Chicago-IL-60622/65562663_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:00 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24858837db-8aaf-4f15-97e3-f8aa1376a962; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|d725926e-ddda-4ed5-a423-3c819da62eb4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"554c2-8uxtqtSeMRxhhHlnKj4xU50aBn8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "258",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "I8bLa-Z8SmhztOj4gXNUJKbNm30Gcr566TESfVOYZroh2EVl68KFaA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

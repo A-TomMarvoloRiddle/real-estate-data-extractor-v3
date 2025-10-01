@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/2-Cornelia-St-APT-506-New-York-NY-10014/31499357_zpid/",
+  "external_property_id": "31499357",
+  "scraped_timestamp": "2025-10-01T13:55:13Z",
+  "status": "blocked",
+  "listing_id": "579ea46e8b0688edcd14c3e9c231c7a9",
+  "property_id": "867571686410b16c6d175142ea6a8d29",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/46-W-87th-St-BLD-New-York-NY-10024/456625128_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:48 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ca7cfebc-6fd4-44f7-b2de-f1f1ef1778f6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:48 GMT; Path=/; Domain=.zillow.com, zgsession=1|9a3b92ee-bc11-42ee-9c27-3c29af46eff4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5682d-7Jy6uyVWyy72Ha65wCVT5HNflKE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "813",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "NiLBVIEuWnDjGDwoG240bDOQaGUvZPAZOXq44LA910Ifa3AtxR2d6g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

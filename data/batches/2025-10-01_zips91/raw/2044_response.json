@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/748-Brooks-Ave-Venice-CA-90291/302794413_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:30:18 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241290dd38-7425-493e-aa62-cc783ea5faf0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:30:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|cb8a9b26-9bbb-4079-99c3-a7e7bce64c1f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"65825-Rcr0YMKGcAVSmKQxyOlb8SxKm4Q\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "258",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "A4ok4PwARcu6v0hexyUBaf-cYw_FrLJAPKi4IGgsiA40s718Qm_DUA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

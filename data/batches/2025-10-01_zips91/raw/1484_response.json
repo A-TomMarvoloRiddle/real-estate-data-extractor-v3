@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/community/belnord/2076852384_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:55 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24ca1d9304-ea59-48fe-95b7-52b51df49d42; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|3eb57541-1fcd-4815-a1ed-8a4689577aa5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"1aaed4-I1QIyYeaxb6p4EwL05Zl2ZP8Bjw\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "453",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Jt-SIvFRM5-jvjbQ09lA_r1U7flEVFMjmwdVg7M1AjN_jAPR63dksA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

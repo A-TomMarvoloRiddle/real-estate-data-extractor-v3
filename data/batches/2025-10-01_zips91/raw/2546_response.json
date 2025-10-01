@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2527-W-Chicago-Ave-2-Chicago-IL-60622/87710162_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:40 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2430ad92f4-8b76-43fc-8483-e9634d418ec6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:40 GMT; Path=/; Domain=.zillow.com, zgsession=1|46da590b-0f1f-4a3e-9e53-7d1bc7375233; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58b7b-KRq5Lqp1tG7pbhlvHIZaVBLJsmI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "217",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "5x_YrJitqoRNRjrY5TTePd0c_-MbRtNlnEp-aVxgPQM4Y2sFqlixGg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

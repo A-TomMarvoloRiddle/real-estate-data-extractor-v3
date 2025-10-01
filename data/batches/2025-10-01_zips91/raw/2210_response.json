@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/411-S-Sangamon-St-UNIT-8BC-Chicago-IL-60607/2073954233_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:00 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2414d7b02f-15be-4e0c-98ca-b531609ccddc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|6a31feeb-ea92-457d-9af1-efeac6b3f220; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6cebc-QJu9HcoXIk+DpckgzbDopuvPRaM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "262",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "pOUEbfW-PPfKyr240HDIzocuYJkJ_8ditTofGwbP_6Q_5-aL5cgr1w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

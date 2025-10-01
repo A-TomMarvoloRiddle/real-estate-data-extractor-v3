@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1540-N-Dearborn-Pkwy-Chicago-IL-60610/119089248_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:42:28 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24bc3bda9a-8ed4-4b24-9146-e8e6ab4dcc20; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:42:28 GMT; Path=/; Domain=.zillow.com, zgsession=1|5566b344-fc78-4bec-a39c-20e968b81d33; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6f1ce-4/mFAcmUrPv0RaZ9dV2Ncfjp4b0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "270",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "LHSWe2wVGlkW1s22We3iA9VX1kgc1a9Jcx4XCFMozxUAlSwov4SZGg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

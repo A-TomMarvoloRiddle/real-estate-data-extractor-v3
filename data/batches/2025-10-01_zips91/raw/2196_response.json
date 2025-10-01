@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/811-S-Lytle-St-APT-514-Chicago-IL-60607/54539617_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:16 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24245afc6f-6e77-4057-b0d2-39d717a7e0bc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|765b3139-e2eb-4f0a-8562-57f1debe0b83; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"501f4-zk2FYRv7lj682bblM66J4Zjv1A0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "270",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "0P-GZQvmoHp193HYfnWApFpTjPKTBTW-0AcIsuWlH9aD7nRpAPDKHg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

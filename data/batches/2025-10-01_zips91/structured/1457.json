@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/247-Central-Park-W-New-York-NY-10024/31523748_zpid/",
+  "external_property_id": "31523748",
+  "scraped_timestamp": "2025-10-01T13:56:26Z",
+  "status": "blocked",
+  "listing_id": "351d585125668ebe31ff75d1f1cb08f7",
+  "property_id": "87bdcc30c5fcde36cdc4504ceda986fc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

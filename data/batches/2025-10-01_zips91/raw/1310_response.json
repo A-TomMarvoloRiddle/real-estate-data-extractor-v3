@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/719-Greenwich-St-APT-4S-New-York-NY-10014/82777166_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:04 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2456c13463-4fe6-40f1-827d-3cd79f540dd4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:04 GMT; Path=/; Domain=.zillow.com, zgsession=1|deabc44f-94d2-4794-a489-b8a06148f3f5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4c5b5-TRHjF4bSbxq7DwFKRhTM/8WvrEY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "293",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ZtYxY__rti_RCuET7r7gwYBhpUVM0RmZqM7xRHXScl_PxI3DtffmHQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/420-W-Elm-St-0-Chicago-IL-60610/2073689057_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:58 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24b10e26ff-7c14-44f4-b193-cecbb0d6e6cd; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:58 GMT; Path=/; Domain=.zillow.com, zgsession=1|0138ca5b-9c00-4692-93ca-06bdbca32090; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6a767-8IHGWz306IqEkkLR+KxUJMn3Uyo\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "289",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Lxi_cd2u5VACTEBig5sfjP53iQfEeal8leZCUbVxBX1jk3BXW0cPgA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/822-Greenwich-St-APT-1C-New-York-NY-10014/244887303_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:58 GMT",
+    "via": "1.1 zgs, 1.1 b325f2f0bc943ea4582799919aa7370e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246b073585-28f4-4c0d-a8cd-0229407e8ca3; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:58 GMT; Path=/; Domain=.zillow.com, zgsession=1|d39c7d0c-19de-4238-a951-a24c6a74d17a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4d227-KftCy2egjsAs/kpBAr1aWSQ1u2g\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "210",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FBivdBULKHjxgZFrb_qrp1k_ui9gW5kWyNKxSghAUx7HTG8Vvgbwcg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

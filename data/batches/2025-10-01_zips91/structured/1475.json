@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/211-W-84th-St-PENTHOUSE-New-York-NY-10024/447004155_zpid/",
+  "external_property_id": "447004155",
+  "scraped_timestamp": "2025-10-01T13:56:40Z",
+  "status": "blocked",
+  "listing_id": "3979229185529d6e15cecd331bf2cd90",
+  "property_id": "8230dc3faa08cd8ceead56ef3a21afa3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

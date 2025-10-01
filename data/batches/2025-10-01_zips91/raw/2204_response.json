@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/850-W-Adams-St-APT-7C-Chicago-IL-60607/3873540_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:42 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2459e16859-b0c3-451e-bace-74398aaf48d6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:42 GMT; Path=/; Domain=.zillow.com, zgsession=1|443b91e2-56eb-4940-a66b-2656f03fb98e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6337c-ZhIhpQdD5O4ZOK9XUAXhwvo48w0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "252",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "mbowAqxmO0rq4sUb0RGbNyag3RghyF4nYdkjrQSCbID02LEPfTPx8w==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

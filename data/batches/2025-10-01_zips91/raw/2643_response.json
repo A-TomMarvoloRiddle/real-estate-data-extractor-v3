@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/860-N-Elston-Ave-UNIT-10-Chicago-IL-60642/58365364_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:46 GMT",
+    "via": "1.1 zgs, 1.1 caf6336eaf07f9740378cad250c0289e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2404e8554a-633b-44f1-bc89-b52e6f724084; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:46 GMT; Path=/; Domain=.zillow.com, zgsession=1|e285ca12-3ad8-4519-8ad5-678503f1834c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6ae9e-2vCg1H4d405BRHIS6+pLaKh9NqI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "232",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Y0kWaXQcOW-UCZEEB1k-co0ynZHHLf1BCf-lbME7-N7ZZdjms2u1vQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

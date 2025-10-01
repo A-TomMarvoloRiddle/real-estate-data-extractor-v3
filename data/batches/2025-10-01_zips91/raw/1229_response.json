@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/175-Bleecker-St-APT-18-New-York-NY-10012/2102679940_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:55 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d1a40bb7-6431-4078-9795-ee1c1c006e71; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:55 GMT; Path=/; Domain=.zillow.com, zgsession=1|67b5da55-9c97-4857-b2d7-e4337ea2836a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"44843-tmnSeqWHtt1ZAOKZmGteR4QcBJ4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "209",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Zw8qdn01SPjGLE6o9z1bKZPxi7y-fH8TbHgsz8ignBrI3DHDNbrFHg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

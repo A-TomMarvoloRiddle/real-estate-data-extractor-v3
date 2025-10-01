@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/211-W-84th-St-UNIT-PHB-New-York-NY-10024/444366330_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:01:16 GMT",
+    "via": "1.1 zgs, 1.1 d7a8bd846c3e686ff79f82a3da68840c.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c1163731-82fa-48df-8916-392c3d21ce61; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:01:16 GMT; Path=/; Domain=.zillow.com, zgsession=1|0f375587-0c1e-4250-872f-795264cfb5e5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5f9de-xpQ46HOuUZIOuKBFj1dxrfAccoY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "250",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VFxiE38M0QHzUh7Y4NR_BQptu_47oQiIAAyvJN1FtWB4_yiebAom1A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

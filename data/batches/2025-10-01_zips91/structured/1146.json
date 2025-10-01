@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/555-W-22nd-St-11AW-New-York-NY-10011/2062787806_zpid/",
+  "external_property_id": "2062787806",
+  "scraped_timestamp": "2025-10-01T13:54:01Z",
+  "status": "blocked",
+  "listing_id": "b6a1213a600025d66378eb53c9b18ac7",
+  "property_id": "ea3375334588ce2f3b515873d1dcd82e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

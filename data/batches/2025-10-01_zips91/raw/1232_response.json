@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/224-Mulberry-St-UNIT-PENTHOUSE-New-York-NY-10012/442173506_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:05 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%240b343b20-f72a-4101-a197-76234dbbf4b6; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:05 GMT; Path=/; Domain=.zillow.com, zgsession=1|7fd184b3-2af6-46ee-a243-2eb096b0a906; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"63ee3-lwanf4bbDJcz7P2MblI1JaOy+ic\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "241",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "yjP0Xt86eaMyaS38dMSGUWILX5F9Ba6WtAmro294GnUFqthnKV1iZw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

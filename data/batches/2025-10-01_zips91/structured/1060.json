@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/217-E-5th-St-6F-New-York-NY-10003/456384143_zpid/",
+  "external_property_id": "456384143",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "4cb23bd959ac9081332fda55d34305be",
+  "property_id": "d9014e33469d1300756c20b25781602b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

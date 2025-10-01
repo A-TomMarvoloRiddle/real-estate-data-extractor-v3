@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/719-Greenwich-St-APT-4S-New-York-NY-10014/82777166_zpid/",
+  "external_property_id": "82777166",
+  "scraped_timestamp": "2025-10-01T13:55:20Z",
+  "status": "blocked",
+  "listing_id": "f578257178cea1e56534ef763a332250",
+  "property_id": "222369cd720fd894256425563967de99",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

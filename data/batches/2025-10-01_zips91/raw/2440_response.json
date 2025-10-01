@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2735-N-Kenmore-Ave-APT-2S-Chicago-IL-60614/3730036_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:51 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2469daf323-46e9-41f4-8d38-a8c43d82e659; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:51 GMT; Path=/; Domain=.zillow.com, zgsession=1|5948733b-4700-4922-abd0-1432a2f6c2e3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"58d5f-N2GbNbqbscNBE/qRJ81dM/tA+mY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "345",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "TEEypfzAunmfprauqr75UBE98NP0IIxPxkIjYfubStFLiXSszvH6Ow==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

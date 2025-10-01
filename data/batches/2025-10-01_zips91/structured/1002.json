@@ -1,0 +1,53 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/200-E-16th-St-10003/unit-8DE/home/45147270",
+  "external_property_id": "45147270",
+  "scraped_timestamp": "2025-10-01T13:53:16Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1650000,
+  "beds": 0.0,
+  "baths": 2.0,
+  "interior_area_sqft": 536,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/849/RLS20051849_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_1_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_5_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_2_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_4_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_3_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/849/genMid.RLS20051849_6_3.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7343956%2C-73.9860114&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=n6AVKhRygCfHfO08wQVkTr-SN4I=",
+    "https://ssl.cdn-redfin.com/v595.2.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Step inside this true two-bedroom two-bathroom in the heart of Gramercy Park.   This home combines the charm of the neighborhood with modern conveniences to offer the best of both worlds. With hardwood floors throughout, the unit also features a renovated windowed kitchen with Sub-Zero and Miele appliances . Step inside this ideal unit and to your left you will find a gracious east facing second bedroom with park views and has two large closets. Past the second bedroom is the corner living room with open south and east views. The primary bedroom features a bathroom en suite with its own private dressing nook.   200 East 16th Street is a full-service building positioned on a tree-lined block. The building is two blocks away from Union Square and major transportation (N, Q, R, W, L, 4,5,6). Westside Market is across the street, Trader Joe's, Whole Foods, Union Square Farmers Market all within a short distance.   There is an operating assessment of & nbsp; $96.43/month scheduled to end 12/31/2025. There is a capital assessment of & nbsp; $482.15/month in effect through July 2030.",
+  "price_history": [
+    {
+      "event_date": "Apr 2, 2025",
+      "event_type": "listed",
+      "price": 8000,
+      "notes": null
+    },
+    {
+      "event_date": "Mar 27, 2025",
+      "event_type": "listed",
+      "price": 8000,
+      "notes": null
+    }
+  ],
+  "street_address": "200 E 16th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "8DE",
+  "listing_id": "74dea7505c6c2e2a31ef16b8ef689e87",
+  "property_id": "8ac07040e08f795d249d51aecfe56802",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/837-Venice-Blvd-Venice-CA-90291/20452559_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:28:57 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24237150f2-6572-45b8-a777-9737476d8f28; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:28:57 GMT; Path=/; Domain=.zillow.com, zgsession=1|87cf62ea-ab2f-467a-b7ac-49f7ff4e9b53; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7f626-VbmHmpQvbjNfwERJLtct0wEwRv4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "571",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "7UTfrb0Vi2zeNkGWPAm-KUgcaeoEnv8u32-WiH59GzYv9i_GbPPaSg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

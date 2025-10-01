@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/456-W-19th-St-10011/unit-6-7F/home/115480444",
+  "external_property_id": "115480444",
+  "scraped_timestamp": "2025-10-01T13:53:39Z",
+  "status": "blocked",
+  "listing_id": "bec6ba15c2c7ed5b0ec2983817b11f86",
+  "property_id": "392906b5e9882fa5cbdc7ca94c0ab8fc",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

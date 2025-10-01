@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/56-Crosby-St-APT-3A-New-York-NY-10012/55500985_zpid/",
+  "external_property_id": "55500985",
+  "scraped_timestamp": "2025-10-01T13:54:37Z",
+  "status": "blocked",
+  "listing_id": "25e59a3024236d57cc088f63fece975f",
+  "property_id": "7bf7bdb258e7a95c5ad743359496de71",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

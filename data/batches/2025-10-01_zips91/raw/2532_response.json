@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1744-W-Division-St-APT-2-Chicago-IL-60622/89945810_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:54:52 GMT",
+    "via": "1.1 zgs, 1.1 3f3d9c0b78b8f74a9f019c7683a4abce.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%245f61f44f-4802-411a-9f11-e55d7c4f142f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:54:52 GMT; Path=/; Domain=.zillow.com, zgsession=1|77ec7415-621c-4a72-8b17-ea6a738200bf; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6b997-NXpYjD6xMTPRybGFgga2Aj334ZI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "267",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-o9Nt9qFF9foQ-HooCexSE-LjS6TTeEgVsvMgM5TnTLwqUtXcsfdoA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

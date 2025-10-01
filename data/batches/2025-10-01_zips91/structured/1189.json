@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/419-W-Broadway-10012/unit-4S/home/189803017",
+  "external_property_id": "189803017",
+  "scraped_timestamp": "2025-10-01T13:54:19Z",
+  "status": "blocked",
+  "listing_id": "8281f94f9cf49b0a43f50484ec3574f7",
+  "property_id": "e105f244fb3d1290d54deb3f6b2e158f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

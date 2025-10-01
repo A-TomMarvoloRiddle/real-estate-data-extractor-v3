@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/520-W-23rd-St-APT-3H-New-York-NY-10011/219648482_zpid/",
+  "external_property_id": "219648482",
+  "scraped_timestamp": "2025-10-01T13:54:05Z",
+  "status": "blocked",
+  "listing_id": "bddd226695b2b8a062ac30e950a68869",
+  "property_id": "7682bb56fd7fbbe775f1fa0cef021f6d",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1322-W-Huron-St-APT-4N-Chicago-IL-60642/58365596_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:32 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%246abcefce-c64b-4e19-bf37-a365671df146; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:32 GMT; Path=/; Domain=.zillow.com, zgsession=1|5f3fc9a4-5228-44ba-a606-e21ab840a79a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4cbe5-YFRU077QNCa8A8EaGP7aNMaUG8s\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "221",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "vVWV11iA1lcHUxSOJEHLd26mpbFjDNBPvWS5mHxVKVEwRFTIOgQ5JA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

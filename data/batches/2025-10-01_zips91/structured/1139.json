@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/60-W-9th-St-New-York-NY-10011/143088932_zpid/",
+  "external_property_id": "143088932",
+  "scraped_timestamp": "2025-10-01T13:53:54Z",
+  "status": "blocked",
+  "listing_id": "61e4d107d8047b96e846ed029016c8c5",
+  "property_id": "82952081845c68d67bce13439794a506",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

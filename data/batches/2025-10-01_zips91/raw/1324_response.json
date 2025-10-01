@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/366-W-11th-St-6EF-New-York-NY-10014/452681611_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:51 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2486326695-8739-452e-be7e-207f96f3b950; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:51 GMT; Path=/; Domain=.zillow.com, zgsession=1|7ab80729-e0d8-4186-9e45-dd13c2e3220b; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"453aa-Ey0JhAeRMUkZNQcMn/H4NmaijZk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "265",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "1wg4QWhLMPTU-fSChH88VrRdp94fbPXiAokgeuQBo7WvQwQ95Ttn3g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

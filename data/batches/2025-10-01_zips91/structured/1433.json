@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/250-W-89th-St-10024/unit-2N/home/198036508",
+  "external_property_id": "198036508",
+  "scraped_timestamp": "2025-10-01T13:56:19Z",
+  "status": "blocked",
+  "listing_id": "9d6576f651840b3361c47e94c983c949",
+  "property_id": "696c70d66c58f2a763e1664a18e27f24",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

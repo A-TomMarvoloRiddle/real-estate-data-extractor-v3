@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/160-W-86th-St-10024/unit-2A/home/45273618",
+  "external_property_id": "45273618",
+  "scraped_timestamp": "2025-10-01T13:56:19Z",
+  "status": "blocked",
+  "listing_id": "bb2ded06aa39c76d6edba061f0b47f8d",
+  "property_id": "99c2f70dc273380e97648b0b31af2038",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

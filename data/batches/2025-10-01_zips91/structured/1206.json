@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/83-Thompson-St-PENTHOUSE-New-York-NY-10012/443978128_zpid/",
+  "external_property_id": "443978128",
+  "scraped_timestamp": "2025-10-01T13:54:21Z",
+  "status": "blocked",
+  "listing_id": "91737fc7f311a59c1094607942361b85",
+  "property_id": "71b7d8ff98cb1f1a79894360f86b0cd1",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

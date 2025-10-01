@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/443-Hicks-St-APT-2E-Brooklyn-NY-11201/116166955_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:08:56 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244697216e-8710-43eb-bd84-818c830d95d6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:08:56 GMT; Path=/; Domain=.zillow.com, zgsession=1|3ef75512-8c00-4d86-9f24-927b525ad47d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"49435-+iOmgiUdUbje7K7kWzMFkXj5g5s\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "368",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "FMmXZSuYE6yv_LsECjUpbhzYjiV0R3FZkH-23Mrtz3mnq0NCMmAjNA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2-Cornelia-St-APT-506-New-York-NY-10014/31499357_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:53:27 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24bb9eeb63-b393-4ea6-9404-f92e37840b2b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:53:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|06cb2d1c-1cef-4052-a903-aa535aee1372; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4947e-O9FvTA0cCcxxbVEAdid+yDKaqx8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "304",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "eOADmVcVZzwnGXzgwIekDE3_BvPr9IZ6vT-y92tB_GVpq-pCygjuTA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

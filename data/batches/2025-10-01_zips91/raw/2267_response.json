@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1454-N-Dearborn-St-Chicago-IL-60610/3854684_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:40:38 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2459bc9e19-2363-4a5d-a46e-bb1ea5f21b0e; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:40:38 GMT; Path=/; Domain=.zillow.com, zgsession=1|2eca944f-1013-4ae5-96bb-b02f2f31a81f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"889a5-X1+PxVQs9CyvCUlM/k855RyeYdg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "343",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "SFjI1wboUmj6w4pdM4wXsd7XBUBLXugBUreJmuLdgaBOq23CLGCCiw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

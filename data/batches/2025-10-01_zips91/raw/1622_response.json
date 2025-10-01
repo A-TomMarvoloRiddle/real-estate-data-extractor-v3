@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/30-Front-St-25A-Brooklyn-NY-11201/2065688253_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:09:19 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24750ae81a-6c18-4079-92b0-61821775a4bd; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:09:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|cd8a7043-dd45-4d9f-98ae-12d0b8af1609; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6bac3-lHofws4INYkvxBR1wWCtTgsgstI\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "285",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "3JZUHDxT8yOiz_hCSUI0mcPp2Fpo2kElRBi-r10zeqOkkBhXkku4dw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

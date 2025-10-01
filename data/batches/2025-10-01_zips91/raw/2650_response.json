@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/520-N-Halsted-St-APT-410-Chicago-IL-60642/70449150_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:08 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f9009d69-7508-4419-88aa-631b754457a0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:08 GMT; Path=/; Domain=.zillow.com, zgsession=1|8c4db58f-17d4-4df2-b363-ae854cf881c4; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61dab-5CwQIlQYhjuGX4eBg2ie6jTZ3VY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "321",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "IgLrQg6ZuxJyWkX6_cDqLOfWCEatnn8_cqKaKHMu_ZsJdVMKkHZGiw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/550-W-Harrison-St-APT-552-Chicago-IL-60607/61961094_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:36:57 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d9705dcc-3afb-4458-bb30-a4337fccab14; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:36:57 GMT; Path=/; Domain=.zillow.com, zgsession=1|dc574982-504f-4811-af23-52959de75f13; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"502ae-IiRXRI2o8qfk7HEOddbjo5TE6BE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "253",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "DpKXhbIsOjukhkQli6PZcH-HuEulzpTEGO4r6pD_PEWk4hOUo6C_rw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

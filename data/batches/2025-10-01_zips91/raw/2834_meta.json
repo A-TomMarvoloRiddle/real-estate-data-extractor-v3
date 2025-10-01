@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/TX/Dallas/2160-Helsminster-Dr-75201/home/56442137",
+  "final_url": "https://www.redfin.com/TX/Dallas/2160-Helsminster-Dr-75201/home/56442137",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:11:03Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2834
+}

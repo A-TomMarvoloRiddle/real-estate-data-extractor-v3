@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/700-Park-Ave-APT-2B-New-York-NY-10021/244735224_zpid/",
+  "external_property_id": "244735224",
+  "scraped_timestamp": "2025-10-01T13:55:58Z",
+  "status": "blocked",
+  "listing_id": "aa905daca9069c8f3729451f22eb431b",
+  "property_id": "1d7b4752c6577e96b784d7397fb6fa31",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

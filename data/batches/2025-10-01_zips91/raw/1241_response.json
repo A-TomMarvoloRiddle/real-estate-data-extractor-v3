@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/565-Broadway-APT-8-New-York-NY-10012/244825534_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:50:33 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24997f5341-6682-4e6b-9915-a42614abaed4; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:50:33 GMT; Path=/; Domain=.zillow.com, zgsession=1|a92c5af8-05a0-497a-a80b-84f5c85fe93d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47dd1-JDLp87ghYQoS1yJDWSUQpKrINYk\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "203",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "WGlH9LYDuSlx3ZUf9p-OUjVlb1keBkci1U5_iZ9YJnjlM-ucH4-jYA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

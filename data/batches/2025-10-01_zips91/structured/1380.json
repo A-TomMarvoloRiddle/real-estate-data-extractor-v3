@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/200-E-75th-St-PENTHOUSE-4-New-York-NY-10021/443219608_zpid/",
+  "external_property_id": "443219608",
+  "scraped_timestamp": "2025-10-01T13:55:50Z",
+  "status": "blocked",
+  "listing_id": "62c79122eef41031d488af8c95f291d9",
+  "property_id": "7644c236b39487ccbfe3be5c9762cee2",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

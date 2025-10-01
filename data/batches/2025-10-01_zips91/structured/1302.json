@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/49-King-St-APT-5-New-York-NY-10014/122345630_zpid/",
+  "external_property_id": "122345630",
+  "scraped_timestamp": "2025-10-01T13:55:14Z",
+  "status": "blocked",
+  "listing_id": "3e4e5f6a8a565386c7530c1d8c347656",
+  "property_id": "6a0ac1ecaccc60db73a496bcb2372266",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

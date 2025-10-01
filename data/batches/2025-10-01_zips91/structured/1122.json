@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/13-W-13th-St-10011/unit-6JS/home/170062462",
+  "external_property_id": "170062462",
+  "scraped_timestamp": "2025-10-01T13:53:40Z",
+  "status": "blocked",
+  "listing_id": "abcfd68eb19c1c7e2a453c4ecf252e9f",
+  "property_id": "3f379d37e594a0707df69a73f3f8e485",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

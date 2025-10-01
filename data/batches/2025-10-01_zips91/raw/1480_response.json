@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/27-W-82nd-St-APT-2B-New-York-NY-10024/72522168_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:02:41 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c78acb0e-4cb9-4605-a539-ed3bde9c005f; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:02:41 GMT; Path=/; Domain=.zillow.com, zgsession=1|1db7c301-16df-478c-8d34-dafad33e7303; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48fbd-qdPVXyzc1Yq2qgOIvmVSlLK8HK0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "222",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "PE2WyOW8oE4RV4x7kQnKBfM6IT_xbNu-eq1JMYNv0st-aah2t6b1uQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

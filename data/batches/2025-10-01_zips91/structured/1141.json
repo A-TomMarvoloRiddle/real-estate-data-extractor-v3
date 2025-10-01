@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/228-W-17th-St-2B-New-York-NY-10011/2063323548_zpid/",
+  "external_property_id": "2063323548",
+  "scraped_timestamp": "2025-10-01T13:53:56Z",
+  "status": "blocked",
+  "listing_id": "dd3cce3367e69fc1494efa7a3493d0c7",
+  "property_id": "1a6e7b1199bb5ca9d26142dbb66309c3",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

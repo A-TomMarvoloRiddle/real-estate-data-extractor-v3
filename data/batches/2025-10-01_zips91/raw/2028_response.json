@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/416-Carroll-Canal-Venice-CA-90291/20443962_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:26 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24eba4ef3d-1974-4041-a7a5-6498f010fbeb; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|961edcd7-66a3-4a81-a880-a566ca8b5c91; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6ec98-vln/jn7AxA/GI5DtVwmBdSHC664\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "227",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ofnq59i--TiH_LF3QbgH0TCNKxE3vueBg9ZMaPsZyNz_uLAEM5nmJw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/354-W-20th-St-New-York-NY-10011/300186245_zpid/",
+  "external_property_id": "300186245",
+  "scraped_timestamp": "2025-10-01T13:53:53Z",
+  "status": "blocked",
+  "listing_id": "882c8836a83846642d25f9be96dac6f1",
+  "property_id": "a92e3809e41f3514ab77de5a051de6b9",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

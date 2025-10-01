@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1302-N-Bell-Ave-Chicago-IL-60622/306329524_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:21 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243f9fe2b1-d672-4344-a7a5-b92334ea9f07; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|848f7784-ce24-4b46-b331-3ccac1e8a49e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"66c8e-PZ6AONU/2HQ1ojkFQzO4ofBcdE8\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "236",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "lst4hDlp6iyuP1Y_coMd-VuMJsuP_hO2UW3RYVBR-Vn-fLN0hoFRHA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

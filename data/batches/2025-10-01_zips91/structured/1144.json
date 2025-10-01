@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/32-Washington-Sq-W-APT-14E-New-York-NY-10011/119911566_zpid/",
+  "external_property_id": "119911566",
+  "scraped_timestamp": "2025-10-01T13:53:59Z",
+  "status": "blocked",
+  "listing_id": "af2d255fcf0cecb146e85b373e395e45",
+  "property_id": "b24847a915cd7173ae0fd20f8b97eb9f",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

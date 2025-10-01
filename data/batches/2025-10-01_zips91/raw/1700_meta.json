@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Los-Angeles/560-S-Bronson-Ave-90020/home/7090392",
+  "final_url": "https://www.redfin.com/CA/Los-Angeles/560-S-Bronson-Ave-90020/home/7090392",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:13:23Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1700
+}

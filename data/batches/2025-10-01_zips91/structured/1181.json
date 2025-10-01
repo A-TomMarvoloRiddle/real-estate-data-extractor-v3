@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/543-Broadway-10012/home/45340428",
+  "external_property_id": "45340428",
+  "scraped_timestamp": "2025-10-01T13:54:18Z",
+  "status": "blocked",
+  "listing_id": "5019cb2e709cd1825ffd2754b238e02e",
+  "property_id": "1bda2e9537303e7628660eb08da35528",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

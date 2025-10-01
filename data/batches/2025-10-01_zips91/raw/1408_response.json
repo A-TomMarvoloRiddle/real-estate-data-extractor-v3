@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/230-E-73rd-St-8DEF-New-York-NY-10021/452280293_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:59:12 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24542841b2-5acf-42f8-b3b8-aafc55498dab; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:59:12 GMT; Path=/; Domain=.zillow.com, zgsession=1|ac7149c2-1de4-45dd-b436-8298e820f7a1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4ddca-dAK0Une8sVxKrDfndYh0giJ6yhc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "244",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "oMrkqcHImx13i5ldGHC1z40SD1Hfb275A3iOqCph0Zge0RR6JDvuMQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

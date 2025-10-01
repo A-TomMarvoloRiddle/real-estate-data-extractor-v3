@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/326-W-17th-St-APT-3E-New-York-NY-10011/219649095_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:44:49 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241af712c9-6a0a-4132-a6b6-a6aed4987799; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:44:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|d7563423-9adc-416a-a2ea-64a4e28df552; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"49713-pkP3BPiuxHLWzeGToNubLE0PUN0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "218",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "t_AwGonVW5zC6YCNvevnHMhs0uLSU8qbiSSCF1u8UFjmckHc-6EUpQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/15105-Meandering-Pl-Dallas-TX-75248/26872246_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:29:01 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2442922311-a9a8-4326-92eb-e86a9376214b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:29:01 GMT; Path=/; Domain=.zillow.com, zgsession=1|c428ce76-aefe-4c70-a2b1-842a863a5bf3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"670bc-bqngzlXworKdXYkO9gMGgdzqmqg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "306",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "sn154-STWF0tEvP4dDrA_N7FK5NODmlieEw8ArZtsfKJEiclLhxbLw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

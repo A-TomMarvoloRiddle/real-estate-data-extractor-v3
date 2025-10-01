@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/6437-Cedar-Hollow-Dr-Dallas-TX-75248/2070562777_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:27:49 GMT",
+    "via": "1.1 zgs, 1.1 31a04db573d633e87bdd7604f64e205a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2450f44df2-8d9b-483d-9370-735284adf417; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:27:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|f61bde3b-ae2d-4e70-b0f6-16f768f0c5a5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"101069-gYxLRpPS9JyMuIwrVO786B3UQtU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "279",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "AMnl0BkaFdLgkhLaq8EgWYENgQ86bC8h-p1y7nn8QovK2cZqU_kRfw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

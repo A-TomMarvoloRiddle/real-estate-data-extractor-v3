@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1740-N-Marshfield-Ave-APT-30-Chicago-IL-60622/2075494414_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:30 GMT",
+    "via": "1.1 zgs, 1.1 d17e7b176fcbd8d627a8735bba5658d0.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24bbfbd428-09c6-4ec5-9070-456a0bededba; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:30 GMT; Path=/; Domain=.zillow.com, zgsession=1|13927b83-ed24-4413-ac15-f60e9284ebe5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5c373-djaEpLCcLNvzL0HVcw6Ayl+i5SM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "278",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Hy0HhtEuj25i2Cr72kEGhGka96lF8aiiRj8q9hFr-qM1zW_XKcZUmw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/131-Thompson-St-APT-6F-New-York-NY-10012/244725435_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:48:54 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24a06ef19a-425f-408d-bad2-0077bf44640b; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:48:54 GMT; Path=/; Domain=.zillow.com, zgsession=1|326a5d5e-e554-4683-a818-0d2af5f1b833; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"47384-EZ4AgqNWTy0byqccNB67Vq34jIY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "231",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "LxQcfr1k08X1ozRbQBOu9mxJMGyPV30HobsGrQ9OADpi8sX4mfHUFQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

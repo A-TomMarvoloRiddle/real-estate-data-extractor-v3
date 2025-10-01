@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/34-E-70th-St-New-York-NY-10021/442156659_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:58:52 GMT",
+    "via": "1.1 zgs, 1.1 da3891cff4e98b53a9aac5e32ada0082.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f4bcd664-0454-4cd5-96c9-1984e360d69c; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:58:52 GMT; Path=/; Domain=.zillow.com, zgsession=1|14b4e250-b243-4a42-85f6-857f3d653ac8; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"598df-dnGjYp7AeWyOB/ivn631g5wSWJQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "307",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "T5b5_HPMT2Oukj8Ei26XhGsJyRaI8CeCpxccjdR4ZQLZQ4uv7ky2uA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

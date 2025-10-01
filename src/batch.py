@@ -2,8 +2,6 @@
 # Purpose: Initialize a new batch with ID, folders, and seed search pages.
 
 import json
-# import datetime
-# from pathlib import Path
 from src.settings import CFG, make_batch_dirs, today_ymd, now_utc_iso
 
 def init_batch() -> str:

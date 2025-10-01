@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1921-N-Dayton-St-Chicago-IL-60614/3736507_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:51:19 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24f2fc5e4b-5b05-464c-b6e8-d74ed3913c8d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:51:19 GMT; Path=/; Domain=.zillow.com, zgsession=1|7a5a361e-7c5f-4c5f-ae4a-c785f1309f19; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"6dd7a-YFfpQMcNz9IPmCIrp1jXAeTQUY0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "258",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "ktIOmHzgQmeHexu0x3HaRGce1f-IaJ9p1MCkCTvVZiYQmbSBmX924A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/1819-N-Saint-Louis-Ave-60647/unit-1FS/home/178526181",
+  "final_url": "https://www.redfin.com/IL/Chicago/1819-N-Saint-Louis-Ave-60647/unit-1FS/home/178526181",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T13:03:50Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2700
+}

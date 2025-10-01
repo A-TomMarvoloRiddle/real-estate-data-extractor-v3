@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/16-E-76th-St-New-York-NY-10021/31534012_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:57:39 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2478228a09-80ad-4a00-bf12-19c220642e84; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:57:39 GMT; Path=/; Domain=.zillow.com, zgsession=1|7a417f67-730a-4dc1-be81-a85af553784f; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4b0e2-d1iLyMU9/uuMH6gxz4oFppaV+pY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "226",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "qUeD_bwvJjy5Ggn_Zp5wt5ybUJrN01SwUlvTB9mK4LF1lB55yZZerw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

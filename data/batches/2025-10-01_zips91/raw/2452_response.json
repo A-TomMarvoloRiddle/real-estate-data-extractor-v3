@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/345-W-Fullerton-Pkwy-APT-1706-Chicago-IL-60614/3738450_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:50:40 GMT",
+    "via": "1.1 zgs, 1.1 daf70188b3522aaba175a76b5a990d30.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24c1f1eebf-a12b-4a94-84bf-b33d3c7511b9; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:50:40 GMT; Path=/; Domain=.zillow.com, zgsession=1|fa516566-a708-4741-a3db-e8edae47a53e; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5a5b7-7NykOFlHyYo9+x8T9nd/Qg5DZMs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "257",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Vml9Bi2emvqJB5svYF64oObC1dPp_gqtq4jqc6L9J-GjsW8NuYacCA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

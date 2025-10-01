@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2329-Clement-Ave-Venice-CA-90291/20444578_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:29:50 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244e2da867-5770-4991-b819-992f0b469d46; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:29:50 GMT; Path=/; Domain=.zillow.com, zgsession=1|545e9c52-dc9d-4441-a159-b172583b8381; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"616db-aKFq1+I8AqnQhrFjhc/UfrYYOks\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "207",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "foyL3sYSokRJRS82-tnzayTPeLGf5i5lUxFpEKxFxmnQG2eHxdggvg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

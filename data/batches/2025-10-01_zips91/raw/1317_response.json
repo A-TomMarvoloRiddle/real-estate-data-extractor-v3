@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/67-Bedford-St-New-York-NY-10014/31499139_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:27 GMT",
+    "via": "1.1 zgs, 1.1 ac260dd9b4273f6410cd575f81895452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24428ac56c-d1d2-49bc-b5a6-23b8199e5f83; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:27 GMT; Path=/; Domain=.zillow.com, zgsession=1|bf5dca61-630f-44ed-9431-68ae3a6b5bfa; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"53f6b-BEEIrnx3ZBUQtiUfBUA9A3dzLps\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "383",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "avWW5UVGHsrB7hcHFZFSmKHKqL3rYytHZybgcFFuO_-QvyVUraszZA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

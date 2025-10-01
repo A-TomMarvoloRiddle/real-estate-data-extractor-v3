@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/428-Columbus-Ave-10024/Ph/home/190803646",
+  "external_property_id": "190803646",
+  "scraped_timestamp": "2025-10-01T13:56:19Z",
+  "status": "blocked",
+  "listing_id": "4c2186453256fae05896beec2f2928af",
+  "property_id": "852bd9a42f8be3ddcb5fe93771d1fd4e",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

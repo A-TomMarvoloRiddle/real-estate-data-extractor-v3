@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/39-Remsen-St-APT-2D-Brooklyn-NY-11201/244995493_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:40 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2490b76012-5c03-43eb-8296-1639cdd75350; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:40 GMT; Path=/; Domain=.zillow.com, zgsession=1|a501a9fd-e105-43c0-8d5c-a494d991a9ac; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"7e91e-WnERCW8JFzsERKoVfNozfNkKmwE\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "424",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "pNLYcAYY5lnss-kIQtDRQJa3lGigz8lM1jqlezkSqFle0JORbUzKnQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

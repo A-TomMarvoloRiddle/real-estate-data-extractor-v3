@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/308-Mott-St-New-York-NY-10012/112330704_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:35 GMT",
+    "via": "1.1 zgs, 1.1 7317cc61ba9a27a9e5bfeac254a8ed4a.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fe4b1af6-23eb-4425-907f-e4ae0fc3f054; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:35 GMT; Path=/; Domain=.zillow.com, zgsession=1|77e057ff-15ec-45e1-9187-bd236fe0c65a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"455d2-OSNhjr024rw6Uz8wFo3cDhnqYPY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "324",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "CqibXKE8UgAD_BsEOTJWbZLKhFSC61zlu5YlJDZDNMKDJsEOCTgj7g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

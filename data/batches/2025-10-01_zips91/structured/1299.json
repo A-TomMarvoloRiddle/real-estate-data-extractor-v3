@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/238-W-11th-St-New-York-NY-10014/31500488_zpid/",
+  "external_property_id": "31500488",
+  "scraped_timestamp": "2025-10-01T13:55:11Z",
+  "status": "blocked",
+  "listing_id": "c8f8339d99788b35fcce5cf8cfe9ca50",
+  "property_id": "15faaa3006a32c61c817db4a2cca2a85",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/CA/Los-Angeles/360-S-Kenmore-Ave-90020/unit-302/home/7089333",
+  "final_url": "https://www.redfin.com/CA/Los-Angeles/360-S-Kenmore-Ave-90020/unit-302/home/7089333",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:14:07Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1718
+}

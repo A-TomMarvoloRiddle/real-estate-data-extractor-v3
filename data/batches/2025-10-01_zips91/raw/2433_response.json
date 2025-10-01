@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2100-N-Lincoln-Park-W-APT-4DN-Chicago-IL-60614/2082939960_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:49:30 GMT",
+    "via": "1.1 zgs, 1.1 6fa053f932ff64f278d8eca328052602.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%242548a8b1-1d55-472d-8c6b-ba15f6a53600; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:49:30 GMT; Path=/; Domain=.zillow.com, zgsession=1|d94aa51f-33f6-4bf1-884a-73f2304439c1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"48338-FxtcqOCrMtepthi/jr3n6cRx1Gc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "287",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "wcPh5SXCH67Ryo8-sec_UNvuFHYqHl-WaUn8gN1HjWH8_9WQ6sZCbQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

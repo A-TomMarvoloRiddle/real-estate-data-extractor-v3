@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/340-W-23rd-St-New-York-NY-10011/83940486_zpid/",
+  "external_property_id": "83940486",
+  "scraped_timestamp": "2025-10-01T13:54:15Z",
+  "status": "blocked",
+  "listing_id": "3f6af574ef8a7f5ad09a59989a81b8d3",
+  "property_id": "8de91d1b5a317e5a32f09a531c4147b6",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

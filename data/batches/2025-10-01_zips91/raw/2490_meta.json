@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/IL/Chicago/2651-W-Augusta-Blvd-60622/unit-3/home/178419965",
+  "final_url": "https://www.redfin.com/IL/Chicago/2651-W-Augusta-Blvd-60622/unit-3/home/178419965",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:52:50Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2490
+}

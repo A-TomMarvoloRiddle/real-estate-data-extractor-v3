@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/317-E-73rd-St-APT-4RE-New-York-NY-10021/123979553_zpid/",
+  "external_property_id": "123979553",
+  "scraped_timestamp": "2025-10-01T13:55:49Z",
+  "status": "blocked",
+  "listing_id": "f81256b8ac9e5c3d9793cc599edf4ba2",
+  "property_id": "b6f1b84c273bf54f8d39e16d6b597542",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

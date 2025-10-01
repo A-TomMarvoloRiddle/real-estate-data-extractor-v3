@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/310-W-18th-St-APT-2B-Manhattan-NY-10011/72515146_zpid/",
+  "external_property_id": "72515146",
+  "scraped_timestamp": "2025-10-01T13:54:02Z",
+  "status": "blocked",
+  "listing_id": "340aa6cdd0ec4cbcff89f191b31699fb",
+  "property_id": "f29e08a66a00d892488046b857aef678",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

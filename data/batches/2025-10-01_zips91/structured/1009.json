@@ -1,0 +1,47 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/81-Irving-Pl-10003/unit-15DE/home/45146464",
+  "external_property_id": "45146464",
+  "scraped_timestamp": "2025-10-01T13:53:19Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 1650000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 849,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/446/RLS20051446_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_4_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_12_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_6_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_10_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_2_J.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/446/genMid.RLS20051446_8_J.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.737268%2C-73.9866989&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=EQ_qr8U2-K1futJC59AGo9C7kzE=",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/icons/PopularHome.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "THORTON WILDER (OUR TOWN) LIVED IN THIS HOME  &  WROTE THIS ABOUT IT: ?  \"My new apartment is 81 Irving Place. .. I've lived five days in my New York home and am already flooded with a new overwhelming feeling about New York. \" Thornton Wilder referencing Residence 15DE, in a letter to Gertrude Stein and Alice Toklas, November 18, 1939. LUMINOUS  &  LITERARY, TRIPLE CORNER CLASSIC w/ STUNNING VIEWS IN THREE DIRECTIONS BY GRAMERCY PARK BIG BEAUTIFUL ROOMS, CASEMENT WINDOWS, SOARING CEILINGS, RESTORED PERIOD DETAIL AT PRIZED PRE-WAR ADDRESS High atop Irving Place is perched a Manhattan treasure. This magical home, with majestic views in three directions, and cheerful sunshine spilling through its handsome casement windows, floats above it all. With a prized vantage point to its coveted building's famous gargoyles and gorgeous architecture, a rare, soulful home unfolds. Above you soar high beamed ceilings and arches, underfoot are hardwood floors, and everywhere you look, there is classic, timeless beauty.  The grand living room is an impressive, stretch-out entertaining space. A corner room with supreme, open city skyline views to the East and South, the living room lives largely. Offering a dining area under its signature arched ceiling, and an endearing, corner, period built-in (ideal for collectibles and books), this great room certainly earns the name. Served by a sweet windowed kitchen, the living/dining room brings all day sunshine and all night moonbeams.  Both bedrooms are large and lovely, offer dual exposures and bright views, and are gracefully on opposite ends of this winsome home. The primary bedroom is king-sized, offers peeks of Gramercy Park to the South and dramatic city views East. With an immense wall of closets, an integrated workspace, and an en suite windowed bath, this space is masterful. On the other side of this standout residence is the large guest bedroom suite. With two bright exposures, more architectural views of the building's prized gargoyles, and its own full, en suite guest bath, this versatile bedroom is made for an expansive life.  Ideally situated in the heart of the Gramercy Park neighborhood, 81 Irving Place is an architecturally distinguished and incredibly well-run full-service prewar cooperative building with a live-in Superintendent, attended lobby, laundry room, and a bicycle storage room. The location grants residents enviable proximity to Union Square Park, its farmer's market, and the culinary epicenter of New York City. The building permits dogs, sublets, parental co-purchases, and pied a terre owners.  Supremely situated in perhaps the most treasured part of 81 Irving, this rare, one-of-a-kind home gleams proudly. Part of the Gramercy Park Historic District, this rare, resplendent residence enjoys all of the supreme assets and benefits of its well-served, well-run building. With a seasoned staff, and a world-class location along one of Manhattan's most idyllic and sought-after tree-lined blocks, here is a 1929 beauty in a location that comes with bragging rights. Nearby is every downtown trophy destination:  A multitude of cultural, shopping, dining, educational, entertainment, and fitness destinations are at your doorstep -- not to mention Gramercy Park, Union Square Park (and green market), Park Avenue South, Whole Foods, Trader Joe's, and a plethora of easy transportation options.  Thorton Wilder apparently loved his life in this home. It's easy to understand why. Come discover this residential stand-out, and be \"flooded with a new overwhelming feeling about New York. \" Flip Tax: 3% of Purchase Price to be Paid by Purchaser.",
+  "price_history": [
+    {
+      "event_date": "Sep 28, 2025",
+      "event_type": "price_change",
+      "price": 1650000,
+      "notes": null
+    }
+  ],
+  "street_address": "81 Irving Pl",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "15DE",
+  "listing_id": "8ff993e028ff740c54d2c1dd1d8be612",
+  "property_id": "c68c56b2ab36596a6ddd31a800bc2d23",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

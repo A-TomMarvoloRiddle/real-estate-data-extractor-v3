@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1500-W-Monroe-St-UNIT-523-Chicago-IL-60607/70473269_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:37:03 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%248dda47bf-bbd4-4087-876e-5b80b3c26474; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:37:03 GMT; Path=/; Domain=.zillow.com, zgsession=1|a60e64ba-8f63-4c4b-9f46-8677ad50ec0d; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"3f074-0oGIZIs5kl9vp53ryqpjR2JdhRg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "255",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "xooTfRaaIBNEMFqF2fi-eRGG_CWxZLx68wDn9qAYMBzj4sFqoi_PNQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

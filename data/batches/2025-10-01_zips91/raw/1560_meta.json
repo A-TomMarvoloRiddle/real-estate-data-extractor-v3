@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.redfin.com/NY/New-York/230-E-79th-St-10075/unit-12F/home/170678733",
+  "final_url": "https://www.redfin.com/NY/New-York/230-E-79th-St-10075/unit-12F/home/170678733",
+  "status": 202,
+  "scraped_timestamp": "2025-10-01T12:06:30Z",
+  "source_id": "redfin",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 1560
+}

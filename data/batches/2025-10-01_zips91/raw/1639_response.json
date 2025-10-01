@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/12-Sidney-Pl-Brooklyn-NY-11201/30567942_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:10:10 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24308ab9d8-e900-456c-b9d5-82a14709f243; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:10:10 GMT; Path=/; Domain=.zillow.com, zgsession=1|140fbe22-5701-481a-9fb5-21aedc8987f2; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"628bf-FW3veRSiyPcEzaV1LVanfvG7mC0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "276",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-yk0rn5Z2E4KzWIT5hfiDU9UirlMLCHokEU71xEhqJJlkS-vG1jQPg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

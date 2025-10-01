@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1075-W-Roosevelt-Rd-206-Chicago-IL-60607/87714418_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:38:26 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%241a6e938f-5833-40c8-91b1-88d221f48c6b; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:38:26 GMT; Path=/; Domain=.zillow.com, zgsession=1|230893bc-ad18-4cca-88ba-b30634070342; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"50ca3-KNpMBuV1e+yIFzU5maolXK48OUc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "274",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "-Cu5AvQ3BRBjLbs7gMS0l6FAo1F0hhUI-qtTI1KgYg7FzkkmAbdIow==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

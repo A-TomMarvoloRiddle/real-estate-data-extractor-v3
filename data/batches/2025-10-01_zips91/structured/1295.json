@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/147-Waverly-Pl-APT-PENTHOUSE-New-York-NY-10014/80004426_zpid/",
+  "external_property_id": "80004426",
+  "scraped_timestamp": "2025-10-01T13:55:08Z",
+  "status": "blocked",
+  "listing_id": "4e2f512b6c1b5274516160c31ada2592",
+  "property_id": "343c77a94fd08554a3851296b4a99c7b",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

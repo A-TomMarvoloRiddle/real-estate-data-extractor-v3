@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/36-Bleecker-St-3DC-New-York-NY-10012/455788050_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:29 GMT",
+    "via": "1.1 zgs, 1.1 6256ada97b10f2cab8f1515ff4bb2488.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d473cab5-10c5-40ae-af04-f7787dc14599; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:29 GMT; Path=/; Domain=.zillow.com, zgsession=1|ba588782-3e6d-4114-9a9d-bc005de79a05; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"5912f-dI97L5mXZhpPFzJ8W4ZErI3Vr1Q\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "201",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "CanpOapm4y1NePDE68RtXGld0DoDAsOMtJo1ci-uYZDKT6dX5Eu00A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

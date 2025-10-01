@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/167-Perry-St-10014/unit-4ACD/home/175194945",
+  "external_property_id": "175194945",
+  "scraped_timestamp": "2025-10-01T13:54:57Z",
+  "status": "blocked",
+  "listing_id": "febcb4fe582152870f1da595c18e711e",
+  "property_id": "a027683f018b43872a205f73736d8847",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

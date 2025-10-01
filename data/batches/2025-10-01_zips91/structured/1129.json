@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/159-W-24th-St-APT-5B-New-York-NY-10011/117451102_zpid/",
+  "external_property_id": "117451102",
+  "scraped_timestamp": "2025-10-01T13:53:46Z",
+  "status": "blocked",
+  "listing_id": "800301b38c97ce99ff070334882921d1",
+  "property_id": "b8735aead13f3e7bcdb5aad437801c92",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

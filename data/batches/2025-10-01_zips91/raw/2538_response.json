@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1729-W-Erie-St-3N-Chicago-IL-60622/87722857_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:14 GMT",
+    "via": "1.1 zgs, 1.1 02fec6f134b630922a830190ceb1b208.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24939bf7d2-b32e-4794-ac6d-bc542139e5f5; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|5c970373-8b73-428c-8588-acdc2b925e4a; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4aeba-0PbEJkAXi3HZoAblJyHt83anBnc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "267",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "VPyun7peE1y6876547H_FfrKWlYDjXiWxF44ijgClpJeXzwqb42SDA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

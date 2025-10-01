@@ -1,0 +1,11 @@
+{
+  "batch_id": "2025-10-01_zips91",
+  "requested_url": "https://www.zillow.com/homedetails/822-W-Hubbard-St-UNIT-2-Chicago-IL-60642/54537510_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/822-W-Hubbard-St-UNIT-2-Chicago-IL-60642/54537510_zpid/",
+  "status": 200,
+  "scraped_timestamp": "2025-10-01T13:02:12Z",
+  "source_id": "zillow",
+  "crawl_method": "firecrawl_v1",
+  "seed_kind": "detail",
+  "idx": 2667
+}

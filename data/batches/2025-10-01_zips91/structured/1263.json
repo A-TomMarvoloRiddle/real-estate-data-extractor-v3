@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/146-Waverly-Pl-10014/home/45245222",
+  "external_property_id": "45245222",
+  "scraped_timestamp": "2025-10-01T13:54:58Z",
+  "status": "blocked",
+  "listing_id": "3841acc1f75dc9e2c2948cb28443479c",
+  "property_id": "54343140d266d4ce8b621b881ace1233",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

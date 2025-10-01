@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1719-W-Foster-Ave-Chicago-IL-60640/454865374_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:59:49 GMT",
+    "via": "1.1 zgs, 1.1 8912379aa8fd41d6b1c80a8ecda8bcc6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%243aecdf08-fc4e-44ca-981d-825705d3b3d6; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:59:49 GMT; Path=/; Domain=.zillow.com, zgsession=1|884be5f3-e10f-4215-99b5-34d99ca99b60; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"65389-04IgL3dPibft1bcpbud2RLNnr1c\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "225",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6s2Qo458vL9vpKOBjQft9khIe79y8hEBlhWjiIL2BVOtSfq7Ev5frg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

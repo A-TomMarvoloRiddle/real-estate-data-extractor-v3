@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/123-3rd-Ave-PENTHOUSE-18-New-York-NY-10003/450142787_zpid/",
+  "external_property_id": "450142787",
+  "scraped_timestamp": "2025-10-01T13:53:29Z",
+  "status": "blocked",
+  "listing_id": "a1312a6b75186d372b22fffe2d72fb6c",
+  "property_id": "25053e000c787a538c2f22d9b2d92428",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

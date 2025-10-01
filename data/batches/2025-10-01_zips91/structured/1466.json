@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/135-W-77th-St-New-York-NY-10024/31521779_zpid/",
+  "external_property_id": "31521779",
+  "scraped_timestamp": "2025-10-01T13:56:33Z",
+  "status": "blocked",
+  "listing_id": "22ceffc2c4f1ab622e45be78148996dc",
+  "property_id": "7567ab84bb9835d6976b300af886fc09",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/160-Bleecker-St-APT-8GW-New-York-NY-10012/119910644_zpid/",
+  "external_property_id": "119910644",
+  "scraped_timestamp": "2025-10-01T13:54:23Z",
+  "status": "blocked",
+  "listing_id": "92a70e2abca7c777cd253b2307907d89",
+  "property_id": "0d4f38c5bc26dc43172dfe690c562348",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

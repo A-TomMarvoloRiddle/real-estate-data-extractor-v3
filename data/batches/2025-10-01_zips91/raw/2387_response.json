@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/3810-N-Fremont-2B-Chicago-IL-60613/2087912055_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:47:15 GMT",
+    "via": "1.1 zgs, 1.1 dd239fa6f06e5b3ae1437460dbc3d6a6.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fe4f2d73-cafa-4452-a116-41840fb5c802; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:47:15 GMT; Path=/; Domain=.zillow.com, zgsession=1|60306a1a-33be-4952-b30a-bdccff23a639; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"590fe-b4Y3uhuzkEGU0q8fC3YB+TFyDp0\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "326",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "RkjL1N7JRyNsf18SnuSoxGoLARv7bEN98pZ2IDnb5P5bIcBQUq289g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

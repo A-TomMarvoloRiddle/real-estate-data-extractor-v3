@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/630-W-Waveland-Ave-APT-4A-Chicago-IL-60613/3714905_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:46:18 GMT",
+    "via": "1.1 zgs, 1.1 667c082a8458a04ae8467a65bf75a4da.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2470ade9da-ee6a-46a9-9217-2153c3f19eb1; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:46:18 GMT; Path=/; Domain=.zillow.com, zgsession=1|f7ecf72a-a111-4af6-957e-0580e7070499; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4fd27-A/0NizxsQLS/e28SXzixT8q/Lm4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "249",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "6pTwmh7RK_AajSxQSlLaMf1pS1zumwhomD748fm17_g9qPqHvFTQVQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

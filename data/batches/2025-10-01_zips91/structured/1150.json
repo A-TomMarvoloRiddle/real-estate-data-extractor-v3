@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/55-W-9th-St-New-York-NY-10011/31498803_zpid/",
+  "external_property_id": "31498803",
+  "scraped_timestamp": "2025-10-01T13:54:04Z",
+  "status": "blocked",
+  "listing_id": "d98ecc17b2553783dab012c7618dc1ca",
+  "property_id": "757f624ec06121dcaac08b1a04ef8196",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

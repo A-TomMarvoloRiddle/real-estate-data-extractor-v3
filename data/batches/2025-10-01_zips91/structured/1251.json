@@ -1,0 +1,11 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/147-Waverly-Pl-10014/home/45194396",
+  "external_property_id": "45194396",
+  "scraped_timestamp": "2025-10-01T13:54:57Z",
+  "status": "blocked",
+  "listing_id": "687eb8526db076e082511daa5a14101b",
+  "property_id": "fc5a44012e98318311616edfe8df9540",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

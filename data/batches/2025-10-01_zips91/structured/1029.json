@@ -1,0 +1,51 @@
+{
+  "source_id": "redfin",
+  "source_url": "https://www.redfin.com/NY/New-York/54-E-8th-St-10003/unit-3L/home/170668561",
+  "external_property_id": "170668561",
+  "scraped_timestamp": "2025-10-01T13:53:25Z",
+  "status": "ok",
+  "title": "Payment calculator",
+  "list_price": 448000,
+  "beds": 3.0,
+  "baths": 3.5,
+  "interior_area_sqft": 475,
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/450/RLS20048450_E.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/450/genMid.RLS20048450_1_E.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/450/genMid.RLS20048450_4_E.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/450/genMid.RLS20048450_2_E.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/450/genMid.RLS20048450_3_E.jpg",
+    "https://maps.google.com/maps/api/staticmap?sensor=false&style=feature%3Aadministrative.land_parcel%7Cvisibility%3Aoff&style=feature%3Alandscape.man_made%7Cvisibility%3Aoff&style=feature%3Atransit.station%7Chue%3A0xffa200¢er=40.7309198%2C-73.9937861&channel=desktop_xdp_above_fold_static_preview&size=200x200&scale=1&format=jpg&zoom=11&client=gme-redfin&signature=OFnWv_QaIO12uHE69_tP0G-li4g=",
+    "https://ssl.cdn-redfin.com/v595.4.0/images/icons/RatesDrop.svg",
+    "https://ssl.cdn-redfin.com/v596.0.0/images/logos/rebny_small.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/apple-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/google-app-download-badge-284x84.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/united-states.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/flags/canada.png",
+    "https://ssl.cdn-redfin.com/vLATEST/images/footer/equal-housing.png"
+  ],
+  "description": "Prime Greenwich Village Residence & nbsp;   Apartment 3L                 50-54 East 8th Street  Heart of Greenwich Village  Price: $448,000  This is being sold with a tenant in place with the lease option to renew for an additional year in May 2026.  Discover urban living at its finest in this thoughtfully designed apartment that perfectly captures the essence of Greenwich Village charm. Apartment 3L offers an intelligently configured spacious layout that seamlessly integrates your living, sleeping, working, and dining needs into one harmonious space.   Apartment Features                 Interior Highlights:      Spacious, versatile layout accommodating multiple living zones Combo living area perfect for entertaining and relaxation Dedicated sleep area for privacy and comfort Functional work space ideal for remote work or creative pursuits Dining area for intimate meals and gatherings Modern kitchen equipped with brand-new appliances     Contemporary windowed bathroom with natural light     Three generously sized deep closets providing exceptional storage     Grand entry foyer creating an impressive first impression     North-facing windows overlooking vibrant East 8th Street  Unbeatable Location Positioned in the absolute heart of Greenwich Village, you'll be steps away from the iconic Washington Square Park - your own backyard oasis in the city. The neighborhood's culinary scene is at your doorstep, with renowned restaurants like Del Arte just moments away, alongside countless cafes, bistros, and dining establishments that make the Village a food lover's paradise.   Building Amenities                 50-54 East 8th Street is a distinguished red brick elevator cooperative that combines classic New York architecture with modern conveniences:      Beautifully maintained and landscaped common garden - a rare urban retreat     On-site laundry facilities for convenience     Private garage for residents     Professional resident manager and exceptional building staff     Generous sublease policy offering flexibility rare among cooperatives  Transportation  &  Connectivity This prime location puts you steps away from all major transportation options, ensuring effortless connectivity to every corner of New York City while keeping you rooted in one of Manhattan's most beloved and culturally rich neighborhoods.  Experience the perfect blend of Village charm, modern comfort, and urban convenience in this exceptional Greenwich Village home.",
+  "price_history": [
+    {
+      "event_date": "Sep 25, 2023",
+      "event_type": "price_change",
+      "price": 439000,
+      "notes": null
+    },
+    {
+      "event_date": "Jul 7, 2023",
+      "event_type": "price_change",
+      "price": 459000,
+      "notes": null
+    }
+  ],
+  "street_address": "54 E 8th St",
+  "postal_code": "10003",
+  "city": "New York",
+  "state": "NY",
+  "unit_number": "3L",
+  "listing_id": "2d4f4bb79069b4b724ab4cd5b99676e3",
+  "property_id": "6d090016de1c3d58854ba30c05910f5c",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

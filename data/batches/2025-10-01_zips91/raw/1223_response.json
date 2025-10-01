@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/44-Mac-Dougal-St-New-York-NY-10012/31497616_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:49:37 GMT",
+    "via": "1.1 zgs, 1.1 1083faa0812cd95a7f5f70a626253198.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24886d062a-b438-4133-81c9-dcf8db83a28d; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:49:37 GMT; Path=/; Domain=.zillow.com, zgsession=1|fcfdfc31-67fc-450c-b4b0-06f5e2033835; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4e830-+I9LNSiqmOlRuimOAL9MLl2/EuY\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "204",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "1sg-x5uiexSIgYHCPROPTQO7AAu7oUXhOSEfkx8X0tagGpBrgIndZg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

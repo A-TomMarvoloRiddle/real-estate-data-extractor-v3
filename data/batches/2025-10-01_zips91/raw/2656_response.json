@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/950-W-Erie-St-APT-702-Chicago-IL-60642/65565273_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:01:28 GMT",
+    "via": "1.1 zgs, 1.1 7ba87569e48de4463762ac665c3e9452.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2455a42460-2a59-4817-8a16-04d230c09a8a; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:01:28 GMT; Path=/; Domain=.zillow.com, zgsession=1|52ce07c1-11c7-4884-964e-090eb9355068; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"4b0ae-QcYCPKHqWl5qvoCCsUwaSvC/npg\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "238",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "UFndFttgFq5aPiNq4NpLmx0EBThdgpYwJhlVnAyX6NRxo6dNkrwJiw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

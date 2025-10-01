@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/20-E-76th-St-PENTHOUSE-1-New-York-NY-10021/443107808_zpid/",
+  "external_property_id": "443107808",
+  "scraped_timestamp": "2025-10-01T13:55:42Z",
+  "status": "blocked",
+  "listing_id": "956f8eb7e23f196ad0ca88a9dc7d8c44",
+  "property_id": "56715094c4fc962a9411c6abcfef23c7",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

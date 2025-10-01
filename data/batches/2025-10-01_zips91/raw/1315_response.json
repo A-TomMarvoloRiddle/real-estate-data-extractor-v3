@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/280-W-12th-St-APT-1W-New-York-NY-10014/219646783_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:54:21 GMT",
+    "via": "1.1 zgs, 1.1 f14ee79735082bb115454d7286ebe2e4.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2416023f19-5cf5-4b22-b2e3-51fc3d6b6d6f; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:54:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|29d1ab9d-33cd-49ee-b0ce-3e2fd37e1dea; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"489a3-u3Yj0z4+7y6xDRDA52Geir/IXk4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "271",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "aOI3C_Yc2RzcGgrUs1rhGOfuveXhmElQFZBTg_BZGhRMlHAD8gbXyg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

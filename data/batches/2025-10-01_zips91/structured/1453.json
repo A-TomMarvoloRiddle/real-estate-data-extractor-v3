@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/609-Columbus-Ave-APT-2C-New-York-NY-10024/244826161_zpid/",
+  "external_property_id": "244826161",
+  "scraped_timestamp": "2025-10-01T13:56:22Z",
+  "status": "blocked",
+  "listing_id": "8ca9ae1efb93a2ad3db459f534acc9a2",
+  "property_id": "18d8bdb775e55433e2024f357e8a7309",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

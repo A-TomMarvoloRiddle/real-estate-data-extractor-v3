@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/61-W-9th-St-APT-7B-New-York-NY-10011/72513417_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 11:46:33 GMT",
+    "via": "1.1 zgs, 1.1 3e8699d5bbe03adc994344640fbc9266.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24d512ac37-c5e2-43a9-bca2-189b9ac09a3c; Max-Age=315576000; Expires=Mon, 1 Oct 2035 23:46:33 GMT; Path=/; Domain=.zillow.com, zgsession=1|dbc61fd5-b01d-476f-8ff8-7c47cba572a1; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"45c10-xugJmWe1dp20cETn5NA1sB020oM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "230",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "McJkj_bPhKAvEt2Nd4mvfkqHeH3UhkAJLPxznuBosEPdqzp7rZYEYA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

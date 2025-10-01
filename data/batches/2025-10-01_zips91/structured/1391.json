@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/18-E-71st-St-New-York-NY-10021/31533713_zpid/",
+  "external_property_id": "31533713",
+  "scraped_timestamp": "2025-10-01T13:56:00Z",
+  "status": "blocked",
+  "listing_id": "155a61a1b362cbba9afd223ff5036107",
+  "property_id": "9b7795ed9873135b3db20af272dbde76",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

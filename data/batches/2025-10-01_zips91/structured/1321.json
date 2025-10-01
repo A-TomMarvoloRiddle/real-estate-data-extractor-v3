@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/601-Washington-St-New-York-NY-10014/143090512_zpid/",
+  "external_property_id": "143090512",
+  "scraped_timestamp": "2025-10-01T13:55:30Z",
+  "status": "blocked",
+  "listing_id": "785bd91a306ab273fd4b19b8b61984a9",
+  "property_id": "192c8c391e907dde7758857f58974836",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

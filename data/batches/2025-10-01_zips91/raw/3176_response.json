@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/7216-Alto-Caro-Dr-Dallas-TX-75248/26873149_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:14 GMT",
+    "via": "1.1 zgs, 1.1 c67338b86b87ed23be45de4b04e2e544.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24846fd13a-81c7-444e-966c-1cdba79fa3a0; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:14 GMT; Path=/; Domain=.zillow.com, zgsession=1|648866c8-b24a-4f3a-ae82-c2fe5179c60c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"670d5-/NmY5ji+PMuSlIhRNqP6+6sElOM\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "245",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "G88ltuKQvo5892r9-xRe7vt420Fs1dvmIf6JfKfPCazo6wtcf82hjg==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

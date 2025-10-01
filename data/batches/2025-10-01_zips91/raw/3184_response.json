@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/4906-Meadowcreek-Dr-Dallas-TX-75248/26874017_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:28:42 GMT",
+    "via": "1.1 zgs, 1.1 c68e106b410a906e09f6600e66757242.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%244a085838-c8ff-4b80-9c15-a59a44e1777c; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:28:42 GMT; Path=/; Domain=.zillow.com, zgsession=1|aebef209-fcb0-411f-9703-c149e648a7ae; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"105737-+MunVNJ2fI9orB/KF1sCGUaiUGs\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "354",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "sEihcaYD2G0A7o0yQt8tS_I6XrUV69WMQ3Nx6GoPqblqFZCtkzH0rQ==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

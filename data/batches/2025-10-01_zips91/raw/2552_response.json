@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/1129-N-Mozart-St-1-Chicago-IL-60622/119972566_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 12:55:59 GMT",
+    "via": "1.1 zgs, 1.1 486ba71e755a1813af5cd4e3e7cc0928.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24574dd1ad-2fbd-4c99-b79d-e1c657c01bfc; Max-Age=315576000; Expires=Tue, 2 Oct 2035 00:55:59 GMT; Path=/; Domain=.zillow.com, zgsession=1|2701bd2b-85b8-4013-89db-abb054936287; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"565c8-uGIV16eSHTCNduLHfMrHx0zDCww\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "234",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "mhzDqDcHx47pZJJy3XeeO3tSXhPr96uiPZQzpL5c9y45pNkrPDLLtA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

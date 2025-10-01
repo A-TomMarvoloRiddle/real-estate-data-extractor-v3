@@ -1,0 +1,11 @@
+{
+  "source_id": "zillow",
+  "source_url": "https://www.zillow.com/homedetails/127-W-11th-St-New-York-NY-10011/121184335_zpid/",
+  "external_property_id": "121184335",
+  "scraped_timestamp": "2025-10-01T13:53:57Z",
+  "status": "blocked",
+  "listing_id": "b0d179dff8dd6f48eea45bab1dd53bc3",
+  "property_id": "54129d36045fd41b7aef243c9c0e75cd",
+  "crawl_method": "firecrawl_v1",
+  "batch_id": "2025-10-01_zips91"
+}

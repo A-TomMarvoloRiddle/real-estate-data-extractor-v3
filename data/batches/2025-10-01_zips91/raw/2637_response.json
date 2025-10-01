@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/452-N-Morgan-St-Chicago-IL-60642/456965571_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 01 Oct 2025 13:00:25 GMT",
+    "via": "1.1 zgs, 1.1 e8182413e6b911d0e8600f6046da705e.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%24fbd091ee-bfc9-408a-8cfd-fe80d0e4a50d; Max-Age=315576000; Expires=Tue, 2 Oct 2035 01:00:25 GMT; Path=/; Domain=.zillow.com, zgsession=1|1cf04bda-1360-4fa4-96d8-e2d6e678b8c3; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"570f9-jZpXcd5RQzcT+cTtVgRwJAdCpWQ\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "238",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "2YGP4u-LMQeZ2cEavsz1dCxgTsloYtG88bChG0CpDGLpdqqouLdLDA==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}
