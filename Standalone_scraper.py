@@ -115,8 +115,7 @@ def deduplicate_compass_images(urls: List[str]) -> List[str]:
     
     # First, enhance small thumbnails to origin.webp
     for src in urls:
-        if "165x165.webp" in src or ("x" in src and src.endswith(".webp") and 
-                                     re.search(r"/[0-9]+x[0-9]+\.webp$", src)):
+        if "165x165.webp" in src or ("x" in src and src.endswith(".webp") and re.search(r"/[0-9]+x[0-9]+\.webp$", src)):
             base = re.sub(r"/[0-9]+x[0-9]+\.webp$", "", src)
             enhanced_urls.append(base + "/origin.webp")
         else:
@@ -377,8 +376,7 @@ def _normalize_property_data(raw: Optional[Dict[str, Any]], site_type: str) -> D
         full_address = address_value.get("street") or address_value.get("line1", "")
         city = address_value.get("city") or raw.get("city", "")
         state = address_value.get("state") or raw.get("state", "")
-        zip_code = (address_value.get("zip") or address_value.get("zipcode") or 
-                   raw.get("zip") or raw.get("zipcode", ""))
+        zip_code = (address_value.get("zip") or address_value.get("zipcode") or raw.get("zip") or raw.get("zipcode", ""))
     else:
         full_address = raw.get("fullAddress", "")
         city = raw.get("city", "")
