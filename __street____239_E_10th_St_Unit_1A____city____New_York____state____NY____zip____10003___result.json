@@ -1,0 +1,76 @@
+{
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/075/RLS20053075_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_3_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_11_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_6_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_9_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_2_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_7_1.jpg"
+  ],
+  "image_count": 7,
+  "site_type": "redfin",
+  "tier": "full",
+  "extraction_source": "full_gallery",
+  "property_data": {
+    "fullAddress": {
+      "street": "239 E 10th St Unit 1A",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003"
+    },
+    "city": "",
+    "state": "",
+    "zip": "",
+    "price": "$2,395,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 0,
+    "propertyType": "Townhome",
+    "lotSize": 0,
+    "yearBuilt": 1987,
+    "daysOnMarket": 2,
+    "mlsNumber": "RLS20053075",
+    "description": "EAST VILLAGE BESPOKE TRIPLEX NEWLY RENOVATED TO PERFECTION! This thoughtfully curated, one-of-a-kind triplex home TRULY HAS IT ALL! Completely gut renovated down to the studs just two years ago, no detail was left unconsidered. For those who want the privacy of a townhouse with the convenience of a downtown condominium, this bespoke home has been crafted to maximize privacy, light, and serenity in both its indoor and multiple outdoor spaces. Upon entry, you\u2019re greeted by an open expanse of custom millwork, wide plank white oak floors and contemporary design. The open kitchen is practically designed for the home chef and allows for gracious entertaining with guests. Custom wood cabinetry provides extensive storage and includes a pantry, appliance nook, and beverage station. The suite of stainless steel appliances includes a wine chiller and air fryer and is complemented by the subtle quartz backsplash and countertops. A built-in banquette with covert storage is situated between the kitchen island and the great room and allows for cozy entertaining. In the warmer months, al fresco dining and entertaining is a must on the main floor terrace with its outdoor grill and enough space to host your own city vegetable garden. Upstairs, you\u2019ll find your light-filled primary bedroom suite with its open primary bath. A windowed shower, separate water closet, and custom vanity make you feel like you live in a hotel suite every day. Best of all, you\u2019ll find a massive custom walk-in closet and adjacent laundry wall replete with washer/dryer and built-in storage. Downstairs, you\u2019ll find a separate suite which boasts a media room and a luxurious, built-in custom wall unit with a pull-down queen bed flanked by storage closets. In addition, this floor also features a built-in corner home office, a large windowed contemporary bath, and a wall of glass leading to a second, semi-enclosed large terrace perfect for reading or entertaining and leading up to the building\u2019s massive common garden terrace. Three other significant storage closets exist on this floor as well as separate building egress for guests. Situated in one of the most desirable areas of downtown NYC, this gem is convenient to transport and close to NYU, Tompkins Square Park, and some of the best restaurants and shops the city has to offer. A true sanctuary which will not last!",
+    "agent": {
+      "name": "",
+      "company": "",
+      "phone": "",
+      "email": ""
+    },
+    "siteType": "redfin"
+  },
+  "raw_data": {
+    "fullAddress": {
+      "street": "239 E 10th St Unit 1A",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003"
+    },
+    "price": 2395000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1300,
+    "propertyType": "Townhome",
+    "lotSize": 0,
+    "yearBuilt": 1987,
+    "daysOnMarket": 2,
+    "mlsNumber": "RLS20053075",
+    "listingAgent": {
+      "name": "Elena Sarkissian",
+      "company": "Douglas Elliman Real Estate",
+      "phone": "(516) 665-0863",
+      "email": ""
+    },
+    "propertyDescription": "EAST VILLAGE BESPOKE TRIPLEX NEWLY RENOVATED TO PERFECTION! This thoughtfully curated, one-of-a-kind triplex home TRULY HAS IT ALL! Completely gut renovated down to the studs just two years ago, no detail was left unconsidered. For those who want the privacy of a townhouse with the convenience of a downtown condominium, this bespoke home has been crafted to maximize privacy, light, and serenity in both its indoor and multiple outdoor spaces. Upon entry, you\u2019re greeted by an open expanse of custom millwork, wide plank white oak floors and contemporary design. The open kitchen is practically designed for the home chef and allows for gracious entertaining with guests. Custom wood cabinetry provides extensive storage and includes a pantry, appliance nook, and beverage station. The suite of stainless steel appliances includes a wine chiller and air fryer and is complemented by the subtle quartz backsplash and countertops. A built-in banquette with covert storage is situated between the kitchen island and the great room and allows for cozy entertaining. In the warmer months, al fresco dining and entertaining is a must on the main floor terrace with its outdoor grill and enough space to host your own city vegetable garden. Upstairs, you\u2019ll find your light-filled primary bedroom suite with its open primary bath. A windowed shower, separate water closet, and custom vanity make you feel like you live in a hotel suite every day. Best of all, you\u2019ll find a massive custom walk-in closet and adjacent laundry wall replete with washer/dryer and built-in storage. Downstairs, you\u2019ll find a separate suite which boasts a media room and a luxurious, built-in custom wall unit with a pull-down queen bed flanked by storage closets. In addition, this floor also features a built-in corner home office, a large windowed contemporary bath, and a wall of glass leading to a second, semi-enclosed large terrace perfect for reading or entertaining and leading up to the building\u2019s massive common garden terrace. Three other significant storage closets exist on this floor as well as separate building egress for guests. Situated in one of the most desirable areas of downtown NYC, this gem is convenient to transport and close to NYU, Tompkins Square Park, and some of the best restaurants and shops the city has to offer. A true sanctuary which will not last!",
+    "imageUrls": [
+      "https://ssl.cdn-redfin.com/photo/211/bigphoto/075/RLS20053075_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_3_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_11_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_6_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_9_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_2_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/075/genMid.RLS20053075_7_1.jpg"
+    ]
+  }
+}
