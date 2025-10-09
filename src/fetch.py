@@ -24,7 +24,7 @@ from src.settings import (
 
 load_dotenv()
 FIRECRAWL_API = "https://api.firecrawl.dev"
-FIRECRAWL_KEY = os.getenv("FIRECRAWL_API_KEY", "fc-304a1e6ceefb4b18ae9f8073b9e15059")
+FIRECRAWL_KEY = os.getenv("FIRECRAWL_API_KEY")
 
 UA_POOL = [
     CFG["run"]["user_agent"],

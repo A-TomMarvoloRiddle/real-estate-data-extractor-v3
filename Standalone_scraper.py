@@ -305,7 +305,7 @@ def scrape_full_tier(url: str) -> Dict[str, Any]:
     Returns all available images and detailed property information.
     Uses 1-hour cache for faster performance.
     """
-    api_key = os.getenv("FIRECRAWL_API_KEY", "")
+    api_key = os.getenv("FIRECRAWL_API_KEY")
     if not api_key:
         raise ValueError("FIRECRAWL_API_KEY environment variable is required")
 

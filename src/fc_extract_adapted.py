@@ -24,7 +24,7 @@ from src.extract_search import extract_listing_urls
 # Config
 # ---------------------------------------------------------------------
 load_dotenv()
-FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY", "fc-304a1e6ceefb4b18ae9f8073b9e15059")
+FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY")
 BATCHES_ROOT = PROJECT_ROOT / "data" / "batches"
 
 def latest_batch_dir() -> Path:
