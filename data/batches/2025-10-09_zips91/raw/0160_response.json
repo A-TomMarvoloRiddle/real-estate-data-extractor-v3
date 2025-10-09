@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homes/30329_rb/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Thu, 09 Oct 2025 14:36:00 GMT",
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "etag": "\"67121qrevnjpuq\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "801",
+    "via": "1.1 zgs, 1.1 ea84202b1f8397767f86ec3f00985a12.cloudfront.net (CloudFront)",
+    "set-cookie": "web-platform-data=%7B%22wp-dd-rum-session%22%3A%7B%22doNotTrack%22%3Atrue%7D%7D; Max-Age=1800; Path=/, zguid=24|%2469412afb-dbe1-407f-9dc6-51a5666bf337; Max-Age=315576000; Expires=Wed, 10 Oct 2035 02:36:00 GMT; Path=/; Domain=.zillow.com, zgsession=1|8795969f-936f-4219-b6b6-bb9cdcb47768; Path=/; Domain=.zillow.com; HTTPOnly",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "DEL54-P3",
+    "X-Amz-Cf-Id": "ONsbCey6ROJh7qldHnIfg2GNs7AEE7lPh-0d-Nzli_ruoLvymc183A==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}
