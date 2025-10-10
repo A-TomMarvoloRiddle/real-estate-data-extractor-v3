@@ -298,6 +298,70 @@ def scrape_basic_tier(url: str) -> Dict[str, Any]:
 # FULL TIER SCRAPER
 # ============================================================================
 
+def scrape_efficient_tier(url: str) -> Dict[str, Any]:
+    """
+    EFFICIENT TIER: Full property details with fast image extraction.
+    
+    Returns up to 6 high-quality images and detailed property information.
+    Uses 1-hour cache for faster performance.
+    """
+    api_key = os.getenv("FIRECRAWL_API_KEY")
+    if not api_key:
+        raise ValueError("FIRECRAWL_API_KEY environment variable is required")
+
+    site_type = detect_site(url)
+    fc = Firecrawl(api_key=api_key)
+
+    # Comprehensive property data extraction
+    prompt = (
+        "Extract detailed property information including full address (street, city, state, zip), "
+        "price, bedrooms/beds, bathrooms/baths, square footage/sqft, property type, lot size, year built, "
+        "days on market, MLS number, listing agent details (name, company/brokerage, phone, email), "
+        "property description, and all image URLs."
+    )
+    
+    try:
+        from firecrawl.v2.types import JsonFormat
+        doc = fc.scrape(
+            url,
+            formats=[JsonFormat(type="json", prompt=prompt)],
+            only_main_content=True,
+            max_age=3600000  # 1 hour cache
+        )
+        
+        property_data = getattr(doc, "json", None) or getattr(doc, "data", None) or {}
+        if isinstance(property_data, str):
+            try:
+                property_data = json.loads(property_data)
+            except Exception:
+                property_data = {}
+    except Exception as e:
+        raise RuntimeError(f"Firecrawl extraction failed: {e}")
+
+    # Extract initial images from property data (limited to 6)
+    initial_images = extract_images_from_property_data(property_data, site_type)[:6]
+
+    # If we got less than 4 images, try HTML fallback
+    if len(initial_images) < 4:
+        html_images = extract_images_from_html(url, site_type)
+        images = list(dict.fromkeys([*initial_images, *html_images]))[:6]
+    else:
+        images = initial_images
+
+    # Normalize property data
+    extracted = _normalize_property_data(property_data, site_type)
+
+    return {
+        "images": images,
+        "image_count": len(images),
+        "site_type": site_type,
+        "tier": "efficient",
+        "extraction_source": "initial_only" if len(initial_images) >= 4 else "property_data+html_fallback",
+        "property_data": extracted,
+        "raw_data": property_data
+    }
+
+
 def scrape_full_tier(url: str) -> Dict[str, Any]:
     """
     FULL TIER: Comprehensive property data + full image gallery.
@@ -427,7 +491,7 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python Mike_scrapers.py <url> [basic|full]")
+        print("Usage: python Mike_scrapers.py <url> [basic|efficient|full]")
         sys.exit(1)
 
     url = sys.argv[1]
@@ -435,6 +499,8 @@ if __name__ == "__main__":
 
     if tier == "basic":
         result = scrape_basic_tier(url)
+    elif tier == "efficient":
+        result = scrape_efficient_tier(url)
     else:
         result = scrape_full_tier(url)
 
