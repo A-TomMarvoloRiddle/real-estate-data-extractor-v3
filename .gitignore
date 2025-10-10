@@ -1,5 +1,5 @@
 .env
 *.html
 __pycache__/
-data/*.html
-data/*.json
+data/**/*.html
+data/**/*.json
