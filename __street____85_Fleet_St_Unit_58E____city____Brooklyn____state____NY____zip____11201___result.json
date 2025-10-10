@@ -1,0 +1,75 @@
+{
+  "images": [
+    "https://ssl.cdn-redfin.com/photo/211/bigphoto/253/RLS20045253_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_5_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_15_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_8_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_12_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_3_1.jpg"
+  ],
+  "image_count": 6,
+  "site_type": "redfin",
+  "tier": "efficient",
+  "extraction_source": "initial_only",
+  "property_data": {
+    "fullAddress": {
+      "street": "85 Fleet St Unit 58E",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201"
+    },
+    "city": "",
+    "state": "",
+    "zip": "",
+    "price": "$1,405,000",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 0,
+    "propertyType": "Single-family",
+    "lotSize": 0,
+    "yearBuilt": 2022,
+    "daysOnMarket": 37,
+    "mlsNumber": "RLS20045253",
+    "description": "Immediate occupancy. Designed by award-winning SHoP Architects, residence 58E is a generously proportioned 810 SF south-facing one bedroom, one bathroom home with ceiling heights up to 11 feet. Expansive floor to ceiling windows let in an abundance of natural light, framing sweeping views over Brooklyn, all the way to the Atlantic Ocean. Interiors by Gachot Studios feature European White-Oak floors with a custom honey stain, bronze accents, and rich mahogany millwork, creating a sense of warmth, sophistication and timelessness. The kitchen boasts expressive Absolute Black stone counter-tops, oil-rubbed bronze fixtures by Waterworks and fully integrated high-end Miele appliances. Large format Honed Breccia Capria marble in the primary bathroom serves as a statement of natural artistry, with its unique patterns and irregularities adding richness and individuality. An in-home stacked Miele washer and dryer offers added convenience. Brooklyn Tower takes inspiration from the ornate Dime Savings Bank at its base, lifting the historic building's geometric form to pierce the sky in a dazzling new way. Condominium residences begin at over 575 feet in the air, delivering the highest residences for sale in Brooklyn. Located at 85 Fleet Street in the heart of Downtown Brooklyn and situated at the crossroads of thriving neighborhoods including Ft. Greene, Cobble Hill, Boerum Hill and Brooklyn Heights, Brooklyn Tower offers 143 studio to four-bedroom full-service luxury condominium residences, some with private outdoor terraces. Residents at Brooklyn Tower have access to one of the largest residential amenity offerings in New York. A world-class performance-infused lifestyle, secured with over 100,000 square feet of exclusive indoor and outdoor leisure spaces. Life Time Athletic Club will manage an impressive array of amenities including a 75\" outdoor lap pool and whirlpool, fully-serviced poolside lounge and atrium, billiards room, library lounge, conference room, and theater with wet bar. Dedicated private resident amenities include a children's playroom, limited off-site parking, and the coveted Sky Park, boasting an open-air loggia featuring a basketball court, playground, and dog run. Connecting New York City's most thriving upscale and cosmopolitan neighborhoods, Brooklyn Tower's prime location pulses with cultural vibrancy and is a genuine reflection of Brooklyn's unique spirit. The Brooklyn Tower is ideally located near beloved parks including Fort Greene Park, Prospect Park and Brooklyn Bridge Park. The location offers unrivaled transportation access to 12 subway lines, 11 commuter trains, access to the city's expanding ferry network, and 22 Citi bike stations. To live at The Brooklyn Tower is to be immersed in a \"best-of\" lifestyle at cinematic new heights, unparalleled in the borough. Exclusive Marketing and Sales: Corcoran Sunshine Marketing Group. The complete offering terms are in an actual offering plan available from Sponsor. 9 Dekalb Avenue Condominium, File No. CD21-0093. Sponsor: 9 Dekalb Fee Owner LLC, c/o Silverstein Properties, LLC, 7 World Trade Center, 250 Greenwich Street, New York, NY 10007 . We are pledged to the letter and the spirit of U. S. policy for the achievement of equal housing opportunity throughout the Nation. We encourage and support an affirmative advertising and marketing program in which there are no barriers to obtaining housing because of race, color, religion, sex, handicap, familial status or national origin.",
+    "agent": {
+      "name": "",
+      "company": "",
+      "phone": "",
+      "email": ""
+    },
+    "siteType": "redfin"
+  },
+  "raw_data": {
+    "fullAddress": {
+      "street": "85 Fleet St Unit 58E",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201"
+    },
+    "price": 1405000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 810,
+    "propertyType": "Single-family",
+    "lotSize": 0,
+    "yearBuilt": 2022,
+    "daysOnMarket": 37,
+    "mlsNumber": "RLS20045253",
+    "listingAgent": {
+      "name": "Brooklyn Tower Sales Office",
+      "company": "Corcoran Sunshine Marketing Group",
+      "phone": "(516) 665-0863",
+      "email": null
+    },
+    "propertyDescription": "Immediate occupancy. Designed by award-winning SHoP Architects, residence 58E is a generously proportioned 810 SF south-facing one bedroom, one bathroom home with ceiling heights up to 11 feet. Expansive floor to ceiling windows let in an abundance of natural light, framing sweeping views over Brooklyn, all the way to the Atlantic Ocean. Interiors by Gachot Studios feature European White-Oak floors with a custom honey stain, bronze accents, and rich mahogany millwork, creating a sense of warmth, sophistication and timelessness. The kitchen boasts expressive Absolute Black stone counter-tops, oil-rubbed bronze fixtures by Waterworks and fully integrated high-end Miele appliances. Large format Honed Breccia Capria marble in the primary bathroom serves as a statement of natural artistry, with its unique patterns and irregularities adding richness and individuality. An in-home stacked Miele washer and dryer offers added convenience. Brooklyn Tower takes inspiration from the ornate Dime Savings Bank at its base, lifting the historic building's geometric form to pierce the sky in a dazzling new way. Condominium residences begin at over 575 feet in the air, delivering the highest residences for sale in Brooklyn. Located at 85 Fleet Street in the heart of Downtown Brooklyn and situated at the crossroads of thriving neighborhoods including Ft. Greene, Cobble Hill, Boerum Hill and Brooklyn Heights, Brooklyn Tower offers 143 studio to four-bedroom full-service luxury condominium residences, some with private outdoor terraces. Residents at Brooklyn Tower have access to one of the largest residential amenity offerings in New York. A world-class performance-infused lifestyle, secured with over 100,000 square feet of exclusive indoor and outdoor leisure spaces. Life Time Athletic Club will manage an impressive array of amenities including a 75\" outdoor lap pool and whirlpool, fully-serviced poolside lounge and atrium, billiards room, library lounge, conference room, and theater with wet bar. Dedicated private resident amenities include a children's playroom, limited off-site parking, and the coveted Sky Park, boasting an open-air loggia featuring a basketball court, playground, and dog run. Connecting New York City's most thriving upscale and cosmopolitan neighborhoods, Brooklyn Tower's prime location pulses with cultural vibrancy and is a genuine reflection of Brooklyn's unique spirit. The Brooklyn Tower is ideally located near beloved parks including Fort Greene Park, Prospect Park and Brooklyn Bridge Park. The location offers unrivaled transportation access to 12 subway lines, 11 commuter trains, access to the city's expanding ferry network, and 22 Citi bike stations. To live at The Brooklyn Tower is to be immersed in a \"best-of\" lifestyle at cinematic new heights, unparalleled in the borough. Exclusive Marketing and Sales: Corcoran Sunshine Marketing Group. The complete offering terms are in an actual offering plan available from Sponsor. 9 Dekalb Avenue Condominium, File No. CD21-0093. Sponsor: 9 Dekalb Fee Owner LLC, c/o Silverstein Properties, LLC, 7 World Trade Center, 250 Greenwich Street, New York, NY 10007 . We are pledged to the letter and the spirit of U. S. policy for the achievement of equal housing opportunity throughout the Nation. We encourage and support an affirmative advertising and marketing program in which there are no barriers to obtaining housing because of race, color, religion, sex, handicap, familial status or national origin.",
+    "imageUrls": [
+      "https://ssl.cdn-redfin.com/photo/211/bigphoto/253/RLS20045253_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_5_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_15_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_8_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_12_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_3_1.jpg",
+      "https://ssl.cdn-redfin.com/photo/211/mbphotov3/253/genMid.RLS20045253_10_1.jpg"
+    ]
+  }
+}
